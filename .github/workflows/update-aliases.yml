@@ -21,7 +21,9 @@ jobs:
       with:
         inlineScript: |
           Set-Location $GITHUB_WORKSPACE
-          ./src/Get-ResourceAliases.ps1
+          Write-Host "$GITHUB_WORKSPACE"
+          dir
+          $GITHUB_WORKSPACE/src/Get-ResourceAliases.ps1
         azPSVersion: latest
     - name: Commit changes
       run: |
