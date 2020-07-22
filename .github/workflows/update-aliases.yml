@@ -20,8 +20,8 @@ jobs:
       uses: Azure/powershell@v1
       with:
         inlineScript: |
-          Set-Location $GITHUB_WORKSPACE
-          Write-Host "$GITHUB_WORKSPACE"
+          Set-Location $ENV:GITHUB_WORKSPACE
+          Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
           dir
           ./src/Get-ResourceAliases.ps1
         azPSVersion: latest
