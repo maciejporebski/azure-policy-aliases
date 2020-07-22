@@ -7,7 +7,7 @@ if (!(Test-Path -Path $basePath)) {
 }
 
 $toc = "# Azure Policy Aliases`n"
-$toc += "This repository contains all available aliases for resource properties. The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.`n`n"
+$toc += "This repository contains all available resource property aliases for easy reference when creating Policy definitions. The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.`n`n"
 
 foreach ($provider in $providers) {
     $resourceTypesWithAliases = $provider.Group | Where-Object { $_.Aliases.Count -gt 0 }
