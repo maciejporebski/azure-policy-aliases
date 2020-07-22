@@ -1,0 +1,65 @@
+# Microsoft.EventHub/namespaces
+
+| Default Path | Alias |
+|---|---|
+| sku.name | Microsoft.EventHub/namespaces/sku.name |
+| sku.tier | Microsoft.EventHub/namespaces/sku.tier |
+| sku.capacity | Microsoft.EventHub/namespaces/sku.capacity |
+| properties.zoneRedundant | Microsoft.EventHub/namespaces/zoneRedundant |
+| properties.kafkaEnabled | Microsoft.EventHub/namespaces/kafkaEnabled |
+| properties.isAutoInflateEnabled | Microsoft.EventHub/namespaces/isAutoInflateEnabled |
+| properties.maximumThroughputUnits | Microsoft.EventHub/namespaces/maximumThroughputUnits |
+| properties.provisioningState | Microsoft.EventHub/namespaces/provisioningState |
+| properties.metricId | Microsoft.EventHub/namespaces/metricId |
+| properties.createdAt | Microsoft.EventHub/namespaces/createdAt |
+| properties.updatedAt | Microsoft.EventHub/namespaces/updatedAt |
+| properties.serviceBusEndpoint | Microsoft.EventHub/namespaces/serviceBusEndpoint |
+| properties.status | Microsoft.EventHub/namespaces/status |
+| properties.enabled | Microsoft.EventHub/namespaces/enabled |
+| properties.critical | Microsoft.EventHub/namespaces/critical |
+| properties.eventHubEnabled | Microsoft.EventHub/namespaces/eventHubEnabled |
+| properties.namespaceType | Microsoft.EventHub/namespaces/namespaceType |
+| properties.messagingSku | Microsoft.EventHub/namespaces/messagingSku |
+| properties.messagingSkuPlan | Microsoft.EventHub/namespaces/messagingSkuPlan |
+| properties.messagingSkuPlan.sku | Microsoft.EventHub/namespaces/messagingSkuPlan.sku |
+| properties.messagingSkuPlan.selectedEventHubUnit | Microsoft.EventHub/namespaces/messagingSkuPlan.selectedEventHubUnit |
+| properties.messagingSkuPlan.isAutoInflateEnabled | Microsoft.EventHub/namespaces/messagingSkuPlan.isAutoInflateEnabled |
+| properties.messagingSkuPlan.maximumThroughputUnits | Microsoft.EventHub/namespaces/messagingSkuPlan.maximumThroughputUnits |
+| properties.messageRetentionInDays | Microsoft.EventHub/namespaces/messageRetentionInDays |
+| properties.partitionCount | Microsoft.EventHub/namespaces/partitionCount |
+| properties.partitionIds | Microsoft.EventHub/namespaces/partitionIds |
+| properties.partitionIds[*] | Microsoft.EventHub/namespaces/partitionIds[*] |
+| properties.captureDescription | Microsoft.EventHub/namespaces/captureDescription |
+| properties.captureDescription.enabled | Microsoft.EventHub/namespaces/captureDescription.enabled |
+| properties.captureDescription.encoding | Microsoft.EventHub/namespaces/captureDescription.encoding |
+| properties.captureDescription.destination | Microsoft.EventHub/namespaces/captureDescription.destination |
+| properties.captureDescription.destination.name | Microsoft.EventHub/namespaces/captureDescription.destination.name |
+| properties.captureDescription.destination.properties.storageAccountResourceId | Microsoft.EventHub/namespaces/captureDescription.destination.storageAccountResourceId |
+| properties.captureDescription.destination.properties.blobContainer | Microsoft.EventHub/namespaces/captureDescription.destination.blobContainer |
+| properties.captureDescription.destination.properties.archiveNameFormat | Microsoft.EventHub/namespaces/captureDescription.destination.archiveNameFormat |
+| properties.captureDescription.intervalInSeconds | Microsoft.EventHub/namespaces/captureDescription.intervalInSeconds |
+| properties.captureDescription.sizeLimitInBytes | Microsoft.EventHub/namespaces/captureDescription.sizeLimitInBytes |
+| properties.path | Microsoft.EventHub/namespaces/path |
+| properties.archiveDescription | Microsoft.EventHub/namespaces/archiveDescription |
+| properties.archiveDescription.enabled | Microsoft.EventHub/namespaces/archiveDescription.enabled |
+| properties.archiveDescription.encoding | Microsoft.EventHub/namespaces/archiveDescription.encoding |
+| properties.archiveDescription.destination | Microsoft.EventHub/namespaces/archiveDescription.destination |
+| properties.archiveDescription.destination.name | Microsoft.EventHub/namespaces/archiveDescription.destination.name |
+| properties.archiveDescription.destination.properties.storageAccountResourceId | Microsoft.EventHub/namespaces/archiveDescription.destination.storageAccountResourceId |
+| properties.archiveDescription.destination.properties.blobContainer | Microsoft.EventHub/namespaces/archiveDescription.destination.blobContainer |
+| properties.archiveDescription.destination.properties.archiveNameFormat | Microsoft.EventHub/namespaces/archiveDescription.destination.archiveNameFormat |
+| properties.archiveDescription.intervalInSeconds | Microsoft.EventHub/namespaces/archiveDescription.intervalInSeconds |
+| properties.archiveDescription.sizeLimitInBytes | Microsoft.EventHub/namespaces/archiveDescription.sizeLimitInBytes |
+| sku | Microsoft.EventHub/namespaces/sku |
+| properties.serviceBusEndpoint.externalDocs | Microsoft.EventHub/namespaces/serviceBusEndpoint.externalDocs |
+| properties.clusterArmId | Microsoft.EventHub/namespaces/clusterArmId |
+| properties.identity.principalId | Microsoft.EventHub/namespaces/identity.principalId |
+| properties.identity.tenantId | Microsoft.EventHub/namespaces/identity.tenantId |
+| properties.identity.type | Microsoft.EventHub/namespaces/identity.type |
+| properties.identity | Microsoft.EventHub/namespaces/identity |
+| properties.encryption.keyVaultProperties.keyName | Microsoft.EventHub/namespaces/encryption.keyVaultProperties.keyName |
+| properties.encryption.keyVaultProperties.keyVaultUri | Microsoft.EventHub/namespaces/encryption.keyVaultProperties.keyVaultUri |
+| properties.encryption.keyVaultProperties | Microsoft.EventHub/namespaces/encryption.keyVaultProperties |
+| properties.encryption.keySource | Microsoft.EventHub/namespaces/encryption.keySource |
+| properties.encryption | Microsoft.EventHub/namespaces/encryption |
+

@@ -1,0 +1,60 @@
+# Microsoft.Compute/snapshots
+
+| Default Path | Alias |
+|---|---|
+| properties.accountType | Microsoft.Compute/snapshots/accountType |
+| properties.timeCreated | Microsoft.Compute/snapshots/timeCreated |
+| properties.osType | Microsoft.Compute/snapshots/osType |
+| properties.creationData.createOption | Microsoft.Compute/snapshots/creationData.createOption |
+| properties.creationData.storageAccountId | Microsoft.Compute/snapshots/creationData.storageAccountId |
+| properties.creationData.imageReference.id | Microsoft.Compute/snapshots/creationData.imageReference.id |
+| properties.creationData.imageReference.lun | Microsoft.Compute/snapshots/creationData.imageReference.lun |
+| properties.creationData.imageReference | Microsoft.Compute/snapshots/creationData.imageReference |
+| properties.creationData.sourceUri | Microsoft.Compute/snapshots/creationData.sourceUri |
+| properties.creationData.sourceResourceId | Microsoft.Compute/snapshots/creationData.sourceResourceId |
+| properties.creationData | Microsoft.Compute/snapshots/creationData |
+| properties.diskSizeGB | Microsoft.Compute/snapshots/diskSizeGB |
+| properties.encryptionSettingsCollection.enabled | Microsoft.Compute/snapshots/encryptionSettings.enabled |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id | Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault.id |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault | Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl | Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.secretUrl |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey | Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id | Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault.id |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault | Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl | Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.keyUrl |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey | Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey |
+| properties.encryptionSettingsCollection | Microsoft.Compute/snapshots/encryptionSettings |
+| properties.ownerId | Microsoft.Compute/snapshots/ownerId |
+| properties.provisioningState | Microsoft.Compute/snapshots/provisioningState |
+| managedBy | Microsoft.Compute/snapshots/managedBy |
+| sku.name | Microsoft.Compute/snapshots/sku.name |
+| sku.tier | Microsoft.Compute/snapshots/sku.tier |
+| sku | Microsoft.Compute/snapshots/sku |
+| properties.hyperVGeneration | Microsoft.Compute/snapshots/hyperVGeneration |
+| properties.encryptionSettingsCollection.enabled | Microsoft.Compute/snapshots/encryptionSettingsCollection.enabled |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl |
+| properties.encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl |
+| properties.encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey |
+| properties.encryptionSettingsCollection.encryptionSettings[*] | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*] |
+| properties.encryptionSettingsCollection.encryptionSettings | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings |
+| properties.encryptionSettingsCollection | Microsoft.Compute/snapshots/encryptionSettingsCollection |
+| properties.creationData.sourceUniqueId | Microsoft.Compute/snapshots/creationData.sourceUniqueId |
+| properties.creationData.uploadSizeBytes | Microsoft.Compute/snapshots/creationData.uploadSizeBytes |
+| properties.diskSizeBytes | Microsoft.Compute/snapshots/diskSizeBytes |
+| properties.uniqueId | Microsoft.Compute/snapshots/uniqueId |
+| properties.encryptionSettingsCollection.encryptionSettingsVersion | Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettingsVersion |
+| properties.incremental | Microsoft.Compute/snapshots/incremental |
+| properties.encryption.diskEncryptionSetId | Microsoft.Compute/snapshots/encryption.diskEncryptionSetId |
+| properties.encryption.type | Microsoft.Compute/snapshots/encryption.type |
+| properties.encryption | Microsoft.Compute/snapshots/encryption |
+| properties.creationData.galleryImageReference | Microsoft.Compute/snapshots/creationData.galleryImageReference |
+| properties.creationData.galleryImageReference.id | Microsoft.Compute/snapshots/creationData.galleryImageReference.id |
+| properties.creationData.galleryImageReference.lun | Microsoft.Compute/snapshots/creationData.galleryImageReference.lun |
+| properties.networkAccessPolicy | Microsoft.Compute/snapshots/networkAccessPolicy |
+| properties.diskAccessId | Microsoft.Compute/snapshots/diskAccessId |
+

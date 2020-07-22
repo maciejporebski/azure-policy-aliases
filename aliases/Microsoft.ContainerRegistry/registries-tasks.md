@@ -1,0 +1,59 @@
+# Microsoft.ContainerRegistry/registries/tasks
+
+| Default Path | Alias |
+|---|---|
+| properties.provisioningState | Microsoft.ContainerRegistry/registries/tasks/provisioningState |
+| properties.creationDate | Microsoft.ContainerRegistry/registries/tasks/creationDate |
+| properties.status | Microsoft.ContainerRegistry/registries/tasks/status |
+| properties.platform.os | Microsoft.ContainerRegistry/registries/tasks/platform.os |
+| properties.platform.architecture | Microsoft.ContainerRegistry/registries/tasks/platform.architecture |
+| properties.platform.variant | Microsoft.ContainerRegistry/registries/tasks/platform.variant |
+| properties.platform | Microsoft.ContainerRegistry/registries/tasks/platform |
+| properties.agentConfiguration.cpu | Microsoft.ContainerRegistry/registries/tasks/agentConfiguration.cpu |
+| properties.agentConfiguration | Microsoft.ContainerRegistry/registries/tasks/agentConfiguration |
+| properties.timeout | Microsoft.ContainerRegistry/registries/tasks/timeout |
+| properties.step.type | Microsoft.ContainerRegistry/registries/tasks/step.type |
+| properties.step.baseImageDependencies[*].type | Microsoft.ContainerRegistry/registries/tasks/step.baseImageDependencies[*].type |
+| properties.step.baseImageDependencies[*].registry | Microsoft.ContainerRegistry/registries/tasks/step.baseImageDependencies[*].registry |
+| properties.step.baseImageDependencies[*].repository | Microsoft.ContainerRegistry/registries/tasks/step.baseImageDependencies[*].repository |
+| properties.step.baseImageDependencies[*].tag | Microsoft.ContainerRegistry/registries/tasks/step.baseImageDependencies[*].tag |
+| properties.step.baseImageDependencies[*].digest | Microsoft.ContainerRegistry/registries/tasks/step.baseImageDependencies[*].digest |
+| properties.step.baseImageDependencies[*] | Microsoft.ContainerRegistry/registries/tasks/step.baseImageDependencies[*] |
+| properties.step.baseImageDependencies | Microsoft.ContainerRegistry/registries/tasks/step.baseImageDependencies |
+| properties.step.contextPath | Microsoft.ContainerRegistry/registries/tasks/step.contextPath |
+| properties.step.contextAccessToken | Microsoft.ContainerRegistry/registries/tasks/step.contextAccessToken |
+| properties.step | Microsoft.ContainerRegistry/registries/tasks/step |
+| properties.trigger.sourceTriggers[*].sourceRepository.sourceControlType | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.sourceControlType |
+| properties.trigger.sourceTriggers[*].sourceRepository.repositoryUrl | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.repositoryUrl |
+| properties.trigger.sourceTriggers[*].sourceRepository.branch | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.branch |
+| properties.trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.tokenType | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.tokenType |
+| properties.trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.token | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.token |
+| properties.trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.refreshToken | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.refreshToken |
+| properties.trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.scope | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.scope |
+| properties.trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.expiresIn | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties.expiresIn |
+| properties.trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository.sourceControlAuthProperties |
+| properties.trigger.sourceTriggers[*].sourceRepository | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceRepository |
+| properties.trigger.sourceTriggers[*].sourceTriggerEvents[*] | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceTriggerEvents[*] |
+| properties.trigger.sourceTriggers[*].sourceTriggerEvents | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].sourceTriggerEvents |
+| properties.trigger.sourceTriggers[*].status | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].status |
+| properties.trigger.sourceTriggers[*].name | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*].name |
+| properties.trigger.sourceTriggers[*] | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers[*] |
+| properties.trigger.sourceTriggers | Microsoft.ContainerRegistry/registries/tasks/trigger.sourceTriggers |
+| properties.trigger.baseImageTrigger.baseImageTriggerType | Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger.baseImageTriggerType |
+| properties.trigger.baseImageTrigger.status | Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger.status |
+| properties.trigger.baseImageTrigger.name | Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger.name |
+| properties.trigger.baseImageTrigger | Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger |
+| properties.trigger | Microsoft.ContainerRegistry/registries/tasks/trigger |
+| properties.credentials.sourceRegistry.loginMode | Microsoft.ContainerRegistry/registries/tasks/credentials.sourceRegistry.loginMode |
+| properties.credentials.sourceRegistry | Microsoft.ContainerRegistry/registries/tasks/credentials.sourceRegistry |
+| properties.credentials.customRegistries | Microsoft.ContainerRegistry/registries/tasks/credentials.customRegistries |
+| properties.credentials | Microsoft.ContainerRegistry/registries/tasks/credentials |
+| properties.trigger.timerTriggers[*].schedule | Microsoft.ContainerRegistry/registries/tasks/trigger.timerTriggers[*].schedule |
+| properties.trigger.timerTriggers[*].status | Microsoft.ContainerRegistry/registries/tasks/trigger.timerTriggers[*].status |
+| properties.trigger.timerTriggers[*].name | Microsoft.ContainerRegistry/registries/tasks/trigger.timerTriggers[*].name |
+| properties.trigger.timerTriggers[*] | Microsoft.ContainerRegistry/registries/tasks/trigger.timerTriggers[*] |
+| properties.trigger.timerTriggers | Microsoft.ContainerRegistry/registries/tasks/trigger.timerTriggers |
+| properties.trigger.baseImageTrigger.updateTriggerEndpoint | Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger.updateTriggerEndpoint |
+| properties.trigger.baseImageTrigger.updateTriggerPayloadType | Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger.updateTriggerPayloadType |
+| properties.agentPoolName | Microsoft.ContainerRegistry/registries/tasks/agentPoolName |
+
