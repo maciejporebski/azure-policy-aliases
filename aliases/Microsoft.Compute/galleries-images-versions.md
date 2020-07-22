@@ -1,0 +1,50 @@
+# Microsoft.Compute/galleries/images/versions
+
+| Default Path | Alias |
+|---|---|
+| properties.publishingProfile.replicaCount | Microsoft.Compute/galleries/images/versions/publishingProfile.replicaCount |
+| properties.publishingProfile.excludeFromLatest | Microsoft.Compute/galleries/images/versions/publishingProfile.excludeFromLatest |
+| properties.publishingProfile.publishedDate | Microsoft.Compute/galleries/images/versions/publishingProfile.publishedDate |
+| properties.publishingProfile.endOfLifeDate | Microsoft.Compute/galleries/images/versions/publishingProfile.endOfLifeDate |
+| properties.publishingProfile | Microsoft.Compute/galleries/images/versions/publishingProfile |
+| properties.provisioningState | Microsoft.Compute/galleries/images/versions/provisioningState |
+| properties.storageProfile.osDiskImage | Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage |
+| properties.storageProfile.dataDiskImages[*].lun | Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].lun |
+| properties.storageProfile.dataDiskImages[*] | Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*] |
+| properties.storageProfile.dataDiskImages | Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages |
+| properties.storageProfile | Microsoft.Compute/galleries/images/versions/storageProfile |
+| properties.replicationStatus.aggregatedState | Microsoft.Compute/galleries/images/versions/replicationStatus.aggregatedState |
+| properties.replicationStatus.summary[*].region | Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].region |
+| properties.replicationStatus.summary[*].state | Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state |
+| properties.replicationStatus.summary[*].details | Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].details |
+| properties.replicationStatus.summary[*].progress | Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].progress |
+| properties.replicationStatus.summary[*] | Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*] |
+| properties.replicationStatus.summary | Microsoft.Compute/galleries/images/versions/replicationStatus.summary |
+| properties.replicationStatus | Microsoft.Compute/galleries/images/versions/replicationStatus |
+| properties.publishingProfile.targetRegions[*].name | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].name |
+| properties.publishingProfile.targetRegions[*].regionalReplicaCount | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].regionalReplicaCount |
+| properties.publishingProfile.targetRegions[*] | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*] |
+| properties.publishingProfile.targetRegions | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions |
+| properties.publishingProfile.source.managedImage.id | Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage.id |
+| properties.publishingProfile.source.managedImage | Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage |
+| properties.publishingProfile.source | Microsoft.Compute/galleries/images/versions/publishingProfile.source |
+| properties.storageProfile.osDiskImage.sizeInGB | Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.sizeInGB |
+| properties.storageProfile.osDiskImage.hostCaching | Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.hostCaching |
+| properties.storageProfile.dataDiskImages[*].sizeInGB | Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].sizeInGB |
+| properties.storageProfile.dataDiskImages[*].hostCaching | Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].hostCaching |
+| properties.publishingProfile.storageAccountType | Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountType |
+| properties.publishingProfile.targetRegions[*].storageAccountType | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].storageAccountType |
+| properties.storageProfile.source.id | Microsoft.Compute/galleries/images/versions/storageProfile.source.id |
+| properties.storageProfile.source | Microsoft.Compute/galleries/images/versions/storageProfile.source |
+| properties.storageProfile.osDiskImage.source | Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source |
+| properties.storageProfile.osDiskImage.source.id | Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.id |
+| properties.storageProfile.dataDiskImages[*].source.id | Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.id |
+| properties.storageProfile.dataDiskImages[*].source | Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source |
+| properties.publishingProfile.targetRegions[*].encryption | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption |
+| properties.publishingProfile.targetRegions[*].encryption.osDiskImage | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.osDiskImage |
+| properties.publishingProfile.targetRegions[*].encryption.osDiskImage.diskEncryptionSetId | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.osDiskImage.diskEncryptionSetId |
+| properties.publishingProfile.targetRegions[*].encryption.dataDiskImages[*] | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages[*] |
+| properties.publishingProfile.targetRegions[*].encryption.dataDiskImages[*].diskEncryptionSetId | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages[*].diskEncryptionSetId |
+| properties.publishingProfile.targetRegions[*].encryption.dataDiskImages[*].lun | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages[*].lun |
+| properties.publishingProfile.targetRegions[*].encryption.dataDiskImages | Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages |
+
