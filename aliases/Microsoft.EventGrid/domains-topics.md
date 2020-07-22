@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.provisioningState | Microsoft.EventGrid/domains/topics/provisioningState |
+| `properties.provisioningState` | `Microsoft.EventGrid/domains/topics/provisioningState` |
 

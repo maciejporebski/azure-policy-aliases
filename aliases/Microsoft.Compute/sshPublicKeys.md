@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.publicKey | Microsoft.Compute/sshPublicKeys/publicKey |
+| `properties.publicKey` | `Microsoft.Compute/sshPublicKeys/publicKey` |
 

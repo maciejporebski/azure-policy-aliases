@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.isGlobal | Microsoft.Automation/automationAccounts/connectionTypes/isGlobal |
-| properties.fieldDefinitions | Microsoft.Automation/automationAccounts/connectionTypes/fieldDefinitions |
+| `properties.isGlobal` | `Microsoft.Automation/automationAccounts/connectionTypes/isGlobal` |
+| `properties.fieldDefinitions` | `Microsoft.Automation/automationAccounts/connectionTypes/fieldDefinitions` |
 

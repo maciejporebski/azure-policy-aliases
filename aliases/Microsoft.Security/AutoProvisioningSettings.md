@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.autoProvision | Microsoft.Security/AutoProvisioningSettings/autoProvision |
+| `properties.autoProvision` | `Microsoft.Security/AutoProvisioningSettings/autoProvision` |
 

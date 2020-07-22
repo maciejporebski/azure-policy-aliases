@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.guestDiagnosticSettingsName | Microsoft.Insights/guestDiagnosticSettingsAssociation/guestDiagnosticSettingsName |
+| `properties.guestDiagnosticSettingsName` | `Microsoft.Insights/guestDiagnosticSettingsAssociation/guestDiagnosticSettingsName` |
 

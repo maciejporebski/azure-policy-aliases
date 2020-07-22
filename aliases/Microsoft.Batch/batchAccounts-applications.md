@@ -2,7 +2,7 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.displayName | Microsoft.Batch/batchAccounts/applications/displayName |
-| properties.allowUpdates | Microsoft.Batch/batchAccounts/applications/allowUpdates |
-| properties.defaultVersion | Microsoft.Batch/batchAccounts/applications/defaultVersion |
+| `properties.displayName` | `Microsoft.Batch/batchAccounts/applications/displayName` |
+| `properties.allowUpdates` | `Microsoft.Batch/batchAccounts/applications/allowUpdates` |
+| `properties.defaultVersion` | `Microsoft.Batch/batchAccounts/applications/defaultVersion` |
 

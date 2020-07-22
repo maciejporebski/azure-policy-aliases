@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.endpointType | Microsoft.DevSpaces/controllers/endpointType |
+| `properties.endpointType` | `Microsoft.DevSpaces/controllers/endpointType` |
 

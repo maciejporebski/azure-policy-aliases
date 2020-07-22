@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.customDetails.instanceType | Microsoft.RecoveryServices/vaults/replicationFabrics/customDetails.instanceType |
-| properties.customDetails | Microsoft.RecoveryServices/vaults/replicationFabrics/customDetails |
+| `properties.customDetails.instanceType` | `Microsoft.RecoveryServices/vaults/replicationFabrics/customDetails.instanceType` |
+| `properties.customDetails` | `Microsoft.RecoveryServices/vaults/replicationFabrics/customDetails` |
 

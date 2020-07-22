@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.state | Microsoft.Security/alerts/state |
+| `properties.state` | `Microsoft.Security/alerts/state` |
 

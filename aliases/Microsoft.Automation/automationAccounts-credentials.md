@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.userName | Microsoft.Automation/automationAccounts/credentials/userName |
-| properties.description | Microsoft.Automation/automationAccounts/credentials/description |
+| `properties.userName` | `Microsoft.Automation/automationAccounts/credentials/userName` |
+| `properties.description` | `Microsoft.Automation/automationAccounts/credentials/description` |
 

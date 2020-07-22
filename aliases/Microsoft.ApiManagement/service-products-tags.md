@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.displayName | Microsoft.ApiManagement/service/products/tags/displayName |
+| `properties.displayName` | `Microsoft.ApiManagement/service/products/tags/displayName` |
 

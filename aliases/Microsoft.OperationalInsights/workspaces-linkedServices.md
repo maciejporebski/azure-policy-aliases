@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.resourceId | Microsoft.OperationalInsights/workspaces/linkedServices/resourceId |
+| `properties.resourceId` | `Microsoft.OperationalInsights/workspaces/linkedServices/resourceId` |
 

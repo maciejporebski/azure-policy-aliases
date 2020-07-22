@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.provisioningState | Microsoft.ServiceFabric/clusters/applicationTypes/provisioningState |
+| `properties.provisioningState` | `Microsoft.ServiceFabric/clusters/applicationTypes/provisioningState` |
 

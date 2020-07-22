@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.tableName | Microsoft.Storage/storageAccounts/tableServices/tables/tableName |
+| `properties.tableName` | `Microsoft.Storage/storageAccounts/tableServices/tables/tableName` |
 

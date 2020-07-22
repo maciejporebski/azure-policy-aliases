@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.logicAppResourceId | Microsoft.SecurityInsights/alertRules/actions/logicAppResourceId |
-| properties.workflowId | Microsoft.SecurityInsights/alertRules/actions/workflowId |
+| `properties.logicAppResourceId` | `Microsoft.SecurityInsights/alertRules/actions/logicAppResourceId` |
+| `properties.workflowId` | `Microsoft.SecurityInsights/alertRules/actions/workflowId` |
 

@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.provisioningState | Microsoft.Network/networkWatchers/provisioningState |
+| `properties.provisioningState` | `Microsoft.Network/networkWatchers/provisioningState` |
 

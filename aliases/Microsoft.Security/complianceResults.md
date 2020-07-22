@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.resourceStatus | Microsoft.Security/complianceResults/resourceStatus |
+| `properties.resourceStatus` | `Microsoft.Security/complianceResults/resourceStatus` |
 

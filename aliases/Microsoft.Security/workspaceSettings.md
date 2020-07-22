@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.workspaceId | Microsoft.Security/workspaceSettings/workspaceId |
-| properties.scope | Microsoft.Security/workspaceSettings/scope |
+| `properties.workspaceId` | `Microsoft.Security/workspaceSettings/workspaceId` |
+| `properties.scope` | `Microsoft.Security/workspaceSettings/scope` |
 

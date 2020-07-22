@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.initiatorName | Microsoft.StorSimple/managers/accessControlRecords/initiatorName |
-| properties.volumeCount | Microsoft.StorSimple/managers/accessControlRecords/volumeCount |
+| `properties.initiatorName` | `Microsoft.StorSimple/managers/accessControlRecords/initiatorName` |
+| `properties.volumeCount` | `Microsoft.StorSimple/managers/accessControlRecords/volumeCount` |
 

@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.idProvider | Microsoft.DataLakeStore/accounts/trustedIdProviders/idProvider |
+| `properties.idProvider` | `Microsoft.DataLakeStore/accounts/trustedIdProviders/idProvider` |
 

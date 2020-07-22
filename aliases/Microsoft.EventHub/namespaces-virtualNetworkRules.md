@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.virtualNetworkSubnetId | Microsoft.EventHub/namespaces/virtualNetworkRules/virtualNetworkSubnetId |
+| `properties.virtualNetworkSubnetId` | `Microsoft.EventHub/namespaces/virtualNetworkRules/virtualNetworkSubnetId` |
 

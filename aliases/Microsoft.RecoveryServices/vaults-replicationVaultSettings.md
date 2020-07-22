@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.migrationSolutionId | Microsoft.RecoveryServices/vaults/replicationVaultSettings/migrationSolutionId |
+| `properties.migrationSolutionId` | `Microsoft.RecoveryServices/vaults/replicationVaultSettings/migrationSolutionId` |
 

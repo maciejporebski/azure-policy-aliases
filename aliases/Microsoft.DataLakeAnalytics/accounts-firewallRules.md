@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.startIpAddress | Microsoft.DataLakeAnalytics/accounts/firewallRules/startIpAddress |
-| properties.endIpAddress | Microsoft.DataLakeAnalytics/accounts/firewallRules/endIpAddress |
+| `properties.startIpAddress` | `Microsoft.DataLakeAnalytics/accounts/firewallRules/startIpAddress` |
+| `properties.endIpAddress` | `Microsoft.DataLakeAnalytics/accounts/firewallRules/endIpAddress` |
 

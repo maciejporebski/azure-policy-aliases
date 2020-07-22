@@ -2,7 +2,7 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.virtualNetworkSubnetId | Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/virtualNetworkSubnetId |
-| properties.ignoreMissingVnetServiceEndpoint | Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint |
-| properties.state | Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/state |
+| `properties.virtualNetworkSubnetId` | `Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/virtualNetworkSubnetId` |
+| `properties.ignoreMissingVnetServiceEndpoint` | `Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint` |
+| `properties.state` | `Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/state` |
 

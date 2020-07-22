@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.suffix | Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts/suffix |
+| `properties.suffix` | `Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts/suffix` |
 

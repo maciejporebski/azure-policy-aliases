@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.backends[*].address | Microsoft.Network/frontDoors/backendPools/backends[*].address |
+| `properties.backends[*].address` | `Microsoft.Network/frontDoors/backendPools/backends[*].address` |
 

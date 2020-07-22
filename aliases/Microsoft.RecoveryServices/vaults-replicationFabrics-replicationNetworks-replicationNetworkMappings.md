@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.recoveryNetworkId | Microsoft.RecoveryServices/vaults/replicationFabrics/replicationNetworks/replicationNetworkMappings/recoveryNetworkId |
+| `properties.recoveryNetworkId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationNetworks/replicationNetworkMappings/recoveryNetworkId` |
 

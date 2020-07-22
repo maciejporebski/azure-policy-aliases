@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.virtualNetworkSubnetId | Microsoft.ServiceBus/namespaces/virtualNetworkRules/virtualNetworkSubnetId |
+| `properties.virtualNetworkSubnetId` | `Microsoft.ServiceBus/namespaces/virtualNetworkRules/virtualNetworkSubnetId` |
 

@@ -23,7 +23,7 @@ foreach ($provider in $providers) {
             $resourceMarkdown = "# $($resourceType.Namespace)/$($resourceType.ResourceType)`n`n"
             $resourceMarkdown += "| Default Path | Alias |`n|---|---|`n"
             foreach ($alias in $resourceType.Aliases) {
-                $resourceMarkdown += "| $($alias.DefaultPath) | $($alias.Name) |`n"
+                $resourceMarkdown += "| ``$($alias.DefaultPath)`` | ``$($alias.Name)`` |`n"
             }
             $fileName = $resourceType.ResourceType.Replace("/", "-")
             $filePath = "$($namespacePath)/$($fileName).md"

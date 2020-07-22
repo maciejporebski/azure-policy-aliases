@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.subnetId | Microsoft.DataLakeStore/accounts/virtualNetworkRules/subnetId |
+| `properties.subnetId` | `Microsoft.DataLakeStore/accounts/virtualNetworkRules/subnetId` |
 

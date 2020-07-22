@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.retentionDays | Microsoft.Sql/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies/retentionDays |
-| properties.retentionDays | Microsoft.Sql/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies/default.retentionDays |
+| `properties.retentionDays` | `Microsoft.Sql/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies/retentionDays` |
+| `properties.retentionDays` | `Microsoft.Sql/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies/default.retentionDays` |
 

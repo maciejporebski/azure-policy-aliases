@@ -2,6 +2,6 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.vnetName | Microsoft.Web/serverfarms/virtualnetworkconnections/gateways/vnetName |
-| properties.vpnPackageUri | Microsoft.Web/serverfarms/virtualnetworkconnections/gateways/vpnPackageUri |
+| `properties.vnetName` | `Microsoft.Web/serverfarms/virtualnetworkconnections/gateways/vnetName` |
+| `properties.vpnPackageUri` | `Microsoft.Web/serverfarms/virtualnetworkconnections/gateways/vpnPackageUri` |
 

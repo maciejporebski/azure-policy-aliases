@@ -2,5 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| properties.hostName | Microsoft.Cdn/profiles/endpoints/customdomains/hostName |
+| `properties.hostName` | `Microsoft.Cdn/profiles/endpoints/customdomains/hostName` |
 
