@@ -23,7 +23,7 @@ jobs:
           Set-Location $GITHUB_WORKSPACE
           Write-Host "$GITHUB_WORKSPACE"
           dir
-          $GITHUB_WORKSPACE/src/Get-ResourceAliases.ps1
+          ./src/Get-ResourceAliases.ps1
         azPSVersion: latest
     - name: Commit changes
       run: |
