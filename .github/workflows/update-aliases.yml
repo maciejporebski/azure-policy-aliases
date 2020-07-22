@@ -1,4 +1,4 @@
-name: Update-Aliases
+name: Update Aliases
 
 on:
   schedule:
