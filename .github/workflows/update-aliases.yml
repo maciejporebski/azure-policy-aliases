@@ -32,5 +32,8 @@ jobs:
         git config --global user.email "macporebski@gmail.com"
         git config --global user.name "Maciej Porebski"
         git add --all
-        git commit -a -m "auto update aliases $now"
-        git push
+        if [ -n "$(git status --porcelain)" ]
+        then
+          git commit -a -m "auto update aliases $now"
+          git push
+        fi
