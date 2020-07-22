@@ -29,6 +29,8 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE
         now=$(date)
+        git config --global user.email "macporebski@gmail.com"
+        git config --global user.name "Maciej Porebski"
         git add --all
         git commit -a -m "auto update aliases $now"
         git push
