@@ -2,8 +2,51 @@
 
 | Default Path | Alias |
 |---|---|
-| `` | `Microsoft.Search/searchServices/replicaCount` |
-| `` | `Microsoft.Search/searchServices/partitionCount` |
-| `` | `Microsoft.Search/searchServices/hostingMode` |
-| `` | `Microsoft.Search/searchServices/sku.name` |
+| `properties.replicaCount` | `Microsoft.Search/searchServices/replicaCount` |
+| `properties.partitionCount` | `Microsoft.Search/searchServices/partitionCount` |
+| `properties.hostingMode` | `Microsoft.Search/searchServices/hostingMode` |
+| `sku.name` | `Microsoft.Search/searchServices/sku.name` |
+| `properties.status` | `Microsoft.Search/searchServices/status` |
+| `properties.statusDetails` | `Microsoft.Search/searchServices/statusDetails` |
+| `properties.provisioningState` | `Microsoft.Search/searchServices/provisioningState` |
+| `properties.networkRuleSet.endpointAccess` | `Microsoft.Search/searchServices/networkRuleSet.endpointAccess` |
+| `properties.networkRuleSet.ipRules[*].value` | `Microsoft.Search/searchServices/networkRuleSet.ipRules[*].value` |
+| `properties.networkRuleSet.ipRules[*]` | `Microsoft.Search/searchServices/networkRuleSet.ipRules[*]` |
+| `properties.networkRuleSet.ipRules` | `Microsoft.Search/searchServices/networkRuleSet.ipRules` |
+| `properties.networkRuleSet` | `Microsoft.Search/searchServices/networkRuleSet` |
+| `properties.privateEndpointConnections[*].id.externalDocs` | `Microsoft.Search/searchServices/privateEndpointConnections[*].id.externalDocs` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.Search/searchServices/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name.externalDocs` | `Microsoft.Search/searchServices/privateEndpointConnections[*].name.externalDocs` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.Search/searchServices/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.Search/searchServices/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.Search/searchServices/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.Search/searchServices/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Search/searchServices/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Search/searchServices/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Search/searchServices/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.Search/searchServices/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Search/searchServices/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections` | `Microsoft.Search/searchServices/privateEndpointConnections` |
+| `properties.sharedPrivateLinkResources[*].name.externalDocs` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].name.externalDocs` |
+| `properties.sharedPrivateLinkResources[*].name` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].name` |
+| `properties.sharedPrivateLinkResources[*].properties.privateLinkResourceId` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].privateLinkResourceId` |
+| `properties.sharedPrivateLinkResources[*].properties.groupId` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].groupId` |
+| `properties.sharedPrivateLinkResources[*].properties.requestMessage` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].requestMessage` |
+| `properties.sharedPrivateLinkResources[*].properties.status` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].status` |
+| `properties.sharedPrivateLinkResources[*]` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*]` |
+| `properties.sharedPrivateLinkResources` | `Microsoft.Search/searchServices/sharedPrivateLinkResources` |
+| `sku.externalDocs` | `Microsoft.Search/searchServices/sku.externalDocs` |
+| `sku` | `Microsoft.Search/searchServices/sku` |
+| `properties.privateEndpoint.id` | `Microsoft.Search/searchServices/privateEndpointConnections.privateEndpoint.id` |
+| `properties.privateEndpoint` | `Microsoft.Search/searchServices/privateEndpointConnections.privateEndpoint` |
+| `properties.privateLinkServiceConnectionState.status` | `Microsoft.Search/searchServices/privateEndpointConnections.privateLinkServiceConnectionState.status` |
+| `properties.privateLinkServiceConnectionState.description` | `Microsoft.Search/searchServices/privateEndpointConnections.privateLinkServiceConnectionState.description` |
+| `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Search/searchServices/privateEndpointConnections.privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateLinkServiceConnectionState` | `Microsoft.Search/searchServices/privateEndpointConnections.privateLinkServiceConnectionState` |
+| `properties.privateLinkResourceId` | `Microsoft.Search/searchServices/sharedPrivateLinkResources.privateLinkResourceId` |
+| `properties.groupId` | `Microsoft.Search/searchServices/sharedPrivateLinkResources.groupId` |
+| `properties.requestMessage` | `Microsoft.Search/searchServices/sharedPrivateLinkResources.requestMessage` |
+| `properties.publicNetworkAccess` | `Microsoft.Search/searchServices/publicNetworkAccess` |
+| `properties.sharedPrivateLinkResources[*].id` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].id` |
+| `properties.sharedPrivateLinkResources[*].type` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].type` |
 
