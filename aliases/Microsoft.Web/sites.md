@@ -274,4 +274,12 @@
 | `properties.siteConfig.apiManagementConfig` | `Microsoft.Web/sites/siteConfig.apiManagementConfig` |
 | `properties.siteConfig.preWarmedInstanceCount` | `Microsoft.Web/sites/siteConfig.preWarmedInstanceCount` |
 | `properties.siteConfig.healthCheckPath` | `Microsoft.Web/sites/siteConfig.healthCheckPath` |
+| `properties.siteConfig.powerShellVersion` | `Microsoft.Web/sites/siteConfig.powerShellVersion` |
+| `properties.siteConfig.acrUseManagedIdentityCreds` | `Microsoft.Web/sites/siteConfig.acrUseManagedIdentityCreds` |
+| `properties.siteConfig.acrUserManagedIdentityID` | `Microsoft.Web/sites/siteConfig.acrUserManagedIdentityID` |
+| `properties.ftp.properties.allow` | `Microsoft.Web/sites/basicPublishingCredentialsPolicies.ftp.allow` |
+| `properties.siteConfig.ipSecurityRestrictions[*].headers` | `Microsoft.Web/sites/siteConfig.ipSecurityRestrictions[*].headers` |
+| `properties.siteConfig.scmIpSecurityRestrictions[*].headers` | `Microsoft.Web/sites/siteConfig.scmIpSecurityRestrictions[*].headers` |
+| `properties.clientCertMode` | `Microsoft.Web/sites/clientCertMode` |
+| `properties.customDomainVerificationId` | `Microsoft.Web/sites/customDomainVerificationId` |
 

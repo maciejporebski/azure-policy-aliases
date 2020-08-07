@@ -189,4 +189,9 @@
 | `properties.apiManagementConfig` | `Microsoft.Web/sites/slots/config/web.apiManagementConfig` |
 | `properties.preWarmedInstanceCount` | `Microsoft.Web/sites/slots/config/web.preWarmedInstanceCount` |
 | `properties.healthCheckPath` | `Microsoft.Web/sites/slots/config/web.healthCheckPath` |
+| `properties.powerShellVersion` | `Microsoft.Web/sites/slots/config/web.powerShellVersion` |
+| `properties.acrUseManagedIdentityCreds` | `Microsoft.Web/sites/slots/config/web.acrUseManagedIdentityCreds` |
+| `properties.acrUserManagedIdentityID` | `Microsoft.Web/sites/slots/config/web.acrUserManagedIdentityID` |
+| `properties.ipSecurityRestrictions[*].headers` | `Microsoft.Web/sites/slots/config/web.ipSecurityRestrictions[*].headers` |
+| `properties.scmIpSecurityRestrictions[*].headers` | `Microsoft.Web/sites/slots/config/web.scmIpSecurityRestrictions[*].headers` |
 

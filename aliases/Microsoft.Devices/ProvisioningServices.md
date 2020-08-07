@@ -25,4 +25,10 @@
 | `sku.tier` | `Microsoft.Devices/ProvisioningServices/sku.tier` |
 | `sku.capacity` | `Microsoft.Devices/ProvisioningServices/sku.capacity` |
 | `sku` | `Microsoft.Devices/ProvisioningServices/sku` |
+| `properties.ipFilterRules[*]` | `Microsoft.Devices/provisioningServices/ipFilterRules[*]` |
+| `properties.ipFilterRules[*].filterName` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].filterName` |
+| `properties.ipFilterRules[*].action` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].action` |
+| `properties.ipFilterRules[*].ipMask` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].ipMask` |
+| `properties.ipFilterRules[*].target` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].target` |
+| `properties.ipFilterRules` | `Microsoft.Devices/provisioningServices/ipFilterRules` |
 

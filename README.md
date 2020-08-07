@@ -219,18 +219,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataBox/jobs](aliases/Microsoft.DataBox/jobs.md)
 
 
-## Microsoft.DataBoxEdge
-
-- [Microsoft.DataBoxEdge/DataBoxEdgeDevices](aliases/Microsoft.DataBoxEdge/DataBoxEdgeDevices.md)
-- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-bandwidthSchedules.md)
-- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-orders.md)
-- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/shares](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-shares.md)
-- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccountCredentials](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccountCredentials.md)
-- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts.md)
-- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/containers](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts-containers.md)
-- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/users](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-users.md)
-
-
 ## Microsoft.Databricks
 
 - [Microsoft.Databricks/workspaces](aliases/Microsoft.Databricks/workspaces.md)
@@ -328,6 +316,9 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.Devices/IotHubs](aliases/Microsoft.Devices/IotHubs.md)
 - [Microsoft.Devices/ProvisioningServices](aliases/Microsoft.Devices/ProvisioningServices.md)
+- [Microsoft.Devices/IotHubs/certificates](aliases/Microsoft.Devices/IotHubs-certificates.md)
+- [Microsoft.Devices/iotHubs/privateEndpointConnections](aliases/Microsoft.Devices/iotHubs-privateEndpointConnections.md)
+- [Microsoft.Devices/provisioningServices/certificates](aliases/Microsoft.Devices/provisioningServices-certificates.md)
 
 
 ## Microsoft.DevSpaces
@@ -516,6 +507,14 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearning/Workspaces](aliases/Microsoft.MachineLearning/Workspaces.md)
 - [Microsoft.MachineLearning/webServices](aliases/Microsoft.MachineLearning/webServices.md)
 - [Microsoft.MachineLearning/commitmentPlans](aliases/Microsoft.MachineLearning/commitmentPlans.md)
+
+
+## Microsoft.MachineLearningServices
+
+- [Microsoft.MachineLearningServices/workspaces](aliases/Microsoft.MachineLearningServices/workspaces.md)
+- [Microsoft.MachineLearningServices/workspaces/computes](aliases/Microsoft.MachineLearningServices/workspaces-computes.md)
+- [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
+- [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
 
 
 ## Microsoft.ManagedIdentity
@@ -957,6 +956,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.Web/publishingUsers](aliases/Microsoft.Web/publishingUsers.md)
 - [Microsoft.Web/sourceControls](aliases/Microsoft.Web/sourceControls.md)
+- [Microsoft.Web/staticSites](aliases/Microsoft.Web/staticSites.md)
 - [Microsoft.Web/sites/networkConfig](aliases/Microsoft.Web/sites-networkConfig.md)
 - [Microsoft.Web/sites/slots/networkConfig](aliases/Microsoft.Web/sites-slots-networkConfig.md)
 - [Microsoft.Web/sites/hostNameBindings](aliases/Microsoft.Web/sites-hostNameBindings.md)

@@ -7,4 +7,5 @@
 | `properties.isManualIntegration` | `Microsoft.Web/sites/slots/sourcecontrols/web.isManualIntegration` |
 | `properties.deploymentRollbackEnabled` | `Microsoft.Web/sites/slots/sourcecontrols/web.deploymentRollbackEnabled` |
 | `properties.isMercurial` | `Microsoft.Web/sites/slots/sourcecontrols/web.isMercurial` |
+| `properties.isGitHubAction` | `Microsoft.Web/sites/slots/sourcecontrols/web.isGitHubAction` |
 

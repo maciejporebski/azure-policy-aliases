@@ -7,4 +7,5 @@
 | `properties.status.message` | `Microsoft.ContainerRegistry/registries/replications/status.message` |
 | `properties.status.timestamp` | `Microsoft.ContainerRegistry/registries/replications/status.timestamp` |
 | `properties.status` | `Microsoft.ContainerRegistry/registries/replications/status` |
+| `properties.regionEndpointEnabled` | `Microsoft.ContainerRegistry/registries/replications/regionEndpointEnabled` |
 

@@ -1,0 +1,67 @@
+# Microsoft.MachineLearningServices/workspaces
+
+| Default Path | Alias |
+|---|---|
+| `properties.workspaceId` | `Microsoft.MachineLearningServices/workspaces/workspaceId` |
+| `properties.description` | `Microsoft.MachineLearningServices/workspaces/description` |
+| `properties.friendlyName` | `Microsoft.MachineLearningServices/workspaces/friendlyName` |
+| `properties.creationTime` | `Microsoft.MachineLearningServices/workspaces/creationTime` |
+| `properties.batchaiWorkspace` | `Microsoft.MachineLearningServices/workspaces/batchaiWorkspace` |
+| `properties.keyVault` | `Microsoft.MachineLearningServices/workspaces/keyVault` |
+| `properties.applicationInsights` | `Microsoft.MachineLearningServices/workspaces/applicationInsights` |
+| `properties.containerRegistry` | `Microsoft.MachineLearningServices/workspaces/containerRegistry` |
+| `properties.storageAccount` | `Microsoft.MachineLearningServices/workspaces/storageAccount` |
+| `properties.discoveryUrl` | `Microsoft.MachineLearningServices/workspaces/discoveryUrl` |
+| `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/provisioningState` |
+| `sku.name` | `Microsoft.MachineLearningServices/workspaces/sku.name` |
+| `sku.tier` | `Microsoft.MachineLearningServices/workspaces/sku.tier` |
+| `sku` | `Microsoft.MachineLearningServices/workspaces/sku` |
+| `properties.encryption.status` | `Microsoft.MachineLearningServices/workspaces/encryption.status` |
+| `properties.encryption.keyVaultProperties.keyVaultArmId` | `Microsoft.MachineLearningServices/workspaces/encryption.keyVaultProperties.keyVaultArmId` |
+| `properties.encryption.keyVaultProperties.keyIdentifier` | `Microsoft.MachineLearningServices/workspaces/encryption.keyVaultProperties.keyIdentifier` |
+| `properties.encryption.keyVaultProperties.identityClientId` | `Microsoft.MachineLearningServices/workspaces/encryption.keyVaultProperties.identityClientId` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.MachineLearningServices/workspaces/encryption.keyVaultProperties` |
+| `properties.encryption` | `Microsoft.MachineLearningServices/workspaces/encryption` |
+| `properties.hbiWorkspace` | `Microsoft.MachineLearningServices/workspaces/hbiWorkspace` |
+| `properties.serviceProvisionedResourceGroup` | `Microsoft.MachineLearningServices/workspaces/serviceProvisionedResourceGroup` |
+| `properties.privateLinkCount` | `Microsoft.MachineLearningServices/workspaces/privateLinkCount` |
+| `properties.imageBuildCompute` | `Microsoft.MachineLearningServices/workspaces/imageBuildCompute` |
+| `properties.allowPublicAccessWhenBehindVnet` | `Microsoft.MachineLearningServices/workspaces/allowPublicAccessWhenBehindVnet` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].provisioningState` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].identity.principalId` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].identity.principalId` |
+| `properties.privateEndpointConnections[*].identity.tenantId` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].identity.tenantId` |
+| `properties.privateEndpointConnections[*].identity.type` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].identity.type` |
+| `properties.privateEndpointConnections[*].identity.userAssignedIdentities` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].identity.userAssignedIdentities` |
+| `properties.privateEndpointConnections[*].identity` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].identity` |
+| `properties.privateEndpointConnections[*].location` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].location` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].tags` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].tags` |
+| `properties.privateEndpointConnections[*].sku.name` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].sku.name` |
+| `properties.privateEndpointConnections[*].sku.tier` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].sku.tier` |
+| `properties.privateEndpointConnections[*].sku` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].sku` |
+| `properties.sharedPrivateLinkResources[*].name` | `Microsoft.MachineLearningServices/workspaces/sharedPrivateLinkResources[*].name` |
+| `properties.sharedPrivateLinkResources[*].properties.privateLinkResourceId` | `Microsoft.MachineLearningServices/workspaces/sharedPrivateLinkResources[*].privateLinkResourceId` |
+| `properties.sharedPrivateLinkResources[*].properties.groupId` | `Microsoft.MachineLearningServices/workspaces/sharedPrivateLinkResources[*].groupId` |
+| `properties.sharedPrivateLinkResources[*].properties.requestMessage` | `Microsoft.MachineLearningServices/workspaces/sharedPrivateLinkResources[*].requestMessage` |
+| `properties.sharedPrivateLinkResources[*].properties.status` | `Microsoft.MachineLearningServices/workspaces/sharedPrivateLinkResources[*].status` |
+| `properties.sharedPrivateLinkResources[*]` | `Microsoft.MachineLearningServices/workspaces/sharedPrivateLinkResources[*]` |
+| `properties.sharedPrivateLinkResources` | `Microsoft.MachineLearningServices/workspaces/sharedPrivateLinkResources` |
+| `properties.linkedWorkspaceResourceId` | `Microsoft.MachineLearningServices/workspaces/linkedWorkspaces.linkedWorkspaceResourceId` |
+| `properties.userAssignedIdentityResourceId` | `Microsoft.MachineLearningServices/workspaces/linkedWorkspaces.userAssignedIdentityResourceId` |
+| `properties.notebookInfo.fqdn` | `Microsoft.MachineLearningServices/workspaces/notebookInfo.fqdn` |
+| `properties.notebookInfo.resourceId` | `Microsoft.MachineLearningServices/workspaces/notebookInfo.resourceId` |
+| `properties.notebookInfo.notebookPreparationError.errorMessage` | `Microsoft.MachineLearningServices/workspaces/notebookInfo.notebookPreparationError.errorMessage` |
+| `properties.notebookInfo.notebookPreparationError.statusCode` | `Microsoft.MachineLearningServices/workspaces/notebookInfo.notebookPreparationError.statusCode` |
+| `properties.notebookInfo.notebookPreparationError` | `Microsoft.MachineLearningServices/workspaces/notebookInfo.notebookPreparationError` |
+| `properties.notebookInfo` | `Microsoft.MachineLearningServices/workspaces/notebookInfo` |
+

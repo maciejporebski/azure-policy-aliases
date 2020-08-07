@@ -292,4 +292,11 @@
 | `properties.siteConfig.apiManagementConfig` | `Microsoft.Web/sites/slots/siteConfig.apiManagementConfig` |
 | `properties.siteConfig.preWarmedInstanceCount` | `Microsoft.Web/sites/slots/siteConfig.preWarmedInstanceCount` |
 | `properties.siteConfig.healthCheckPath` | `Microsoft.Web/sites/slots/siteConfig.healthCheckPath` |
+| `properties.siteConfig.powerShellVersion` | `Microsoft.Web/sites/slots/siteConfig.powerShellVersion` |
+| `properties.siteConfig.acrUseManagedIdentityCreds` | `Microsoft.Web/sites/slots/siteConfig.acrUseManagedIdentityCreds` |
+| `properties.siteConfig.acrUserManagedIdentityID` | `Microsoft.Web/sites/slots/siteConfig.acrUserManagedIdentityID` |
+| `properties.siteConfig.ipSecurityRestrictions[*].headers` | `Microsoft.Web/sites/slots/siteConfig.ipSecurityRestrictions[*].headers` |
+| `properties.siteConfig.scmIpSecurityRestrictions[*].headers` | `Microsoft.Web/sites/slots/siteConfig.scmIpSecurityRestrictions[*].headers` |
+| `properties.clientCertMode` | `Microsoft.Web/sites/slots/clientCertMode` |
+| `properties.customDomainVerificationId` | `Microsoft.Web/sites/slots/customDomainVerificationId` |
 
