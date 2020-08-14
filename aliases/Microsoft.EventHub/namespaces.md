@@ -62,4 +62,8 @@
 | `properties.encryption.keyVaultProperties` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties` |
 | `properties.encryption.keySource` | `Microsoft.EventHub/namespaces/encryption.keySource` |
 | `properties.encryption` | `Microsoft.EventHub/namespaces/encryption` |
+| `properties.encryption.keyVaultProperties[*].keyName` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*].keyName` |
+| `properties.encryption.keyVaultProperties[*].keyVaultUri` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*].keyVaultUri` |
+| `properties.encryption.keyVaultProperties[*].keyVersion` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*].keyVersion` |
+| `properties.encryption.keyVaultProperties[*]` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*]` |
 

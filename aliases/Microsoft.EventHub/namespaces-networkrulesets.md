@@ -12,4 +12,5 @@
 | `properties.ipRules[*].action` | `Microsoft.EventHub/namespaces/networkRuleSets/default.ipRules[*].action` |
 | `properties.ipRules[*]` | `Microsoft.EventHub/namespaces/networkRuleSets/default.ipRules[*]` |
 | `properties.ipRules` | `Microsoft.EventHub/namespaces/networkRuleSets/default.ipRules` |
+| `properties.trustedServiceAccessEnabled` | `Microsoft.EventHub/namespaces/networkrulesets/default.trustedServiceAccessEnabled` |
 

@@ -183,6 +183,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions.md)
 
 
+## Microsoft.Consumption
+
+- [Microsoft.Consumption/Budgets](aliases/Microsoft.Consumption/Budgets.md)
+
+
 ## Microsoft.ContainerInstance
 
 - [Microsoft.ContainerInstance/containerGroups](aliases/Microsoft.ContainerInstance/containerGroups.md)
@@ -992,6 +997,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/sites/sourcecontrols](aliases/Microsoft.Web/sites-sourcecontrols.md)
 - [Microsoft.Web/sites/virtualnetworkconnections](aliases/Microsoft.Web/sites-virtualnetworkconnections.md)
 - [Microsoft.Web/sites/virtualnetworkconnections/gateways](aliases/Microsoft.Web/sites-virtualnetworkconnections-gateways.md)
+- [Microsoft.Web/sites/basicPublishingCredentialsPolicies/ftp](aliases/Microsoft.Web/sites-basicPublishingCredentialsPolicies-ftp.md)
+- [Microsoft.Web/sites/basicPublishingCredentialsPolicies/scm](aliases/Microsoft.Web/sites-basicPublishingCredentialsPolicies-scm.md)
+- [Microsoft.Web/sites/privateEndpointConnections](aliases/Microsoft.Web/sites-privateEndpointConnections.md)
 
 
 

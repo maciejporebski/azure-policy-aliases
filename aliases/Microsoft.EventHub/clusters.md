@@ -9,4 +9,6 @@
 | `properties.updated` | `Microsoft.EventHub/clusters/updated` |
 | `properties.metricId` | `Microsoft.EventHub/clusters/metricId` |
 | `properties.status` | `Microsoft.EventHub/clusters/status` |
+| `properties.createdAt` | `Microsoft.EventHub/clusters/createdAt` |
+| `properties.updatedAt` | `Microsoft.EventHub/clusters/updatedAt` |
 
