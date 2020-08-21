@@ -18,4 +18,14 @@
 | `properties.RetentionInDays` | `Microsoft.Insights/components/RetentionInDays` |
 | `properties.DisableIpMasking` | `Microsoft.Insights/components/DisableIpMasking` |
 | `properties.ImmediatePurgeDataOn30Days` | `Microsoft.Insights/components/ImmediatePurgeDataOn30Days` |
+| `properties.PrivateLinkScopedResources[*].ResourceId` | `Microsoft.Insights/components/PrivateLinkScopedResources[*].ResourceId` |
+| `properties.PrivateLinkScopedResources[*].ScopeId` | `Microsoft.Insights/components/PrivateLinkScopedResources[*].ScopeId` |
+| `properties.PrivateLinkScopedResources[*]` | `Microsoft.Insights/components/PrivateLinkScopedResources[*]` |
+| `properties.PrivateLinkScopedResources` | `Microsoft.Insights/components/PrivateLinkScopedResources` |
+| `properties.publicNetworkAccessForIngestion` | `Microsoft.Insights/components/publicNetworkAccessForIngestion` |
+| `properties.publicNetworkAccessForQuery` | `Microsoft.Insights/components/publicNetworkAccessForQuery` |
+| `properties.IngestionMode` | `Microsoft.Insights/components/IngestionMode` |
+| `properties.WorkspaceResourceId` | `Microsoft.Insights/components/WorkspaceResourceId` |
+| `properties.LaMigrationDate` | `Microsoft.Insights/components/LaMigrationDate` |
+| `properties.linkedStorageAccount` | `Microsoft.Insights/components/linkedStorageAccounts.ServiceProfiler.linkedStorageAccount` |
 

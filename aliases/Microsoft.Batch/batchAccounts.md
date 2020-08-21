@@ -8,4 +8,9 @@
 | `properties.autoStorage` | `Microsoft.Batch/batchAccounts/autoStorage` |
 | `properties.keyVaultReference.url` | `Microsoft.Batch/batchAccounts/keyVaultReference.url` |
 | `properties.keyVaultReference` | `Microsoft.Batch/batchAccounts/keyVaultReference` |
+| `properties.publicNetworkAccess` | `Microsoft.Batch/batchAccounts/publicNetworkAccess` |
+| `properties.encryption.keySource` | `Microsoft.Batch/batchAccounts/encryption.keySource` |
+| `properties.encryption.keyVaultProperties.keyIdentifier` | `Microsoft.Batch/batchAccounts/encryption.keyVaultProperties.keyIdentifier` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.Batch/batchAccounts/encryption.keyVaultProperties` |
+| `properties.encryption` | `Microsoft.Batch/batchAccounts/encryption` |
 

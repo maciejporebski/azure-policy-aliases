@@ -187,4 +187,11 @@
 | `properties.mountConfiguration[*].azureFileShareConfiguration` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*].azureFileShareConfiguration` |
 | `properties.mountConfiguration[*]` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*]` |
 | `properties.mountConfiguration` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.diskEncryptionConfiguration.targets[*]` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.diskEncryptionConfiguration.targets[*]` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.diskEncryptionConfiguration.targets` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.diskEncryptionConfiguration.targets` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.diskEncryptionConfiguration` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.diskEncryptionConfiguration` |
+| `properties.networkConfiguration.publicIPAddressConfiguration.provision` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.publicIPAddressConfiguration.provision` |
+| `properties.networkConfiguration.publicIPAddressConfiguration.ipAddressIds[*]` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.publicIPAddressConfiguration.ipAddressIds[*]` |
+| `properties.networkConfiguration.publicIPAddressConfiguration.ipAddressIds` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.publicIPAddressConfiguration.ipAddressIds` |
+| `properties.networkConfiguration.publicIPAddressConfiguration` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.publicIPAddressConfiguration` |
 

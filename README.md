@@ -447,6 +447,11 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/workbooks](aliases/microsoft.insights/workbooks.md)
 - [microsoft.insights/guestDiagnosticSettings](aliases/microsoft.insights/guestDiagnosticSettings.md)
 - [microsoft.insights/guestDiagnosticSettingsAssociation](aliases/microsoft.insights/guestDiagnosticSettingsAssociation.md)
+- [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
+- [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
+- [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
+- [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
+- [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
 - [microsoft.insights/Components/ProactiveDetectionConfigs](aliases/microsoft.insights/Components-ProactiveDetectionConfigs.md)
 
 

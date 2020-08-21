@@ -54,4 +54,11 @@
 | `properties.name` | `Microsoft.Insights/autoscalesettings/name` |
 | `properties.targetResourceUri` | `Microsoft.Insights/autoscalesettings/targetResourceUri` |
 | `properties.profiles[*].rules[*].scaleAction.value` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].scaleAction.value` |
+| `properties.profiles[*].rules[*].metricTrigger.metricNamespace` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.metricNamespace` |
+| `properties.profiles[*].rules[*].metricTrigger.dimensions[*].DimensionName` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*].DimensionName` |
+| `properties.profiles[*].rules[*].metricTrigger.dimensions[*].Operator` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*].Operator` |
+| `properties.profiles[*].rules[*].metricTrigger.dimensions[*].Values[*]` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*].Values[*]` |
+| `properties.profiles[*].rules[*].metricTrigger.dimensions[*].Values` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*].Values` |
+| `properties.profiles[*].rules[*].metricTrigger.dimensions[*]` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*]` |
+| `properties.profiles[*].rules[*].metricTrigger.dimensions` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions` |
 
