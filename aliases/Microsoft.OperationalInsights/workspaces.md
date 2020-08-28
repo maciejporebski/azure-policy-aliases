@@ -35,4 +35,20 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.OperationalInsights/workspaces/privateEndpointConnections.privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.OperationalInsights/workspaces/privateEndpointConnections.privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.OperationalInsights/workspaces/privateEndpointConnections.privateLinkServiceConnectionState` |
+| `properties.dataSourceType` | `Microsoft.OperationalInsights/workspaces/linkedStorageAccounts.CustomLogs.dataSourceType` |
+| `properties.storageAccountIds[*]` | `Microsoft.OperationalInsights/workspaces/linkedStorageAccounts.CustomLogs.storageAccountIds[*]` |
+| `properties.storageAccountIds` | `Microsoft.OperationalInsights/workspaces/linkedStorageAccounts.CustomLogs.storageAccountIds` |
+| `properties.sku.capacityReservationLevel` | `Microsoft.OperationalInsights/workspaces/sku.capacityReservationLevel` |
+| `properties.sku.maxCapacityReservationLevel` | `Microsoft.OperationalInsights/workspaces/sku.maxCapacityReservationLevel` |
+| `properties.sku.lastSkuUpdate` | `Microsoft.OperationalInsights/workspaces/sku.lastSkuUpdate` |
+| `properties.workspaceCapping.dailyQuotaGb` | `Microsoft.OperationalInsights/workspaces/workspaceCapping.dailyQuotaGb` |
+| `properties.workspaceCapping.quotaNextResetTime` | `Microsoft.OperationalInsights/workspaces/workspaceCapping.quotaNextResetTime` |
+| `properties.workspaceCapping.dataIngestionStatus` | `Microsoft.OperationalInsights/workspaces/workspaceCapping.dataIngestionStatus` |
+| `properties.workspaceCapping` | `Microsoft.OperationalInsights/workspaces/workspaceCapping` |
+| `properties.publicNetworkAccessForIngestion` | `Microsoft.OperationalInsights/workspaces/publicNetworkAccessForIngestion` |
+| `properties.publicNetworkAccessForQuery` | `Microsoft.OperationalInsights/workspaces/publicNetworkAccessForQuery` |
+| `properties.privateLinkScopedResources[*].resourceId` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources[*].resourceId` |
+| `properties.privateLinkScopedResources[*].scopeId` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources[*].scopeId` |
+| `properties.privateLinkScopedResources[*]` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources[*]` |
+| `properties.privateLinkScopedResources` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources` |
 

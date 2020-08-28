@@ -4,4 +4,5 @@
 |---|---|
 | `properties.retentionDays` | `Microsoft.Sql/servers/databases/backupShortTermRetentionPolicies/retentionDays` |
 | `properties.retentionDays` | `Microsoft.Sql/servers/databases/backupShortTermRetentionPolicies/default.retentionDays` |
+| `properties.diffBackupIntervalInHours` | `Microsoft.Sql/servers/databases/backupShortTermRetentionPolicies/default.diffBackupIntervalInHours` |
 

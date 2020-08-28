@@ -17,4 +17,6 @@
 | `properties.failoverGroupId` | `Microsoft.Sql/managedInstances/databases/failoverGroupId` |
 | `properties.recoverableDatabaseId` | `Microsoft.Sql/managedInstances/databases/recoverableDatabaseId` |
 | `properties.longTermRetentionBackupResourceId` | `Microsoft.Sql/managedInstances/databases/longTermRetentionBackupResourceId` |
+| `properties.autoCompleteRestore` | `Microsoft.Sql/managedInstances/databases/autoCompleteRestore` |
+| `properties.lastBackupName` | `Microsoft.Sql/managedInstances/databases/lastBackupName` |
 

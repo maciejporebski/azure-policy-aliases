@@ -19,4 +19,5 @@
 | `properties.schema.masterSyncMemberName` | `Microsoft.Sql/servers/databases/syncGroups/schema.masterSyncMemberName` |
 | `properties.schema` | `Microsoft.Sql/servers/databases/syncGroups/schema` |
 | `properties.hubDatabasePassword` | `Microsoft.Sql/servers/databases/syncGroups/hubDatabasePassword` |
+| `properties.usePrivateLinkConnection` | `Microsoft.Sql/servers/databases/syncGroups/usePrivateLinkConnection` |
 

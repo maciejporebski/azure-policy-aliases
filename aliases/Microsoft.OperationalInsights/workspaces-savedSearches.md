@@ -10,4 +10,6 @@
 | `properties.tags[*]` | `Microsoft.OperationalInsights/workspaces/savedSearches/tags[*]` |
 | `properties.tags` | `Microsoft.OperationalInsights/workspaces/savedSearches/tags` |
 | `properties.tags[*].value` | `Microsoft.OperationalInsights/workspaces/savedSearches/tags[*].value` |
+| `properties.functionAlias` | `Microsoft.OperationalInsights/workspaces/savedSearches/functionAlias` |
+| `properties.functionParameters` | `Microsoft.OperationalInsights/workspaces/savedSearches/functionParameters` |
 

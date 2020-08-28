@@ -152,4 +152,7 @@
 | `properties.hostGroup` | `Microsoft.Compute/virtualMachines/hostGroup` |
 | `properties.hostGroup.id` | `Microsoft.Compute/virtualMachines/hostGroup.id` |
 | `properties.extensionsTimeBudget` | `Microsoft.Compute/virtualMachines/extensionsTimeBudget` |
+| `properties.securityProfile.uefiSettings` | `Microsoft.Compute/virtualMachines/securityProfile.uefiSettings` |
+| `properties.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Compute/virtualMachines/securityProfile.uefiSettings.secureBootEnabled` |
+| `properties.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachines/securityProfile.uefiSettings.vTpmEnabled` |
 

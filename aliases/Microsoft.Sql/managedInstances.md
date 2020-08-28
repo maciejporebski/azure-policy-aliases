@@ -27,4 +27,7 @@
 | `properties.restorePointInTime` | `Microsoft.Sql/managedInstances/restorePointInTime` |
 | `properties.instancePoolId` | `Microsoft.Sql/managedInstances/instancePoolId` |
 | `properties.minimalTlsVersion` | `Microsoft.Sql/managedInstances/minimalTlsVersion` |
+| `properties.maintenanceConfigurationId` | `Microsoft.Sql/managedInstances/maintenanceConfigurationId` |
+| `properties.provisioningState` | `Microsoft.Sql/managedInstances/provisioningState` |
+| `properties.storageAccountType` | `Microsoft.Sql/managedInstances/storageAccountType` |
 

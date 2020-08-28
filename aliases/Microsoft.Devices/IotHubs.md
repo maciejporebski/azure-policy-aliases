@@ -122,4 +122,8 @@
 | `properties.routing.endpoints.storageContainers[*].id` | `Microsoft.Devices/IotHubs/routing.endpoints.storageContainers[*].id` |
 | `properties.routing.endpoints.storageContainers[*].endpointUri` | `Microsoft.Devices/IotHubs/routing.endpoints.storageContainers[*].endpointUri` |
 | `properties.routing.endpoints.storageContainers[*].authenticationType` | `Microsoft.Devices/IotHubs/routing.endpoints.storageContainers[*].authenticationType` |
+| `properties.encryption` | `Microsoft.Devices/IotHubs/encryption` |
+| `properties.encryption.keySource` | `Microsoft.Devices/IotHubs/encryption.keySource` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties` |
+| `properties.encryption.keyVaultProperties.keyIdentifier` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties.keyIdentifier` |
 

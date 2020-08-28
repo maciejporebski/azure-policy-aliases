@@ -22,4 +22,5 @@
 | `properties.privateEndpointConnections` | `Microsoft.Sql/servers/privateEndpointConnections` |
 | `properties.minimalTlsVersion` | `Microsoft.Sql/servers/minimalTlsVersion` |
 | `properties.publicNetworkAccess` | `Microsoft.Sql/servers/publicNetworkAccess` |
+| `properties.azureADOnlyAuthentication` | `Microsoft.Sql/servers/azureADOnlyAuthentications.Default.azureADOnlyAuthentication` |
 

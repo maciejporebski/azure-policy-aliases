@@ -183,4 +183,7 @@
 | `properties.osProfile.windowsConfiguration.patchSettings.patchMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.windowsConfiguration.patchSettings.patchMode` |
 | `properties.securityProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile` |
 | `properties.securityProfile.encryptionAtHost` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.encryptionAtHost` |
+| `properties.securityProfile.uefiSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings` |
+| `properties.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings.secureBootEnabled` |
+| `properties.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings.vTpmEnabled` |
 

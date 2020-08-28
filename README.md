@@ -1,6 +1,11 @@
 # Azure Policy Aliases
 This repository contains all available resource property aliases for easy reference when creating Policy definitions. The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
 
+## Microsoft.AISupercomputer
+
+- [Microsoft.AISupercomputer/accounts/jobs](aliases/Microsoft.AISupercomputer/accounts-jobs.md)
+
+
 ## Microsoft.AlertsManagement
 
 - [Microsoft.AlertsManagement/smartDetectorAlertRules](aliases/Microsoft.AlertsManagement/smartDetectorAlertRules.md)
@@ -222,6 +227,18 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.DataBox
 
 - [Microsoft.DataBox/jobs](aliases/Microsoft.DataBox/jobs.md)
+
+
+## Microsoft.DataBoxEdge
+
+- [Microsoft.DataBoxEdge/DataBoxEdgeDevices](aliases/Microsoft.DataBoxEdge/DataBoxEdgeDevices.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-bandwidthSchedules.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-orders.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/shares](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-shares.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccountCredentials](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccountCredentials.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/containers](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts-containers.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/users](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-users.md)
 
 
 ## Microsoft.Databricks
@@ -682,6 +699,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.OperationalInsights/workspaces](aliases/Microsoft.OperationalInsights/workspaces.md)
 - [Microsoft.OperationalInsights/workspaces/dataSources](aliases/Microsoft.OperationalInsights/workspaces-dataSources.md)
 - [Microsoft.OperationalInsights/workspaces/linkedServices](aliases/Microsoft.OperationalInsights/workspaces-linkedServices.md)
+- [Microsoft.OperationalInsights/clusters](aliases/Microsoft.OperationalInsights/clusters.md)
+- [Microsoft.OperationalInsights/workspaces/dataExports](aliases/Microsoft.OperationalInsights/workspaces-dataExports.md)
 - [Microsoft.OperationalInsights/workspaces/savedSearches](aliases/Microsoft.OperationalInsights/workspaces-savedSearches.md)
 - [Microsoft.OperationalInsights/workspaces/storageinsightconfigs](aliases/Microsoft.OperationalInsights/workspaces-storageinsightconfigs.md)
 

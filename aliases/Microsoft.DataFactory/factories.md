@@ -20,4 +20,16 @@
 | `properties.repoConfiguration.rootFolder` | `Microsoft.DataFactory/factories/repoConfiguration.rootFolder` |
 | `properties.repoConfiguration.lastCommitId` | `Microsoft.DataFactory/factories/repoConfiguration.lastCommitId` |
 | `properties.repoConfiguration` | `Microsoft.DataFactory/factories/repoConfiguration` |
+| `properties.globalParameters` | `Microsoft.DataFactory/factories/globalParameters` |
+| `properties.vNetId` | `Microsoft.DataFactory/factories/managedVirtualNetworks.vNetId` |
+| `properties.alias` | `Microsoft.DataFactory/factories/managedVirtualNetworks.alias` |
+| `properties.connectionState.actionsRequired` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.connectionState.actionsRequired` |
+| `properties.connectionState.description` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.connectionState.description` |
+| `properties.connectionState.status` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.connectionState.status` |
+| `properties.connectionState` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.connectionState` |
+| `properties.fqdns[*]` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.fqdns[*]` |
+| `properties.fqdns` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.fqdns` |
+| `properties.groupId` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.groupId` |
+| `properties.isReserved` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.isReserved` |
+| `properties.privateLinkResourceId` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.privateLinkResourceId` |
 

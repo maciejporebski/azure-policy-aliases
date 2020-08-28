@@ -26,4 +26,21 @@
 | `sku.model` | `Microsoft.Solutions/applicationDefinitions/sku.model` |
 | `sku.capacity` | `Microsoft.Solutions/applicationDefinitions/sku.capacity` |
 | `sku` | `Microsoft.Solutions/applicationDefinitions/sku` |
+| `properties.notificationPolicy` | `Microsoft.Solutions/applicationDefinitions/notificationPolicy` |
+| `properties.notificationPolicy.notificationEndpoints[*]` | `Microsoft.Solutions/applicationDefinitions/notificationPolicy.notificationEndpoints[*]` |
+| `properties.notificationPolicy.notificationEndpoints[*].uri` | `Microsoft.Solutions/applicationDefinitions/notificationPolicy.notificationEndpoints[*].uri` |
+| `properties.notificationPolicy.notificationEndpoints` | `Microsoft.Solutions/applicationDefinitions/notificationPolicy.notificationEndpoints` |
+| `properties.lockingPolicy` | `Microsoft.Solutions/applicationDefinitions/lockingPolicy` |
+| `properties.lockingPolicy.allowedActions[*]` | `Microsoft.Solutions/applicationDefinitions/lockingPolicy.allowedActions[*]` |
+| `properties.lockingPolicy.allowedActions` | `Microsoft.Solutions/applicationDefinitions/lockingPolicy.allowedActions` |
+| `properties.deploymentPolicy` | `Microsoft.Solutions/applicationDefinitions/deploymentPolicy` |
+| `properties.deploymentPolicy.deploymentMode` | `Microsoft.Solutions/applicationDefinitions/deploymentPolicy.deploymentMode` |
+| `properties.managementPolicy` | `Microsoft.Solutions/applicationDefinitions/managementPolicy` |
+| `properties.managementPolicy.mode` | `Microsoft.Solutions/applicationDefinitions/managementPolicy.mode` |
+| `properties.policies[*]` | `Microsoft.Solutions/applicationDefinitions/policies[*]` |
+| `properties.policies[*].name` | `Microsoft.Solutions/applicationDefinitions/policies[*].name` |
+| `properties.policies[*].policyDefinitionId` | `Microsoft.Solutions/applicationDefinitions/policies[*].policyDefinitionId` |
+| `properties.policies[*].parameters` | `Microsoft.Solutions/applicationDefinitions/policies[*].parameters` |
+| `properties.policies` | `Microsoft.Solutions/applicationDefinitions/policies` |
+| `properties.storageAccountId` | `Microsoft.Solutions/applicationDefinitions/storageAccountId` |
 

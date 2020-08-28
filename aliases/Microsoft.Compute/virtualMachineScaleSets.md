@@ -234,4 +234,7 @@
 | `properties.virtualMachineProfile.extensionProfile.extensionsTimeBudget` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensionsTimeBudget` |
 | `properties.hostGroup` | `Microsoft.Compute/virtualMachineScaleSets/hostGroup` |
 | `properties.hostGroup.id` | `Microsoft.Compute/virtualMachineScaleSets/hostGroup.id` |
+| `properties.virtualMachineProfile.securityProfile.uefiSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.uefiSettings` |
+| `properties.virtualMachineProfile.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.uefiSettings.secureBootEnabled` |
+| `properties.virtualMachineProfile.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.uefiSettings.vTpmEnabled` |
 
