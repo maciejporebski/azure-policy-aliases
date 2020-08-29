@@ -2,7 +2,7 @@ name: Update Aliases
 
 on:
   schedule:
-    - cron:  '0 0 * * 5'
+    - cron:  '0 0 * * *'
   push:
     branches: [ master ]
 
