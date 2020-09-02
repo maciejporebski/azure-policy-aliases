@@ -78,6 +78,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Authorization/policyAssignments](aliases/Microsoft.Authorization/policyAssignments.md)
 
 
+## Microsoft.Automanage
+
+- [Microsoft.Automanage/configurationProfileAssignments](aliases/Microsoft.Automanage/configurationProfileAssignments.md)
+
+
 ## Microsoft.Automation
 
 - [Microsoft.Automation/automationAccounts](aliases/Microsoft.Automation/automationAccounts.md)
@@ -452,12 +457,15 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/workbooks](aliases/microsoft.insights/workbooks.md)
 - [microsoft.insights/guestDiagnosticSettings](aliases/microsoft.insights/guestDiagnosticSettings.md)
 - [microsoft.insights/guestDiagnosticSettingsAssociation](aliases/microsoft.insights/guestDiagnosticSettingsAssociation.md)
+- [microsoft.insights/myWorkbooks](aliases/microsoft.insights/myWorkbooks.md)
 - [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
 - [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
 - [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
 - [microsoft.insights/Components/ProactiveDetectionConfigs](aliases/microsoft.insights/Components-ProactiveDetectionConfigs.md)
+- [microsoft.insights/Components/AnalyticsItems](aliases/microsoft.insights/Components-AnalyticsItems.md)
+- [microsoft.insights/Components/MyAnalyticsItems](aliases/microsoft.insights/Components-MyAnalyticsItems.md)
 
 
 ## Microsoft.IoTCentral
