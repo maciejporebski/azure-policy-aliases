@@ -388,6 +388,21 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings](aliases/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-throughputSettings.md)
 - [Microsoft.DocumentDB/databaseAccounts/tables](aliases/Microsoft.DocumentDB/databaseAccounts-tables.md)
 - [Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings](aliases/Microsoft.DocumentDB/databaseAccounts-tables-throughputSettings.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases/collections](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases-collections-settings.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases/containers](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases-containers-settings.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases-graphs-settings.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/databases/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-databases-settings.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/keyspaces](aliases/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-settings.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables](aliases/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-keyspaces-tables-settings.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/tables](aliases/Microsoft.DocumentDB/databaseAccounts-apis-tables.md)
+- [Microsoft.DocumentDB/databaseAccounts/apis/tables/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-tables-settings.md)
+- [Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces](aliases/Microsoft.DocumentDB/databaseAccounts-notebookWorkspaces.md)
 
 
 ## Microsoft.EventGrid

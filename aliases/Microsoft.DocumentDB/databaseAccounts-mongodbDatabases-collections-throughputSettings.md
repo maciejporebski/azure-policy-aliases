@@ -27,4 +27,22 @@
 | `properties.resource.autoscaleSettings.autoUpgradePolicy` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autoscaleSettings.autoUpgradePolicy` |
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autoscaleSettings.targetMaxThroughput` |
 | `properties.resource.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/default.resource.autoscaleSettings` |
+| `properties.resource` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource` |
+| `properties.resource.throughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.throughput` |
+| `properties.resource.minimumThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.minimumThroughput` |
+| `properties.resource.offerReplacePending` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.offerReplacePending` |
+| `properties.resource.provisionedThroughputSettings` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.provisionedThroughputSettings` |
+| `properties.resource.provisionedThroughputSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.provisionedThroughputSettings.maxThroughput` |
+| `properties.resource.provisionedThroughputSettings.autoUpgradePolicy` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.provisionedThroughputSettings.autoUpgradePolicy` |
+| `properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy` |
+| `properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.isEnabled` |
+| `properties.resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.provisionedThroughputSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` |
+| `properties.resource.provisionedThroughputSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.provisionedThroughputSettings.targetMaxThroughput` |
+| `properties.resource.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.autoscaleSettings` |
+| `properties.resource.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.autoscaleSettings.maxThroughput` |
+| `properties.resource.autoscaleSettings.autoUpgradePolicy` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy` |
+| `properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy` |
+| `properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled` |
+| `properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` |
+| `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
 

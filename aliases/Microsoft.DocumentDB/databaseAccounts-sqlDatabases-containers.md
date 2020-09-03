@@ -46,4 +46,5 @@
 | `properties.options` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/options` |
 | `properties.options.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/options.autoscaleSettings.maxThroughput` |
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/options.autoscaleSettings` |
+| `properties.resource.analyticalStorageTtl` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.analyticalStorageTtl` |
 
