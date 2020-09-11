@@ -432,6 +432,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EventHub/namespaces/disasterrecoveryconfigs](aliases/Microsoft.EventHub/namespaces-disasterrecoveryconfigs.md)
 - [Microsoft.EventHub/namespaces/ipFilterRules](aliases/Microsoft.EventHub/namespaces-ipFilterRules.md)
 - [Microsoft.EventHub/namespaces/virtualNetworkRules](aliases/Microsoft.EventHub/namespaces-virtualNetworkRules.md)
+- [Microsoft.EventHub/namespaces/privateEndpointConnections](aliases/Microsoft.EventHub/namespaces-privateEndpointConnections.md)
 
 
 ## Microsoft.GuestConfiguration
