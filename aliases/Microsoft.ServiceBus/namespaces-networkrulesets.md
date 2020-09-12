@@ -12,4 +12,14 @@
 | `properties.ipRules[*].action` | `Microsoft.ServiceBus/namespaces/networkrulesets/default.ipRules[*].action` |
 | `properties.ipRules[*]` | `Microsoft.ServiceBus/namespaces/networkrulesets/default.ipRules[*]` |
 | `properties.ipRules` | `Microsoft.ServiceBus/namespaces/networkrulesets/default.ipRules` |
+| `properties.defaultAction` | `Microsoft.ServiceBus/namespaces/networkrulesets/defaultAction` |
+| `properties.virtualNetworkRules` | `Microsoft.ServiceBus/namespaces/networkrulesets/virtualNetworkRules` |
+| `properties.virtualNetworkRules[*]` | `Microsoft.ServiceBus/namespaces/networkrulesets/virtualNetworkRules[*]` |
+| `properties.virtualNetworkRules[*].subnet` | `Microsoft.ServiceBus/namespaces/networkrulesets/virtualNetworkRules[*].subnet` |
+| `properties.virtualNetworkRules[*].subnet.id` | `Microsoft.ServiceBus/namespaces/networkrulesets/virtualNetworkRules[*].subnet.id` |
+| `properties.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint` | `Microsoft.ServiceBus/namespaces/networkrulesets/virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint` |
+| `properties.ipRules` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules` |
+| `properties.ipRules[*]` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules[*]` |
+| `properties.ipRules[*].ipMask` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules[*].ipMask` |
+| `properties.ipRules[*].action` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules[*].action` |
 

@@ -31,4 +31,21 @@
 | `properties.ipFilterRules[*].ipMask` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].ipMask` |
 | `properties.ipFilterRules[*].target` | `Microsoft.Devices/provisioningServices/ipFilterRules[*].target` |
 | `properties.ipFilterRules` | `Microsoft.Devices/provisioningServices/ipFilterRules` |
+| `properties.publicNetworkAccess` | `Microsoft.Devices/provisioningServices/publicNetworkAccess` |
+| `properties.privateEndpointConnections` | `Microsoft.Devices/provisioningServices/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.encryption` | `Microsoft.Devices/provisioningServices/encryption` |
+| `properties.encryption.keySource` | `Microsoft.Devices/provisioningServices/encryption.keySource` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties` |
+| `properties.encryption.keyVaultProperties[*]` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties[*]` |
+| `properties.encryption.keyVaultProperties[*].keyIdentifier` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties[*].keyIdentifier` |
 

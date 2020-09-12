@@ -334,6 +334,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Devices/IotHubs/certificates](aliases/Microsoft.Devices/IotHubs-certificates.md)
 - [Microsoft.Devices/iotHubs/privateEndpointConnections](aliases/Microsoft.Devices/iotHubs-privateEndpointConnections.md)
 - [Microsoft.Devices/provisioningServices/certificates](aliases/Microsoft.Devices/provisioningServices-certificates.md)
+- [Microsoft.Devices/provisioningServices/privateEndpointConnections](aliases/Microsoft.Devices/provisioningServices-privateEndpointConnections.md)
 
 
 ## Microsoft.DevSpaces
@@ -813,6 +814,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ServiceBus/namespaces/messagingPlan](aliases/Microsoft.ServiceBus/namespaces-messagingPlan.md)
 - [Microsoft.ServiceBus/namespaces/migrationConfigurations](aliases/Microsoft.ServiceBus/namespaces-migrationConfigurations.md)
 - [Microsoft.ServiceBus/namespaces/virtualNetworkRules](aliases/Microsoft.ServiceBus/namespaces-virtualNetworkRules.md)
+- [Microsoft.ServiceBus/namespaces/privateEndpointConnections](aliases/Microsoft.ServiceBus/namespaces-privateEndpointConnections.md)
 
 
 ## Microsoft.ServiceFabric
