@@ -750,6 +750,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.RecoveryServices/vaults/replicationRecoveryPlans](aliases/Microsoft.RecoveryServices/vaults-replicationRecoveryPlans.md)
 - [Microsoft.RecoveryServices/vaults/replicationVaultSettings](aliases/Microsoft.RecoveryServices/vaults-replicationVaultSettings.md)
 - [Microsoft.RecoveryServices/Vaults/backupconfig](aliases/Microsoft.RecoveryServices/Vaults-backupconfig.md)
+- [Microsoft.RecoveryServices/vaults/backupProtectedItems](aliases/Microsoft.RecoveryServices/vaults-backupProtectedItems.md)
 
 
 ## Microsoft.Resources
