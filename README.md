@@ -733,6 +733,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.RecoveryServices
 
 - [Microsoft.RecoveryServices/vaults](aliases/Microsoft.RecoveryServices/vaults.md)
+- [Microsoft.RecoveryServices/backupProtectedItems](aliases/Microsoft.RecoveryServices/backupProtectedItems.md)
 - [Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent](aliases/Microsoft.RecoveryServices/Vaults-backupFabrics-backupProtectionIntent.md)
 - [Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers](aliases/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers.md)
 - [Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems](aliases/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems.md)
@@ -750,7 +751,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.RecoveryServices/vaults/replicationRecoveryPlans](aliases/Microsoft.RecoveryServices/vaults-replicationRecoveryPlans.md)
 - [Microsoft.RecoveryServices/vaults/replicationVaultSettings](aliases/Microsoft.RecoveryServices/vaults-replicationVaultSettings.md)
 - [Microsoft.RecoveryServices/Vaults/backupconfig](aliases/Microsoft.RecoveryServices/Vaults-backupconfig.md)
-- [Microsoft.RecoveryServices/vaults/backupProtectedItems](aliases/Microsoft.RecoveryServices/vaults-backupProtectedItems.md)
 
 
 ## Microsoft.Resources
