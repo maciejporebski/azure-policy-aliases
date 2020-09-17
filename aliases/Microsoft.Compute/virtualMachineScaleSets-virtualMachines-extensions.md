@@ -10,4 +10,5 @@
 | `properties.settings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/settings` |
 | `properties.protectedSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettings` |
 | `properties.provisioningState` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/provisioningState` |
+| `properties.enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/enableAutomaticUpgrade` |
 

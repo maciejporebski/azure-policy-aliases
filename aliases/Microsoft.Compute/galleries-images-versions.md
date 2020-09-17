@@ -47,4 +47,7 @@
 | `properties.publishingProfile.targetRegions[*].encryption.dataDiskImages[*].diskEncryptionSetId` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages[*].diskEncryptionSetId` |
 | `properties.publishingProfile.targetRegions[*].encryption.dataDiskImages[*].lun` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages[*].lun` |
 | `properties.publishingProfile.targetRegions[*].encryption.dataDiskImages` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages` |
+| `properties.storageProfile.source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.source.uri` |
+| `properties.storageProfile.osDiskImage.source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.uri` |
+| `properties.storageProfile.dataDiskImages[*].source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.uri` |
 

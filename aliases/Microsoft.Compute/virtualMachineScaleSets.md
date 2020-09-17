@@ -237,4 +237,5 @@
 | `properties.virtualMachineProfile.securityProfile.uefiSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.uefiSettings` |
 | `properties.virtualMachineProfile.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.uefiSettings.secureBootEnabled` |
 | `properties.virtualMachineProfile.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.uefiSettings.vTpmEnabled` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].enableAutomaticUpgrade` |
 

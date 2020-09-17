@@ -72,4 +72,6 @@
 | `properties.shareInfo` | `Microsoft.Compute/disks/shareInfo` |
 | `properties.networkAccessPolicy` | `Microsoft.Compute/disks/networkAccessPolicy` |
 | `properties.diskAccessId` | `Microsoft.Compute/disks/diskAccessId` |
+| `properties.creationData.logicalSectorSize` | `Microsoft.Compute/disks/creationData.logicalSectorSize` |
+| `properties.tier` | `Microsoft.Compute/disks/tier` |
 

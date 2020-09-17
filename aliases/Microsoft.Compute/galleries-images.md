@@ -29,4 +29,8 @@
 | `properties.purchasePlan` | `Microsoft.Compute/galleries/images/purchasePlan` |
 | `properties.provisioningState` | `Microsoft.Compute/galleries/images/provisioningState` |
 | `properties.hyperVGeneration` | `Microsoft.Compute/galleries/images/hyperVGeneration` |
+| `properties.features` | `Microsoft.Compute/galleries/images/features` |
+| `properties.features[*]` | `Microsoft.Compute/galleries/images/features[*]` |
+| `properties.features[*].name` | `Microsoft.Compute/galleries/images/features[*].name` |
+| `properties.features[*].value` | `Microsoft.Compute/galleries/images/features[*].value` |
 

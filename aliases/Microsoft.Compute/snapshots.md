@@ -57,4 +57,6 @@
 | `properties.creationData.galleryImageReference.lun` | `Microsoft.Compute/snapshots/creationData.galleryImageReference.lun` |
 | `properties.networkAccessPolicy` | `Microsoft.Compute/snapshots/networkAccessPolicy` |
 | `properties.diskAccessId` | `Microsoft.Compute/snapshots/diskAccessId` |
+| `properties.creationData.logicalSectorSize` | `Microsoft.Compute/snapshots/creationData.logicalSectorSize` |
+| `properties.diskState` | `Microsoft.Compute/snapshots/diskState` |
 

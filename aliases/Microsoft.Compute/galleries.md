@@ -35,4 +35,11 @@
 | `properties.replicationStatus.summary[*]` | `Microsoft.Compute/galleries/applications.versions.replicationStatus.summary[*]` |
 | `properties.replicationStatus.summary` | `Microsoft.Compute/galleries/applications.versions.replicationStatus.summary` |
 | `properties.replicationStatus` | `Microsoft.Compute/galleries/applications.versions.replicationStatus` |
+| `properties.sharingProfile` | `Microsoft.Compute/galleries/sharingProfile` |
+| `properties.sharingProfile.permissions` | `Microsoft.Compute/galleries/sharingProfile.permissions` |
+| `properties.sharingProfile.groups` | `Microsoft.Compute/galleries/sharingProfile.groups` |
+| `properties.sharingProfile.groups[*]` | `Microsoft.Compute/galleries/sharingProfile.groups[*]` |
+| `properties.sharingProfile.groups[*].type` | `Microsoft.Compute/galleries/sharingProfile.groups[*].type` |
+| `properties.sharingProfile.groups[*].ids` | `Microsoft.Compute/galleries/sharingProfile.groups[*].ids` |
+| `properties.sharingProfile.groups[*].ids[*]` | `Microsoft.Compute/galleries/sharingProfile.groups[*].ids[*]` |
 
