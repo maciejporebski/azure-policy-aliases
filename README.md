@@ -726,6 +726,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.OperationsManagement/managementassociations](aliases/Microsoft.OperationsManagement/managementassociations.md)
 
 
+## Microsoft.Portal
+
+- [Microsoft.Portal/dashboards](aliases/Microsoft.Portal/dashboards.md)
+- [Microsoft.Portal/consoles](aliases/Microsoft.Portal/consoles.md)
+- [Microsoft.Portal/userSettings](aliases/Microsoft.Portal/userSettings.md)
+
+
 ## Microsoft.PowerBI
 
 - [Microsoft.PowerBI/workspaceCollections](aliases/Microsoft.PowerBI/workspaceCollections.md)

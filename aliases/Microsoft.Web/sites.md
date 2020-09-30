@@ -282,4 +282,5 @@
 | `properties.siteConfig.scmIpSecurityRestrictions[*].headers` | `Microsoft.Web/sites/siteConfig.scmIpSecurityRestrictions[*].headers` |
 | `properties.clientCertMode` | `Microsoft.Web/sites/clientCertMode` |
 | `properties.customDomainVerificationId` | `Microsoft.Web/sites/customDomainVerificationId` |
+| `properties.siteConfig.scmMinTlsVersion` | `Microsoft.Web/sites/siteConfig.scmMinTlsVersion` |
 

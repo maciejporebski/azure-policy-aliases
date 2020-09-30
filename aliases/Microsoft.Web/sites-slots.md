@@ -299,4 +299,5 @@
 | `properties.siteConfig.scmIpSecurityRestrictions[*].headers` | `Microsoft.Web/sites/slots/siteConfig.scmIpSecurityRestrictions[*].headers` |
 | `properties.clientCertMode` | `Microsoft.Web/sites/slots/clientCertMode` |
 | `properties.customDomainVerificationId` | `Microsoft.Web/sites/slots/customDomainVerificationId` |
+| `properties.siteConfig.scmMinTlsVersion` | `Microsoft.Web/sites/slots/siteConfig.scmMinTlsVersion` |
 

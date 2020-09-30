@@ -8,4 +8,10 @@
 | `properties.deploymentRollbackEnabled` | `Microsoft.Web/sites/sourcecontrols/web.deploymentRollbackEnabled` |
 | `properties.isMercurial` | `Microsoft.Web/sites/sourcecontrols/web.isMercurial` |
 | `properties.isGitHubAction` | `Microsoft.Web/sites/sourcecontrols/web.isGitHubAction` |
+| `properties.repoUrl` | `Microsoft.Web/sites/sourcecontrols/repoUrl` |
+| `properties.branch` | `Microsoft.Web/sites/sourcecontrols/branch` |
+| `properties.isManualIntegration` | `Microsoft.Web/sites/sourcecontrols/isManualIntegration` |
+| `properties.deploymentRollbackEnabled` | `Microsoft.Web/sites/sourcecontrols/deploymentRollbackEnabled` |
+| `properties.isMercurial` | `Microsoft.Web/sites/sourcecontrols/isMercurial` |
+| `properties.isGitHubAction` | `Microsoft.Web/sites/sourcecontrols/isGitHubAction` |
 
