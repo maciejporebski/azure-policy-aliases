@@ -16,4 +16,14 @@
 | `properties.schema` | `Microsoft.DataFactory/factories/datasets/schema` |
 | `properties.folder.name` | `Microsoft.DataFactory/factories/datasets/folder.name` |
 | `properties.folder` | `Microsoft.DataFactory/factories/datasets/folder` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/AmazonS3Object.typeProperties` |
+| `properties.typeProperties.format` | `Microsoft.DataFactory/factories/datasets/AmazonS3Object.typeProperties.format` |
+| `properties.typeProperties.format.type` | `Microsoft.DataFactory/factories/datasets/AmazonS3Object.typeProperties.format.type` |
+| `properties.typeProperties.compression` | `Microsoft.DataFactory/factories/datasets/AmazonS3Object.typeProperties.compression` |
+| `properties.typeProperties.compression.type` | `Microsoft.DataFactory/factories/datasets/AmazonS3Object.typeProperties.compression.type` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Avro.typeProperties.location` |
+| `properties.typeProperties.location.type` | `Microsoft.DataFactory/factories/datasets/Avro.typeProperties.location.type` |
+| `properties.typeProperties.avroCompressionCodec` | `Microsoft.DataFactory/factories/datasets/Avro.typeProperties.avroCompressionCodec` |
+| `properties.typeProperties.avroCompressionLevel` | `Microsoft.DataFactory/factories/datasets/Avro.typeProperties.avroCompressionLevel` |
+| `properties.typeProperties.orcCompressionCodec` | `Microsoft.DataFactory/factories/datasets/Orc.typeProperties.orcCompressionCodec` |
 

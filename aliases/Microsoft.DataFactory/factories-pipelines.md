@@ -31,4 +31,12 @@
 | `properties.folder` | `Microsoft.DataFactory/factories/pipelines/folder` |
 | `properties.activities[*].userProperties[*].value` | `Microsoft.DataFactory/factories/pipelines/activities[*].userProperties[*].value` |
 | `properties.runDimensions` | `Microsoft.DataFactory/factories/pipelines/runDimensions` |
+| `properties.activities[*].linkedServiceName` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.linkedServiceName` |
+| `properties.activities[*].linkedServiceName.type` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.linkedServiceName.type` |
+| `properties.activities[*].linkedServiceName.referenceName` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.linkedServiceName.referenceName` |
+| `properties.activities[*].linkedServiceName.parameters` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.linkedServiceName.parameters` |
+| `properties.activities[*].policy` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.policy` |
+| `properties.activities[*].policy.retryIntervalInSeconds` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.policy.retryIntervalInSeconds` |
+| `properties.activities[*].policy.secureOutput` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.policy.secureOutput` |
+| `properties.activities[*].policy.secureInput` | `Microsoft.DataFactory/factories/pipelines/activities[*].Execution.policy.secureInput` |
 

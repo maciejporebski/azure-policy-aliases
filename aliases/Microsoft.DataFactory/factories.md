@@ -32,4 +32,9 @@
 | `properties.groupId` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.groupId` |
 | `properties.isReserved` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.isReserved` |
 | `properties.privateLinkResourceId` | `Microsoft.DataFactory/factories/managedVirtualNetworks.managedPrivateEndpoints.privateLinkResourceId` |
+| `properties.repoConfiguration` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryVSTSConfiguration` |
+| `properties.repoConfiguration.projectName` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryVSTSConfiguration.projectName` |
+| `properties.repoConfiguration.tenantId` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryVSTSConfiguration.tenantId` |
+| `properties.repoConfiguration.hostName` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.hostName` |
+| `properties.publicNetworkAccess` | `Microsoft.DataFactory/factories/publicNetworkAccess` |
 
