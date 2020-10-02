@@ -23,4 +23,5 @@
 | `properties.corsConfiguration.allowCredentials` | `Microsoft.HealthcareApis/services/corsConfiguration.allowCredentials` |
 | `properties.exportConfiguration` | `Microsoft.HealthcareApis/services/exportConfiguration` |
 | `properties.exportConfiguration.storageAccountName` | `Microsoft.HealthcareApis/services/exportConfiguration.storageAccountName` |
+| `properties.cosmosDbConfiguration.keyVaultKeyUri` | `Microsoft.HealthcareApis/services/cosmosDbConfiguration.keyVaultKeyUri` |
 
