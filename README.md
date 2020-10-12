@@ -430,13 +430,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EventHub/clusters](aliases/Microsoft.EventHub/clusters.md)
 - [Microsoft.EventHub/namespaces/authorizationrules](aliases/Microsoft.EventHub/namespaces-authorizationrules.md)
 - [Microsoft.EventHub/namespaces/networkrulesets](aliases/Microsoft.EventHub/namespaces-networkrulesets.md)
+- [Microsoft.EventHub/namespaces/privateEndpointConnections](aliases/Microsoft.EventHub/namespaces-privateEndpointConnections.md)
 - [Microsoft.EventHub/namespaces/eventhubs](aliases/Microsoft.EventHub/namespaces-eventhubs.md)
 - [Microsoft.EventHub/namespaces/eventhubs/authorizationrules](aliases/Microsoft.EventHub/namespaces-eventhubs-authorizationrules.md)
 - [Microsoft.EventHub/namespaces/eventhubs/consumergroups](aliases/Microsoft.EventHub/namespaces-eventhubs-consumergroups.md)
 - [Microsoft.EventHub/namespaces/disasterrecoveryconfigs](aliases/Microsoft.EventHub/namespaces-disasterrecoveryconfigs.md)
 - [Microsoft.EventHub/namespaces/ipFilterRules](aliases/Microsoft.EventHub/namespaces-ipFilterRules.md)
 - [Microsoft.EventHub/namespaces/virtualNetworkRules](aliases/Microsoft.EventHub/namespaces-virtualNetworkRules.md)
-- [Microsoft.EventHub/namespaces/privateEndpointConnections](aliases/Microsoft.EventHub/namespaces-privateEndpointConnections.md)
 
 
 ## Microsoft.GuestConfiguration
@@ -818,6 +818,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ServiceBus/namespaces](aliases/Microsoft.ServiceBus/namespaces.md)
 - [Microsoft.ServiceBus/namespaces/authorizationrules](aliases/Microsoft.ServiceBus/namespaces-authorizationrules.md)
 - [Microsoft.ServiceBus/namespaces/networkrulesets](aliases/Microsoft.ServiceBus/namespaces-networkrulesets.md)
+- [Microsoft.ServiceBus/namespaces/privateEndpointConnections](aliases/Microsoft.ServiceBus/namespaces-privateEndpointConnections.md)
 - [Microsoft.ServiceBus/namespaces/queues](aliases/Microsoft.ServiceBus/namespaces-queues.md)
 - [Microsoft.ServiceBus/namespaces/queues/authorizationrules](aliases/Microsoft.ServiceBus/namespaces-queues-authorizationrules.md)
 - [Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs](aliases/Microsoft.ServiceBus/namespaces-disasterrecoveryconfigs.md)
@@ -825,7 +826,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ServiceBus/namespaces/messagingPlan](aliases/Microsoft.ServiceBus/namespaces-messagingPlan.md)
 - [Microsoft.ServiceBus/namespaces/migrationConfigurations](aliases/Microsoft.ServiceBus/namespaces-migrationConfigurations.md)
 - [Microsoft.ServiceBus/namespaces/virtualNetworkRules](aliases/Microsoft.ServiceBus/namespaces-virtualNetworkRules.md)
-- [Microsoft.ServiceBus/namespaces/privateEndpointConnections](aliases/Microsoft.ServiceBus/namespaces-privateEndpointConnections.md)
 
 
 ## Microsoft.ServiceFabric
