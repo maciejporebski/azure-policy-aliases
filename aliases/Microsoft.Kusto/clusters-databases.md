@@ -9,4 +9,13 @@
 | `properties.statistics` | `Microsoft.Kusto/clusters/databases/statistics` |
 | `properties.softDeletePeriod` | `Microsoft.Kusto/clusters/databases/softDeletePeriod` |
 | `properties.hotCachePeriod` | `Microsoft.Kusto/clusters/databases/hotCachePeriod` |
+| `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/ReadWrite.provisioningState` |
+| `properties.statistics` | `Microsoft.Kusto/clusters/databases/ReadWrite.statistics` |
+| `properties.statistics.size` | `Microsoft.Kusto/clusters/databases/ReadWrite.statistics.size` |
+| `properties.softDeletePeriod` | `Microsoft.Kusto/clusters/databases/ReadWrite.softDeletePeriod` |
+| `properties.hotCachePeriod` | `Microsoft.Kusto/clusters/databases/ReadWrite.hotCachePeriod` |
+| `properties.leaderClusterResourceId` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.leaderClusterResourceId` |
+| `properties.attachedDatabaseConfigurationName` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.attachedDatabaseConfigurationName` |
+| `properties.principalsModificationKind` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.principalsModificationKind` |
+| `properties.isFollowed` | `Microsoft.Kusto/clusters/databases/ReadWrite.isFollowed` |
 

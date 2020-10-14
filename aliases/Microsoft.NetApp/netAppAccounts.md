@@ -13,4 +13,11 @@
 | `properties.activeDirectories[*].organizationalUnit` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].organizationalUnit` |
 | `properties.activeDirectories[*]` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*]` |
 | `properties.activeDirectories` | `Microsoft.NetApp/netAppAccounts/activeDirectories` |
+| `properties.activeDirectories[*].site` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].site` |
+| `properties.activeDirectories[*].backupOperators` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].backupOperators` |
+| `properties.activeDirectories[*].backupOperators[*]` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].backupOperators[*]` |
+| `properties.activeDirectories[*].statusDetails` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].statusDetails` |
+| `properties.activeDirectories[*].kdcIP` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].kdcIP` |
+| `properties.activeDirectories[*].adName` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].adName` |
+| `properties.activeDirectories[*].serverRootCACertificate` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].serverRootCACertificate` |
 

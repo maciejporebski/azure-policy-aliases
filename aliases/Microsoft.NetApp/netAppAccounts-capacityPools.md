@@ -6,4 +6,7 @@
 | `properties.size` | `Microsoft.NetApp/netAppAccounts/capacityPools/size` |
 | `properties.serviceLevel` | `Microsoft.NetApp/netAppAccounts/capacityPools/serviceLevel` |
 | `properties.provisioningState` | `Microsoft.NetApp/netAppAccounts/capacityPools/provisioningState` |
+| `properties.totalThroughputMibps` | `Microsoft.NetApp/netAppAccounts/capacityPools/totalThroughputMibps` |
+| `properties.utilizedThroughputMibps` | `Microsoft.NetApp/netAppAccounts/capacityPools/utilizedThroughputMibps` |
+| `properties.qosType` | `Microsoft.NetApp/netAppAccounts/capacityPools/qosType` |
 

@@ -30,4 +30,13 @@
 | `properties.keyVaultProperties.keyVersion` | `Microsoft.Kusto/clusters/keyVaultProperties.keyVersion` |
 | `properties.keyVaultProperties.keyVaultUri` | `Microsoft.Kusto/clusters/keyVaultProperties.keyVaultUri` |
 | `properties.keyVaultProperties` | `Microsoft.Kusto/clusters/keyVaultProperties` |
+| `properties.stateReason` | `Microsoft.Kusto/clusters/stateReason` |
+| `properties.enablePurge` | `Microsoft.Kusto/clusters/enablePurge` |
+| `properties.languageExtensions` | `Microsoft.Kusto/clusters/languageExtensions` |
+| `properties.languageExtensions.value` | `Microsoft.Kusto/clusters/languageExtensions.value` |
+| `properties.languageExtensions.value[*]` | `Microsoft.Kusto/clusters/languageExtensions.value[*]` |
+| `properties.languageExtensions.value[*].languageExtensionName` | `Microsoft.Kusto/clusters/languageExtensions.value[*].languageExtensionName` |
+| `properties.enableDoubleEncryption` | `Microsoft.Kusto/clusters/enableDoubleEncryption` |
+| `properties.keyVaultProperties.userIdentity` | `Microsoft.Kusto/clusters/keyVaultProperties.userIdentity` |
+| `properties.engineType` | `Microsoft.Kusto/clusters/engineType` |
 

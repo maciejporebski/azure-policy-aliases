@@ -515,7 +515,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Kusto/clusters](aliases/Microsoft.Kusto/clusters.md)
 - [Microsoft.Kusto/clusters/databases](aliases/Microsoft.Kusto/clusters-databases.md)
 - [Microsoft.Kusto/clusters/attacheddatabaseconfigurations](aliases/Microsoft.Kusto/clusters-attacheddatabaseconfigurations.md)
+- [Microsoft.Kusto/clusters/principalassignments](aliases/Microsoft.Kusto/clusters-principalassignments.md)
 - [Microsoft.Kusto/clusters/databases/eventhubconnections](aliases/Microsoft.Kusto/clusters-databases-eventhubconnections.md)
+- [Microsoft.Kusto/clusters/databases/dataconnections](aliases/Microsoft.Kusto/clusters-databases-dataconnections.md)
+- [Microsoft.Kusto/clusters/databases/principalassignments](aliases/Microsoft.Kusto/clusters-databases-principalassignments.md)
 
 
 ## Microsoft.LabServices
@@ -598,9 +601,12 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.NetApp
 
 - [Microsoft.NetApp/netAppAccounts](aliases/Microsoft.NetApp/netAppAccounts.md)
+- [Microsoft.NetApp/netAppAccounts/backupPolicies](aliases/Microsoft.NetApp/netAppAccounts-backupPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools](aliases/Microsoft.NetApp/netAppAccounts-capacityPools.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
+- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
+- [Microsoft.NetApp/netAppAccounts/snapshotPolicies](aliases/Microsoft.NetApp/netAppAccounts-snapshotPolicies.md)
 
 
 ## Microsoft.Network
@@ -987,6 +993,22 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Subscription
 
 - [Microsoft.Subscription/SubscriptionDefinitions](aliases/Microsoft.Subscription/SubscriptionDefinitions.md)
+
+
+## Microsoft.Synapse
+
+- [Microsoft.Synapse/workspaces](aliases/Microsoft.Synapse/workspaces.md)
+- [Microsoft.Synapse/workspaces/bigDataPools](aliases/Microsoft.Synapse/workspaces-bigDataPools.md)
+- [Microsoft.Synapse/workspaces/sqlPools](aliases/Microsoft.Synapse/workspaces-sqlPools.md)
+- [Microsoft.Synapse/privateLinkHubs](aliases/Microsoft.Synapse/privateLinkHubs.md)
+- [Microsoft.Synapse/workspaces/administrators](aliases/Microsoft.Synapse/workspaces-administrators.md)
+- [Microsoft.Synapse/workspaces/firewallRules](aliases/Microsoft.Synapse/workspaces-firewallRules.md)
+- [Microsoft.Synapse/workspaces/integrationruntimes](aliases/Microsoft.Synapse/workspaces-integrationruntimes.md)
+- [Microsoft.Synapse/workspaces/managedIdentitySqlControlSettings](aliases/Microsoft.Synapse/workspaces-managedIdentitySqlControlSettings.md)
+- [Microsoft.Synapse/workspaces/sqlPools/auditingSettings](aliases/Microsoft.Synapse/workspaces-sqlPools-auditingSettings.md)
+- [Microsoft.Synapse/workspaces/sqlPools/metadataSync](aliases/Microsoft.Synapse/workspaces-sqlPools-metadataSync.md)
+- [Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies](aliases/Microsoft.Synapse/workspaces-sqlPools-securityAlertPolicies.md)
+- [Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption](aliases/Microsoft.Synapse/workspaces-sqlPools-transparentDataEncryption.md)
 
 
 ## Microsoft.TimeSeriesInsights
