@@ -108,10 +108,10 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Batch
 
 - [Microsoft.Batch/batchAccounts](aliases/Microsoft.Batch/batchAccounts.md)
+- [Microsoft.Batch/batchAccounts/pools](aliases/Microsoft.Batch/batchAccounts-pools.md)
+- [Microsoft.Batch/batchAccounts/certificates](aliases/Microsoft.Batch/batchAccounts-certificates.md)
 - [Microsoft.Batch/batchAccounts/applications](aliases/Microsoft.Batch/batchAccounts-applications.md)
 - [Microsoft.Batch/batchAccounts/applications/versions](aliases/Microsoft.Batch/batchAccounts-applications-versions.md)
-- [Microsoft.Batch/batchAccounts/certificates](aliases/Microsoft.Batch/batchAccounts-certificates.md)
-- [Microsoft.Batch/batchAccounts/pools](aliases/Microsoft.Batch/batchAccounts-pools.md)
 
 
 ## Microsoft.Blockchain

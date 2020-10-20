@@ -412,4 +412,6 @@
 | `properties.ipSecurityRestrictions[*].headers` | `Microsoft.Web/sites/config/ipSecurityRestrictions[*].headers` |
 | `properties.scmIpSecurityRestrictions[*].headers` | `Microsoft.Web/sites/config/scmIpSecurityRestrictions[*].headers` |
 | `properties.scmMinTlsVersion` | `Microsoft.Web/sites/config/scmMinTlsVersion` |
+| `properties.vnetRouteAllEnabled` | `Microsoft.Web/sites/config/vnetRouteAllEnabled` |
+| `properties.vnetPrivatePortsCount` | `Microsoft.Web/sites/config/vnetPrivatePortsCount` |
 

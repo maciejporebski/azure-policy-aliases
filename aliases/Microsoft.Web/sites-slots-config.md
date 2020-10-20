@@ -376,4 +376,6 @@
 | `properties.ipSecurityRestrictions[*].headers` | `Microsoft.Web/sites/slots/config/ipSecurityRestrictions[*].headers` |
 | `properties.scmIpSecurityRestrictions[*].headers` | `Microsoft.Web/sites/slots/config/scmIpSecurityRestrictions[*].headers` |
 | `properties.scmMinTlsVersion` | `Microsoft.Web/sites/slots/config/scmMinTlsVersion` |
+| `properties.vnetRouteAllEnabled` | `Microsoft.Web/sites/slots/config/vnetRouteAllEnabled` |
+| `properties.vnetPrivatePortsCount` | `Microsoft.Web/sites/slots/config/vnetPrivatePortsCount` |
 

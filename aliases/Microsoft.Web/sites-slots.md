@@ -300,4 +300,6 @@
 | `properties.clientCertMode` | `Microsoft.Web/sites/slots/clientCertMode` |
 | `properties.customDomainVerificationId` | `Microsoft.Web/sites/slots/customDomainVerificationId` |
 | `properties.siteConfig.scmMinTlsVersion` | `Microsoft.Web/sites/slots/siteConfig.scmMinTlsVersion` |
+| `properties.siteConfig.vnetRouteAllEnabled` | `Microsoft.Web/sites/slots/siteConfig.vnetRouteAllEnabled` |
+| `properties.siteConfig.vnetPrivatePortsCount` | `Microsoft.Web/sites/slots/siteConfig.vnetPrivatePortsCount` |
 
