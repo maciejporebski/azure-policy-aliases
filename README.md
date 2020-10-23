@@ -453,6 +453,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.HealthcareApis
 
 - [Microsoft.HealthcareApis/services](aliases/Microsoft.HealthcareApis/services.md)
+- [Microsoft.HealthcareApis/services/privateEndpointConnections](aliases/Microsoft.HealthcareApis/services-privateEndpointConnections.md)
 
 
 ## Microsoft.HybridCompute
@@ -993,6 +994,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Subscription
 
 - [Microsoft.Subscription/SubscriptionDefinitions](aliases/Microsoft.Subscription/SubscriptionDefinitions.md)
+- [Microsoft.Subscription/aliases](aliases/Microsoft.Subscription/aliases.md)
 
 
 ## Microsoft.Synapse

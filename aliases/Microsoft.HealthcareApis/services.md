@@ -24,4 +24,17 @@
 | `properties.exportConfiguration` | `Microsoft.HealthcareApis/services/exportConfiguration` |
 | `properties.exportConfiguration.storageAccountName` | `Microsoft.HealthcareApis/services/exportConfiguration.storageAccountName` |
 | `properties.cosmosDbConfiguration.keyVaultKeyUri` | `Microsoft.HealthcareApis/services/cosmosDbConfiguration.keyVaultKeyUri` |
+| `properties.privateEndpointConnections` | `Microsoft.HealthcareApis/services/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].provisioningState` |
+| `properties.publicNetworkAccess` | `Microsoft.HealthcareApis/services/publicNetworkAccess` |
 
