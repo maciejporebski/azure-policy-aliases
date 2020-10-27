@@ -234,6 +234,18 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataBox/jobs](aliases/Microsoft.DataBox/jobs.md)
 
 
+## Microsoft.DataBoxEdge
+
+- [Microsoft.DataBoxEdge/DataBoxEdgeDevices](aliases/Microsoft.DataBoxEdge/DataBoxEdgeDevices.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-bandwidthSchedules.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-orders.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/shares](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-shares.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccountCredentials](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccountCredentials.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/containers](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-storageAccounts-containers.md)
+- [Microsoft.DataBoxEdge/dataBoxEdgeDevices/users](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-users.md)
+
+
 ## Microsoft.Databricks
 
 - [Microsoft.Databricks/workspaces](aliases/Microsoft.Databricks/workspaces.md)
@@ -738,6 +750,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Portal
 
 - [Microsoft.Portal/dashboards](aliases/Microsoft.Portal/dashboards.md)
+- [Microsoft.Portal/tenantconfigurations](aliases/Microsoft.Portal/tenantconfigurations.md)
 - [Microsoft.Portal/consoles](aliases/Microsoft.Portal/consoles.md)
 - [Microsoft.Portal/userSettings](aliases/Microsoft.Portal/userSettings.md)
 

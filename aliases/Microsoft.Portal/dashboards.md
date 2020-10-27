@@ -26,4 +26,5 @@
 | `properties.lenses[*].parts[*].metadata.settings.content.settings.markdownUri` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.settings.markdownUri` |
 | `properties.lenses[*].parts[*].metadata.type` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.type` |
 | `properties.lenses[*].metadata` | `Microsoft.Portal/dashboards/lenses[*].metadata` |
+| `properties.lenses[*].parts[*].metadata.settings.content.settings.markdownSource` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.settings.markdownSource` |
 
