@@ -76,6 +76,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Authorization/policyDefinitions](aliases/Microsoft.Authorization/policyDefinitions.md)
 - [Microsoft.Authorization/policySetDefinitions](aliases/Microsoft.Authorization/policySetDefinitions.md)
 - [Microsoft.Authorization/policyAssignments](aliases/Microsoft.Authorization/policyAssignments.md)
+- [Microsoft.Authorization/policyExemptions](aliases/Microsoft.Authorization/policyExemptions.md)
 
 
 ## Microsoft.Automanage
