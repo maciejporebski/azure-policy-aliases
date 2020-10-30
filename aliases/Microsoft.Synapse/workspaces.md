@@ -31,4 +31,12 @@
 | `properties.managedVirtualNetworkSettings.linkedAccessCheckOnTargetResource` | `Microsoft.Synapse/workspaces/managedVirtualNetworkSettings.linkedAccessCheckOnTargetResource` |
 | `properties.managedVirtualNetworkSettings.allowedAadTenantIdsForLinking` | `Microsoft.Synapse/workspaces/managedVirtualNetworkSettings.allowedAadTenantIdsForLinking` |
 | `properties.managedVirtualNetworkSettings.allowedAadTenantIdsForLinking[*]` | `Microsoft.Synapse/workspaces/managedVirtualNetworkSettings.allowedAadTenantIdsForLinking[*]` |
+| `properties.encryption` | `Microsoft.Synapse/workspaces/encryption` |
+| `properties.encryption.doubleEncryptionEnabled` | `Microsoft.Synapse/workspaces/encryption.doubleEncryptionEnabled` |
+| `properties.encryption.cmk` | `Microsoft.Synapse/workspaces/encryption.cmk` |
+| `properties.encryption.cmk.status` | `Microsoft.Synapse/workspaces/encryption.cmk.status` |
+| `properties.encryption.cmk.key` | `Microsoft.Synapse/workspaces/encryption.cmk.key` |
+| `properties.encryption.cmk.key.name` | `Microsoft.Synapse/workspaces/encryption.cmk.key.name` |
+| `properties.encryption.cmk.key.keyVaultUrl` | `Microsoft.Synapse/workspaces/encryption.cmk.key.keyVaultUrl` |
+| `properties.workspaceUID` | `Microsoft.Synapse/workspaces/workspaceUID` |
 

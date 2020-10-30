@@ -26,4 +26,12 @@
 | `properties.defaultSparkLogFolder` | `Microsoft.Synapse/workspaces/bigDataPools/defaultSparkLogFolder` |
 | `properties.nodeSize` | `Microsoft.Synapse/workspaces/bigDataPools/nodeSize` |
 | `properties.nodeSizeFamily` | `Microsoft.Synapse/workspaces/bigDataPools/nodeSizeFamily` |
+| `properties.sessionLevelPackagesEnabled` | `Microsoft.Synapse/workspaces/bigDataPools/sessionLevelPackagesEnabled` |
+| `properties.customLibraries` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries` |
+| `properties.customLibraries[*]` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*]` |
+| `properties.customLibraries[*].name` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].name` |
+| `properties.customLibraries[*].path` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].path` |
+| `properties.customLibraries[*].containerName` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].containerName` |
+| `properties.customLibraries[*].uploadedTimestamp` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].uploadedTimestamp` |
+| `properties.customLibraries[*].type` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].type` |
 
