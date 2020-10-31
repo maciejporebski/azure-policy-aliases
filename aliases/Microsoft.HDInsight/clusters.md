@@ -75,4 +75,11 @@
 | `properties.computeProfile.roles[*].autoscale.recurrence.schedule` | `Microsoft.HDInsight/clusters/computeProfile.roles[*].autoscale.recurrence.schedule` |
 | `properties.computeProfile.roles[*].autoscale.recurrence` | `Microsoft.HDInsight/clusters/computeProfile.roles[*].autoscale.recurrence` |
 | `properties.computeProfile.roles[*].autoscale` | `Microsoft.HDInsight/clusters/computeProfile.roles[*].autoscale` |
+| `properties.diskEncryptionProperties.encryptionAtHost` | `Microsoft.HDInsight/clusters/diskEncryptionProperties.encryptionAtHost` |
+| `properties.encryptionInTransitProperties` | `Microsoft.HDInsight/clusters/encryptionInTransitProperties` |
+| `properties.encryptionInTransitProperties.isEncryptionInTransitEnabled` | `Microsoft.HDInsight/clusters/encryptionInTransitProperties.isEncryptionInTransitEnabled` |
+| `properties.minSupportedTlsVersion` | `Microsoft.HDInsight/clusters/minSupportedTlsVersion` |
+| `properties.networkProperties` | `Microsoft.HDInsight/clusters/networkProperties` |
+| `properties.networkProperties.resourceProviderConnection` | `Microsoft.HDInsight/clusters/networkProperties.resourceProviderConnection` |
+| `properties.networkProperties.privateLink` | `Microsoft.HDInsight/clusters/networkProperties.privateLink` |
 
