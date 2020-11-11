@@ -16,4 +16,22 @@
 | `properties.Configuration.WebTest` | `Microsoft.Insights/webtests/Configuration.WebTest` |
 | `properties.Configuration` | `Microsoft.Insights/webtests/Configuration` |
 | `properties.provisioningState` | `Microsoft.Insights/webtests/provisioningState` |
+| `properties.Request` | `Microsoft.Insights/webtests/Request` |
+| `properties.Request.RequestUrl` | `Microsoft.Insights/webtests/Request.RequestUrl` |
+| `properties.Request.Headers` | `Microsoft.Insights/webtests/Request.Headers` |
+| `properties.Request.Headers[*]` | `Microsoft.Insights/webtests/Request.Headers[*]` |
+| `properties.Request.Headers[*].key` | `Microsoft.Insights/webtests/Request.Headers[*].key` |
+| `properties.Request.Headers[*].value` | `Microsoft.Insights/webtests/Request.Headers[*].value` |
+| `properties.Request.HttpVerb` | `Microsoft.Insights/webtests/Request.HttpVerb` |
+| `properties.Request.RequestBody` | `Microsoft.Insights/webtests/Request.RequestBody` |
+| `properties.Request.ParseDependentRequests` | `Microsoft.Insights/webtests/Request.ParseDependentRequests` |
+| `properties.Request.FollowRedirects` | `Microsoft.Insights/webtests/Request.FollowRedirects` |
+| `properties.ContentValidation` | `Microsoft.Insights/webtests/ContentValidation` |
+| `properties.ContentValidation.ContentMatch` | `Microsoft.Insights/webtests/ContentValidation.ContentMatch` |
+| `properties.ContentValidation.IgnoreCase` | `Microsoft.Insights/webtests/ContentValidation.IgnoreCase` |
+| `properties.ContentValidation.PassIfTextFound` | `Microsoft.Insights/webtests/ContentValidation.PassIfTextFound` |
+| `properties.SSLCheck` | `Microsoft.Insights/webtests/SSLCheck` |
+| `properties.SSLCertRemainingLifetimeCheck` | `Microsoft.Insights/webtests/SSLCertRemainingLifetimeCheck` |
+| `properties.ExpectedHttpStatusCode` | `Microsoft.Insights/webtests/ExpectedHttpStatusCode` |
+| `properties.IgnoreHttpsStatusCode` | `Microsoft.Insights/webtests/IgnoreHttpsStatusCode` |
 

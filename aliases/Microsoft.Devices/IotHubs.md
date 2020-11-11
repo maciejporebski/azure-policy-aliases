@@ -128,4 +128,6 @@
 | `properties.encryption.keyVaultProperties.keyIdentifier` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties.keyIdentifier` |
 | `properties.encryption.keyVaultProperties[*]` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties[*]` |
 | `properties.encryption.keyVaultProperties[*].keyIdentifier` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties[*].keyIdentifier` |
+| `properties.encryption.keyVaultProperties[*].identity` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties[*].identity` |
+| `properties.encryption.keyVaultProperties[*].identity.userAssignedIdentity` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties[*].identity.userAssignedIdentity` |
 

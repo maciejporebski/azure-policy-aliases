@@ -12,4 +12,8 @@
 | `properties.keyVaultProperties.keyName` | `Microsoft.OperationalInsights/clusters/keyVaultProperties.keyName` |
 | `properties.keyVaultProperties.keyVersion` | `Microsoft.OperationalInsights/clusters/keyVaultProperties.keyVersion` |
 | `properties.keyVaultProperties` | `Microsoft.OperationalInsights/clusters/keyVaultProperties` |
+| `properties.isDoubleEncryptionEnabled` | `Microsoft.OperationalInsights/clusters/isDoubleEncryptionEnabled` |
+| `properties.isAvailabilityZonesEnabled` | `Microsoft.OperationalInsights/clusters/isAvailabilityZonesEnabled` |
+| `properties.billingType` | `Microsoft.OperationalInsights/clusters/billingType` |
+| `properties.keyVaultProperties.rsaKeySize` | `Microsoft.OperationalInsights/clusters/keyVaultProperties.rsaKeySize` |
 

@@ -11,4 +11,5 @@
 | `properties.tags[*]` | `Microsoft.Insights/myWorkbooks/tags[*]` |
 | `properties.userId` | `Microsoft.Insights/myWorkbooks/userId` |
 | `properties.sourceId` | `Microsoft.Insights/myWorkbooks/sourceId` |
+| `properties.storageUri` | `Microsoft.Insights/myWorkbooks/storageUri` |
 
