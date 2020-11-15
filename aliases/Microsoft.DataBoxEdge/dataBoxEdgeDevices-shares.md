@@ -30,4 +30,5 @@
 | `properties.shareMappings[*]` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/shareMappings[*]` |
 | `properties.shareMappings` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/shareMappings` |
 | `properties.dataPolicy` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/shares/dataPolicy` |
+| `properties.shareMappings[*].mountType` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/shares/shareMappings[*].mountType` |
 
