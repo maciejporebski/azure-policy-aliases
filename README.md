@@ -177,6 +177,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/virtualMachineScaleSets](aliases/Microsoft.Compute/virtualMachineScaleSets.md)
 - [Microsoft.Compute/virtualMachineScaleSets/extensions](aliases/Microsoft.Compute/virtualMachineScaleSets-extensions.md)
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines.md)
+- [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions.md)
 - [Microsoft.Compute/proximityPlacementGroups](aliases/Microsoft.Compute/proximityPlacementGroups.md)
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/galleries](aliases/Microsoft.Compute/galleries.md)
@@ -191,7 +192,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
-- [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions.md)
 
 
 ## Microsoft.Consumption
