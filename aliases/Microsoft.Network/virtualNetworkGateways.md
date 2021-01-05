@@ -86,4 +86,8 @@
 | `properties.vpnClientConfiguration.radiusServers[*].radiusServerSecret` | `Microsoft.Network/virtualNetworkGateways/vpnClientConfiguration.radiusServers[*].radiusServerSecret` |
 | `properties.vpnClientConfiguration.radiusServers[*]` | `Microsoft.Network/virtualNetworkGateways/vpnClientConfiguration.radiusServers[*]` |
 | `properties.vpnClientConfiguration.radiusServers` | `Microsoft.Network/virtualNetworkGateways/vpnClientConfiguration.radiusServers` |
+| `properties.virtualNetworkExtendedLocationResourceId` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkExtendedLocationResourceId` |
+| `properties.extendedLocation` | `Microsoft.Network/virtualnetworkgateways/extendedLocation` |
+| `properties.extendedLocation.name` | `Microsoft.Network/virtualnetworkgateways/extendedLocation.name` |
+| `properties.extendedLocation.type` | `Microsoft.Network/virtualnetworkgateways/extendedLocation.type` |
 

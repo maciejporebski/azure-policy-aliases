@@ -51,4 +51,5 @@
 | `properties.privateLinkScopedResources[*].scopeId` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources[*].scopeId` |
 | `properties.privateLinkScopedResources[*]` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources[*]` |
 | `properties.privateLinkScopedResources` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources` |
+| `properties.forceCmkForQuery` | `Microsoft.OperationalInsights/workspaces/forceCmkForQuery` |
 

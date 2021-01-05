@@ -13,4 +13,12 @@
 | `properties.remoteAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]` |
 | `properties.remoteAddressSpace.addressPrefixes` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes` |
 | `properties.remoteAddressSpace` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace` |
+| `properties.remoteBgpCommunities` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteBgpCommunities` |
+| `properties.remoteBgpCommunities.virtualNetworkCommunity` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteBgpCommunities.virtualNetworkCommunity` |
+| `properties.remoteBgpCommunities.regionalCommunity` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteBgpCommunities.regionalCommunity` |
+| `properties.remoteVirtualNetworkAddressSpace` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkAddressSpace` |
+| `properties.remoteVirtualNetworkAddressSpace.addressPrefixes` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkAddressSpace.addressPrefixes` |
+| `properties.remoteVirtualNetworkAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkAddressSpace.addressPrefixes[*]` |
+| `properties.peeringSyncLevel` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringSyncLevel` |
+| `properties.syncRemoteAddressSpace` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/syncRemoteAddressSpace` |
 

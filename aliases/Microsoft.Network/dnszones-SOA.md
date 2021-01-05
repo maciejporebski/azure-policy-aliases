@@ -47,4 +47,6 @@
 | `properties.targetResource.id` | `Microsoft.Network/dnszones/SOA/targetResource.id` |
 | `properties.targetResource` | `Microsoft.Network/dnszones/SOA/targetResource` |
 | `properties.caaRecords[*].value` | `Microsoft.Network/dnszones/SOA/caaRecords[*].value` |
+| `properties.TXTRecords[*].value` | `Microsoft.Network/dnszones/SOA/TXTRecords[*].value` |
+| `properties.TXTRecords[*].value[*]` | `Microsoft.Network/dnszones/SOA/TXTRecords[*].value[*]` |
 

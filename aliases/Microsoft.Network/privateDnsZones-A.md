@@ -37,4 +37,6 @@
 | `properties.srvRecords` | `Microsoft.Network/privateDnsZones/A/srvRecords` |
 | `properties.txtRecords[*]` | `Microsoft.Network/privateDnsZones/A/txtRecords[*]` |
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/A/txtRecords` |
+| `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/A/txtRecords[*].value` |
+| `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/A/txtRecords[*].value[*]` |
 

@@ -548,4 +548,6 @@
 | `properties.publicIPAddress.type` | `Microsoft.Network/virtualHubs/ipConfigurations.publicIPAddress.type` |
 | `properties.publicIPAddress.location` | `Microsoft.Network/virtualHubs/ipConfigurations.publicIPAddress.location` |
 | `properties.publicIPAddress.tags` | `Microsoft.Network/virtualHubs/ipConfigurations.publicIPAddress.tags` |
+| `properties.enableVirtualRouterRoutePropogation` | `Microsoft.Network/virtualHubs/enableVirtualRouterRoutePropogation` |
+| `properties.allowBranchToBranchTraffic` | `Microsoft.Network/virtualHubs/allowBranchToBranchTraffic` |
 

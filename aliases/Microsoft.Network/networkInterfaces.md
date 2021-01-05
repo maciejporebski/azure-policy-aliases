@@ -480,4 +480,9 @@
 | `properties.privateEndpoint.properties.customDnsConfigs[*].ipAddresses` | `Microsoft.Network/networkInterfaces/privateEndpoint.customDnsConfigs[*].ipAddresses` |
 | `properties.privateEndpoint.properties.customDnsConfigs[*]` | `Microsoft.Network/networkInterfaces/privateEndpoint.customDnsConfigs[*]` |
 | `properties.privateEndpoint.properties.customDnsConfigs` | `Microsoft.Network/networkInterfaces/privateEndpoint.customDnsConfigs` |
+| `properties.dscpConfiguration` | `Microsoft.Network/networkInterfaces/dscpConfiguration` |
+| `properties.dscpConfiguration.id` | `Microsoft.Network/networkInterfaces/dscpConfiguration.id` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation` | `Microsoft.Network/networkInterfaces/privateEndpoint.networkInterfaces[*].extendedLocation` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.name` | `Microsoft.Network/networkInterfaces/privateEndpoint.networkInterfaces[*].extendedLocation.name` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.type` | `Microsoft.Network/networkInterfaces/privateEndpoint.networkInterfaces[*].extendedLocation.type` |
 

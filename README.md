@@ -1,6 +1,11 @@
 # Azure Policy Aliases
 This repository contains all available resource property aliases for easy reference when creating Policy definitions. The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
 
+## Microsoft.AAD
+
+- [Microsoft.AAD/DomainServices](aliases/Microsoft.AAD/DomainServices.md)
+
+
 ## Microsoft.AISupercomputer
 
 - [Microsoft.AISupercomputer/accounts/jobs](aliases/Microsoft.AISupercomputer/accounts-jobs.md)
@@ -636,6 +641,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/virtualNetworks](aliases/Microsoft.Network/virtualNetworks.md)
 - [Microsoft.Network/natGateways](aliases/Microsoft.Network/natGateways.md)
 - [Microsoft.Network/publicIPAddresses](aliases/Microsoft.Network/publicIPAddresses.md)
+- [Microsoft.Network/customIpPrefixes](aliases/Microsoft.Network/customIpPrefixes.md)
 - [Microsoft.Network/networkInterfaces](aliases/Microsoft.Network/networkInterfaces.md)
 - [Microsoft.Network/privateEndpoints](aliases/Microsoft.Network/privateEndpoints.md)
 - [Microsoft.Network/loadBalancers](aliases/Microsoft.Network/loadBalancers.md)
@@ -728,6 +734,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateEndpoints/privateDnsZoneGroups](aliases/Microsoft.Network/privateEndpoints-privateDnsZoneGroups.md)
 - [Microsoft.Network/virtualHubs/hubRouteTables](aliases/Microsoft.Network/virtualHubs-hubRouteTables.md)
 - [Microsoft.Network/virtualHubs/hubVirtualNetworkConnections](aliases/Microsoft.Network/virtualHubs-hubVirtualNetworkConnections.md)
+- [Microsoft.Network/firewallPolicies/ruleCollectionGroups](aliases/Microsoft.Network/firewallPolicies-ruleCollectionGroups.md)
+- [Microsoft.Network/virtualHubs/bgpConnections](aliases/Microsoft.Network/virtualHubs-bgpConnections.md)
+- [Microsoft.Network/virtualHubs/ipConfigurations](aliases/Microsoft.Network/virtualHubs-ipConfigurations.md)
 
 
 ## Microsoft.NotificationHubs

@@ -251,4 +251,13 @@
 | `properties.virtualNetworkGateway2.properties.vpnClientConfiguration.radiusServers[*]` | `Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServers[*]` |
 | `properties.virtualNetworkGateway2.properties.vpnClientConfiguration.radiusServers` | `Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServers` |
 | `properties.dpdTimeoutSeconds` | `Microsoft.Network/connections/dpdTimeoutSeconds` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkExtendedLocationResourceId` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkExtendedLocationResourceId` |
+| `properties.virtualNetworkGateway1.properties.extendedLocation` | `Microsoft.Network/connections/virtualNetworkGateway1.extendedLocation` |
+| `properties.virtualNetworkGateway1.properties.extendedLocation.name` | `Microsoft.Network/connections/virtualNetworkGateway1.extendedLocation.name` |
+| `properties.virtualNetworkGateway1.properties.extendedLocation.type` | `Microsoft.Network/connections/virtualNetworkGateway1.extendedLocation.type` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkExtendedLocationResourceId` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkExtendedLocationResourceId` |
+| `properties.virtualNetworkGateway2.properties.extendedLocation` | `Microsoft.Network/connections/virtualNetworkGateway2.extendedLocation` |
+| `properties.virtualNetworkGateway2.properties.extendedLocation.name` | `Microsoft.Network/connections/virtualNetworkGateway2.extendedLocation.name` |
+| `properties.virtualNetworkGateway2.properties.extendedLocation.type` | `Microsoft.Network/connections/virtualNetworkGateway2.extendedLocation.type` |
+| `properties.connectionMode` | `Microsoft.Network/connections/connectionMode` |
 

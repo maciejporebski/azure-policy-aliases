@@ -43,4 +43,9 @@
 | `properties.bgpProperties.bgpPeeringAddresses[*]` | `Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddresses[*]` |
 | `properties.bgpProperties.bgpPeeringAddresses` | `Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddresses` |
 | `properties.vpnSiteLinks[*].properties.fqdn` | `Microsoft.Network/vpnSites/vpnSiteLinks[*].fqdn` |
+| `properties.o365Policy` | `Microsoft.Network/vpnSites/o365Policy` |
+| `properties.o365Policy.breakOutCategories` | `Microsoft.Network/vpnSites/o365Policy.breakOutCategories` |
+| `properties.o365Policy.breakOutCategories.allow` | `Microsoft.Network/vpnSites/o365Policy.breakOutCategories.allow` |
+| `properties.o365Policy.breakOutCategories.optimize` | `Microsoft.Network/vpnSites/o365Policy.breakOutCategories.optimize` |
+| `properties.o365Policy.breakOutCategories.default` | `Microsoft.Network/vpnSites/o365Policy.breakOutCategories.default` |
 

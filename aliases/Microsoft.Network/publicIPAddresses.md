@@ -375,4 +375,5 @@
 | `properties.ipConfiguration.properties.subnet.properties.networkSecurityGroup.properties.networkInterfaces[*].properties.ipConfigurations[*].properties.loadBalancerBackendAddressPools[*].type` | `Microsoft.Network/publicIPAddresses/ipConfiguration.subnet.networkSecurityGroup.networkInterfaces[*].ipConfigurations[*].loadBalancerBackendAddressPools[*].type` |
 | `properties.ipConfiguration.properties.subnet.properties.networkSecurityGroup.properties.networkInterfaces[*].properties.ipConfigurations[*].properties.loadBalancerInboundNatRules[*].type` | `Microsoft.Network/publicIPAddresses/ipConfiguration.subnet.networkSecurityGroup.networkInterfaces[*].ipConfigurations[*].loadBalancerInboundNatRules[*].type` |
 | `properties.ddosSettings.protectedIP` | `Microsoft.Network/publicIPAddresses/ddosSettings.protectedIP` |
+| `sku.tier` | `Microsoft.Network/publicIPAddresses/sku.tier` |
 

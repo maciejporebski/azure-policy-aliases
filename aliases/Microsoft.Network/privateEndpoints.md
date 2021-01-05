@@ -363,4 +363,7 @@
 | `properties.privateDnsZoneConfigs[*].properties.recordSets` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups.privateDnsZoneConfigs[*].recordSets` |
 | `properties.privateDnsZoneConfigs[*]` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups.privateDnsZoneConfigs[*]` |
 | `properties.privateDnsZoneConfigs` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups.privateDnsZoneConfigs` |
+| `properties.networkInterfaces[*].extendedLocation` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].extendedLocation` |
+| `properties.networkInterfaces[*].extendedLocation.name` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].extendedLocation.name` |
+| `properties.networkInterfaces[*].extendedLocation.type` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].extendedLocation.type` |
 

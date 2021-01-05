@@ -93,4 +93,6 @@
 | `properties.p2SConnectionConfigurations[*].properties.routingConfiguration` | `Microsoft.Network/p2sVpnGateways/p2SConnectionConfigurations[*].routingConfiguration` |
 | `properties.customDnsServers[*]` | `Microsoft.Network/p2sVpnGateways/customDnsServers[*]` |
 | `properties.customDnsServers` | `Microsoft.Network/p2sVpnGateways/customDnsServers` |
+| `properties.p2SConnectionConfigurations[*].properties.enableInternetSecurity` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].enableInternetSecurity` |
+| `properties.isRoutingPreferenceInternet` | `Microsoft.Network/p2svpnGateways/isRoutingPreferenceInternet` |
 

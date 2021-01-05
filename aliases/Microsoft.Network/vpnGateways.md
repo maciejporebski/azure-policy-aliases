@@ -103,4 +103,10 @@
 | `properties.connections[*].properties.routingConfiguration.vnetRoutes.staticRoutes` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes.staticRoutes` |
 | `properties.connections[*].properties.routingConfiguration.vnetRoutes` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes` |
 | `properties.connections[*].properties.routingConfiguration` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration` |
+| `properties.ipConfigurations` | `Microsoft.Network/vpnGateways/ipConfigurations` |
+| `properties.ipConfigurations[*]` | `Microsoft.Network/vpnGateways/ipConfigurations[*]` |
+| `properties.ipConfigurations[*].id` | `Microsoft.Network/vpnGateways/ipConfigurations[*].id` |
+| `properties.ipConfigurations[*].publicIpAddress` | `Microsoft.Network/vpnGateways/ipConfigurations[*].publicIpAddress` |
+| `properties.ipConfigurations[*].privateIpAddress` | `Microsoft.Network/vpnGateways/ipConfigurations[*].privateIpAddress` |
+| `properties.isRoutingPreferenceInternet` | `Microsoft.Network/vpnGateways/isRoutingPreferenceInternet` |
 

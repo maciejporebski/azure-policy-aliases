@@ -37,4 +37,6 @@
 | `properties.srvRecords` | `Microsoft.Network/privateDnsZones/PTR/srvRecords` |
 | `properties.txtRecords[*]` | `Microsoft.Network/privateDnsZones/PTR/txtRecords[*]` |
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/PTR/txtRecords` |
+| `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/PTR/txtRecords[*].value` |
+| `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/PTR/txtRecords[*].value[*]` |
 

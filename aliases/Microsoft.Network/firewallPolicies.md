@@ -21,7 +21,7 @@
 | `properties.threatIntelWhitelist.fqdns[*]` | `Microsoft.Network/firewallPolicies/threatIntelWhitelist.fqdns[*]` |
 | `properties.threatIntelWhitelist.fqdns` | `Microsoft.Network/firewallPolicies/threatIntelWhitelist.fqdns` |
 | `properties.threatIntelWhitelist` | `Microsoft.Network/firewallPolicies/threatIntelWhitelist` |
-| `properties.transportSecurity.certificateAuthority.properties.keyVaultSecretId` | `Microsoft.Network/firewallPolicies/transportSecurity.certificateAuthority.keyVaultSecretId` |
+| `properties.transportSecurity.certificateAuthority.keyVaultSecretId` | `Microsoft.Network/firewallPolicies/transportSecurity.certificateAuthority.keyVaultSecretId` |
 | `properties.transportSecurity.certificateAuthority.name` | `Microsoft.Network/firewallPolicies/transportSecurity.certificateAuthority.name` |
 | `properties.transportSecurity.certificateAuthority` | `Microsoft.Network/firewallPolicies/transportSecurity.certificateAuthority` |
 | `properties.transportSecurity.excludedDomains[*]` | `Microsoft.Network/firewallPolicies/transportSecurity.excludedDomains[*]` |
@@ -45,4 +45,28 @@
 | `properties.ruleCollections[*].priority` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups.ruleCollections[*].priority` |
 | `properties.ruleCollections[*]` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups.ruleCollections[*]` |
 | `properties.ruleCollections` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups.ruleCollections` |
+| `properties.intrusionDetection` | `Microsoft.Network/firewallPolicies/intrusionDetection` |
+| `properties.intrusionDetection.mode` | `Microsoft.Network/firewallPolicies/intrusionDetection.mode` |
+| `properties.intrusionDetection.configuration` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration` |
+| `properties.intrusionDetection.configuration.signatureOverrides` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.signatureOverrides` |
+| `properties.intrusionDetection.configuration.signatureOverrides[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.signatureOverrides[*]` |
+| `properties.intrusionDetection.configuration.signatureOverrides[*].id` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.signatureOverrides[*].id` |
+| `properties.intrusionDetection.configuration.signatureOverrides[*].mode` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.signatureOverrides[*].mode` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*]` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].name` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].name` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].description` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].description` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].protocol` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].protocol` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].sourceAddresses` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].sourceAddresses` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].sourceAddresses[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].sourceAddresses[*]` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].destinationAddresses` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].destinationAddresses` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].destinationAddresses[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].destinationAddresses[*]` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].destinationPorts` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].destinationPorts` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].destinationPorts[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].destinationPorts[*]` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].sourceIpGroups` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].sourceIpGroups` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].sourceIpGroups[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].sourceIpGroups[*]` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].destinationIpGroups` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].destinationIpGroups` |
+| `properties.intrusionDetection.configuration.bypassTrafficSettings[*].destinationIpGroups[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].destinationIpGroups[*]` |
+| `properties.sku` | `Microsoft.Network/firewallPolicies/sku` |
+| `properties.sku.tier` | `Microsoft.Network/firewallPolicies/sku.tier` |
 

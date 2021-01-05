@@ -63,4 +63,7 @@
 | `properties.privateLinkServiceConnectionState` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.Network/applicationGateways/privateEndpointConnections/provisioningState` |
 | `properties.linkIdentifier` | `Microsoft.Network/applicationGateways/privateEndpointConnections/linkIdentifier` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.networkInterfaces[*].extendedLocation` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.name` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.networkInterfaces[*].extendedLocation.name` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.type` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.networkInterfaces[*].extendedLocation.type` |
 

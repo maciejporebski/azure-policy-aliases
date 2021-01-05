@@ -37,4 +37,6 @@
 | `properties.srvRecords` | `Microsoft.Network/privateDnsZones/CNAME/srvRecords` |
 | `properties.txtRecords[*]` | `Microsoft.Network/privateDnsZones/CNAME/txtRecords[*]` |
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/CNAME/txtRecords` |
+| `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/CNAME/txtRecords[*].value` |
+| `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/CNAME/txtRecords[*].value[*]` |
 

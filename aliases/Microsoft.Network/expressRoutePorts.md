@@ -30,4 +30,5 @@
 | `properties.links[*].properties.macSecConfig.cakSecretIdentifier` | `Microsoft.Network/expressRoutePorts/links[*].macSecConfig.cakSecretIdentifier` |
 | `properties.links[*].properties.macSecConfig.cipher` | `Microsoft.Network/expressRoutePorts/links[*].macSecConfig.cipher` |
 | `properties.links[*].properties.macSecConfig` | `Microsoft.Network/expressRoutePorts/links[*].macSecConfig` |
+| `properties.links[*].properties.macSecConfig.sciState` | `Microsoft.Network/ExpressRoutePorts/links[*].macSecConfig.sciState` |
 

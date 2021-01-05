@@ -24,4 +24,6 @@
 | `properties.loadBalancerBackendAddresses[*].name` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].name` |
 | `properties.loadBalancerBackendAddresses[*]` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*]` |
 | `properties.loadBalancerBackendAddresses` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses` |
+| `properties.loadBalancerBackendAddresses[*].properties.loadBalancerFrontendIPConfiguration` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].loadBalancerFrontendIPConfiguration` |
+| `properties.loadBalancerBackendAddresses[*].properties.loadBalancerFrontendIPConfiguration.id` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].loadBalancerFrontendIPConfiguration.id` |
 

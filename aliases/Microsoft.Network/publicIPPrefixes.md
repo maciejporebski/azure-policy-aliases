@@ -20,4 +20,7 @@
 | `zones` | `Microsoft.Network/publicIPPrefixes/zones` |
 | `properties.loadBalancerFrontendIpConfiguration.id` | `Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id` |
 | `properties.loadBalancerFrontendIpConfiguration` | `Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration` |
+| `properties.customIPPrefix` | `Microsoft.Network/publicIPPrefixes/customIPPrefix` |
+| `properties.customIPPrefix.id` | `Microsoft.Network/publicIPPrefixes/customIPPrefix.id` |
+| `sku.tier` | `Microsoft.Network/publicIPPrefixes/sku.tier` |
 

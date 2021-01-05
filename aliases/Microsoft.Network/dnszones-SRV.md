@@ -47,4 +47,6 @@
 | `properties.targetResource.id` | `Microsoft.Network/dnszones/SRV/targetResource.id` |
 | `properties.targetResource` | `Microsoft.Network/dnszones/SRV/targetResource` |
 | `properties.caaRecords[*].value` | `Microsoft.Network/dnszones/SRV/caaRecords[*].value` |
+| `properties.TXTRecords[*].value` | `Microsoft.Network/dnszones/SRV/TXTRecords[*].value` |
+| `properties.TXTRecords[*].value[*]` | `Microsoft.Network/dnszones/SRV/TXTRecords[*].value[*]` |
 

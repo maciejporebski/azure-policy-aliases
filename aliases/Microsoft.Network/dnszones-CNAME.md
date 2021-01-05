@@ -47,4 +47,6 @@
 | `properties.targetResource.id` | `Microsoft.Network/dnszones/CNAME/targetResource.id` |
 | `properties.targetResource` | `Microsoft.Network/dnszones/CNAME/targetResource` |
 | `properties.caaRecords[*].value` | `Microsoft.Network/dnszones/CNAME/caaRecords[*].value` |
+| `properties.TXTRecords[*].value` | `Microsoft.Network/dnszones/CNAME/TXTRecords[*].value` |
+| `properties.TXTRecords[*].value[*]` | `Microsoft.Network/dnszones/CNAME/TXTRecords[*].value[*]` |
 

@@ -66,4 +66,7 @@
 | `properties.privateEndpoint.properties.customDnsConfigs[*].ipAddresses` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.customDnsConfigs[*].ipAddresses` |
 | `properties.privateEndpoint.properties.customDnsConfigs[*]` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.customDnsConfigs[*]` |
 | `properties.privateEndpoint.properties.customDnsConfigs` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.customDnsConfigs` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].extendedLocation` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.name` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].extendedLocation.name` |
+| `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.type` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].extendedLocation.type` |
 

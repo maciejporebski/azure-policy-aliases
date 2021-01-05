@@ -132,4 +132,5 @@
 | `properties.hubIPAddresses.publicIPs.addresses` | `Microsoft.Network/azureFirewalls/hubIPAddresses.publicIPs.addresses` |
 | `properties.hubIPAddresses.publicIPs.count` | `Microsoft.Network/azureFirewalls/hubIPAddresses.publicIPs.count` |
 | `properties.hubIPAddresses.publicIPs` | `Microsoft.Network/azureFirewalls/hubIPAddresses.publicIPs` |
+| `properties.additionalProperties` | `Microsoft.Network/azureFirewalls/additionalProperties` |
 

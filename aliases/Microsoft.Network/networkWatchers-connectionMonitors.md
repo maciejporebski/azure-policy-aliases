@@ -60,4 +60,18 @@
 | `properties.outputs[*]` | `Microsoft.Network/networkWatchers/connectionMonitors/outputs[*]` |
 | `properties.outputs` | `Microsoft.Network/networkWatchers/connectionMonitors/outputs` |
 | `properties.notes` | `Microsoft.Network/networkWatchers/connectionMonitors/notes` |
+| `properties.endpoints[*].filter.items` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.items` |
+| `properties.endpoints[*].filter.items[*]` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.items[*]` |
+| `properties.endpoints[*].filter.items[*].type` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.items[*].type` |
+| `properties.endpoints[*].filter.items[*].address` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.items[*].address` |
+| `properties.endpoints[*].type` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].type` |
+| `properties.endpoints[*].scope` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope` |
+| `properties.endpoints[*].scope.include` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope.include` |
+| `properties.endpoints[*].scope.include[*]` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope.include[*]` |
+| `properties.endpoints[*].scope.include[*].address` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope.include[*].address` |
+| `properties.endpoints[*].scope.exclude` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope.exclude` |
+| `properties.endpoints[*].scope.exclude[*]` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope.exclude[*]` |
+| `properties.endpoints[*].scope.exclude[*].address` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope.exclude[*].address` |
+| `properties.endpoints[*].coverageLevel` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].coverageLevel` |
+| `properties.testConfigurations[*].tcpConfiguration.destinationPortBehavior` | `Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.destinationPortBehavior` |
 

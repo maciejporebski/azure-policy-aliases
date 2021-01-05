@@ -72,4 +72,8 @@
 | `properties.routingRuleLinks[*].id` | `Microsoft.Network/frontdoorWebApplicationFirewallPolicies/routingRuleLinks[*].id` |
 | `properties.routingRuleLinks[*]` | `Microsoft.Network/frontdoorWebApplicationFirewallPolicies/routingRuleLinks[*]` |
 | `properties.routingRuleLinks` | `Microsoft.Network/frontdoorWebApplicationFirewallPolicies/routingRuleLinks` |
+| `properties.managedRules.ruleSets[*].ruleGroupOverrides` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet.ruleGroupOverrides` |
+| `properties.managedRules.ruleSets[*].ruleGroupOverrides[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet.ruleGroupOverrides[*]` |
+| `properties.managedRules.ruleSets[*].ruleGroupOverrides[*].ruleGroupOverride` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet.ruleGroupOverrides[*].ruleGroupOverride` |
+| `properties.managedRules.ruleSets[*].ruleGroupOverrides[*].action` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet.ruleGroupOverrides[*].action` |
 
