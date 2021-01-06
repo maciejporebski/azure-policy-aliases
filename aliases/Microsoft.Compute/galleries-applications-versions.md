@@ -34,4 +34,9 @@
 | `properties.publishingProfile.targetRegions[*].encryption.dataDiskImages[*].diskEncryptionSetId` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages[*].diskEncryptionSetId` |
 | `properties.publishingProfile.targetRegions[*].encryption.dataDiskImages[*].lun` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages[*].lun` |
 | `properties.publishingProfile.targetRegions[*].encryption.dataDiskImages` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].encryption.dataDiskImages` |
+| `properties.publishingProfile.source.defaultConfigurationLink` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.source.defaultConfigurationLink` |
+| `properties.publishingProfile.manageActions` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.manageActions` |
+| `properties.publishingProfile.manageActions.install` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.manageActions.install` |
+| `properties.publishingProfile.manageActions.remove` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.manageActions.remove` |
+| `properties.publishingProfile.manageActions.update` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.manageActions.update` |
 

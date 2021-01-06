@@ -68,4 +68,16 @@
 | `properties.integrationServiceEnvironment.name` | `Microsoft.Logic/workflows/integrationServiceEnvironment.name` |
 | `properties.integrationServiceEnvironment.type` | `Microsoft.Logic/workflows/integrationServiceEnvironment.type` |
 | `properties.integrationServiceEnvironment` | `Microsoft.Logic/workflows/integrationServiceEnvironment` |
+| `properties.accessControl.triggers.openAuthenticationPolicies` | `Microsoft.Logic/workflows/accessControl.triggers.openAuthenticationPolicies` |
+| `properties.accessControl.triggers.openAuthenticationPolicies.policies` | `Microsoft.Logic/workflows/accessControl.triggers.openAuthenticationPolicies.policies` |
+| `properties.accessControl.contents.openAuthenticationPolicies` | `Microsoft.Logic/workflows/accessControl.contents.openAuthenticationPolicies` |
+| `properties.accessControl.contents.openAuthenticationPolicies.policies` | `Microsoft.Logic/workflows/accessControl.contents.openAuthenticationPolicies.policies` |
+| `properties.accessControl.actions.openAuthenticationPolicies` | `Microsoft.Logic/workflows/accessControl.actions.openAuthenticationPolicies` |
+| `properties.accessControl.actions.openAuthenticationPolicies.policies` | `Microsoft.Logic/workflows/accessControl.actions.openAuthenticationPolicies.policies` |
+| `properties.accessControl.workflowManagement` | `Microsoft.Logic/workflows/accessControl.workflowManagement` |
+| `properties.accessControl.workflowManagement.allowedCallerIpAddresses` | `Microsoft.Logic/workflows/accessControl.workflowManagement.allowedCallerIpAddresses` |
+| `properties.accessControl.workflowManagement.allowedCallerIpAddresses[*]` | `Microsoft.Logic/workflows/accessControl.workflowManagement.allowedCallerIpAddresses[*]` |
+| `properties.accessControl.workflowManagement.allowedCallerIpAddresses[*].addressRange` | `Microsoft.Logic/workflows/accessControl.workflowManagement.allowedCallerIpAddresses[*].addressRange` |
+| `properties.accessControl.workflowManagement.openAuthenticationPolicies` | `Microsoft.Logic/workflows/accessControl.workflowManagement.openAuthenticationPolicies` |
+| `properties.accessControl.workflowManagement.openAuthenticationPolicies.policies` | `Microsoft.Logic/workflows/accessControl.workflowManagement.openAuthenticationPolicies.policies` |
 

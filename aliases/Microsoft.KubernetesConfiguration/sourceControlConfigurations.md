@@ -21,4 +21,6 @@
 | `properties.complianceStatus.lastConfigApplied` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/complianceStatus.lastConfigApplied` |
 | `properties.complianceStatus.message` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/complianceStatus.message` |
 | `properties.complianceStatus.messageLevel` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/complianceStatus.messageLevel` |
+| `properties.configurationProtectedSettings` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/configurationProtectedSettings` |
+| `properties.sshKnownHostsContents` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/sshKnownHostsContents` |
 

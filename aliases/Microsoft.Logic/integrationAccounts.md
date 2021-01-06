@@ -41,4 +41,12 @@
 | `properties.integrationServiceEnvironment.location` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.location` |
 | `properties.integrationServiceEnvironment.tags` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.tags` |
 | `properties.state` | `Microsoft.Logic/integrationAccounts/state` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyVault` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyVault` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyVault.id` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyVault.id` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyVault.name` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyVault.name` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyVault.type` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyVault.type` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyName` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyName` |
+| `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyVersion` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyVersion` |
 

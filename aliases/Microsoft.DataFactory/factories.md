@@ -37,4 +37,10 @@
 | `properties.repoConfiguration.tenantId` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryVSTSConfiguration.tenantId` |
 | `properties.repoConfiguration.hostName` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.hostName` |
 | `properties.publicNetworkAccess` | `Microsoft.DataFactory/factories/publicNetworkAccess` |
+| `properties.encryption` | `Microsoft.DataFactory/factories/encryption` |
+| `properties.encryption.keyName` | `Microsoft.DataFactory/factories/encryption.keyName` |
+| `properties.encryption.vaultBaseUrl` | `Microsoft.DataFactory/factories/encryption.vaultBaseUrl` |
+| `properties.encryption.keyVersion` | `Microsoft.DataFactory/factories/encryption.keyVersion` |
+| `properties.encryption.identity` | `Microsoft.DataFactory/factories/encryption.identity` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.DataFactory/factories/encryption.identity.userAssignedIdentity` |
 

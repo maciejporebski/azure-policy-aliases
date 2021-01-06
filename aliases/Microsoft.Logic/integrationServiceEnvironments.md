@@ -32,4 +32,12 @@
 | `sku.name` | `Microsoft.Logic/integrationServiceEnvironments/sku.name` |
 | `sku.capacity` | `Microsoft.Logic/integrationServiceEnvironments/sku.capacity` |
 | `sku` | `Microsoft.Logic/integrationServiceEnvironments/sku` |
+| `properties.encryptionConfiguration` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration` |
+| `properties.encryptionConfiguration.encryptionKeyReference` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration.encryptionKeyReference` |
+| `properties.encryptionConfiguration.encryptionKeyReference.keyVault` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration.encryptionKeyReference.keyVault` |
+| `properties.encryptionConfiguration.encryptionKeyReference.keyVault.id` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration.encryptionKeyReference.keyVault.id` |
+| `properties.encryptionConfiguration.encryptionKeyReference.keyVault.name` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration.encryptionKeyReference.keyVault.name` |
+| `properties.encryptionConfiguration.encryptionKeyReference.keyVault.type` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration.encryptionKeyReference.keyVault.type` |
+| `properties.encryptionConfiguration.encryptionKeyReference.keyName` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration.encryptionKeyReference.keyName` |
+| `properties.encryptionConfiguration.encryptionKeyReference.keyVersion` | `Microsoft.Logic/integrationServiceEnvironments/encryptionConfiguration.encryptionKeyReference.keyVersion` |
 

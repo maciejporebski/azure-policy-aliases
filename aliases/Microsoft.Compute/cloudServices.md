@@ -1,0 +1,60 @@
+# Microsoft.Compute/cloudServices
+
+| Default Path | Alias |
+|---|---|
+| `properties.packageUrl` | `Microsoft.Compute/cloudServices/packageUrl` |
+| `properties.configuration` | `Microsoft.Compute/cloudServices/configuration` |
+| `properties.configurationUrl` | `Microsoft.Compute/cloudServices/configurationUrl` |
+| `properties.startCloudService` | `Microsoft.Compute/cloudServices/startCloudService` |
+| `properties.upgradeMode` | `Microsoft.Compute/cloudServices/upgradeMode` |
+| `properties.roleProfile` | `Microsoft.Compute/cloudServices/roleProfile` |
+| `properties.roleProfile.roles` | `Microsoft.Compute/cloudServices/roleProfile.roles` |
+| `properties.roleProfile.roles[*]` | `Microsoft.Compute/cloudServices/roleProfile.roles[*]` |
+| `properties.roleProfile.roles[*].name` | `Microsoft.Compute/cloudServices/roleProfile.roles[*].name` |
+| `properties.roleProfile.roles[*].sku` | `Microsoft.Compute/cloudServices/roleProfile.roles[*].sku` |
+| `properties.roleProfile.roles[*].sku.name` | `Microsoft.Compute/cloudServices/roleProfile.roles[*].sku.name` |
+| `properties.roleProfile.roles[*].sku.tier` | `Microsoft.Compute/cloudServices/roleProfile.roles[*].sku.tier` |
+| `properties.roleProfile.roles[*].sku.capacity` | `Microsoft.Compute/cloudServices/roleProfile.roles[*].sku.capacity` |
+| `properties.osProfile` | `Microsoft.Compute/cloudServices/osProfile` |
+| `properties.osProfile.secrets` | `Microsoft.Compute/cloudServices/osProfile.secrets` |
+| `properties.osProfile.secrets[*]` | `Microsoft.Compute/cloudServices/osProfile.secrets[*]` |
+| `properties.osProfile.secrets[*].sourceVault` | `Microsoft.Compute/cloudServices/osProfile.secrets[*].sourceVault` |
+| `properties.osProfile.secrets[*].sourceVault.id` | `Microsoft.Compute/cloudServices/osProfile.secrets[*].sourceVault.id` |
+| `properties.osProfile.secrets[*].vaultCertificates` | `Microsoft.Compute/cloudServices/osProfile.secrets[*].vaultCertificates` |
+| `properties.osProfile.secrets[*].vaultCertificates[*]` | `Microsoft.Compute/cloudServices/osProfile.secrets[*].vaultCertificates[*]` |
+| `properties.osProfile.secrets[*].vaultCertificates[*].certificateUrl` | `Microsoft.Compute/cloudServices/osProfile.secrets[*].vaultCertificates[*].certificateUrl` |
+| `properties.networkProfile` | `Microsoft.Compute/cloudServices/networkProfile` |
+| `properties.networkProfile.loadBalancerConfigurations` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations` |
+| `properties.networkProfile.loadBalancerConfigurations[*]` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*]` |
+| `properties.networkProfile.loadBalancerConfigurations[*].name` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].name` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations[*]` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations[*]` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations[*].name` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations[*].name` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations[*].properties.publicIPAddress` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations[*].publicIPAddress` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations[*].properties.publicIPAddress.id` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations[*].publicIPAddress.id` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations[*].properties.subnet` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations[*].subnet` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations[*].properties.subnet.id` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations[*].subnet.id` |
+| `properties.networkProfile.loadBalancerConfigurations[*].properties.frontendIPConfigurations[*].properties.privateIPAddress` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].frontendIPConfigurations[*].privateIPAddress` |
+| `properties.networkProfile.swappableCloudService` | `Microsoft.Compute/cloudServices/networkProfile.swappableCloudService` |
+| `properties.networkProfile.swappableCloudService.id` | `Microsoft.Compute/cloudServices/networkProfile.swappableCloudService.id` |
+| `properties.extensionProfile` | `Microsoft.Compute/cloudServices/extensionProfile` |
+| `properties.extensionProfile.extensions` | `Microsoft.Compute/cloudServices/extensionProfile.extensions` |
+| `properties.extensionProfile.extensions[*]` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*]` |
+| `properties.extensionProfile.extensions[*].name` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].name` |
+| `properties.extensionProfile.extensions[*].properties.publisher` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].publisher` |
+| `properties.extensionProfile.extensions[*].properties.type` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].type` |
+| `properties.extensionProfile.extensions[*].properties.typeHandlerVersion` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].typeHandlerVersion` |
+| `properties.extensionProfile.extensions[*].properties.autoUpgradeMinorVersion` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].autoUpgradeMinorVersion` |
+| `properties.extensionProfile.extensions[*].properties.settings` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].settings` |
+| `properties.extensionProfile.extensions[*].properties.protectedSettings` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].protectedSettings` |
+| `properties.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].protectedSettingsFromKeyVault` |
+| `properties.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault.sourceVault` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].protectedSettingsFromKeyVault.sourceVault` |
+| `properties.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].protectedSettingsFromKeyVault.sourceVault.id` |
+| `properties.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault.secretUrl` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].protectedSettingsFromKeyVault.secretUrl` |
+| `properties.extensionProfile.extensions[*].properties.forceUpdateTag` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].forceUpdateTag` |
+| `properties.extensionProfile.extensions[*].properties.provisioningState` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].provisioningState` |
+| `properties.extensionProfile.extensions[*].properties.rolesAppliedTo` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].rolesAppliedTo` |
+| `properties.extensionProfile.extensions[*].properties.rolesAppliedTo[*]` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].rolesAppliedTo[*]` |
+| `properties.provisioningState` | `Microsoft.Compute/cloudServices/provisioningState` |
+| `properties.uniqueId` | `Microsoft.Compute/cloudServices/uniqueId` |
+

@@ -14,4 +14,8 @@
 | `properties.connectionStringPrimaryKey` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/connectionStringPrimaryKey` |
 | `properties.connectionStringSecondaryKey` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/connectionStringSecondaryKey` |
 | `properties.deadLetterSecret` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/deadLetterSecret` |
+| `properties.endpointUri` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/endpointUri` |
+| `properties.entityPath` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/entityPath` |
+| `properties.authenticationType` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/authenticationType` |
+| `properties.deadLetterUri` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/deadLetterUri` |
 

@@ -21,4 +21,6 @@
 | `properties.luisAppIds[*]` | `Microsoft.BotService/botServices/luisAppIds[*]` |
 | `properties.luisAppIds` | `Microsoft.BotService/botServices/luisAppIds` |
 | `properties.luisKey` | `Microsoft.BotService/botServices/luisKey` |
+| `properties.isCmekEnabled` | `Microsoft.BotService/botServices/isCmekEnabled` |
+| `properties.cmekKeyVaultUrl` | `Microsoft.BotService/botServices/cmekKeyVaultUrl` |
 

@@ -183,6 +183,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/virtualMachineScaleSets/extensions](aliases/Microsoft.Compute/virtualMachineScaleSets-extensions.md)
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines.md)
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions.md)
+- [Microsoft.Compute/virtualMachines/runCommands](aliases/Microsoft.Compute/virtualMachines-runCommands.md)
 - [Microsoft.Compute/proximityPlacementGroups](aliases/Microsoft.Compute/proximityPlacementGroups.md)
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/galleries](aliases/Microsoft.Compute/galleries.md)
@@ -194,9 +195,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
 - [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)
 - [Microsoft.Compute/diskAccesses](aliases/Microsoft.Compute/diskAccesses.md)
+- [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
+- [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands.md)
 
 
 ## Microsoft.Consumption
@@ -274,6 +277,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataFactory/factories/datasets](aliases/Microsoft.DataFactory/factories-datasets.md)
 - [Microsoft.DataFactory/factories/triggers](aliases/Microsoft.DataFactory/factories-triggers.md)
 - [Microsoft.DataFactory/factories/dataflows](aliases/Microsoft.DataFactory/factories-dataflows.md)
+- [Microsoft.DataFactory/factories/managedVirtualNetworks](aliases/Microsoft.DataFactory/factories-managedVirtualNetworks.md)
+- [Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints](aliases/Microsoft.DataFactory/factories-managedVirtualNetworks-managedPrivateEndpoints.md)
 
 
 ## Microsoft.DataLakeAnalytics
@@ -529,6 +534,8 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.KeyVault/vaults](aliases/Microsoft.KeyVault/vaults.md)
 - [Microsoft.KeyVault/vaults/secrets](aliases/Microsoft.KeyVault/vaults-secrets.md)
+- [Microsoft.KeyVault/managedHSMs](aliases/Microsoft.KeyVault/managedHSMs.md)
+- [Microsoft.KeyVault/vaults/keys](aliases/Microsoft.KeyVault/vaults-keys.md)
 - [Microsoft.KeyVault/vaults/privateEndpointConnections](aliases/Microsoft.KeyVault/vaults-privateEndpointConnections.md)
 
 
@@ -801,6 +808,17 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.RecoveryServices/Vaults/backupconfig](aliases/Microsoft.RecoveryServices/Vaults-backupconfig.md)
 
 
+## Microsoft.Relay
+
+- [Microsoft.Relay/namespaces](aliases/Microsoft.Relay/namespaces.md)
+- [Microsoft.Relay/namespaces/authorizationrules](aliases/Microsoft.Relay/namespaces-authorizationrules.md)
+- [Microsoft.Relay/namespaces/privateEndpointConnections](aliases/Microsoft.Relay/namespaces-privateEndpointConnections.md)
+- [Microsoft.Relay/namespaces/hybridconnections](aliases/Microsoft.Relay/namespaces-hybridconnections.md)
+- [Microsoft.Relay/namespaces/hybridconnections/authorizationrules](aliases/Microsoft.Relay/namespaces-hybridconnections-authorizationrules.md)
+- [Microsoft.Relay/namespaces/wcfrelays](aliases/Microsoft.Relay/namespaces-wcfrelays.md)
+- [Microsoft.Relay/namespaces/wcfrelays/authorizationrules](aliases/Microsoft.Relay/namespaces-wcfrelays-authorizationrules.md)
+
+
 ## Microsoft.Resources
 
 - [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
@@ -1042,6 +1060,20 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/sqlPools/metadataSync](aliases/Microsoft.Synapse/workspaces-sqlPools-metadataSync.md)
 - [Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies](aliases/Microsoft.Synapse/workspaces-sqlPools-securityAlertPolicies.md)
 - [Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption](aliases/Microsoft.Synapse/workspaces-sqlPools-transparentDataEncryption.md)
+- [Microsoft.Synapse/workspaces/auditingSettings](aliases/Microsoft.Synapse/workspaces-auditingSettings.md)
+- [Microsoft.Synapse/workspaces/extendedAuditingSettings](aliases/Microsoft.Synapse/workspaces-extendedAuditingSettings.md)
+- [Microsoft.Synapse/workspaces/keys](aliases/Microsoft.Synapse/workspaces-keys.md)
+- [Microsoft.Synapse/workspaces/privateEndpointConnections](aliases/Microsoft.Synapse/workspaces-privateEndpointConnections.md)
+- [Microsoft.Synapse/workspaces/securityAlertPolicies](aliases/Microsoft.Synapse/workspaces-securityAlertPolicies.md)
+- [Microsoft.Synapse/workspaces/sqlAdministrators](aliases/Microsoft.Synapse/workspaces-sqlAdministrators.md)
+- [Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies](aliases/Microsoft.Synapse/workspaces-sqlPools-dataMaskingPolicies.md)
+- [Microsoft.Synapse/workspaces/sqlPools/extendedAuditingSettings](aliases/Microsoft.Synapse/workspaces-sqlPools-extendedAuditingSettings.md)
+- [Microsoft.Synapse/workspaces/sqlPools/schemas/tables/columns/sensitivityLabels](aliases/Microsoft.Synapse/workspaces-sqlPools-schemas-tables-columns-sensitivityLabels.md)
+- [Microsoft.Synapse/workspaces/sqlPools/vulnerabilityAssessments](aliases/Microsoft.Synapse/workspaces-sqlPools-vulnerabilityAssessments.md)
+- [Microsoft.Synapse/workspaces/sqlPools/vulnerabilityAssessments/rules/baselines](aliases/Microsoft.Synapse/workspaces-sqlPools-vulnerabilityAssessments-rules-baselines.md)
+- [Microsoft.Synapse/workspaces/sqlPools/workloadGroups](aliases/Microsoft.Synapse/workspaces-sqlPools-workloadGroups.md)
+- [Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers](aliases/Microsoft.Synapse/workspaces-sqlPools-workloadGroups-workloadClassifiers.md)
+- [Microsoft.Synapse/workspaces/vulnerabilityAssessments](aliases/Microsoft.Synapse/workspaces-vulnerabilityAssessments.md)
 
 
 ## Microsoft.TimeSeriesInsights

@@ -39,4 +39,14 @@
 | `properties.encryption.cmk.key.name` | `Microsoft.Synapse/workspaces/encryption.cmk.key.name` |
 | `properties.encryption.cmk.key.keyVaultUrl` | `Microsoft.Synapse/workspaces/encryption.cmk.key.keyVaultUrl` |
 | `properties.workspaceUID` | `Microsoft.Synapse/workspaces/workspaceUID` |
+| `properties.workspaceRepositoryConfiguration` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration` |
+| `properties.workspaceRepositoryConfiguration.type` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.type` |
+| `properties.workspaceRepositoryConfiguration.hostName` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.hostName` |
+| `properties.workspaceRepositoryConfiguration.accountName` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.accountName` |
+| `properties.workspaceRepositoryConfiguration.projectName` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.projectName` |
+| `properties.workspaceRepositoryConfiguration.repositoryName` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.repositoryName` |
+| `properties.workspaceRepositoryConfiguration.collaborationBranch` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.collaborationBranch` |
+| `properties.workspaceRepositoryConfiguration.rootFolder` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.rootFolder` |
+| `properties.purviewConfiguration` | `Microsoft.Synapse/workspaces/purviewConfiguration` |
+| `properties.purviewConfiguration.purviewResourceId` | `Microsoft.Synapse/workspaces/purviewConfiguration.purviewResourceId` |
 

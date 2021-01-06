@@ -4,6 +4,17 @@
 |---|---|
 | `properties.type` | `Microsoft.DataFactory/factories/linkedservices/type` |
 | `properties.typeProperties` | `Microsoft.DataFactory/factories/linkedservices/typeProperties` |
+| `properties.typeProperties.serviceEndpoint` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.serviceEndpoint` |
+| `properties.typeProperties.accountKind` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.accountKind` |
+| `properties.typeProperties.url` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.url` |
+| `properties.typeProperties.dataLakeStoreUri` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.dataLakeStoreUri` |
+| `properties.typeProperties.tenant` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.tenant` |
+| `properties.typeProperties.subscriptionId` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.subscriptionId` |
+| `properties.typeProperties.resourceGroupName` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.resourceGroupName` |
+| `properties.typeProperties.servicePrincipalId` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.servicePrincipalId` |
+| `properties.typeProperties.servicePrincipalKey` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.servicePrincipalKey` |
+| `properties.typeProperties.accountKey` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.accountKey` |
+| `properties.typeProperties.authentication` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.authentication` |
 | `properties.typeProperties.useEncryptedEndpoints` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.useEncryptedEndpoints` |
 | `properties.typeProperties.connectionString` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.connectionString` |
 | `properties.typeProperties.connectionString.type` | `Microsoft.DataFactory/factories/linkedservices/typeProperties.connectionString.type` |
@@ -139,4 +150,6 @@
 | `properties.typeProperties.developerToken.type` | `Microsoft.DataFactory/factories/linkedservices/GoogleAdWords.typeProperties.developerToken.type` |
 | `properties.typeProperties.functionKey` | `Microsoft.DataFactory/factories/linkedservices/AzureFunction.typeProperties.functionKey` |
 | `properties.typeProperties.functionKey.type` | `Microsoft.DataFactory/factories/linkedservices/AzureFunction.typeProperties.functionKey.type` |
+| `properties.typeProperties.sessionToken` | `Microsoft.DataFactory/factories/linkedservices/AmazonS3.typeProperties.sessionToken` |
+| `properties.typeProperties.sessionToken.type` | `Microsoft.DataFactory/factories/linkedservices/AmazonS3.typeProperties.sessionToken.type` |
 

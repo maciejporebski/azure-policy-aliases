@@ -34,4 +34,5 @@
 | `properties.customLibraries[*].containerName` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].containerName` |
 | `properties.customLibraries[*].uploadedTimestamp` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].uploadedTimestamp` |
 | `properties.customLibraries[*].type` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].type` |
+| `properties.haveLibraryRequirementsChanged` | `Microsoft.Synapse/workspaces/bigDataPools/haveLibraryRequirementsChanged` |
 
