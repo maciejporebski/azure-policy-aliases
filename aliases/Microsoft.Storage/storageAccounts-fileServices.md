@@ -20,4 +20,26 @@
 | `sku.name` | `Microsoft.Storage/storageAccounts/fileServices/default.sku.name` |
 | `sku.tier` | `Microsoft.Storage/storageAccounts/fileServices/default.sku.tier` |
 | `sku` | `Microsoft.Storage/storageAccounts/fileServices/default.sku` |
+| `properties.cors` | `Microsoft.Storage/storageAccounts/fileServices/cors` |
+| `properties.cors.corsRules` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules` |
+| `properties.cors.corsRules[*]` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*]` |
+| `properties.cors.corsRules[*].allowedOrigins` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].allowedOrigins` |
+| `properties.cors.corsRules[*].allowedOrigins[*]` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].allowedOrigins[*]` |
+| `properties.cors.corsRules[*].allowedMethods` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].allowedMethods` |
+| `properties.cors.corsRules[*].allowedMethods[*]` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].allowedMethods[*]` |
+| `properties.cors.corsRules[*].maxAgeInSeconds` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].maxAgeInSeconds` |
+| `properties.cors.corsRules[*].exposedHeaders` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].exposedHeaders` |
+| `properties.cors.corsRules[*].exposedHeaders[*]` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].exposedHeaders[*]` |
+| `properties.cors.corsRules[*].allowedHeaders` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].allowedHeaders` |
+| `properties.cors.corsRules[*].allowedHeaders[*]` | `Microsoft.Storage/storageAccounts/fileServices/cors.corsRules[*].allowedHeaders[*]` |
+| `properties.shareDeleteRetentionPolicy` | `Microsoft.Storage/storageAccounts/fileServices/shareDeleteRetentionPolicy` |
+| `properties.shareDeleteRetentionPolicy.enabled` | `Microsoft.Storage/storageAccounts/fileServices/shareDeleteRetentionPolicy.enabled` |
+| `properties.shareDeleteRetentionPolicy.days` | `Microsoft.Storage/storageAccounts/fileServices/shareDeleteRetentionPolicy.days` |
+| `sku` | `Microsoft.Storage/storageAccounts/fileServices/sku` |
+| `sku.name` | `Microsoft.Storage/storageAccounts/fileServices/sku.name` |
+| `sku.tier` | `Microsoft.Storage/storageAccounts/fileServices/sku.tier` |
+| `properties.protocolSettings` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings` |
+| `properties.protocolSettings.smb` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb` |
+| `properties.protocolSettings.smb.multichannel` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.multichannel` |
+| `properties.protocolSettings.smb.multichannel.enabled` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.multichannel.enabled` |
 

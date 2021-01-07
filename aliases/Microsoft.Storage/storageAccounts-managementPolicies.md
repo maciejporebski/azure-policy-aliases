@@ -55,4 +55,13 @@
 | `properties.policy.rules[*].definition.filters.blobIndexMatch[*].value` | `Microsoft.Storage/storageAccounts/managementPolicies/default.policy.rules[*].definition.filters.blobIndexMatch[*].value` |
 | `properties.policy.rules[*].definition.filters.blobIndexMatch[*]` | `Microsoft.Storage/storageAccounts/managementPolicies/default.policy.rules[*].definition.filters.blobIndexMatch[*]` |
 | `properties.policy.rules[*].definition.filters.blobIndexMatch` | `Microsoft.Storage/storageAccounts/managementPolicies/default.policy.rules[*].definition.filters.blobIndexMatch` |
+| `properties.policy.rules[*].definition.filters.blobIndexMatch` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.filters.blobIndexMatch` |
+| `properties.policy.rules[*].definition.filters.blobIndexMatch[*]` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.filters.blobIndexMatch[*]` |
+| `properties.policy.rules[*].definition.filters.blobIndexMatch[*].name` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.filters.blobIndexMatch[*].name` |
+| `properties.policy.rules[*].definition.filters.blobIndexMatch[*].op` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.filters.blobIndexMatch[*].op` |
+| `properties.policy.rules[*].definition.filters.blobIndexMatch[*].value` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.filters.blobIndexMatch[*].value` |
+| `properties.policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterLastAccessTimeGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToCool.daysAfterLastAccessTimeGreaterThan` |
+| `properties.policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterLastAccessTimeGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterLastAccessTimeGreaterThan` |
+| `properties.policy.rules[*].definition.actions.baseBlob.delete.daysAfterLastAccessTimeGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.delete.daysAfterLastAccessTimeGreaterThan` |
+| `properties.policy.rules[*].definition.actions.baseBlob.enableAutoTierToHotFromCool` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.enableAutoTierToHotFromCool` |
 

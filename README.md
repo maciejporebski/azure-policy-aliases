@@ -73,6 +73,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AppPlatform/Spring](aliases/Microsoft.AppPlatform/Spring.md)
 
 
+## Microsoft.Attestation
+
+- [Microsoft.Attestation/attestationProviders](aliases/Microsoft.Attestation/attestationProviders.md)
+
+
 ## Microsoft.Authorization
 
 - [Microsoft.Authorization/roleAssignments](aliases/Microsoft.Authorization/roleAssignments.md)
@@ -991,6 +996,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Storage/storageAccounts/objectReplicationPolicies](aliases/Microsoft.Storage/storageAccounts-objectReplicationPolicies.md)
 - [Microsoft.Storage/storageAccounts/queueServices/queues](aliases/Microsoft.Storage/storageAccounts-queueServices-queues.md)
 - [Microsoft.Storage/storageAccounts/tableServices/tables](aliases/Microsoft.Storage/storageAccounts-tableServices-tables.md)
+- [Microsoft.Storage/storageAccounts/inventoryPolicies](aliases/Microsoft.Storage/storageAccounts-inventoryPolicies.md)
 
 
 ## Microsoft.StorageCache

@@ -49,4 +49,24 @@
 | `properties.containerDeleteRetentionPolicy.enabled` | `Microsoft.Storage/storageAccounts/blobServices/default.containerDeleteRetentionPolicy.enabled` |
 | `properties.containerDeleteRetentionPolicy.days` | `Microsoft.Storage/storageAccounts/blobServices/default.containerDeleteRetentionPolicy.days` |
 | `properties.containerDeleteRetentionPolicy` | `Microsoft.Storage/storageAccounts/blobServices/default.containerDeleteRetentionPolicy` |
+| `properties.changeFeed` | `Microsoft.Storage/storageAccounts/blobServices/changeFeed` |
+| `properties.changeFeed.enabled` | `Microsoft.Storage/storageAccounts/blobServices/changeFeed.enabled` |
+| `properties.isVersioningEnabled` | `Microsoft.Storage/storageAccounts/blobServices/isVersioningEnabled` |
+| `properties.restorePolicy` | `Microsoft.Storage/storageAccounts/blobServices/restorePolicy` |
+| `properties.restorePolicy.enabled` | `Microsoft.Storage/storageAccounts/blobServices/restorePolicy.enabled` |
+| `properties.restorePolicy.days` | `Microsoft.Storage/storageAccounts/blobServices/restorePolicy.days` |
+| `properties.restorePolicy.lastEnabledTime` | `Microsoft.Storage/storageAccounts/blobServices/restorePolicy.lastEnabledTime` |
+| `properties.restorePolicy.minRestoreTime` | `Microsoft.Storage/storageAccounts/blobServices/restorePolicy.minRestoreTime` |
+| `properties.containerDeleteRetentionPolicy` | `Microsoft.Storage/storageAccounts/blobServices/containerDeleteRetentionPolicy` |
+| `properties.containerDeleteRetentionPolicy.enabled` | `Microsoft.Storage/storageAccounts/blobServices/containerDeleteRetentionPolicy.enabled` |
+| `properties.containerDeleteRetentionPolicy.days` | `Microsoft.Storage/storageAccounts/blobServices/containerDeleteRetentionPolicy.days` |
+| `sku` | `Microsoft.Storage/storageAccounts/blobServices/sku` |
+| `sku.name` | `Microsoft.Storage/storageAccounts/blobServices/sku.name` |
+| `sku.tier` | `Microsoft.Storage/storageAccounts/blobServices/sku.tier` |
+| `properties.lastAccessTimeTrackingPolicy` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy` |
+| `properties.lastAccessTimeTrackingPolicy.enable` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.enable` |
+| `properties.lastAccessTimeTrackingPolicy.name` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.name` |
+| `properties.lastAccessTimeTrackingPolicy.trackingGranularityInDays` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.trackingGranularityInDays` |
+| `properties.lastAccessTimeTrackingPolicy.blobType` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.blobType` |
+| `properties.lastAccessTimeTrackingPolicy.blobType[*]` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.blobType[*]` |
 

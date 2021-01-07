@@ -15,4 +15,5 @@
 | `properties.accessTierChangeTime` | `Microsoft.Storage/storageAccounts/fileServices/shares/accessTierChangeTime` |
 | `properties.accessTierStatus` | `Microsoft.Storage/storageAccounts/fileServices/shares/accessTierStatus` |
 | `properties.shareUsageBytes` | `Microsoft.Storage/storageAccounts/fileServices/shares/shareUsageBytes` |
+| `properties.snapshotTime` | `Microsoft.Storage/storageAccounts/fileServices/shares/snapshotTime` |
 

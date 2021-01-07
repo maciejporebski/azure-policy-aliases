@@ -92,4 +92,8 @@
 | `properties.encryption.requireInfrastructureEncryption` | `Microsoft.Storage/storageAccounts/encryption.requireInfrastructureEncryption` |
 | `properties.encryption.keyvaultproperties.currentVersionedKeyIdentifier` | `Microsoft.Storage/storageAccounts/encryption.keyvaultproperties.currentVersionedKeyIdentifier` |
 | `properties.encryption.keyvaultproperties.lastKeyRotationTimestamp` | `Microsoft.Storage/storageAccounts/encryption.keyvaultproperties.lastKeyRotationTimestamp` |
+| `properties.networkAcls.resourceAccessRules` | `Microsoft.Storage/storageAccounts/networkAcls.resourceAccessRules` |
+| `properties.networkAcls.resourceAccessRules[*]` | `Microsoft.Storage/storageAccounts/networkAcls.resourceAccessRules[*]` |
+| `properties.networkAcls.resourceAccessRules[*].tenantId` | `Microsoft.Storage/storageAccounts/networkAcls.resourceAccessRules[*].tenantId` |
+| `properties.networkAcls.resourceAccessRules[*].resourceId` | `Microsoft.Storage/storageAccounts/networkAcls.resourceAccessRules[*].resourceId` |
 
