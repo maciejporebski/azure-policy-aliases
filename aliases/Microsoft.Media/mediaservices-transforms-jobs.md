@@ -1,0 +1,58 @@
+# Microsoft.Media/mediaservices/transforms/jobs
+
+| Default Path | Alias |
+|---|---|
+| `properties.created` | `Microsoft.Media/mediaServices/transforms/jobs/created` |
+| `properties.state` | `Microsoft.Media/mediaServices/transforms/jobs/state` |
+| `properties.description` | `Microsoft.Media/mediaServices/transforms/jobs/description` |
+| `properties.input` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip` |
+| `properties.input.files` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.files` |
+| `properties.input.files[*]` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.files[*]` |
+| `properties.input.inputs` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs` |
+| `properties.input.inputs[*]` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*]` |
+| `properties.input.inputs[*].files` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.files` |
+| `properties.input.inputs[*].files[*]` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.files[*]` |
+| `properties.input.inputs[*].label` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].label` |
+| `properties.input.inputs[*].label` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.label` |
+| `properties.input.label` | `Microsoft.Media/mediaServices/transforms/jobs/input.label` |
+| `properties.input.label` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.label` |
+| `properties.lastModified` | `Microsoft.Media/mediaServices/transforms/jobs/lastModified` |
+| `properties.outputs` | `Microsoft.Media/mediaServices/transforms/jobs/outputs` |
+| `properties.outputs[*]` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*]` |
+| `properties.outputs[*].assetName` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].#Microsoft-Media-JobOutputAsset.assetName` |
+| `properties.outputs[*].error` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error` |
+| `properties.outputs[*].error.code` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.code` |
+| `properties.outputs[*].error.message` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.message` |
+| `properties.outputs[*].error.category` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.category` |
+| `properties.outputs[*].error.retry` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.retry` |
+| `properties.outputs[*].error.details` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.details` |
+| `properties.outputs[*].error.details[*]` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.details[*]` |
+| `properties.outputs[*].error.details[*].code` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.details[*].code` |
+| `properties.outputs[*].error.details[*].message` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].error.details[*].message` |
+| `properties.outputs[*].state` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].state` |
+| `properties.outputs[*].progress` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].progress` |
+| `properties.priority` | `Microsoft.Media/mediaServices/transforms/jobs/priority` |
+| `properties.correlationData` | `Microsoft.Media/mediaServices/transforms/jobs/correlationData` |
+| `properties.input.start` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.start.#Microsoft-Media-AbsoluteClipTime` |
+| `properties.input.start.time` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.start.#Microsoft-Media-AbsoluteClipTime.time` |
+| `properties.input.end` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.end.#Microsoft-Media-AbsoluteClipTime` |
+| `properties.input.end.time` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputClip.end.#Microsoft-Media-AbsoluteClipTime.time` |
+| `properties.input.inputs[*].start` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.start.#Microsoft-Media-AbsoluteClipTime` |
+| `properties.input.inputs[*].start.time` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.start.#Microsoft-Media-AbsoluteClipTime.time` |
+| `properties.input.inputs[*].end` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.end.#Microsoft-Media-AbsoluteClipTime` |
+| `properties.input.inputs[*].end.time` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.end.#Microsoft-Media-AbsoluteClipTime.time` |
+| `properties.input.inputs[*].inputs` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs` |
+| `properties.input.inputs[*].inputs[*]` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*]` |
+| `properties.input.inputs[*].inputs[*].files` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.files` |
+| `properties.input.inputs[*].inputs[*].files[*]` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.files[*]` |
+| `properties.input.inputs[*].inputs[*].start` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.start.#Microsoft-Media-AbsoluteClipTime` |
+| `properties.input.inputs[*].inputs[*].start.time` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.start.#Microsoft-Media-AbsoluteClipTime.time` |
+| `properties.input.inputs[*].inputs[*].end` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.end.#Microsoft-Media-AbsoluteClipTime` |
+| `properties.input.inputs[*].inputs[*].end.time` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.end.#Microsoft-Media-AbsoluteClipTime.time` |
+| `properties.input.inputs[*].inputs[*].label` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputClip.label` |
+| `properties.outputs[*].label` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].label` |
+| `properties.outputs[*].startTime` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].startTime` |
+| `properties.outputs[*].endTime` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].endTime` |
+| `properties.startTime` | `Microsoft.Media/mediaServices/transforms/jobs/startTime` |
+| `properties.endTime` | `Microsoft.Media/mediaServices/transforms/jobs/endTime` |
+

@@ -1,0 +1,63 @@
+# Microsoft.Media/mediaservices/liveEvents
+
+| Default Path | Alias |
+|---|---|
+| `properties.description` | `Microsoft.Media/mediaservices/liveEvents/description` |
+| `properties.input` | `Microsoft.Media/mediaservices/liveEvents/input` |
+| `properties.input.streamingProtocol` | `Microsoft.Media/mediaservices/liveEvents/input.streamingProtocol` |
+| `properties.input.keyFrameIntervalDuration` | `Microsoft.Media/mediaservices/liveEvents/input.keyFrameIntervalDuration` |
+| `properties.input.accessToken` | `Microsoft.Media/mediaservices/liveEvents/input.accessToken` |
+| `properties.input.endpoints` | `Microsoft.Media/mediaservices/liveEvents/input.endpoints` |
+| `properties.input.endpoints[*]` | `Microsoft.Media/mediaservices/liveEvents/input.endpoints[*]` |
+| `properties.input.endpoints[*].protocol` | `Microsoft.Media/mediaservices/liveEvents/input.endpoints[*].protocol` |
+| `properties.input.endpoints[*].url` | `Microsoft.Media/mediaservices/liveEvents/input.endpoints[*].url` |
+| `properties.preview` | `Microsoft.Media/mediaservices/liveEvents/preview` |
+| `properties.preview.endpoints` | `Microsoft.Media/mediaservices/liveEvents/preview.endpoints` |
+| `properties.preview.endpoints[*]` | `Microsoft.Media/mediaservices/liveEvents/preview.endpoints[*]` |
+| `properties.preview.endpoints[*].protocol` | `Microsoft.Media/mediaservices/liveEvents/preview.endpoints[*].protocol` |
+| `properties.preview.endpoints[*].url` | `Microsoft.Media/mediaservices/liveEvents/preview.endpoints[*].url` |
+| `properties.preview.accessControl` | `Microsoft.Media/mediaservices/liveEvents/preview.accessControl` |
+| `properties.preview.accessControl.ip` | `Microsoft.Media/mediaservices/liveEvents/preview.accessControl.ip` |
+| `properties.preview.accessControl.ip.allow` | `Microsoft.Media/mediaservices/liveEvents/preview.accessControl.ip.allow` |
+| `properties.preview.accessControl.ip.allow[*]` | `Microsoft.Media/mediaservices/liveEvents/preview.accessControl.ip.allow[*]` |
+| `properties.preview.accessControl.ip.allow[*].name` | `Microsoft.Media/mediaservices/liveEvents/preview.accessControl.ip.allow[*].name` |
+| `properties.preview.accessControl.ip.allow[*].address` | `Microsoft.Media/mediaservices/liveEvents/preview.accessControl.ip.allow[*].address` |
+| `properties.preview.accessControl.ip.allow[*].subnetPrefixLength` | `Microsoft.Media/mediaservices/liveEvents/preview.accessControl.ip.allow[*].subnetPrefixLength` |
+| `properties.preview.previewLocator` | `Microsoft.Media/mediaservices/liveEvents/preview.previewLocator` |
+| `properties.preview.streamingPolicyName` | `Microsoft.Media/mediaservices/liveEvents/preview.streamingPolicyName` |
+| `properties.encoding` | `Microsoft.Media/mediaservices/liveEvents/encoding` |
+| `properties.encoding.encodingType` | `Microsoft.Media/mediaservices/liveEvents/encoding.encodingType` |
+| `properties.encoding.presetName` | `Microsoft.Media/mediaservices/liveEvents/encoding.presetName` |
+| `properties.provisioningState` | `Microsoft.Media/mediaservices/liveEvents/provisioningState` |
+| `properties.resourceState` | `Microsoft.Media/mediaservices/liveEvents/resourceState` |
+| `properties.crossSiteAccessPolicies` | `Microsoft.Media/mediaservices/liveEvents/crossSiteAccessPolicies` |
+| `properties.crossSiteAccessPolicies.clientAccessPolicy` | `Microsoft.Media/mediaservices/liveEvents/crossSiteAccessPolicies.clientAccessPolicy` |
+| `properties.crossSiteAccessPolicies.crossDomainPolicy` | `Microsoft.Media/mediaservices/liveEvents/crossSiteAccessPolicies.crossDomainPolicy` |
+| `properties.vanityUrl` | `Microsoft.Media/mediaservices/liveEvents/vanityUrl` |
+| `properties.streamOptions` | `Microsoft.Media/mediaservices/liveEvents/streamOptions` |
+| `properties.streamOptions[*]` | `Microsoft.Media/mediaservices/liveEvents/streamOptions[*]` |
+| `properties.created` | `Microsoft.Media/mediaservices/liveEvents/created` |
+| `properties.lastModified` | `Microsoft.Media/mediaservices/liveEvents/lastModified` |
+| `properties.preview.alternativeMediaId` | `Microsoft.Media/mediaservices/liveEvents/preview.alternativeMediaId` |
+| `properties.input.accessControl` | `Microsoft.Media/mediaservices/liveEvents/input.accessControl` |
+| `properties.input.accessControl.ip` | `Microsoft.Media/mediaservices/liveEvents/input.accessControl.ip` |
+| `properties.input.accessControl.ip.allow` | `Microsoft.Media/mediaservices/liveEvents/input.accessControl.ip.allow` |
+| `properties.input.accessControl.ip.allow[*]` | `Microsoft.Media/mediaservices/liveEvents/input.accessControl.ip.allow[*]` |
+| `properties.input.accessControl.ip.allow[*].name` | `Microsoft.Media/mediaservices/liveEvents/input.accessControl.ip.allow[*].name` |
+| `properties.input.accessControl.ip.allow[*].address` | `Microsoft.Media/mediaservices/liveEvents/input.accessControl.ip.allow[*].address` |
+| `properties.input.accessControl.ip.allow[*].subnetPrefixLength` | `Microsoft.Media/mediaservices/liveEvents/input.accessControl.ip.allow[*].subnetPrefixLength` |
+| `properties.transcriptions` | `Microsoft.Media/mediaservices/liveEvents/transcriptions` |
+| `properties.transcriptions[*]` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*]` |
+| `properties.transcriptions[*].language` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].language` |
+| `properties.transcriptions[*].inputTrackSelection` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].inputTrackSelection` |
+| `properties.transcriptions[*].inputTrackSelection[*]` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].inputTrackSelection[*]` |
+| `properties.transcriptions[*].inputTrackSelection[*].property` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].inputTrackSelection[*].property` |
+| `properties.transcriptions[*].inputTrackSelection[*].operation` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].inputTrackSelection[*].operation` |
+| `properties.transcriptions[*].inputTrackSelection[*].value` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].inputTrackSelection[*].value` |
+| `properties.transcriptions[*].outputTranscriptionTrack` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].outputTranscriptionTrack` |
+| `properties.transcriptions[*].outputTranscriptionTrack.trackName` | `Microsoft.Media/mediaservices/liveEvents/transcriptions[*].outputTranscriptionTrack.trackName` |
+| `properties.encoding.stretchMode` | `Microsoft.Media/mediaservices/liveEvents/encoding.stretchMode` |
+| `properties.encoding.keyFrameInterval` | `Microsoft.Media/mediaservices/liveEvents/encoding.keyFrameInterval` |
+| `properties.useStaticHostname` | `Microsoft.Media/mediaservices/liveEvents/useStaticHostname` |
+| `properties.hostnamePrefix` | `Microsoft.Media/mediaservices/liveEvents/hostnamePrefix` |
+
