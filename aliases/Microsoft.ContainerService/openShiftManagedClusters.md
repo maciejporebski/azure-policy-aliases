@@ -39,4 +39,12 @@
 | `properties.monitorProfile.workspaceResourceID` | `Microsoft.ContainerService/openShiftManagedClusters/monitorProfile.workspaceResourceID` |
 | `properties.monitorProfile.enabled` | `Microsoft.ContainerService/openShiftManagedClusters/monitorProfile.enabled` |
 | `properties.monitorProfile` | `Microsoft.ContainerService/openShiftManagedClusters/monitorProfile` |
+| `properties.authProfile.identityProviders[*].provider.clientId` | `Microsoft.ContainerService/openShiftManagedClusters/authProfile.identityProviders[*].provider.clientId` |
+| `properties.authProfile.identityProviders[*].provider.secret` | `Microsoft.ContainerService/openShiftManagedClusters/authProfile.identityProviders[*].provider.secret` |
+| `properties.authProfile.identityProviders[*].provider.tenantId` | `Microsoft.ContainerService/openShiftManagedClusters/authProfile.identityProviders[*].provider.tenantId` |
+| `properties.authProfile.identityProviders[*].provider.customerAdminGroupId` | `Microsoft.ContainerService/openShiftManagedClusters/authProfile.identityProviders[*].provider.customerAdminGroupId` |
+| `properties.networkProfile.managementSubnetCidr` | `Microsoft.ContainerService/openShiftManagedClusters/networkProfile.managementSubnetCidr` |
+| `properties.masterPoolProfile.apiProperties` | `Microsoft.ContainerService/openShiftManagedClusters/masterPoolProfile.apiProperties` |
+| `properties.masterPoolProfile.apiProperties.privateApiServer` | `Microsoft.ContainerService/openShiftManagedClusters/masterPoolProfile.apiProperties.privateApiServer` |
+| `properties.refreshCluster` | `Microsoft.ContainerService/openShiftManagedClusters/refreshCluster` |
 
