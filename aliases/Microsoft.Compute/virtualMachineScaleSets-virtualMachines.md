@@ -186,4 +186,5 @@
 | `properties.securityProfile.uefiSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings` |
 | `properties.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings.secureBootEnabled` |
 | `properties.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings.vTpmEnabled` |
+| `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.enableFpga` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].enableFpga` |
 
