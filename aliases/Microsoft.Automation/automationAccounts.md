@@ -13,4 +13,5 @@
 | `properties.sku.family` | `Microsoft.Automation/automationAccounts/sku.family` |
 | `properties.sku.capacity` | `Microsoft.Automation/automationAccounts/sku.capacity` |
 | `properties.sku` | `Microsoft.Automation/automationAccounts/sku` |
+| `properties.encryption.keySource` | `Microsoft.Automation/automationAccounts/encryption.keySource` |
 
