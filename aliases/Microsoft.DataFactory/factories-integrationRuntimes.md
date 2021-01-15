@@ -90,4 +90,8 @@
 | `properties.typeProperties.ssisProperties.packageStores[*].packageStoreLinkedService` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.packageStores[*].packageStoreLinkedService` |
 | `properties.typeProperties.ssisProperties.packageStores[*].packageStoreLinkedService.type` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.packageStores[*].packageStoreLinkedService.type` |
 | `properties.typeProperties.ssisProperties.packageStores[*].packageStoreLinkedService.referenceName` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.packageStores[*].packageStoreLinkedService.referenceName` |
+| `properties.typeProperties.ssisProperties.catalogInfo.dualStandbyPairName` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.catalogInfo.dualStandbyPairName` |
+| `properties.managedVirtualNetwork` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.managedVirtualNetwork` |
+| `properties.managedVirtualNetwork.type` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.managedVirtualNetwork.type` |
+| `properties.managedVirtualNetwork.referenceName` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.managedVirtualNetwork.referenceName` |
 

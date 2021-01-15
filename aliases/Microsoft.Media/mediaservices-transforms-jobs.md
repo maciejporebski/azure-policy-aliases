@@ -55,4 +55,10 @@
 | `properties.outputs[*].endTime` | `Microsoft.Media/mediaServices/transforms/jobs/outputs[*].endTime` |
 | `properties.startTime` | `Microsoft.Media/mediaServices/transforms/jobs/startTime` |
 | `properties.endTime` | `Microsoft.Media/mediaServices/transforms/jobs/endTime` |
+| `properties.input.inputs[*].assetName` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputAsset.assetName` |
+| `properties.input.inputs[*].baseUri` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputHttp.baseUri` |
+| `properties.input.assetName` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputAsset.assetName` |
+| `properties.input.baseUri` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputHttp.baseUri` |
+| `properties.input.inputs[*].inputs[*].assetName` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputAsset.assetName` |
+| `properties.input.inputs[*].inputs[*].baseUri` | `Microsoft.Media/mediaServices/transforms/jobs/input.#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputs.inputs[*].#Microsoft-Media-JobInputHttp.baseUri` |
 

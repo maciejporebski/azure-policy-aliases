@@ -61,4 +61,25 @@
 | `properties.outputs[*].preset.experimentalOptions` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-FaceDetectorPreset.experimentalOptions` |
 | `properties.outputs[*].preset.mode` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-AudioAnalyzerPreset.mode` |
 | `properties.outputs[*].preset.codecs[*].syncMode` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-Video.syncMode` |
+| `properties.outputs[*].preset.codecs[*].profile` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-AacAudio.profile` |
+| `properties.outputs[*].preset.codecs[*].start` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-Image.start` |
+| `properties.outputs[*].preset.codecs[*].step` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-Image.step` |
+| `properties.outputs[*].preset.codecs[*].range` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-Image.range` |
+| `properties.outputs[*].preset.codecs[*].sceneChangeDetection` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.sceneChangeDetection` |
+| `properties.outputs[*].preset.codecs[*].complexity` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.complexity` |
+| `properties.outputs[*].preset.codecs[*].layers` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers` |
+| `properties.outputs[*].preset.codecs[*].layers[*]` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*]` |
+| `properties.outputs[*].preset.codecs[*].layers[*].bitrate` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].bitrate` |
+| `properties.outputs[*].preset.codecs[*].layers[*].maxBitrate` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].maxBitrate` |
+| `properties.outputs[*].preset.codecs[*].layers[*].bFrames` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].bFrames` |
+| `properties.outputs[*].preset.codecs[*].layers[*].frameRate` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].frameRate` |
+| `properties.outputs[*].preset.codecs[*].layers[*].slices` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].slices` |
+| `properties.outputs[*].preset.codecs[*].layers[*].adaptiveBFrame` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].adaptiveBFrame` |
+| `properties.outputs[*].preset.codecs[*].layers[*].profile` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].profile` |
+| `properties.outputs[*].preset.codecs[*].layers[*].level` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].level` |
+| `properties.outputs[*].preset.codecs[*].layers[*].bufferWindow` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].bufferWindow` |
+| `properties.outputs[*].preset.codecs[*].layers[*].referenceFrames` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].referenceFrames` |
+| `properties.outputs[*].preset.codecs[*].layers[*].entropyMode` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-StandardEncoderPreset.codecs[*].#Microsoft-Media-H264Video.layers[*].entropyMode` |
+| `properties.outputs[*].preset.audioInsightsOnly` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-VideoAnalyzerPreset.audioInsightsOnly` |
+| `properties.outputs[*].preset.insightsToExtract` | `Microsoft.Media/mediaServices/transforms/outputs[*].preset.#Microsoft-Media-VideoAnalyzerPreset.insightsToExtract` |
 
