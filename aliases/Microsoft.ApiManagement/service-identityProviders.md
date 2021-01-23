@@ -23,4 +23,5 @@
 | `properties.profileEditingPolicyName` | `Microsoft.ApiManagement/service/identityProviders/facebook.profileEditingPolicyName` |
 | `properties.passwordResetPolicyName` | `Microsoft.ApiManagement/service/identityProviders/facebook.passwordResetPolicyName` |
 | `properties.signinTenant` | `Microsoft.ApiManagement/service/identityProviders/facebook.signinTenant` |
+| `properties.signinTenant` | `Microsoft.ApiManagement/service/identityProviders/signinTenant` |
 

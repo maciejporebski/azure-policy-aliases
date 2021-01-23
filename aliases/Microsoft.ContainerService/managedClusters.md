@@ -73,6 +73,7 @@
 | `properties.availabilityZones[*]` | `Microsoft.ContainerService/managedClusters/agentPools.availabilityZones[*]` |
 | `properties.availabilityZones` | `Microsoft.ContainerService/managedClusters/agentPools.availabilityZones` |
 | `properties.addonProfiles.azurePolicy.enabled` | `Microsoft.ContainerService/managedClusters/addonProfiles.azurePolicy.enabled` |
+| `properties.addonProfiles.omsagent.enabled` | `Microsoft.ContainerService/managedClusters/addonProfiles.omsagent.enabled` |
 | `properties.maxAgentPools` | `Microsoft.ContainerService/managedClusters/maxAgentPools` |
 | `properties.windowsProfile.adminUsername` | `Microsoft.ContainerService/managedClusters/windowsProfile.adminUsername` |
 | `properties.windowsProfile.adminPassword` | `Microsoft.ContainerService/managedClusters/windowsProfile.adminPassword` |

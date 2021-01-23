@@ -37,4 +37,7 @@
 | `properties.tls` | `Microsoft.ApiManagement/service/backends/tls` |
 | `properties.skipCertificateChainValidation` | `Microsoft.ApiManagement/service/backends/skipCertificateChainValidation` |
 | `properties.skipCertificateNameValidation` | `Microsoft.ApiManagement/service/backends/skipCertificateNameValidation` |
+| `properties.properties.serviceFabricCluster.clientCertificateId` | `Microsoft.ApiManagement/service/backends/serviceFabricCluster.clientCertificateId` |
+| `properties.credentials.certificateIds` | `Microsoft.ApiManagement/service/backends/credentials.certificateIds` |
+| `properties.credentials.certificateIds[*]` | `Microsoft.ApiManagement/service/backends/credentials.certificateIds[*]` |
 

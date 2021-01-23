@@ -23,4 +23,10 @@
 | `properties.recommendationsConfiguration[*]` | `Microsoft.Security/iotSecuritySolutions/recommendationsConfiguration[*]` |
 | `properties.recommendationsConfiguration` | `Microsoft.Security/iotSecuritySolutions/recommendationsConfiguration` |
 | `properties.unmaskedIpLoggingStatus` | `Microsoft.Security/iotSecuritySolutions/unmaskedIpLoggingStatus` |
+| `properties.additionalWorkspaces` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces` |
+| `properties.additionalWorkspaces[*]` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*]` |
+| `properties.additionalWorkspaces[*].workspace` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*].workspace` |
+| `properties.additionalWorkspaces[*].type` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*].type` |
+| `properties.additionalWorkspaces[*].dataTypes` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*].dataTypes` |
+| `properties.additionalWorkspaces[*].dataTypes[*]` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*].dataTypes[*]` |
 

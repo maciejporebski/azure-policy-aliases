@@ -9,4 +9,5 @@
 | `properties.contentFormat` | `Microsoft.ApiManagement/service/products/policies/policy.contentFormat` |
 | `properties.value` | `Microsoft.ApiManagement/service/products/policies/policy.value` |
 | `properties.format` | `Microsoft.ApiManagement/service/products/policies/policy.format` |
+| `properties.value` | `Microsoft.ApiManagement/service/products/policies/value` |
 

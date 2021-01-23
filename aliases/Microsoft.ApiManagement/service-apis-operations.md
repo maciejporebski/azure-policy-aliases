@@ -74,4 +74,10 @@
 | `properties.responses[*]` | `Microsoft.ApiManagement/service/apis/operations/responses[*]` |
 | `properties.responses` | `Microsoft.ApiManagement/service/apis/operations/responses` |
 | `properties.policies` | `Microsoft.ApiManagement/service/apis/operations/policies` |
+| `properties.templateParameters[*].required` | `Microsoft.ApiManagement/service/apis/operations/templateParameters[*].required` |
+| `properties.request.queryParameters[*].required` | `Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].required` |
+| `properties.request.headers[*].required` | `Microsoft.ApiManagement/service/apis/operations/request.headers[*].required` |
+| `properties.request.representations[*].formParameters[*].required` | `Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].required` |
+| `properties.responses[*].representations[*].formParameters[*].required` | `Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].required` |
+| `properties.responses[*].headers[*].required` | `Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].required` |
 

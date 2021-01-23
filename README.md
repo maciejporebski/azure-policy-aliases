@@ -60,6 +60,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ApiManagement/service/caches](aliases/Microsoft.ApiManagement/service-caches.md)
 - [Microsoft.ApiManagement/service/gateways](aliases/Microsoft.ApiManagement/service-gateways.md)
 - [Microsoft.ApiManagement/service/namedValues](aliases/Microsoft.ApiManagement/service-namedValues.md)
+- [Microsoft.ApiManagement/service/certificates](aliases/Microsoft.ApiManagement/service-certificates.md)
+- [Microsoft.ApiManagement/service/tenant](aliases/Microsoft.ApiManagement/service-tenant.md)
 
 
 ## Microsoft.AppConfiguration
@@ -148,6 +150,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Cache
 
 - [Microsoft.Cache/Redis](aliases/Microsoft.Cache/Redis.md)
+- [Microsoft.Cache/Redis/privateEndpointConnections](aliases/Microsoft.Cache/Redis-privateEndpointConnections.md)
 - [Microsoft.Cache/Redis/firewallrules](aliases/Microsoft.Cache/Redis-firewallrules.md)
 - [Microsoft.Cache/redis/linkedservers](aliases/Microsoft.Cache/redis-linkedservers.md)
 - [Microsoft.Cache/redis/patchSchedules](aliases/Microsoft.Cache/redis-patchSchedules.md)
@@ -864,6 +867,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Security
 
 - [Microsoft.Security/alerts](aliases/Microsoft.Security/alerts.md)
+- [Microsoft.Security/alertsSuppressionRules](aliases/Microsoft.Security/alertsSuppressionRules.md)
 - [Microsoft.Security/pricings](aliases/Microsoft.Security/pricings.md)
 - [Microsoft.Security/AutoProvisioningSettings](aliases/Microsoft.Security/AutoProvisioningSettings.md)
 - [Microsoft.Security/securityContacts](aliases/Microsoft.Security/securityContacts.md)
@@ -878,6 +882,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Security/advancedThreatProtectionSettings](aliases/Microsoft.Security/advancedThreatProtectionSettings.md)
 - [Microsoft.Security/deviceSecurityGroups](aliases/Microsoft.Security/deviceSecurityGroups.md)
 - [Microsoft.Security/iotSecuritySolutions](aliases/Microsoft.Security/iotSecuritySolutions.md)
+- [Microsoft.Security/iotDefenderSettings](aliases/Microsoft.Security/iotDefenderSettings.md)
+- [Microsoft.Security/iotSensors](aliases/Microsoft.Security/iotSensors.md)
+- [Microsoft.Security/settings](aliases/Microsoft.Security/settings.md)
 - [Microsoft.Security/automations](aliases/Microsoft.Security/automations.md)
 
 

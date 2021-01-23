@@ -22,7 +22,7 @@
 | `properties.scmUrl` | `Microsoft.ApiManagement/service/scmUrl` |
 | `properties.addresserEmail` | `Microsoft.ApiManagement/service/addresserEmail` |
 | `properties.hostnameConfigurations[*].type` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].type` |
-| `properties.hostnameConfigurations[*].hostName` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].hostname` |
+| `properties.hostnameConfigurations[*].hostname` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].hostname` |
 | `properties.hostnameConfigurations[*].certificate.expiry` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].certificate.expiry` |
 | `properties.hostnameConfigurations[*].certificate.thumbprint` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].certificate.thumbprint` |
 | `properties.hostnameConfigurations[*].certificate.subject` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].certificate.subject` |
@@ -98,4 +98,10 @@
 | `properties.disableGateway` | `Microsoft.ApiManagement/service/disableGateway` |
 | `properties.apiVersionConstraint.minApiVersion` | `Microsoft.ApiManagement/service/apiVersionConstraint.minApiVersion` |
 | `properties.apiVersionConstraint` | `Microsoft.ApiManagement/service/apiVersionConstraint` |
+| `properties.hostnameConfigurations[*].identityClientId` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].identityClientId` |
+| `properties.additionalLocations[*].zones` | `Microsoft.ApiManagement/service/additionalLocations[*].zones` |
+| `properties.additionalLocations[*].zones[*]` | `Microsoft.ApiManagement/service/additionalLocations[*].zones[*]` |
+| `properties.restore` | `Microsoft.ApiManagement/service/restore` |
+| `zones` | `Microsoft.ApiManagement/service/zones` |
+| `zones[*]` | `Microsoft.ApiManagement/service/zones[*]` |
 
