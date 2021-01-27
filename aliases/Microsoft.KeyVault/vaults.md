@@ -47,4 +47,6 @@
 | `properties.privateEndpointConnections` | `Microsoft.KeyVault/vaults/privateEndpointConnections` |
 | `properties.softDeleteRetentionInDays` | `Microsoft.KeyVault/vaults/softDeleteRetentionInDays` |
 | `properties.enableRbacAuthorization` | `Microsoft.KeyVault/vaults/enableRbacAuthorization` |
+| `properties.provisioningState` | `Microsoft.KeyVault/vaults/provisioningState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 
