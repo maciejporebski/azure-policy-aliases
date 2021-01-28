@@ -7,4 +7,6 @@
 | `properties.options.createIndex.desiredState` | `Microsoft.Sql/servers/databases/automaticTuning/options.createIndex` |
 | `properties.options.dropIndex.desiredState` | `Microsoft.Sql/servers/databases/automaticTuning/options.dropIndex` |
 | `properties.options.forceLastGoodPlan.desiredState` | `Microsoft.Sql/servers/databases/automaticTuning/options.forceLastGoodPlan` |
+| `properties.actualState` | `Microsoft.Sql/servers/databases/automaticTuning/actualState` |
+| `properties.options` | `Microsoft.Sql/servers/databases/automaticTuning/options` |
 

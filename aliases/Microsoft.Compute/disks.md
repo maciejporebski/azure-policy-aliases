@@ -74,4 +74,10 @@
 | `properties.diskAccessId` | `Microsoft.Compute/disks/diskAccessId` |
 | `properties.creationData.logicalSectorSize` | `Microsoft.Compute/disks/creationData.logicalSectorSize` |
 | `properties.tier` | `Microsoft.Compute/disks/tier` |
+| `properties.purchasePlan` | `Microsoft.Compute/disks/purchasePlan` |
+| `properties.purchasePlan.name` | `Microsoft.Compute/disks/purchasePlan.name` |
+| `properties.purchasePlan.publisher` | `Microsoft.Compute/disks/purchasePlan.publisher` |
+| `properties.purchasePlan.product` | `Microsoft.Compute/disks/purchasePlan.product` |
+| `properties.purchasePlan.promotionCode` | `Microsoft.Compute/disks/purchasePlan.promotionCode` |
+| `properties.burstingEnabled` | `Microsoft.Compute/disks/burstingEnabled` |
 

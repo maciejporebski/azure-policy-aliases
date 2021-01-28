@@ -11,4 +11,5 @@
 | `properties.sid` | `Microsoft.Sql/servers/administrators/activeDirectory.sid` |
 | `properties.tenantId` | `Microsoft.Sql/servers/administrators/activeDirectory.tenantId` |
 | `properties.azureADOnlyAuthentication` | `Microsoft.Sql/servers/administrators/ActiveDirectory.azureADOnlyAuthentication` |
+| `properties.azureADOnlyAuthentication` | `Microsoft.Sql/servers/administrators/azureADOnlyAuthentication` |
 

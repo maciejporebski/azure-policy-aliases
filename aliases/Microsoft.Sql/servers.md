@@ -23,4 +23,5 @@
 | `properties.minimalTlsVersion` | `Microsoft.Sql/servers/minimalTlsVersion` |
 | `properties.publicNetworkAccess` | `Microsoft.Sql/servers/publicNetworkAccess` |
 | `properties.azureADOnlyAuthentication` | `Microsoft.Sql/servers/azureADOnlyAuthentications.Default.azureADOnlyAuthentication` |
+| `properties.workspaceFeature` | `Microsoft.Sql/servers/workspaceFeature` |
 

@@ -10,4 +10,5 @@
 | `properties.serverKeyType` | `Microsoft.Sql/managedInstances/encryptionProtector/current.serverKeyType` |
 | `properties.uri` | `Microsoft.Sql/managedInstances/encryptionProtector/current.uri` |
 | `properties.thumbprint` | `Microsoft.Sql/managedInstances/encryptionProtector/current.thumbprint` |
+| `properties.autoRotationEnabled` | `Microsoft.Sql/managedInstances/encryptionProtector/autoRotationEnabled` |
 

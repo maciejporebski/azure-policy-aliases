@@ -118,4 +118,7 @@
 | `properties.pausedDate` | `Microsoft.Sql/servers/databases/pausedDate` |
 | `properties.resumedDate` | `Microsoft.Sql/servers/databases/resumedDate` |
 | `properties.storageAccountType` | `Microsoft.Sql/servers/databases/storageAccountType` |
+| `properties.highAvailabilityReplicaCount` | `Microsoft.Sql/servers/databases/highAvailabilityReplicaCount` |
+| `properties.secondaryType` | `Microsoft.Sql/servers/databases/secondaryType` |
+| `properties.maintenanceConfigurationId` | `Microsoft.Sql/servers/databases/maintenanceConfigurationId` |
 

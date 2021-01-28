@@ -73,6 +73,13 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.AppPlatform
 
 - [Microsoft.AppPlatform/Spring](aliases/Microsoft.AppPlatform/Spring.md)
+- [Microsoft.AppPlatform/Spring/apps](aliases/Microsoft.AppPlatform/Spring-apps.md)
+- [Microsoft.AppPlatform/Spring/apps/deployments](aliases/Microsoft.AppPlatform/Spring-apps-deployments.md)
+- [Microsoft.AppPlatform/Spring/apps/bindings](aliases/Microsoft.AppPlatform/Spring-apps-bindings.md)
+- [Microsoft.AppPlatform/Spring/apps/domains](aliases/Microsoft.AppPlatform/Spring-apps-domains.md)
+- [Microsoft.AppPlatform/Spring/certificates](aliases/Microsoft.AppPlatform/Spring-certificates.md)
+- [Microsoft.AppPlatform/Spring/configServers](aliases/Microsoft.AppPlatform/Spring-configServers.md)
+- [Microsoft.AppPlatform/Spring/monitoringSettings](aliases/Microsoft.AppPlatform/Spring-monitoringSettings.md)
 
 
 ## Microsoft.Attestation
@@ -957,6 +964,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/databases/auditingSettings](aliases/Microsoft.Sql/servers-databases-auditingSettings.md)
 - [Microsoft.Sql/servers/auditingSettings](aliases/Microsoft.Sql/servers-auditingSettings.md)
 - [Microsoft.Sql/servers/extendedAuditingSettings](aliases/Microsoft.Sql/servers-extendedAuditingSettings.md)
+- [Microsoft.Sql/servers/devOpsAuditingSettings](aliases/Microsoft.Sql/servers-devOpsAuditingSettings.md)
 - [Microsoft.Sql/servers/elasticpools](aliases/Microsoft.Sql/servers-elasticpools.md)
 - [Microsoft.Sql/servers/jobAgents](aliases/Microsoft.Sql/servers-jobAgents.md)
 - [Microsoft.Sql/servers/jobAgents/jobs/steps](aliases/Microsoft.Sql/servers-jobAgents-jobs-steps.md)
@@ -978,7 +986,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/managedInstances/administrators](aliases/Microsoft.Sql/managedInstances-administrators.md)
 - [Microsoft.Sql/managedInstances/databases](aliases/Microsoft.Sql/managedInstances-databases.md)
 - [Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies](aliases/Microsoft.Sql/managedInstances-databases-backupLongTermRetentionPolicies.md)
+- [Microsoft.Sql/virtualClusters](aliases/Microsoft.Sql/virtualClusters.md)
 - [Microsoft.Sql/locations/instanceFailoverGroups](aliases/Microsoft.Sql/locations-instanceFailoverGroups.md)
+- [Microsoft.Sql/locations/serverTrustGroups](aliases/Microsoft.Sql/locations-serverTrustGroups.md)
 - [Microsoft.Sql/servers/firewallRules](aliases/Microsoft.Sql/servers-firewallRules.md)
 - [Microsoft.Sql/servers/connectionPolicies](aliases/Microsoft.Sql/servers-connectionPolicies.md)
 - [Microsoft.Sql/servers/databases/connectionPolicies](aliases/Microsoft.Sql/servers-databases-connectionPolicies.md)
@@ -998,6 +1008,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/auditingPolicies](aliases/Microsoft.Sql/servers-auditingPolicies.md)
 - [Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers](aliases/Microsoft.Sql/servers-databases-workloadGroups-workloadClassifiers.md)
 - [Microsoft.Sql/servers/privateEndpointConnections](aliases/Microsoft.Sql/servers-privateEndpointConnections.md)
+- [Microsoft.Sql/managedInstances/azureADOnlyAuthentications](aliases/Microsoft.Sql/managedInstances-azureADOnlyAuthentications.md)
+- [Microsoft.Sql/managedInstances/databases/transparentDataEncryption](aliases/Microsoft.Sql/managedInstances-databases-transparentDataEncryption.md)
+- [Microsoft.Sql/managedInstances/privateEndpointConnections](aliases/Microsoft.Sql/managedInstances-privateEndpointConnections.md)
+- [Microsoft.Sql/servers/azureADOnlyAuthentications](aliases/Microsoft.Sql/servers-azureADOnlyAuthentications.md)
+- [Microsoft.Sql/servers/databases/advisors/recommendedActions](aliases/Microsoft.Sql/servers-databases-advisors-recommendedActions.md)
+- [Microsoft.Sql/servers/databases/maintenanceWindows](aliases/Microsoft.Sql/servers-databases-maintenanceWindows.md)
 
 
 ## Microsoft.SqlVirtualMachine

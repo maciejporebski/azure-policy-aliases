@@ -22,4 +22,5 @@
 | `properties.isStorageSecondaryKeyInUse` | `Microsoft.Sql/servers/databases/auditingSettings/default.isStorageSecondaryKeyInUse` |
 | `properties.isAzureMonitorTargetEnabled` | `Microsoft.Sql/servers/databases/auditingSettings/default.isAzureMonitorTargetEnabled` |
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/auditingSettings/default.queueDelayMs` |
+| `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/auditingSettings/queueDelayMs` |
 

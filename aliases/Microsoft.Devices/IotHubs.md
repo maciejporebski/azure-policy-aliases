@@ -130,4 +130,12 @@
 | `properties.encryption.keyVaultProperties[*].keyIdentifier` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties[*].keyIdentifier` |
 | `properties.encryption.keyVaultProperties[*].identity` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties[*].identity` |
 | `properties.encryption.keyVaultProperties[*].identity.userAssignedIdentity` | `Microsoft.Devices/IotHubs/encryption.keyVaultProperties[*].identity.userAssignedIdentity` |
+| `properties.networkRuleSets` | `Microsoft.Devices/IotHubs/networkRuleSets` |
+| `properties.networkRuleSets.defaultAction` | `Microsoft.Devices/IotHubs/networkRuleSets.defaultAction` |
+| `properties.networkRuleSets.applyToBuiltInEventHubEndpoint` | `Microsoft.Devices/IotHubs/networkRuleSets.applyToBuiltInEventHubEndpoint` |
+| `properties.networkRuleSets.ipRules` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules` |
+| `properties.networkRuleSets.ipRules[*]` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules[*]` |
+| `properties.networkRuleSets.ipRules[*].filterName` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules[*].filterName` |
+| `properties.networkRuleSets.ipRules[*].action` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules[*].action` |
+| `properties.networkRuleSets.ipRules[*].ipMask` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules[*].ipMask` |
 

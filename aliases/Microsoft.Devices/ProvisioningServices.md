@@ -48,4 +48,6 @@
 | `properties.encryption.keyVaultProperties` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties` |
 | `properties.encryption.keyVaultProperties[*]` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties[*]` |
 | `properties.encryption.keyVaultProperties[*].keyIdentifier` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties[*].keyIdentifier` |
+| `properties.encryption.identity` | `Microsoft.Devices/provisioningServices/encryption.identity` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Devices/provisioningServices/encryption.identity.userAssignedIdentity` |
 

@@ -13,4 +13,5 @@
 | `properties.password` | `Microsoft.Sql/servers/databases/syncGroups/syncMembers/password` |
 | `properties.syncMemberAzureDatabaseResourceId` | `Microsoft.Sql/servers/databases/syncGroups/syncMembers/syncMemberAzureDatabaseResourceId` |
 | `properties.usePrivateLinkConnection` | `Microsoft.Sql/servers/databases/syncGroups/syncMembers/usePrivateLinkConnection` |
+| `properties.privateEndpointName` | `Microsoft.Sql/servers/databases/syncGroups/syncMembers/privateEndpointName` |
 

@@ -30,4 +30,15 @@
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/managedInstances/maintenanceConfigurationId` |
 | `properties.provisioningState` | `Microsoft.Sql/managedInstances/provisioningState` |
 | `properties.storageAccountType` | `Microsoft.Sql/managedInstances/storageAccountType` |
+| `properties.privateEndpointConnections` | `Microsoft.Sql/managedInstances/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].provisioningState` |
+| `properties.zoneRedundant` | `Microsoft.Sql/managedInstances/zoneRedundant` |
 

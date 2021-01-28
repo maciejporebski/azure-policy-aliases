@@ -20,4 +20,13 @@
 | `properties.schema` | `Microsoft.Sql/servers/databases/syncGroups/schema` |
 | `properties.hubDatabasePassword` | `Microsoft.Sql/servers/databases/syncGroups/hubDatabasePassword` |
 | `properties.usePrivateLinkConnection` | `Microsoft.Sql/servers/databases/syncGroups/usePrivateLinkConnection` |
+| `properties.privateEndpointName` | `Microsoft.Sql/servers/databases/syncGroups/privateEndpointName` |
+| `sku` | `Microsoft.Sql/servers/databases/syncGroups/sku` |
+| `sku.name` | `Microsoft.Sql/servers/databases/syncGroups/sku.name` |
+| `sku.tier` | `Microsoft.Sql/servers/databases/syncGroups/sku.tier` |
+| `sku.size` | `Microsoft.Sql/servers/databases/syncGroups/sku.size` |
+| `sku.family` | `Microsoft.Sql/servers/databases/syncGroups/sku.family` |
+| `sku.capacity` | `Microsoft.Sql/servers/databases/syncGroups/sku.capacity` |
+| `properties.enableConflictLogging` | `Microsoft.Sql/servers/databases/syncGroups/enableConflictLogging` |
+| `properties.conflictLoggingRetentionInDays` | `Microsoft.Sql/servers/databases/syncGroups/conflictLoggingRetentionInDays` |
 

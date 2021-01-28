@@ -21,4 +21,5 @@
 | `properties.databaseDtuMax` | `Microsoft.Sql/servers/elasticpools/databaseDtuMax` |
 | `properties.databaseDtuMin` | `Microsoft.Sql/servers/elasticpools/databaseDtuMin` |
 | `properties.storageMB` | `Microsoft.Sql/servers/elasticpools/storageMB` |
+| `properties.maintenanceConfigurationId` | `Microsoft.Sql/servers/elasticPools/maintenanceConfigurationId` |
 

@@ -44,8 +44,6 @@
 | `properties.trace` | `Microsoft.AppPlatform/Spring/trace` |
 | `properties.version` | `Microsoft.AppPlatform/Spring/version` |
 | `properties.serviceId` | `Microsoft.AppPlatform/Spring/serviceId` |
-| `properties.networkProfile` | `Microsoft.AppPlatform/Spring/networkProfile` |
-| `properties.networkProfile.serviceRuntimeSubnetId` | `Microsoft.AppPlatform/Spring/networkProfile.serviceRuntimeSubnetId` |
 | `properties.public` | `Microsoft.AppPlatform/Spring/apps.public` |
 | `properties.url` | `Microsoft.AppPlatform/Spring/apps.url` |
 | `properties.activeDeploymentName` | `Microsoft.AppPlatform/Spring/apps.activeDeploymentName` |
@@ -86,5 +84,26 @@
 | `properties.instances[*].discoveryStatus` | `Microsoft.AppPlatform/Spring/apps.deployments.instances[*].discoveryStatus` |
 | `properties.instances[*]` | `Microsoft.AppPlatform/Spring/apps.deployments.instances[*]` |
 | `properties.instances` | `Microsoft.AppPlatform/Spring/apps.deployments.instances` |
+| `properties.networkProfile` | `Microsoft.AppPlatform/Spring/networkProfile` |
+| `properties.networkProfile.serviceRuntimeSubnetId` | `Microsoft.AppPlatform/Spring/networkProfile.serviceRuntimeSubnetId` |
+| `properties.networkProfile.appSubnetId` | `Microsoft.AppPlatform/Spring/networkProfile.appSubnetId` |
+| `properties.networkProfile.serviceCidr` | `Microsoft.AppPlatform/Spring/networkProfile.serviceCidr` |
+| `properties.networkProfile.serviceRuntimeNetworkResourceGroup` | `Microsoft.AppPlatform/Spring/networkProfile.serviceRuntimeNetworkResourceGroup` |
+| `properties.networkProfile.appNetworkResourceGroup` | `Microsoft.AppPlatform/Spring/networkProfile.appNetworkResourceGroup` |
+| `properties.networkProfile.outboundIPs` | `Microsoft.AppPlatform/Spring/networkProfile.outboundIPs` |
+| `properties.networkProfile.outboundIPs.publicIPs` | `Microsoft.AppPlatform/Spring/networkProfile.outboundIPs.publicIPs` |
+| `properties.networkProfile.outboundIPs.publicIPs[*]` | `Microsoft.AppPlatform/Spring/networkProfile.outboundIPs.publicIPs[*]` |
+| `sku` | `Microsoft.AppPlatform/Spring/sku` |
+| `sku.name` | `Microsoft.AppPlatform/Spring/sku.name` |
 | `sku.tier` | `Microsoft.AppPlatform/Spring/sku.tier` |
+| `sku.capacity` | `Microsoft.AppPlatform/Spring/sku.capacity` |
+| `properties.networkProfile.requiredTraffics` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics` |
+| `properties.networkProfile.requiredTraffics[*]` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*]` |
+| `properties.networkProfile.requiredTraffics[*].protocol` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].protocol` |
+| `properties.networkProfile.requiredTraffics[*].port` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].port` |
+| `properties.networkProfile.requiredTraffics[*].ips` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].ips` |
+| `properties.networkProfile.requiredTraffics[*].ips[*]` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].ips[*]` |
+| `properties.networkProfile.requiredTraffics[*].fqdns` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].fqdns` |
+| `properties.networkProfile.requiredTraffics[*].fqdns[*]` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].fqdns[*]` |
+| `properties.networkProfile.requiredTraffics[*].direction` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].direction` |
 
