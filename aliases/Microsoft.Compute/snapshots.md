@@ -59,9 +59,4 @@
 | `properties.diskAccessId` | `Microsoft.Compute/snapshots/diskAccessId` |
 | `properties.creationData.logicalSectorSize` | `Microsoft.Compute/snapshots/creationData.logicalSectorSize` |
 | `properties.diskState` | `Microsoft.Compute/snapshots/diskState` |
-| `properties.purchasePlan` | `Microsoft.Compute/snapshots/purchasePlan` |
-| `properties.purchasePlan.name` | `Microsoft.Compute/snapshots/purchasePlan.name` |
-| `properties.purchasePlan.publisher` | `Microsoft.Compute/snapshots/purchasePlan.publisher` |
-| `properties.purchasePlan.product` | `Microsoft.Compute/snapshots/purchasePlan.product` |
-| `properties.purchasePlan.promotionCode` | `Microsoft.Compute/snapshots/purchasePlan.promotionCode` |
 
