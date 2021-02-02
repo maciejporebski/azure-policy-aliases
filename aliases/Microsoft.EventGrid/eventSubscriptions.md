@@ -66,4 +66,21 @@
 | `properties.deadLetterWithResourceIdentity.deadLetterDestination` | `Microsoft.EventGrid/eventSubscriptions/deadLetterWithResourceIdentity.deadLetterDestination.StorageBlob` |
 | `properties.deadLetterWithResourceIdentity.deadLetterDestination.properties.resourceId` | `Microsoft.EventGrid/eventSubscriptions/deadLetterWithResourceIdentity.deadLetterDestination.StorageBlob.resourceId` |
 | `properties.deadLetterWithResourceIdentity.deadLetterDestination.properties.blobContainerName` | `Microsoft.EventGrid/eventSubscriptions/deadLetterWithResourceIdentity.deadLetterDestination.StorageBlob.blobContainerName` |
+| `properties.destination.properties.deliveryAttributeMappings` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.deliveryAttributeMappings` |
+| `properties.destination.properties.deliveryAttributeMappings[*]` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.deliveryAttributeMappings[*]` |
+| `properties.destination.properties.deliveryAttributeMappings[*].properties.value` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.deliveryAttributeMappings[*].Static.value` |
+| `properties.destination.properties.deliveryAttributeMappings[*].properties.isSecret` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.deliveryAttributeMappings[*].Static.isSecret` |
+| `properties.destination.properties.deliveryAttributeMappings[*].properties.sourceField` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.deliveryAttributeMappings[*].Dynamic.sourceField` |
+| `properties.destination.properties.deliveryAttributeMappings[*].name` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.deliveryAttributeMappings[*].name` |
+| `properties.destination.properties.deliveryAttributeMappings[*].type` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.deliveryAttributeMappings[*].type` |
+| `properties.destination.properties.queueMessageTimeToLiveInSeconds` | `Microsoft.EventGrid/eventSubscriptions/destination.StorageQueue.queueMessageTimeToLiveInSeconds` |
+| `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings` |
+| `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*]` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings[*]` |
+| `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].properties.value` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings[*].Static.value` |
+| `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].properties.isSecret` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings[*].Static.isSecret` |
+| `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].properties.sourceField` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings[*].Dynamic.sourceField` |
+| `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].name` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings[*].name` |
+| `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].type` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings[*].type` |
+| `properties.deliveryWithResourceIdentity.destination.properties.queueMessageTimeToLiveInSeconds` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.StorageQueue.queueMessageTimeToLiveInSeconds` |
+| `properties.filter.enableAdvancedFilteringOnArrays` | `Microsoft.EventGrid/eventSubscriptions/filter.enableAdvancedFilteringOnArrays` |
 

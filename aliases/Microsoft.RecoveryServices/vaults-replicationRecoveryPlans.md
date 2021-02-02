@@ -30,4 +30,22 @@
 | `properties.groups[*].endGroupActions` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions` |
 | `properties.groups[*]` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*]` |
 | `properties.groups` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups` |
+| `properties.groups[*].startGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.ScriptActionDetails` |
+| `properties.groups[*].startGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.AutomationRunbookActionDetails` |
+| `properties.groups[*].startGroupActions[*].customDetails.path` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.ScriptActionDetails.path` |
+| `properties.groups[*].startGroupActions[*].customDetails.timeout` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.ScriptActionDetails.timeout` |
+| `properties.groups[*].startGroupActions[*].customDetails.timeout` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.AutomationRunbookActionDetails.timeout` |
+| `properties.groups[*].startGroupActions[*].customDetails.fabricLocation` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.ScriptActionDetails.fabricLocation` |
+| `properties.groups[*].startGroupActions[*].customDetails.fabricLocation` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.AutomationRunbookActionDetails.fabricLocation` |
+| `properties.groups[*].startGroupActions[*].customDetails.runbookId` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.AutomationRunbookActionDetails.runbookId` |
+| `properties.groups[*].startGroupActions[*].customDetails.description` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.ManualActionDetails.description` |
+| `properties.groups[*].endGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ScriptActionDetails` |
+| `properties.groups[*].endGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.AutomationRunbookActionDetails` |
+| `properties.groups[*].endGroupActions[*].customDetails.path` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ScriptActionDetails.path` |
+| `properties.groups[*].endGroupActions[*].customDetails.timeout` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ScriptActionDetails.timeout` |
+| `properties.groups[*].endGroupActions[*].customDetails.timeout` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.AutomationRunbookActionDetails.timeout` |
+| `properties.groups[*].endGroupActions[*].customDetails.fabricLocation` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ScriptActionDetails.fabricLocation` |
+| `properties.groups[*].endGroupActions[*].customDetails.fabricLocation` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.AutomationRunbookActionDetails.fabricLocation` |
+| `properties.groups[*].endGroupActions[*].customDetails.runbookId` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.AutomationRunbookActionDetails.runbookId` |
+| `properties.groups[*].endGroupActions[*].customDetails.description` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ManualActionDetails.description` |
 

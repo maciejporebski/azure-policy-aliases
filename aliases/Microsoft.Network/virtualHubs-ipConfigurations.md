@@ -508,4 +508,15 @@
 | `properties.publicIPAddress.extendedLocation.name` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.extendedLocation.name` |
 | `properties.publicIPAddress.extendedLocation.type` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.extendedLocation.type` |
 | `properties.publicIPAddress.sku.tier` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.sku.tier` |
+| `properties.subnet.properties.networkSecurityGroup.properties.securityRules[*].type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.networkSecurityGroup.securityRules[*].type` |
+| `properties.subnet.properties.networkSecurityGroup.properties.defaultSecurityRules[*].type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.networkSecurityGroup.defaultSecurityRules[*].type` |
+| `properties.subnet.properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation` |
+| `properties.subnet.properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation.name` |
+| `properties.subnet.properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation.type` |
+| `properties.subnet.properties.routeTable.properties.routes[*].properties.hasBgpOverride` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.routeTable.routes[*].hasBgpOverride` |
+| `properties.subnet.properties.routeTable.properties.routes[*].type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.routeTable.routes[*].type` |
+| `properties.subnet.properties.routeTable.properties.resourceGuid` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.routeTable.resourceGuid` |
+| `properties.subnet.properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.privateEndpoints[*].extendedLocation` |
+| `properties.subnet.properties.privateEndpoints[*].extendedLocation.name` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.privateEndpoints[*].extendedLocation.name` |
+| `properties.subnet.properties.privateEndpoints[*].extendedLocation.type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.privateEndpoints[*].extendedLocation.type` |
 

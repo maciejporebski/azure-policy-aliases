@@ -7,4 +7,9 @@
 | `properties.storageTypeState` | `Microsoft.RecoveryServices/Vaults/backupconfig/vaultconfig.storageTypeState` |
 | `properties.enhancedSecurityState` | `Microsoft.RecoveryServices/Vaults/backupconfig/vaultconfig.enhancedSecurityState` |
 | `properties.softDeleteFeatureState` | `Microsoft.RecoveryServices/Vaults/backupconfig/vaultconfig.softDeleteFeatureState` |
+| `properties.storageModelType` | `Microsoft.RecoveryServices/vaults/backupconfig/storageModelType` |
+| `properties.storageType` | `Microsoft.RecoveryServices/vaults/backupconfig/storageType` |
+| `properties.storageTypeState` | `Microsoft.RecoveryServices/vaults/backupconfig/storageTypeState` |
+| `properties.enhancedSecurityState` | `Microsoft.RecoveryServices/vaults/backupconfig/enhancedSecurityState` |
+| `properties.softDeleteFeatureState` | `Microsoft.RecoveryServices/vaults/backupconfig/softDeleteFeatureState` |
 

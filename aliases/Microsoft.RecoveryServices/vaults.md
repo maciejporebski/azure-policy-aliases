@@ -33,4 +33,11 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections.privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections.privateLinkServiceConnectionState.actionRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections.privateLinkServiceConnectionState` |
+| `properties.encryption` | `Microsoft.RecoveryServices/vaults/encryption` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.RecoveryServices/vaults/encryption.keyVaultProperties` |
+| `properties.encryption.keyVaultProperties.keyUri` | `Microsoft.RecoveryServices/vaults/encryption.keyVaultProperties.keyUri` |
+| `properties.encryption.kekIdentity` | `Microsoft.RecoveryServices/vaults/encryption.kekIdentity` |
+| `properties.encryption.kekIdentity.useSystemAssignedIdentity` | `Microsoft.RecoveryServices/vaults/encryption.kekIdentity.useSystemAssignedIdentity` |
+| `properties.encryption.kekIdentity.userAssignedIdentity` | `Microsoft.RecoveryServices/vaults/encryption.kekIdentity.userAssignedIdentity` |
+| `properties.encryption.infrastructureEncryption` | `Microsoft.RecoveryServices/vaults/encryption.infrastructureEncryption` |
 

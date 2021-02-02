@@ -712,4 +712,9 @@
 | `properties.networkInterfaces[*].properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateEndpoint.networkInterfaces[*].extendedLocation` |
 | `properties.networkInterfaces[*].properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.name` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateEndpoint.networkInterfaces[*].extendedLocation.name` |
 | `properties.networkInterfaces[*].properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.type` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateEndpoint.networkInterfaces[*].extendedLocation.type` |
+| `properties.securityRules[*].type` | `Microsoft.Network/networkSecurityGroups/securityRules[*].type` |
+| `properties.defaultSecurityRules[*].type` | `Microsoft.Network/networkSecurityGroups/defaultSecurityRules[*].type` |
+| `properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateEndpoint.extendedLocation` |
+| `properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateEndpoint.extendedLocation.name` |
+| `properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateEndpoint.extendedLocation.type` |
 

@@ -35,4 +35,5 @@
 | `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes.staticRoutes` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes.staticRoutes` |
 | `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes` |
 | `properties.expressRouteConnections[*].properties.routingConfiguration` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration` |
+| `properties.expressRouteConnections[*].properties.expressRouteGatewayBypass` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteGatewayBypass` |
 

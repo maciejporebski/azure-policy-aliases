@@ -8,4 +8,5 @@
 | `properties.itemId` | `Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/itemId` |
 | `properties.policyId` | `Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/policyId` |
 | `properties.protectionState` | `Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/protectionState` |
+| `properties.friendlyName` | `Microsoft.RecoveryServices/vaults/backupFabrics/backupProtectionIntent/AzureResourceItem.friendlyName` |
 

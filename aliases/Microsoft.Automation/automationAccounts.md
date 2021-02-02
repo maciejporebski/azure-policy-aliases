@@ -14,4 +14,9 @@
 | `properties.sku.capacity` | `Microsoft.Automation/automationAccounts/sku.capacity` |
 | `properties.sku` | `Microsoft.Automation/automationAccounts/sku` |
 | `properties.encryption.keySource` | `Microsoft.Automation/automationAccounts/encryption.keySource` |
+| `properties.encryption` | `Microsoft.Automation/automationAccounts/encryption` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties` |
+| `properties.encryption.keyVaultProperties.keyvaultUri` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties.keyvaultUri` |
+| `properties.encryption.keyVaultProperties.keyName` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties.keyName` |
+| `properties.encryption.keyVaultProperties.keyVersion` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties.keyVersion` |
 

@@ -76,4 +76,11 @@
 | `properties.managedRules.ruleSets[*].ruleGroupOverrides[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet.ruleGroupOverrides[*]` |
 | `properties.managedRules.ruleSets[*].ruleGroupOverrides[*].ruleGroupOverride` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet.ruleGroupOverrides[*].ruleGroupOverride` |
 | `properties.managedRules.ruleSets[*].ruleGroupOverrides[*].action` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet.ruleGroupOverrides[*].action` |
+| `properties.policySettings.requestBodyCheck` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.requestBodyCheck` |
+| `properties.managedRules.managedRuleSets[*].ruleSetAction` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetAction` |
+| `properties.securityPolicyLinks` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/securityPolicyLinks` |
+| `properties.securityPolicyLinks[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/securityPolicyLinks[*]` |
+| `properties.securityPolicyLinks[*].id` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/securityPolicyLinks[*].id` |
+| `sku` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/sku` |
+| `sku.name` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/sku.name` |
 

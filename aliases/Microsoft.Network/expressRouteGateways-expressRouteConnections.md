@@ -24,4 +24,5 @@
 | `properties.routingConfiguration.vnetRoutes.staticRoutes` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.staticRoutes` |
 | `properties.routingConfiguration.vnetRoutes` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes` |
 | `properties.routingConfiguration` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration` |
+| `properties.expressRouteGatewayBypass` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteGatewayBypass` |
 

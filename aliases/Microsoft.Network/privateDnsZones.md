@@ -9,4 +9,5 @@
 | `properties.maxNumberOfVirtualNetworkLinksWithRegistration` | `Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinksWithRegistration` |
 | `properties.numberOfVirtualNetworkLinksWithRegistration` | `Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinksWithRegistration` |
 | `properties.provisioningState` | `Microsoft.Network/privateDnsZones/provisioningState` |
+| `properties.internalId` | `Microsoft.Network/privateDnsZones/internalId` |
 

@@ -485,4 +485,7 @@
 | `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation` | `Microsoft.Network/networkInterfaces/privateEndpoint.networkInterfaces[*].extendedLocation` |
 | `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.name` | `Microsoft.Network/networkInterfaces/privateEndpoint.networkInterfaces[*].extendedLocation.name` |
 | `properties.privateEndpoint.properties.networkInterfaces[*].extendedLocation.type` | `Microsoft.Network/networkInterfaces/privateEndpoint.networkInterfaces[*].extendedLocation.type` |
+| `properties.privateEndpoint.extendedLocation` | `Microsoft.Network/networkInterfaces/privateEndpoint.extendedLocation` |
+| `properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/networkInterfaces/privateEndpoint.extendedLocation.name` |
+| `properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/networkInterfaces/privateEndpoint.extendedLocation.type` |
 

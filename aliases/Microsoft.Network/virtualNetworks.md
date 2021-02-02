@@ -784,4 +784,15 @@
 | `properties.virtualNetworkPeerings[*].properties.remoteVirtualNetworkAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteVirtualNetworkAddressSpace.addressPrefixes[*]` |
 | `properties.virtualNetworkPeerings[*].properties.peeringSyncLevel` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].peeringSyncLevel` |
 | `properties.virtualNetworkPeerings[*].properties.syncRemoteAddressSpace` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].syncRemoteAddressSpace` |
+| `properties.subnets[*].properties.networkSecurityGroup.properties.securityRules[*].type` | `Microsoft.Network/virtualnetworks/subnets[*].networkSecurityGroup.securityRules[*].type` |
+| `properties.subnets[*].properties.networkSecurityGroup.properties.defaultSecurityRules[*].type` | `Microsoft.Network/virtualnetworks/subnets[*].networkSecurityGroup.defaultSecurityRules[*].type` |
+| `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation` | `Microsoft.Network/virtualnetworks/subnets[*].networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation` |
+| `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/virtualnetworks/subnets[*].networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation.name` |
+| `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/virtualnetworks/subnets[*].networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation.type` |
+| `properties.subnets[*].properties.routeTable.properties.routes[*].properties.hasBgpOverride` | `Microsoft.Network/virtualnetworks/subnets[*].routeTable.routes[*].hasBgpOverride` |
+| `properties.subnets[*].properties.routeTable.properties.routes[*].type` | `Microsoft.Network/virtualnetworks/subnets[*].routeTable.routes[*].type` |
+| `properties.subnets[*].properties.routeTable.properties.resourceGuid` | `Microsoft.Network/virtualnetworks/subnets[*].routeTable.resourceGuid` |
+| `properties.subnets[*].properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/virtualnetworks/subnets[*].privateEndpoints[*].extendedLocation` |
+| `properties.subnets[*].properties.privateEndpoints[*].extendedLocation.name` | `Microsoft.Network/virtualnetworks/subnets[*].privateEndpoints[*].extendedLocation.name` |
+| `properties.subnets[*].properties.privateEndpoints[*].extendedLocation.type` | `Microsoft.Network/virtualnetworks/subnets[*].privateEndpoints[*].extendedLocation.type` |
 

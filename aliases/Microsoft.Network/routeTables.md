@@ -420,4 +420,7 @@
 | `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.ipConfigurations[*].properties.loadBalancerBackendAddressPools[*].properties.outboundRules` | `Microsoft.Network/routeTables/subnets[*].networkSecurityGroup.networkInterfaces[*].ipConfigurations[*].loadBalancerBackendAddressPools[*].outboundRules` |
 | `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.ipConfigurations[*].properties.loadBalancerBackendAddressPools[*].type` | `Microsoft.Network/routeTables/subnets[*].networkSecurityGroup.networkInterfaces[*].ipConfigurations[*].loadBalancerBackendAddressPools[*].type` |
 | `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.ipConfigurations[*].properties.loadBalancerInboundNatRules[*].type` | `Microsoft.Network/routeTables/subnets[*].networkSecurityGroup.networkInterfaces[*].ipConfigurations[*].loadBalancerInboundNatRules[*].type` |
+| `properties.routes[*].properties.hasBgpOverride` | `Microsoft.Network/routeTables/routes[*].hasBgpOverride` |
+| `properties.routes[*].type` | `Microsoft.Network/routeTables/routes[*].type` |
+| `properties.resourceGuid` | `Microsoft.Network/routeTables/resourceGuid` |
 

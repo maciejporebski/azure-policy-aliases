@@ -13,4 +13,5 @@
 | `properties.resolutionVirtualNetworks[*].id` | `Microsoft.Network/dnszones/resolutionVirtualNetworks[*].id` |
 | `properties.resolutionVirtualNetworks[*]` | `Microsoft.Network/dnszones/resolutionVirtualNetworks[*]` |
 | `properties.resolutionVirtualNetworks` | `Microsoft.Network/dnszones/resolutionVirtualNetworks` |
+| `properties.maxNumberOfRecordsPerRecordSet` | `Microsoft.Network/dnszones/maxNumberOfRecordsPerRecordSet` |
 

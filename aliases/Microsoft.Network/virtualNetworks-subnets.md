@@ -737,4 +737,15 @@
 | `properties.ipConfigurations[*].properties.publicIPAddress.extendedLocation.name` | `Microsoft.Network/virtualnetworks/subnets/ipConfigurations[*].publicIPAddress.extendedLocation.name` |
 | `properties.ipConfigurations[*].properties.publicIPAddress.extendedLocation.type` | `Microsoft.Network/virtualnetworks/subnets/ipConfigurations[*].publicIPAddress.extendedLocation.type` |
 | `properties.ipConfigurations[*].properties.publicIPAddress.sku.tier` | `Microsoft.Network/virtualnetworks/subnets/ipConfigurations[*].publicIPAddress.sku.tier` |
+| `properties.networkSecurityGroup.properties.securityRules[*].type` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.securityRules[*].type` |
+| `properties.networkSecurityGroup.properties.defaultSecurityRules[*].type` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.defaultSecurityRules[*].type` |
+| `properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation` |
+| `properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation.name` |
+| `properties.networkSecurityGroup.properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.networkInterfaces[*].privateEndpoint.extendedLocation.type` |
+| `properties.routeTable.properties.routes[*].properties.hasBgpOverride` | `Microsoft.Network/virtualnetworks/subnets/routeTable.routes[*].hasBgpOverride` |
+| `properties.routeTable.properties.routes[*].type` | `Microsoft.Network/virtualnetworks/subnets/routeTable.routes[*].type` |
+| `properties.routeTable.properties.resourceGuid` | `Microsoft.Network/virtualnetworks/subnets/routeTable.resourceGuid` |
+| `properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].extendedLocation` |
+| `properties.privateEndpoints[*].extendedLocation.name` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].extendedLocation.name` |
+| `properties.privateEndpoints[*].extendedLocation.type` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].extendedLocation.type` |
 

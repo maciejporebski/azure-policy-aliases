@@ -75,4 +75,11 @@
 | `properties.routingConfiguration.vnetRoutes.staticRoutes` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.staticRoutes` |
 | `properties.routingConfiguration.vnetRoutes` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes` |
 | `properties.routingConfiguration` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration` |
+| `properties.vpnLinkConnections[*].properties.vpnLinkConnectionMode` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnLinkConnectionMode` |
+| `properties.vpnLinkConnections[*].properties.ingressNatRules` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ingressNatRules` |
+| `properties.vpnLinkConnections[*].properties.ingressNatRules[*]` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ingressNatRules[*]` |
+| `properties.vpnLinkConnections[*].properties.ingressNatRules[*].id` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ingressNatRules[*].id` |
+| `properties.vpnLinkConnections[*].properties.egressNatRules` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressNatRules` |
+| `properties.vpnLinkConnections[*].properties.egressNatRules[*]` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressNatRules[*]` |
+| `properties.vpnLinkConnections[*].properties.egressNatRules[*].id` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressNatRules[*].id` |
 

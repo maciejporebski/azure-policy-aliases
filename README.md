@@ -111,6 +111,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Automation/automationAccounts/webhooks](aliases/Microsoft.Automation/automationAccounts-webhooks.md)
 - [Microsoft.Automation/automationAccounts/softwareUpdateConfigurations](aliases/Microsoft.Automation/automationAccounts-softwareUpdateConfigurations.md)
 - [Microsoft.Automation/automationAccounts/jobs](aliases/Microsoft.Automation/automationAccounts-jobs.md)
+- [Microsoft.Automation/automationAccounts/privateEndpointConnections](aliases/Microsoft.Automation/automationAccounts-privateEndpointConnections.md)
 - [Microsoft.Automation/automationAccounts/variables](aliases/Microsoft.Automation/automationAccounts-variables.md)
 - [Microsoft.Automation/automationAccounts/certificates](aliases/Microsoft.Automation/automationAccounts-certificates.md)
 - [Microsoft.Automation/automationAccounts/compilationjobs](aliases/Microsoft.Automation/automationAccounts-compilationjobs.md)
@@ -123,6 +124,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Automation/automationAccounts/python2Packages](aliases/Microsoft.Automation/automationAccounts-python2Packages.md)
 - [Microsoft.Automation/automationAccounts/schedules](aliases/Microsoft.Automation/automationAccounts-schedules.md)
 - [Microsoft.Automation/automationAccounts/watchers](aliases/Microsoft.Automation/automationAccounts-watchers.md)
+- [Microsoft.Automation/automationAccounts/nodes](aliases/Microsoft.Automation/automationAccounts-nodes.md)
 
 
 ## Microsoft.Batch
@@ -778,6 +780,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/firewallPolicies/ruleCollectionGroups](aliases/Microsoft.Network/firewallPolicies-ruleCollectionGroups.md)
 - [Microsoft.Network/virtualHubs/bgpConnections](aliases/Microsoft.Network/virtualHubs-bgpConnections.md)
 - [Microsoft.Network/virtualHubs/ipConfigurations](aliases/Microsoft.Network/virtualHubs-ipConfigurations.md)
+- [Microsoft.Network/vpnGateways/natRules](aliases/Microsoft.Network/vpnGateways-natRules.md)
 
 
 ## Microsoft.NotificationHubs
@@ -840,6 +843,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.RecoveryServices/vaults/replicationRecoveryPlans](aliases/Microsoft.RecoveryServices/vaults-replicationRecoveryPlans.md)
 - [Microsoft.RecoveryServices/vaults/replicationVaultSettings](aliases/Microsoft.RecoveryServices/vaults-replicationVaultSettings.md)
 - [Microsoft.RecoveryServices/Vaults/backupconfig](aliases/Microsoft.RecoveryServices/Vaults-backupconfig.md)
+- [Microsoft.RecoveryServices/Vaults/backupEncryptionConfigs](aliases/Microsoft.RecoveryServices/Vaults-backupEncryptionConfigs.md)
+- [Microsoft.RecoveryServices/vaults/replicationProtectionIntents](aliases/Microsoft.RecoveryServices/vaults-replicationProtectionIntents.md)
 
 
 ## Microsoft.Relay
@@ -869,6 +874,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Search
 
 - [Microsoft.Search/searchServices](aliases/Microsoft.Search/searchServices.md)
+- [Microsoft.Search/searchServices/sharedPrivateLinkResources](aliases/Microsoft.Search/searchServices-sharedPrivateLinkResources.md)
 
 
 ## Microsoft.Security
