@@ -194,4 +194,20 @@
 | `properties.networkConfiguration.publicIPAddressConfiguration.ipAddressIds[*]` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.publicIPAddressConfiguration.ipAddressIds[*]` |
 | `properties.networkConfiguration.publicIPAddressConfiguration.ipAddressIds` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.publicIPAddressConfiguration.ipAddressIds` |
 | `properties.networkConfiguration.publicIPAddressConfiguration` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.publicIPAddressConfiguration` |
+| `properties.autoScaleRun.error.details[*].details` | `Microsoft.Batch/batchAccounts/pools/autoScaleRun.error.details[*].details` |
+| `properties.autoScaleRun.error.details[*].details[*]` | `Microsoft.Batch/batchAccounts/pools/autoScaleRun.error.details[*].details[*]` |
+| `properties.resizeOperationStatus.errors[*].details[*].details` | `Microsoft.Batch/batchAccounts/pools/resizeOperationStatus.errors[*].details[*].details` |
+| `properties.resizeOperationStatus.errors[*].details[*].details[*]` | `Microsoft.Batch/batchAccounts/pools/resizeOperationStatus.errors[*].details[*].details[*]` |
+| `properties.taskSlotsPerNode` | `Microsoft.Batch/batchAccounts/pools/taskSlotsPerNode` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.nodePlacementConfiguration` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.nodePlacementConfiguration` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.nodePlacementConfiguration.policy` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.nodePlacementConfiguration.policy` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*]` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*]` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].name` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].name` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].publisher` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].publisher` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].type` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].type` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].typeHandlerVersion` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].typeHandlerVersion` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].autoUpgradeMinorVersion` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].autoUpgradeMinorVersion` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions[*]` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions[*]` |
 

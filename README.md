@@ -134,6 +134,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Batch/batchAccounts/certificates](aliases/Microsoft.Batch/batchAccounts-certificates.md)
 - [Microsoft.Batch/batchAccounts/applications](aliases/Microsoft.Batch/batchAccounts-applications.md)
 - [Microsoft.Batch/batchAccounts/applications/versions](aliases/Microsoft.Batch/batchAccounts-applications-versions.md)
+- [Microsoft.Batch/batchAccounts/privateEndpointConnections](aliases/Microsoft.Batch/batchAccounts-privateEndpointConnections.md)
 
 
 ## Microsoft.Blockchain
