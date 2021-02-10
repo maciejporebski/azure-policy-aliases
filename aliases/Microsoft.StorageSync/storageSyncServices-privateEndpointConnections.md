@@ -9,4 +9,5 @@
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/provisioningState` |
+| `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 

@@ -82,4 +82,21 @@
 | `properties.networkProperties` | `Microsoft.HDInsight/clusters/networkProperties` |
 | `properties.networkProperties.resourceProviderConnection` | `Microsoft.HDInsight/clusters/networkProperties.resourceProviderConnection` |
 | `properties.networkProperties.privateLink` | `Microsoft.HDInsight/clusters/networkProperties.privateLink` |
+| `properties.computeProfile.roles[*].VMGroupName` | `Microsoft.HDInsight/clusters/computeProfile.roles[*].VMGroupName` |
+| `properties.computeProfile.roles[*].encryptDataDisks` | `Microsoft.HDInsight/clusters/computeProfile.roles[*].encryptDataDisks` |
+| `properties.storageProfile` | `Microsoft.HDInsight/clusters/storageProfile` |
+| `properties.storageProfile.storageaccounts` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts` |
+| `properties.storageProfile.storageaccounts[*]` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*]` |
+| `properties.storageProfile.storageaccounts[*].name` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].name` |
+| `properties.storageProfile.storageaccounts[*].isDefault` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].isDefault` |
+| `properties.storageProfile.storageaccounts[*].container` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].container` |
+| `properties.storageProfile.storageaccounts[*].fileSystem` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].fileSystem` |
+| `properties.storageProfile.storageaccounts[*].key` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].key` |
+| `properties.storageProfile.storageaccounts[*].resourceId` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].resourceId` |
+| `properties.storageProfile.storageaccounts[*].msiResourceId` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].msiResourceId` |
+| `properties.storageProfile.storageaccounts[*].saskey` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].saskey` |
+| `properties.storageProfile.storageaccounts[*].fileshare` | `Microsoft.HDInsight/clusters/storageProfile.storageaccounts[*].fileshare` |
+| `properties.computeIsolationProperties` | `Microsoft.HDInsight/clusters/computeIsolationProperties` |
+| `properties.computeIsolationProperties.enableComputeIsolation` | `Microsoft.HDInsight/clusters/computeIsolationProperties.enableComputeIsolation` |
+| `properties.computeIsolationProperties.hostSku` | `Microsoft.HDInsight/clusters/computeIsolationProperties.hostSku` |
 

@@ -84,4 +84,8 @@
 | `properties.computeProfile.roles[*].autoscale` | `Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].autoscale` |
 | `properties.httpsEndpoints[*].subDomainSuffix` | `Microsoft.HDInsight/clusters/applications/httpsEndpoints[*].subDomainSuffix` |
 | `properties.httpsEndpoints[*].disableGatewayAuth` | `Microsoft.HDInsight/clusters/applications/httpsEndpoints[*].disableGatewayAuth` |
+| `properties.computeProfile.roles[*].VMGroupName` | `Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].VMGroupName` |
+| `properties.computeProfile.roles[*].encryptDataDisks` | `Microsoft.HDInsight/clusters/applications/computeProfile.roles[*].encryptDataDisks` |
+| `properties.httpsEndpoints[*].privateIPAddress` | `Microsoft.HDInsight/clusters/applications/httpsEndpoints[*].privateIPAddress` |
+| `properties.sshEndpoints[*].privateIPAddress` | `Microsoft.HDInsight/clusters/applications/sshEndpoints[*].privateIPAddress` |
 
