@@ -22,4 +22,11 @@
 | `properties.isSwift` | `Microsoft.Web/sites/slots/virtualnetworkconnections/isSwift` |
 | `properties.vnetName` | `Microsoft.Web/sites/slots/virtualnetworkconnections/gateways.vnetName` |
 | `properties.vpnPackageUri` | `Microsoft.Web/sites/slots/virtualnetworkconnections/gateways.vpnPackageUri` |
+| `properties.routes[*].systemData` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData` |
+| `properties.routes[*].systemData.createdBy` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.createdBy` |
+| `properties.routes[*].systemData.createdByType` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.createdByType` |
+| `properties.routes[*].systemData.createdAt` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.createdAt` |
+| `properties.routes[*].systemData.lastModifiedBy` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.lastModifiedBy` |
+| `properties.routes[*].systemData.lastModifiedByType` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.lastModifiedByType` |
+| `properties.routes[*].systemData.lastModifiedAt` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.lastModifiedAt` |
 

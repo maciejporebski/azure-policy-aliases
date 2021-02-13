@@ -119,4 +119,17 @@
 | `properties.properties.lastOperation.operationName` | `Microsoft.MachineLearningServices/workspaces/computes/lastOperation.operationName` |
 | `properties.properties.lastOperation.operationTime` | `Microsoft.MachineLearningServices/workspaces/computes/lastOperation.operationTime` |
 | `properties.properties.lastOperation.operationStatus` | `Microsoft.MachineLearningServices/workspaces/computes/lastOperation.operationStatus` |
+| `properties.properties.setupScripts` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts` |
+| `properties.properties.setupScripts.scripts` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts` |
+| `properties.properties.setupScripts.scripts.startupScript` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.startupScript` |
+| `properties.properties.setupScripts.scripts.startupScript.scriptSource` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.startupScript.scriptSource` |
+| `properties.properties.setupScripts.scripts.startupScript.scriptData` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.startupScript.scriptData` |
+| `properties.properties.setupScripts.scripts.startupScript.scriptArguments` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.startupScript.scriptArguments` |
+| `properties.properties.setupScripts.scripts.startupScript.timeout` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.startupScript.timeout` |
+| `properties.properties.setupScripts.scripts.creationScript` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.creationScript` |
+| `properties.properties.setupScripts.scripts.creationScript.scriptSource` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.creationScript.scriptSource` |
+| `properties.properties.setupScripts.scripts.creationScript.scriptData` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.creationScript.scriptData` |
+| `properties.properties.setupScripts.scripts.creationScript.scriptArguments` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.creationScript.scriptArguments` |
+| `properties.properties.setupScripts.scripts.creationScript.timeout` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.creationScript.timeout` |
+| `properties.properties.workspaceUrl` | `Microsoft.MachineLearningServices/workspaces/computes/workspaceUrl` |
 

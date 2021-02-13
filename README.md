@@ -612,6 +612,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.MachineLearningServices/workspaces](aliases/Microsoft.MachineLearningServices/workspaces.md)
 - [Microsoft.MachineLearningServices/workspaces/computes](aliases/Microsoft.MachineLearningServices/workspaces-computes.md)
+- [Microsoft.MachineLearningServices/workspaces/linkedServices](aliases/Microsoft.MachineLearningServices/workspaces-linkedServices.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
 

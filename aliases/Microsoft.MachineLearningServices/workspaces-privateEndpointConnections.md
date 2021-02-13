@@ -13,4 +13,5 @@
 | `sku.tier` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.tier` |
 | `sku` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpoint.subnetArmId` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateEndpoint.subnetArmId` |
 

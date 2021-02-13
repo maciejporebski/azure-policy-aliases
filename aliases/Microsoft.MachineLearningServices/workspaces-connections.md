@@ -6,4 +6,5 @@
 | `properties.target` | `Microsoft.MachineLearningServices/workspaces/connections/target` |
 | `properties.authType` | `Microsoft.MachineLearningServices/workspaces/connections/authType` |
 | `properties.value` | `Microsoft.MachineLearningServices/workspaces/connections/value` |
+| `properties.valueFormat` | `Microsoft.MachineLearningServices/workspaces/connections/valueFormat` |
 

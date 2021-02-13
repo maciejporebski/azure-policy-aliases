@@ -64,4 +64,18 @@
 | `properties.notebookInfo.notebookPreparationError.statusCode` | `Microsoft.MachineLearningServices/workspaces/notebookInfo.notebookPreparationError.statusCode` |
 | `properties.notebookInfo.notebookPreparationError` | `Microsoft.MachineLearningServices/workspaces/notebookInfo.notebookPreparationError` |
 | `properties.notebookInfo` | `Microsoft.MachineLearningServices/workspaces/notebookInfo` |
+| `properties.encryption.identity` | `Microsoft.MachineLearningServices/workspaces/encryption.identity` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.MachineLearningServices/workspaces/encryption.identity.userAssignedIdentity` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.subnetArmId` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].privateEndpoint.subnetArmId` |
+| `properties.serviceManagedResourcesSettings` | `Microsoft.MachineLearningServices/workspaces/serviceManagedResourcesSettings` |
+| `properties.serviceManagedResourcesSettings.cosmosDb` | `Microsoft.MachineLearningServices/workspaces/serviceManagedResourcesSettings.cosmosDb` |
+| `properties.serviceManagedResourcesSettings.cosmosDb.collectionsThroughput` | `Microsoft.MachineLearningServices/workspaces/serviceManagedResourcesSettings.cosmosDb.collectionsThroughput` |
+| `properties.primaryUserAssignedIdentity` | `Microsoft.MachineLearningServices/workspaces/primaryUserAssignedIdentity` |
 

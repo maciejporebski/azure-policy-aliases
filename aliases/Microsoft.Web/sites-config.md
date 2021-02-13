@@ -414,4 +414,11 @@
 | `properties.scmMinTlsVersion` | `Microsoft.Web/sites/config/scmMinTlsVersion` |
 | `properties.vnetRouteAllEnabled` | `Microsoft.Web/sites/config/vnetRouteAllEnabled` |
 | `properties.vnetPrivatePortsCount` | `Microsoft.Web/sites/config/vnetPrivatePortsCount` |
+| `properties.push.systemData` | `Microsoft.Web/sites/config/push.systemData` |
+| `properties.push.systemData.createdBy` | `Microsoft.Web/sites/config/push.systemData.createdBy` |
+| `properties.push.systemData.createdByType` | `Microsoft.Web/sites/config/push.systemData.createdByType` |
+| `properties.push.systemData.createdAt` | `Microsoft.Web/sites/config/push.systemData.createdAt` |
+| `properties.push.systemData.lastModifiedBy` | `Microsoft.Web/sites/config/push.systemData.lastModifiedBy` |
+| `properties.push.systemData.lastModifiedByType` | `Microsoft.Web/sites/config/push.systemData.lastModifiedByType` |
+| `properties.push.systemData.lastModifiedAt` | `Microsoft.Web/sites/config/push.systemData.lastModifiedAt` |
 

@@ -302,4 +302,12 @@
 | `properties.siteConfig.scmMinTlsVersion` | `Microsoft.Web/sites/slots/siteConfig.scmMinTlsVersion` |
 | `properties.siteConfig.vnetRouteAllEnabled` | `Microsoft.Web/sites/slots/siteConfig.vnetRouteAllEnabled` |
 | `properties.siteConfig.vnetPrivatePortsCount` | `Microsoft.Web/sites/slots/siteConfig.vnetPrivatePortsCount` |
+| `properties.siteConfig.push.systemData` | `Microsoft.Web/sites/slots/siteConfig.push.systemData` |
+| `properties.siteConfig.push.systemData.createdBy` | `Microsoft.Web/sites/slots/siteConfig.push.systemData.createdBy` |
+| `properties.siteConfig.push.systemData.createdByType` | `Microsoft.Web/sites/slots/siteConfig.push.systemData.createdByType` |
+| `properties.siteConfig.push.systemData.createdAt` | `Microsoft.Web/sites/slots/siteConfig.push.systemData.createdAt` |
+| `properties.siteConfig.push.systemData.lastModifiedBy` | `Microsoft.Web/sites/slots/siteConfig.push.systemData.lastModifiedBy` |
+| `properties.siteConfig.push.systemData.lastModifiedByType` | `Microsoft.Web/sites/slots/siteConfig.push.systemData.lastModifiedByType` |
+| `properties.siteConfig.push.systemData.lastModifiedAt` | `Microsoft.Web/sites/slots/siteConfig.push.systemData.lastModifiedAt` |
+| `properties.storageAccountRequired` | `Microsoft.Web/sites/slots/storageAccountRequired` |
 

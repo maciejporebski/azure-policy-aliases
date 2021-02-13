@@ -285,4 +285,12 @@
 | `properties.siteConfig.scmMinTlsVersion` | `Microsoft.Web/sites/siteConfig.scmMinTlsVersion` |
 | `properties.siteConfig.vnetRouteAllEnabled` | `Microsoft.Web/sites/siteConfig.vnetRouteAllEnabled` |
 | `properties.siteConfig.vnetPrivatePortsCount` | `Microsoft.Web/sites/siteConfig.vnetPrivatePortsCount` |
+| `properties.siteConfig.push.systemData` | `Microsoft.Web/sites/siteConfig.push.systemData` |
+| `properties.siteConfig.push.systemData.createdBy` | `Microsoft.Web/sites/siteConfig.push.systemData.createdBy` |
+| `properties.siteConfig.push.systemData.createdByType` | `Microsoft.Web/sites/siteConfig.push.systemData.createdByType` |
+| `properties.siteConfig.push.systemData.createdAt` | `Microsoft.Web/sites/siteConfig.push.systemData.createdAt` |
+| `properties.siteConfig.push.systemData.lastModifiedBy` | `Microsoft.Web/sites/siteConfig.push.systemData.lastModifiedBy` |
+| `properties.siteConfig.push.systemData.lastModifiedByType` | `Microsoft.Web/sites/siteConfig.push.systemData.lastModifiedByType` |
+| `properties.siteConfig.push.systemData.lastModifiedAt` | `Microsoft.Web/sites/siteConfig.push.systemData.lastModifiedAt` |
+| `properties.storageAccountRequired` | `Microsoft.Web/sites/storageAccountRequired` |
 

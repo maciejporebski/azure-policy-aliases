@@ -20,4 +20,11 @@
 | `properties.resyncRequired` | `Microsoft.Web/sites/virtualnetworkconnections/resyncRequired` |
 | `properties.dnsServers` | `Microsoft.Web/sites/virtualnetworkconnections/dnsServers` |
 | `properties.isSwift` | `Microsoft.Web/sites/virtualnetworkconnections/isSwift` |
+| `properties.routes[*].systemData` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData` |
+| `properties.routes[*].systemData.createdBy` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.createdBy` |
+| `properties.routes[*].systemData.createdByType` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.createdByType` |
+| `properties.routes[*].systemData.createdAt` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.createdAt` |
+| `properties.routes[*].systemData.lastModifiedBy` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.lastModifiedBy` |
+| `properties.routes[*].systemData.lastModifiedByType` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.lastModifiedByType` |
+| `properties.routes[*].systemData.lastModifiedAt` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.lastModifiedAt` |
 

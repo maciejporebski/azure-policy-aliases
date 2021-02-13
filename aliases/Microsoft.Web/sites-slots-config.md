@@ -378,4 +378,11 @@
 | `properties.scmMinTlsVersion` | `Microsoft.Web/sites/slots/config/scmMinTlsVersion` |
 | `properties.vnetRouteAllEnabled` | `Microsoft.Web/sites/slots/config/vnetRouteAllEnabled` |
 | `properties.vnetPrivatePortsCount` | `Microsoft.Web/sites/slots/config/vnetPrivatePortsCount` |
+| `properties.push.systemData` | `Microsoft.Web/sites/slots/config/push.systemData` |
+| `properties.push.systemData.createdBy` | `Microsoft.Web/sites/slots/config/push.systemData.createdBy` |
+| `properties.push.systemData.createdByType` | `Microsoft.Web/sites/slots/config/push.systemData.createdByType` |
+| `properties.push.systemData.createdAt` | `Microsoft.Web/sites/slots/config/push.systemData.createdAt` |
+| `properties.push.systemData.lastModifiedBy` | `Microsoft.Web/sites/slots/config/push.systemData.lastModifiedBy` |
+| `properties.push.systemData.lastModifiedByType` | `Microsoft.Web/sites/slots/config/push.systemData.lastModifiedByType` |
+| `properties.push.systemData.lastModifiedAt` | `Microsoft.Web/sites/slots/config/push.systemData.lastModifiedAt` |
 
