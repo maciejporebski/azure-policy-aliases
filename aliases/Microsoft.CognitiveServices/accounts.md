@@ -51,4 +51,9 @@
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.CognitiveServices/accounts/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections` | `Microsoft.CognitiveServices/accounts/privateEndpointConnections` |
 | `properties.publicNetworkAccess` | `Microsoft.CognitiveServices/accounts/publicNetworkAccess` |
+| `properties.apiProperties.aadClientId` | `Microsoft.CognitiveServices/accounts/apiProperties.aadClientId` |
+| `properties.apiProperties.aadTenantId` | `Microsoft.CognitiveServices/accounts/apiProperties.aadTenantId` |
+| `properties.apiProperties.superUser` | `Microsoft.CognitiveServices/accounts/apiProperties.superUser` |
+| `properties.apiProperties.websiteName` | `Microsoft.CognitiveServices/accounts/apiProperties.websiteName` |
+| `properties.dateCreated` | `Microsoft.CognitiveServices/accounts/dateCreated` |
 

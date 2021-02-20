@@ -19,4 +19,6 @@
 | `properties.encryption.keyVaultProperties.keyvaultUri` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties.keyvaultUri` |
 | `properties.encryption.keyVaultProperties.keyName` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties.keyName` |
 | `properties.encryption.keyVaultProperties.keyVersion` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties.keyVersion` |
+| `properties.encryption.identity` | `Microsoft.Automation/automationAccounts/encryption.identity` |
+| `properties.publicNetworkAccess` | `Microsoft.Automation/automationAccounts/publicNetworkAccess` |
 

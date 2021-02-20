@@ -67,6 +67,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.AppConfiguration
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
+- [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
