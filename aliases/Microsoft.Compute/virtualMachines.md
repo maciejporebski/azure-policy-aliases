@@ -155,4 +155,10 @@
 | `properties.securityProfile.uefiSettings` | `Microsoft.Compute/virtualMachines/securityProfile.uefiSettings` |
 | `properties.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Compute/virtualMachines/securityProfile.uefiSettings.secureBootEnabled` |
 | `properties.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachines/securityProfile.uefiSettings.vTpmEnabled` |
+| `properties.storageProfile.dataDisks[*].detachOption` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].detachOption` |
+| `properties.osProfile.windowsConfiguration.patchSettings.enableHotpatching` | `Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.patchSettings.enableHotpatching` |
+| `properties.osProfile.linuxConfiguration.patchSettings` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.patchSettings` |
+| `properties.osProfile.linuxConfiguration.patchSettings.patchMode` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.patchSettings.patchMode` |
+| `properties.securityProfile.securityType` | `Microsoft.Compute/virtualMachines/securityProfile.securityType` |
+| `properties.platformFaultDomain` | `Microsoft.Compute/virtualMachines/platformFaultDomain` |
 

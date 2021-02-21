@@ -239,4 +239,11 @@
 | `properties.virtualMachineProfile.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.uefiSettings.vTpmEnabled` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].enableAutomaticUpgrade` |
 | `properties.virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].properties.enableFpga` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].enableFpga` |
+| `properties.upgradePolicy.rollingUpgradePolicy.enableCrossZoneUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/upgradePolicy.rollingUpgradePolicy.enableCrossZoneUpgrade` |
+| `properties.upgradePolicy.rollingUpgradePolicy.prioritizeUnhealthyInstances` | `Microsoft.Compute/virtualMachineScaleSets/upgradePolicy.rollingUpgradePolicy.prioritizeUnhealthyInstances` |
+| `properties.virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.enableHotpatching` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.enableHotpatching` |
+| `properties.virtualMachineProfile.osProfile.linuxConfiguration.patchSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.linuxConfiguration.patchSettings` |
+| `properties.virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.patchMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.patchMode` |
+| `properties.virtualMachineProfile.securityProfile.securityType` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.securityType` |
+| `properties.orchestrationMode` | `Microsoft.Compute/virtualMachineScaleSets/orchestrationMode` |
 

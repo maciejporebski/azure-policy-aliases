@@ -219,6 +219,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands.md)
+- [Microsoft.Compute/diskAccesses/privateEndpointConnections](aliases/Microsoft.Compute/diskAccesses-privateEndpointConnections.md)
 
 
 ## Microsoft.Consumption

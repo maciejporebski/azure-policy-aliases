@@ -187,4 +187,9 @@
 | `properties.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings.secureBootEnabled` |
 | `properties.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.uefiSettings.vTpmEnabled` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.enableFpga` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].enableFpga` |
+| `properties.storageProfile.dataDisks[*].detachOption` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].detachOption` |
+| `properties.osProfile.windowsConfiguration.patchSettings.enableHotpatching` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.windowsConfiguration.patchSettings.enableHotpatching` |
+| `properties.osProfile.linuxConfiguration.patchSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.linuxConfiguration.patchSettings` |
+| `properties.osProfile.linuxConfiguration.patchSettings.patchMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.linuxConfiguration.patchSettings.patchMode` |
+| `properties.securityProfile.securityType` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.securityType` |
 
