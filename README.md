@@ -826,6 +826,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.PowerBI/workspaceCollections](aliases/Microsoft.PowerBI/workspaceCollections.md)
 
 
+## Microsoft.PowerBIDedicated
+
+- [Microsoft.PowerBIDedicated/capacities](aliases/Microsoft.PowerBIDedicated/capacities.md)
+
+
 ## Microsoft.RecoveryServices
 
 - [Microsoft.RecoveryServices/vaults](aliases/Microsoft.RecoveryServices/vaults.md)

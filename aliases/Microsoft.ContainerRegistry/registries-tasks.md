@@ -56,4 +56,27 @@
 | `properties.trigger.baseImageTrigger.updateTriggerEndpoint` | `Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger.updateTriggerEndpoint` |
 | `properties.trigger.baseImageTrigger.updateTriggerPayloadType` | `Microsoft.ContainerRegistry/registries/tasks/trigger.baseImageTrigger.updateTriggerPayloadType` |
 | `properties.agentPoolName` | `Microsoft.ContainerRegistry/registries/tasks/agentPoolName` |
+| `properties.step` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker` |
+| `properties.step.imageNames` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.imageNames` |
+| `properties.step.imageNames[*]` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.imageNames[*]` |
+| `properties.step.isPushEnabled` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.isPushEnabled` |
+| `properties.step.noCache` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.noCache` |
+| `properties.step.dockerFilePath` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.dockerFilePath` |
+| `properties.step.target` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.target` |
+| `properties.step.arguments` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.arguments` |
+| `properties.step.arguments[*]` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.arguments[*]` |
+| `properties.step.arguments[*].name` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.arguments[*].name` |
+| `properties.step.arguments[*].value` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.arguments[*].value` |
+| `properties.step.arguments[*].isSecret` | `Microsoft.ContainerRegistry/registries/tasks/step.Docker.arguments[*].isSecret` |
+| `properties.step.taskFilePath` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask.taskFilePath` |
+| `properties.step.valuesFilePath` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask.valuesFilePath` |
+| `properties.step.values` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask.values` |
+| `properties.step.values[*]` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask.values[*]` |
+| `properties.step.values[*].name` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask.values[*].name` |
+| `properties.step.values[*].value` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask.values[*].value` |
+| `properties.step.values[*].isSecret` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask.values[*].isSecret` |
+| `properties.step.encodedTaskContent` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.encodedTaskContent` |
+| `properties.step.encodedValuesContent` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.encodedValuesContent` |
+| `properties.logTemplate` | `Microsoft.ContainerRegistry/registries/tasks/logTemplate` |
+| `properties.isSystemTask` | `Microsoft.ContainerRegistry/registries/tasks/isSystemTask` |
 

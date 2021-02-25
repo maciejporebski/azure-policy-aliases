@@ -193,4 +193,16 @@
 | `properties.response.pipelineRunErrorMessage` | `Microsoft.ContainerRegistry/registries/pipelineRuns.response.pipelineRunErrorMessage` |
 | `properties.response` | `Microsoft.ContainerRegistry/registries/pipelineRuns.response` |
 | `properties.publicNetworkAccess` | `Microsoft.ContainerRegistry/registries/publicNetworkAccess` |
+| `properties.encryption.keyVaultProperties.keyRotationEnabled` | `Microsoft.ContainerRegistry/registries/encryption.keyVaultProperties.keyRotationEnabled` |
+| `properties.encryption.keyVaultProperties.lastKeyRotationTimestamp` | `Microsoft.ContainerRegistry/registries/encryption.keyVaultProperties.lastKeyRotationTimestamp` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.networkRuleBypassOptions` | `Microsoft.ContainerRegistry/registries/networkRuleBypassOptions` |
+| `properties.zoneRedundancy` | `Microsoft.ContainerRegistry/registries/zoneRedundancy` |
+| `properties.anonymousPullEnabled` | `Microsoft.ContainerRegistry/registries/anonymousPullEnabled` |
 

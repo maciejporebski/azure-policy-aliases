@@ -55,4 +55,10 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections` | `Microsoft.SignalRService/SignalR/privateEndpointConnections` |
+| `properties.upstream.templates[*].auth` | `Microsoft.SignalRService/SignalR/upstream.templates[*].auth` |
+| `properties.upstream.templates[*].auth.type` | `Microsoft.SignalRService/SignalR/upstream.templates[*].auth.type` |
+| `properties.upstream.templates[*].auth.managedIdentity` | `Microsoft.SignalRService/SignalR/upstream.templates[*].auth.managedIdentity` |
+| `properties.upstream.templates[*].auth.managedIdentity.resource` | `Microsoft.SignalRService/SignalR/upstream.templates[*].auth.managedIdentity.resource` |
+| `properties.tls` | `Microsoft.SignalRService/SignalR/tls` |
+| `properties.tls.clientCertEnabled` | `Microsoft.SignalRService/SignalR/tls.clientCertEnabled` |
 

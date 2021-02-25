@@ -8,4 +8,5 @@
 | `properties.status.timestamp` | `Microsoft.ContainerRegistry/registries/replications/status.timestamp` |
 | `properties.status` | `Microsoft.ContainerRegistry/registries/replications/status` |
 | `properties.regionEndpointEnabled` | `Microsoft.ContainerRegistry/registries/replications/regionEndpointEnabled` |
+| `properties.zoneRedundancy` | `Microsoft.ContainerRegistry/registries/replications/zoneRedundancy` |
 
