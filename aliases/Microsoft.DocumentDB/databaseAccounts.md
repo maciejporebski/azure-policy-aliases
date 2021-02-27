@@ -96,4 +96,8 @@
 | `properties.backupPolicy.periodicModeProperties.backupIntervalInMinutes` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Periodic.periodicModeProperties.backupIntervalInMinutes` |
 | `properties.backupPolicy.periodicModeProperties.backupRetentionIntervalInHours` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Periodic.periodicModeProperties.backupRetentionIntervalInHours` |
 | `properties.backupPolicy.type` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.type` |
+| `properties.backupPolicy.periodicModeProperties.backupStorageRedundancy` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Periodic.periodicModeProperties.backupStorageRedundancy` |
+| `properties.networkAclBypass` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypass` |
+| `properties.networkAclBypassResourceIds` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypassResourceIds` |
+| `properties.networkAclBypassResourceIds[*]` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypassResourceIds[*]` |
 

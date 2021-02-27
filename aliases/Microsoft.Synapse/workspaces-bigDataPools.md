@@ -35,4 +35,10 @@
 | `properties.customLibraries[*].uploadedTimestamp` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].uploadedTimestamp` |
 | `properties.customLibraries[*].type` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].type` |
 | `properties.haveLibraryRequirementsChanged` | `Microsoft.Synapse/workspaces/bigDataPools/haveLibraryRequirementsChanged` |
+| `properties.cacheSize` | `Microsoft.Synapse/workspaces/bigDataPools/cacheSize` |
+| `properties.dynamicExecutorAllocation` | `Microsoft.Synapse/workspaces/bigDataPools/dynamicExecutorAllocation` |
+| `properties.dynamicExecutorAllocation.enabled` | `Microsoft.Synapse/workspaces/bigDataPools/dynamicExecutorAllocation.enabled` |
+| `properties.customLibraries[*].provisioningStatus` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].provisioningStatus` |
+| `properties.customLibraries[*].creatorId` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].creatorId` |
+| `properties.lastSucceededTimestamp` | `Microsoft.Synapse/workspaces/bigDataPools/lastSucceededTimestamp` |
 

@@ -49,4 +49,9 @@
 | `properties.workspaceRepositoryConfiguration.rootFolder` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.rootFolder` |
 | `properties.purviewConfiguration` | `Microsoft.Synapse/workspaces/purviewConfiguration` |
 | `properties.purviewConfiguration.purviewResourceId` | `Microsoft.Synapse/workspaces/purviewConfiguration.purviewResourceId` |
+| `properties.workspaceRepositoryConfiguration.lastCommitId` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.lastCommitId` |
+| `properties.workspaceRepositoryConfiguration.tenantId` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.tenantId` |
+| `properties.adlaResourceId` | `Microsoft.Synapse/workspaces/adlaResourceId` |
+| `properties.networkSettings` | `Microsoft.Synapse/workspaces/networkSettings` |
+| `properties.networkSettings.publicNetworkAccess` | `Microsoft.Synapse/workspaces/networkSettings.publicNetworkAccess` |
 

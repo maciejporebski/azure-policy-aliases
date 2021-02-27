@@ -18,4 +18,5 @@
 | `properties.sqlPoolGuid` | `Microsoft.Synapse/workspaces/sqlPools/sqlPoolGuid` |
 | `properties.currentServiceObjectiveName` | `Microsoft.Synapse/workspaces/sqlPools/currentServiceObjectiveName` |
 | `properties.requestedServiceObjectiveName` | `Microsoft.Synapse/workspaces/sqlPools/requestedServiceObjectiveName` |
+| `properties.storageAccountType` | `Microsoft.Synapse/workspaces/sqlPools/storageAccountType` |
 

@@ -21,4 +21,5 @@
 | `properties.encryption.keyVaultProperties.keyVersion` | `Microsoft.Automation/automationAccounts/encryption.keyVaultProperties.keyVersion` |
 | `properties.encryption.identity` | `Microsoft.Automation/automationAccounts/encryption.identity` |
 | `properties.publicNetworkAccess` | `Microsoft.Automation/automationAccounts/publicNetworkAccess` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Automation/automationAccounts/encryption.identity.userAssignedIdentity` |
 

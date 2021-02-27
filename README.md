@@ -459,6 +459,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/apis/tables](aliases/Microsoft.DocumentDB/databaseAccounts-apis-tables.md)
 - [Microsoft.DocumentDB/databaseAccounts/apis/tables/settings](aliases/Microsoft.DocumentDB/databaseAccounts-apis-tables-settings.md)
 - [Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces](aliases/Microsoft.DocumentDB/databaseAccounts-notebookWorkspaces.md)
+- [Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleAssignments.md)
+- [Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions.md)
 
 
 ## Microsoft.EventGrid
@@ -1137,6 +1139,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/sqlPools/workloadGroups](aliases/Microsoft.Synapse/workspaces-sqlPools-workloadGroups.md)
 - [Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers](aliases/Microsoft.Synapse/workspaces-sqlPools-workloadGroups-workloadClassifiers.md)
 - [Microsoft.Synapse/workspaces/vulnerabilityAssessments](aliases/Microsoft.Synapse/workspaces-vulnerabilityAssessments.md)
+- [Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/rules](aliases/Microsoft.Synapse/workspaces-sqlPools-dataMaskingPolicies-rules.md)
+- [Microsoft.Synapse/workspaces/sqlPools/maintenanceWindows](aliases/Microsoft.Synapse/workspaces-sqlPools-maintenanceWindows.md)
 
 
 ## Microsoft.TimeSeriesInsights
