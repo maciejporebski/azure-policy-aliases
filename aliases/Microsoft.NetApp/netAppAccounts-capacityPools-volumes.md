@@ -68,4 +68,8 @@
 | `properties.kerberosEnabled` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/kerberosEnabled` |
 | `properties.securityStyle` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/securityStyle` |
 | `properties.throughputMibps` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/throughputMibps` |
+| `properties.usedBytes` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/usedBytes` |
+| `properties.smbEncryption` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/smbEncryption` |
+| `properties.smbContinuouslyAvailable` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/smbContinuouslyAvailable` |
+| `properties.encryptionKeySource` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/encryptionKeySource` |
 

@@ -20,4 +20,11 @@
 | `properties.activeDirectories[*].kdcIP` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].kdcIP` |
 | `properties.activeDirectories[*].adName` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].adName` |
 | `properties.activeDirectories[*].serverRootCACertificate` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].serverRootCACertificate` |
+| `properties.activeDirectories[*].aesEncryption` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].aesEncryption` |
+| `properties.activeDirectories[*].ldapSigning` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSigning` |
+| `properties.activeDirectories[*].securityOperators` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].securityOperators` |
+| `properties.activeDirectories[*].securityOperators[*]` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].securityOperators[*]` |
+| `properties.activeDirectories[*].ldapOverTLS` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapOverTLS` |
+| `properties.encryption` | `Microsoft.NetApp/netAppAccounts/encryption` |
+| `properties.encryption.keySource` | `Microsoft.NetApp/netAppAccounts/encryption.keySource` |
 
