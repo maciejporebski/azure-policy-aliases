@@ -16,4 +16,7 @@
 | `properties.onErrorDeployment.type` | `Microsoft.Resources/deployments/onErrorDeployment.type` |
 | `properties.onErrorDeployment.deploymentName` | `Microsoft.Resources/deployments/onErrorDeployment.deploymentName` |
 | `properties.onErrorDeployment` | `Microsoft.Resources/deployments/onErrorDeployment` |
+| `properties.templateLink.id` | `Microsoft.Resources/deployments/templateLink.id` |
+| `properties.templateLink.relativePath` | `Microsoft.Resources/deployments/templateLink.relativePath` |
+| `properties.templateLink.queryString` | `Microsoft.Resources/deployments/templateLink.queryString` |
 
