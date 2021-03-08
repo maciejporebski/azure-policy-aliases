@@ -558,11 +558,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.IoTCentral/IoTApps](aliases/Microsoft.IoTCentral/IoTApps.md)
 
 
-## Microsoft.IoTSpaces
-
-- [Microsoft.IoTSpaces/Graph](aliases/Microsoft.IoTSpaces/Graph.md)
-
-
 ## Microsoft.KeyVault
 
 - [Microsoft.KeyVault/vaults](aliases/Microsoft.KeyVault/vaults.md)
