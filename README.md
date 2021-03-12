@@ -237,6 +237,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerRegistry/registries](aliases/Microsoft.ContainerRegistry/registries.md)
 - [Microsoft.ContainerRegistry/registries/scopeMaps](aliases/Microsoft.ContainerRegistry/registries-scopeMaps.md)
 - [Microsoft.ContainerRegistry/registries/tokens](aliases/Microsoft.ContainerRegistry/registries-tokens.md)
+- [Microsoft.ContainerRegistry/registries/privateEndpointConnections](aliases/Microsoft.ContainerRegistry/registries-privateEndpointConnections.md)
 - [Microsoft.ContainerRegistry/registries/tasks](aliases/Microsoft.ContainerRegistry/registries-tasks.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks](aliases/Microsoft.ContainerRegistry/registries-buildTasks.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks/steps](aliases/Microsoft.ContainerRegistry/registries-buildTasks-steps.md)
@@ -807,11 +808,11 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.OperationalInsights/workspaces](aliases/Microsoft.OperationalInsights/workspaces.md)
 - [Microsoft.OperationalInsights/workspaces/dataSources](aliases/Microsoft.OperationalInsights/workspaces-dataSources.md)
+- [Microsoft.OperationalInsights/workspaces/storageInsightConfigs](aliases/Microsoft.OperationalInsights/workspaces-storageInsightConfigs.md)
 - [Microsoft.OperationalInsights/workspaces/linkedServices](aliases/Microsoft.OperationalInsights/workspaces-linkedServices.md)
 - [Microsoft.OperationalInsights/clusters](aliases/Microsoft.OperationalInsights/clusters.md)
 - [Microsoft.OperationalInsights/workspaces/dataExports](aliases/Microsoft.OperationalInsights/workspaces-dataExports.md)
 - [Microsoft.OperationalInsights/workspaces/savedSearches](aliases/Microsoft.OperationalInsights/workspaces-savedSearches.md)
-- [Microsoft.OperationalInsights/workspaces/storageinsightconfigs](aliases/Microsoft.OperationalInsights/workspaces-storageinsightconfigs.md)
 
 
 ## Microsoft.OperationsManagement

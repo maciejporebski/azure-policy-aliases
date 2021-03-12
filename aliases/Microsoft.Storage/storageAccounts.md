@@ -96,4 +96,8 @@
 | `properties.networkAcls.resourceAccessRules[*]` | `Microsoft.Storage/storageAccounts/networkAcls.resourceAccessRules[*]` |
 | `properties.networkAcls.resourceAccessRules[*].tenantId` | `Microsoft.Storage/storageAccounts/networkAcls.resourceAccessRules[*].tenantId` |
 | `properties.networkAcls.resourceAccessRules[*].resourceId` | `Microsoft.Storage/storageAccounts/networkAcls.resourceAccessRules[*].resourceId` |
+| `properties.allowSharedKeyAccess` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccess` |
+| `properties.encryption.identity` | `Microsoft.Storage/storageAccounts/encryption.identity` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Storage/storageAccounts/encryption.identity.userAssignedIdentity` |
+| `properties.isNfsV3Enabled` | `Microsoft.Storage/storageAccounts/isNfsV3Enabled` |
 

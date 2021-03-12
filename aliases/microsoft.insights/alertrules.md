@@ -81,4 +81,14 @@
 | `properties.actions[*].customEmails` | `microsoft.insights/alertrules/actions[*].Microsoft-Azure-Management-Insights-Models-RuleEmailAction.customEmails` |
 | `properties.actions[*].customEmails[*]` | `microsoft.insights/alertrules/actions[*].Microsoft-Azure-Management-Insights-Models-RuleEmailAction.customEmails[*]` |
 | `properties.actions[*].serviceUri` | `microsoft.insights/alertrules/actions[*].Microsoft-Azure-Management-Insights-Models-RuleWebhookAction.serviceUri` |
+| `properties.provisioningState` | `Microsoft.Insights/alertrules/provisioningState` |
+| `properties.condition.dataSource.legacyResourceId` | `Microsoft.Insights/alertrules/condition.dataSource.legacyResourceId` |
+| `properties.condition.dataSource.resourceLocation` | `Microsoft.Insights/alertrules/condition.dataSource.resourceLocation` |
+| `properties.condition.dataSource.metricNamespace` | `Microsoft.Insights/alertrules/condition.dataSource.metricNamespace` |
+| `properties.action` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleEmailAction` |
+| `properties.action.sendToServiceOwners` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleEmailAction.sendToServiceOwners` |
+| `properties.action.customEmails` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleEmailAction.customEmails` |
+| `properties.action.customEmails[*]` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleEmailAction.customEmails[*]` |
+| `properties.action.serviceUri` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleWebhookAction.serviceUri` |
+| `properties.action.odata.type` | `Microsoft.Insights/alertrules/action.odata.type` |
 

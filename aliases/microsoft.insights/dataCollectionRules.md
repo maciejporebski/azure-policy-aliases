@@ -51,4 +51,8 @@
 | `properties.dataFlows[*]` | `Microsoft.Insights/dataCollectionRules/dataFlows[*]` |
 | `properties.dataFlows` | `Microsoft.Insights/dataCollectionRules/dataFlows` |
 | `properties.provisioningState` | `Microsoft.Insights/dataCollectionRules/provisioningState` |
+| `properties.immutableId` | `Microsoft.Insights/dataCollectionRules/immutableId` |
+| `properties.dataSources.extensions[*].inputDataSources` | `Microsoft.Insights/dataCollectionRules/dataSources.extensions[*].inputDataSources` |
+| `properties.dataSources.extensions[*].inputDataSources[*]` | `Microsoft.Insights/dataCollectionRules/dataSources.extensions[*].inputDataSources[*]` |
+| `properties.destinations.logAnalytics[*].workspaceId` | `Microsoft.Insights/dataCollectionRules/destinations.logAnalytics[*].workspaceId` |
 

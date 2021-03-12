@@ -28,4 +28,5 @@
 | `properties.WorkspaceResourceId` | `Microsoft.Insights/components/WorkspaceResourceId` |
 | `properties.LaMigrationDate` | `Microsoft.Insights/components/LaMigrationDate` |
 | `properties.linkedStorageAccount` | `Microsoft.Insights/components/linkedStorageAccounts.ServiceProfiler.linkedStorageAccount` |
+| `properties.Name` | `Microsoft.Insights/components/Name` |
 

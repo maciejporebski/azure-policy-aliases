@@ -69,4 +69,5 @@
 | `properties.lastAccessTimeTrackingPolicy.trackingGranularityInDays` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.trackingGranularityInDays` |
 | `properties.lastAccessTimeTrackingPolicy.blobType` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.blobType` |
 | `properties.lastAccessTimeTrackingPolicy.blobType[*]` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.blobType[*]` |
+| `properties.changeFeed.retentionInDays` | `Microsoft.Storage/storageAccounts/blobServices/changeFeed.retentionInDays` |
 

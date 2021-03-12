@@ -113,4 +113,13 @@
 | `properties.action.criteria[*].dimensions[*].operator` | `Microsoft.Insights/scheduledQueryRules/action.Microsoft-WindowsAzure-Management-Monitoring-Alerts-Models-Microsoft-AppInsights-Nexus-DataContracts-Resources-ScheduledQueryRules-LogToMetricAction.criteria[*].dimensions[*].operator` |
 | `properties.action.criteria[*].dimensions[*].values` | `Microsoft.Insights/scheduledQueryRules/action.Microsoft-WindowsAzure-Management-Monitoring-Alerts-Models-Microsoft-AppInsights-Nexus-DataContracts-Resources-ScheduledQueryRules-LogToMetricAction.criteria[*].dimensions[*].values` |
 | `properties.action.criteria[*].dimensions[*].values[*]` | `Microsoft.Insights/scheduledQueryRules/action.Microsoft-WindowsAzure-Management-Monitoring-Alerts-Models-Microsoft-AppInsights-Nexus-DataContracts-Resources-ScheduledQueryRules-LogToMetricAction.criteria[*].dimensions[*].values[*]` |
+| `properties.createdWithApiVersion` | `Microsoft.Insights/scheduledQueryRules/createdWithApiVersion` |
+| `properties.isLegacyLogAnalyticsRule` | `Microsoft.Insights/scheduledQueryRules/isLegacyLogAnalyticsRule` |
+| `properties.displayName` | `Microsoft.Insights/scheduledQueryRules/displayName` |
+| `properties.overrideQueryTimeRange` | `Microsoft.Insights/scheduledQueryRules/overrideQueryTimeRange` |
+| `properties.criteria.allOf[*].metricName` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].metricName` |
+| `properties.isWorkspaceAlertsStorageConfigured` | `Microsoft.Insights/scheduledQueryRules/isWorkspaceAlertsStorageConfigured` |
+| `properties.checkWorkspaceAlertsStorageConfigured` | `Microsoft.Insights/scheduledQueryRules/checkWorkspaceAlertsStorageConfigured` |
+| `properties.skipQueryValidation` | `Microsoft.Insights/scheduledQueryRules/skipQueryValidation` |
+| `properties.autoMitigate` | `Microsoft.Insights/scheduledQueryRules/autoMitigate` |
 

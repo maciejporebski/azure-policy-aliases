@@ -64,4 +64,15 @@
 | `properties.policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterLastAccessTimeGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.tierToArchive.daysAfterLastAccessTimeGreaterThan` |
 | `properties.policy.rules[*].definition.actions.baseBlob.delete.daysAfterLastAccessTimeGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.delete.daysAfterLastAccessTimeGreaterThan` |
 | `properties.policy.rules[*].definition.actions.baseBlob.enableAutoTierToHotFromCool` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.baseBlob.enableAutoTierToHotFromCool` |
+| `properties.policy.rules[*].definition.actions.snapshot.tierToCool` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToCool` |
+| `properties.policy.rules[*].definition.actions.snapshot.tierToCool.daysAfterCreationGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToCool.daysAfterCreationGreaterThan` |
+| `properties.policy.rules[*].definition.actions.snapshot.tierToArchive` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToArchive` |
+| `properties.policy.rules[*].definition.actions.snapshot.tierToArchive.daysAfterCreationGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.snapshot.tierToArchive.daysAfterCreationGreaterThan` |
+| `properties.policy.rules[*].definition.actions.version` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version` |
+| `properties.policy.rules[*].definition.actions.version.tierToCool` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToCool` |
+| `properties.policy.rules[*].definition.actions.version.tierToCool.daysAfterCreationGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToCool.daysAfterCreationGreaterThan` |
+| `properties.policy.rules[*].definition.actions.version.tierToArchive` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToArchive` |
+| `properties.policy.rules[*].definition.actions.version.tierToArchive.daysAfterCreationGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToArchive.daysAfterCreationGreaterThan` |
+| `properties.policy.rules[*].definition.actions.version.delete` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.delete` |
+| `properties.policy.rules[*].definition.actions.version.delete.daysAfterCreationGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.delete.daysAfterCreationGreaterThan` |
 

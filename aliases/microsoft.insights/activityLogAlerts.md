@@ -20,4 +20,11 @@
 | `properties.description` | `Microsoft.Insights/activityLogAlerts/description` |
 | `properties.condition.field` | `Microsoft.Insights/activityLogAlerts/condition.field` |
 | `properties.condition.equals` | `Microsoft.Insights/activityLogAlerts/condition.equals` |
+| `properties.condition.allOf[*].containsAny[*]` | `microsoft.insights/activityLogAlerts/condition.allOf[*].containsAny[*]` |
+| `properties.condition.allOf[*].anyOf` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf` |
+| `properties.condition.allOf[*].anyOf[*]` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*]` |
+| `properties.condition.allOf[*].anyOf[*].field` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*].field` |
+| `properties.condition.allOf[*].anyOf[*].equals` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*].equals` |
+| `properties.condition.allOf[*].anyOf[*].containsAny` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*].containsAny` |
+| `properties.condition.allOf[*].anyOf[*].containsAny[*]` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*].containsAny[*]` |
 

@@ -77,4 +77,6 @@
 | `properties.criteria.allOf[*].dimensions[*].values` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].dimensions[*].values` |
 | `properties.criteria.allOf[*].dimensions[*].values[*]` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].dimensions[*].values[*]` |
 | `properties.criteria.allOf[*].skipMetricValidation` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].skipMetricValidation` |
+| `properties.criteria.allOf[*].timeAggregation` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].timeAggregation` |
+| `properties.isMigrated` | `Microsoft.Insights/metricAlerts/isMigrated` |
 

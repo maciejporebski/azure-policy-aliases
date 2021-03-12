@@ -42,4 +42,8 @@
 | `properties.protocolSettings.smb` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb` |
 | `properties.protocolSettings.smb.multichannel` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.multichannel` |
 | `properties.protocolSettings.smb.multichannel.enabled` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.multichannel.enabled` |
+| `properties.protocolSettings.smb.versions` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.versions` |
+| `properties.protocolSettings.smb.authenticationMethods` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.authenticationMethods` |
+| `properties.protocolSettings.smb.kerberosTicketEncryption` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.kerberosTicketEncryption` |
+| `properties.protocolSettings.smb.channelEncryption` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.channelEncryption` |
 
