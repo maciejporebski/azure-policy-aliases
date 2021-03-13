@@ -487,4 +487,9 @@
 | `properties.backendIPConfiguration.properties.loadBalancerBackendAddressPools[*].type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.loadBalancerBackendAddressPools[*].type` |
 | `properties.backendIPConfiguration.properties.loadBalancerInboundNatRules[*].type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.loadBalancerInboundNatRules[*].type` |
 | `properties.backendIPConfiguration.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.id` |
+| `properties.backendIPConfiguration.properties.privateLinkConnectionProperties` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties` |
+| `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.groupId` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.groupId` |
+| `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.requiredMemberName` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.requiredMemberName` |
+| `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.fqdns` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.fqdns` |
+| `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.fqdns[*]` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.fqdns[*]` |
 

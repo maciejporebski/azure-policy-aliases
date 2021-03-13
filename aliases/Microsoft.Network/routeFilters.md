@@ -191,4 +191,5 @@
 | `properties.ipv6Peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig.addressPrefix` | `Microsoft.Network/routeFilters/ipv6Peerings[*].connections[*].ipv6CircuitConnectionConfig.addressPrefix` |
 | `properties.ipv6Peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig.circuitConnectionStatus` | `Microsoft.Network/routeFilters/ipv6Peerings[*].connections[*].ipv6CircuitConnectionConfig.circuitConnectionStatus` |
 | `properties.ipv6Peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig` | `Microsoft.Network/routeFilters/ipv6Peerings[*].connections[*].ipv6CircuitConnectionConfig` |
+| `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/routeFilters/peerings[*].ipv6PeeringConfig.routeFilter.etag` |
 

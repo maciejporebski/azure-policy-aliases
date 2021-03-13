@@ -104,4 +104,20 @@
 | `properties.connections[*].properties.ipv6CircuitConnectionConfig.addressPrefix` | `Microsoft.Network/expressRouteCircuits/peerings/connections[*].ipv6CircuitConnectionConfig.addressPrefix` |
 | `properties.connections[*].properties.ipv6CircuitConnectionConfig.circuitConnectionStatus` | `Microsoft.Network/expressRouteCircuits/peerings/connections[*].ipv6CircuitConnectionConfig.circuitConnectionStatus` |
 | `properties.connections[*].properties.ipv6CircuitConnectionConfig` | `Microsoft.Network/expressRouteCircuits/peerings/connections[*].ipv6CircuitConnectionConfig` |
+| `properties.ipv6PeeringConfig.routeFilter.name` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.name` |
+| `properties.ipv6PeeringConfig.routeFilter.type` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.type` |
+| `properties.ipv6PeeringConfig.routeFilter.location` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.location` |
+| `properties.ipv6PeeringConfig.routeFilter.tags` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.tags` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.rules` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.rules` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.rules[*]` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.rules[*]` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.rules[*].name` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.rules[*].name` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.rules[*].location` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.rules[*].location` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.rules[*].etag` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.rules[*].etag` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.rules[*].tags` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.rules[*].tags` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.peerings` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.peerings` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.peerings[*]` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.peerings[*]` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.peerings[*].name` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.peerings[*].name` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.peerings[*].etag` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.peerings[*].etag` |
+| `properties.ipv6PeeringConfig.routeFilter.properties.provisioningState` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.provisioningState` |
+| `properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.etag` |
 

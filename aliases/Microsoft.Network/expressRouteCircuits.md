@@ -137,4 +137,5 @@
 | `properties.peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig.addressPrefix` | `Microsoft.Network/expressRouteCircuits/peerings[*].connections[*].ipv6CircuitConnectionConfig.addressPrefix` |
 | `properties.peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig.circuitConnectionStatus` | `Microsoft.Network/expressRouteCircuits/peerings[*].connections[*].ipv6CircuitConnectionConfig.circuitConnectionStatus` |
 | `properties.peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig` | `Microsoft.Network/expressRouteCircuits/peerings[*].connections[*].ipv6CircuitConnectionConfig` |
+| `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/expressRouteCircuits/peerings[*].ipv6PeeringConfig.routeFilter.etag` |
 

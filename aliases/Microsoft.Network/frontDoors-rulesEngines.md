@@ -46,4 +46,5 @@
 | `properties.rules[*].action.routeConfigurationOverride.customPath` | `Microsoft.Network/frontDoors/rulesEngines/rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration.customPath` |
 | `properties.rules[*].action.routeConfigurationOverride.customFragment` | `Microsoft.Network/frontDoors/rulesEngines/rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration.customFragment` |
 | `properties.rules[*].action.routeConfigurationOverride.customQueryString` | `Microsoft.Network/frontDoors/rulesEngines/rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration.customQueryString` |
+| `properties.rules[*].action.routeConfigurationOverride` | `Microsoft.Network/frontDoors/rulesEngines/rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration` |
 

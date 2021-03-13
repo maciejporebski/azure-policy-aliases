@@ -488,4 +488,12 @@
 | `properties.privateEndpoint.extendedLocation` | `Microsoft.Network/networkInterfaces/privateEndpoint.extendedLocation` |
 | `properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/networkInterfaces/privateEndpoint.extendedLocation.name` |
 | `properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/networkInterfaces/privateEndpoint.extendedLocation.type` |
+| `properties.ipConfigurations[*].properties.privateLinkConnectionProperties` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].privateLinkConnectionProperties` |
+| `properties.ipConfigurations[*].properties.privateLinkConnectionProperties.groupId` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].privateLinkConnectionProperties.groupId` |
+| `properties.ipConfigurations[*].properties.privateLinkConnectionProperties.requiredMemberName` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].privateLinkConnectionProperties.requiredMemberName` |
+| `properties.ipConfigurations[*].properties.privateLinkConnectionProperties.fqdns` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].privateLinkConnectionProperties.fqdns` |
+| `properties.ipConfigurations[*].properties.privateLinkConnectionProperties.fqdns[*]` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].privateLinkConnectionProperties.fqdns[*]` |
+| `properties.networkSecurityGroup.properties.flowLogs` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flowLogs` |
+| `properties.networkSecurityGroup.properties.flowLogs[*]` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flowLogs[*]` |
+| `properties.networkSecurityGroup.properties.flowLogs[*].etag` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flowLogs[*].etag` |
 

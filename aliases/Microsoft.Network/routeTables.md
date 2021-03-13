@@ -423,4 +423,7 @@
 | `properties.routes[*].properties.hasBgpOverride` | `Microsoft.Network/routeTables/routes[*].hasBgpOverride` |
 | `properties.routes[*].type` | `Microsoft.Network/routeTables/routes[*].type` |
 | `properties.resourceGuid` | `Microsoft.Network/routeTables/resourceGuid` |
+| `properties.subnets[*].properties.ipAllocations` | `Microsoft.Network/routeTables/subnets[*].ipAllocations` |
+| `properties.subnets[*].properties.ipAllocations[*]` | `Microsoft.Network/routeTables/subnets[*].ipAllocations[*]` |
+| `properties.subnets[*].properties.ipAllocations[*].id` | `Microsoft.Network/routeTables/subnets[*].ipAllocations[*].id` |
 

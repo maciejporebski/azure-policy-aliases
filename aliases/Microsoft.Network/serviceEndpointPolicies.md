@@ -336,4 +336,7 @@
 | `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.ipConfigurations[*].properties.loadBalancerBackendAddressPools[*].type` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].networkSecurityGroup.networkInterfaces[*].ipConfigurations[*].loadBalancerBackendAddressPools[*].type` |
 | `properties.subnets[*].properties.networkSecurityGroup.properties.networkInterfaces[*].properties.ipConfigurations[*].properties.loadBalancerInboundNatRules[*].type` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].networkSecurityGroup.networkInterfaces[*].ipConfigurations[*].loadBalancerInboundNatRules[*].type` |
 | `properties.subnets[*].id` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].id` |
+| `properties.subnets[*].properties.ipAllocations` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipAllocations` |
+| `properties.subnets[*].properties.ipAllocations[*]` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipAllocations[*]` |
+| `properties.subnets[*].properties.ipAllocations[*].id` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipAllocations[*].id` |
 
