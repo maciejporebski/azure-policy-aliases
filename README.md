@@ -568,6 +568,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.KeyVault/vaults/privateEndpointConnections](aliases/Microsoft.KeyVault/vaults-privateEndpointConnections.md)
 
 
+## Microsoft.Kubernetes
+
+- [Microsoft.Kubernetes/connectedClusters](aliases/Microsoft.Kubernetes/connectedClusters.md)
+
+
 ## Microsoft.KubernetesConfiguration
 
 - [Microsoft.KubernetesConfiguration/sourceControlConfigurations](aliases/Microsoft.KubernetesConfiguration/sourceControlConfigurations.md)
