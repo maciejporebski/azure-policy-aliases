@@ -43,4 +43,20 @@
 | `properties.locationData.district` | `Microsoft.HybridCompute/machines/locationData.district` |
 | `properties.locationData.countryOrRegion` | `Microsoft.HybridCompute/machines/locationData.countryOrRegion` |
 | `properties.locationData` | `Microsoft.HybridCompute/machines/locationData` |
+| `properties.errorDetails[*].details[*].details` | `Microsoft.HybridCompute/machines/errorDetails[*].details[*].details` |
+| `properties.errorDetails[*].details[*].details[*]` | `Microsoft.HybridCompute/machines/errorDetails[*].details[*].details[*]` |
+| `properties.vmUuid` | `Microsoft.HybridCompute/machines/vmUuid` |
+| `properties.osSku` | `Microsoft.HybridCompute/machines/osSku` |
+| `properties.domainName` | `Microsoft.HybridCompute/machines/domainName` |
+| `properties.adFqdn` | `Microsoft.HybridCompute/machines/adFqdn` |
+| `properties.dnsFqdn` | `Microsoft.HybridCompute/machines/dnsFqdn` |
+| `properties.privateLinkScopedResources` | `Microsoft.HybridCompute/machines/privateLinkScopedResources` |
+| `properties.privateLinkScopedResources[*]` | `Microsoft.HybridCompute/machines/privateLinkScopedResources[*]` |
+| `properties.errorDetails[*].details[*].additionalInfo` | `Microsoft.HybridCompute/machines/errorDetails[*].details[*].additionalInfo` |
+| `properties.errorDetails[*].details[*].additionalInfo[*]` | `Microsoft.HybridCompute/machines/errorDetails[*].details[*].additionalInfo[*]` |
+| `properties.errorDetails[*].details[*].additionalInfo[*].type` | `Microsoft.HybridCompute/machines/errorDetails[*].details[*].additionalInfo[*].type` |
+| `properties.errorDetails[*].additionalInfo` | `Microsoft.HybridCompute/machines/errorDetails[*].additionalInfo` |
+| `properties.errorDetails[*].additionalInfo[*]` | `Microsoft.HybridCompute/machines/errorDetails[*].additionalInfo[*]` |
+| `properties.errorDetails[*].additionalInfo[*].type` | `Microsoft.HybridCompute/machines/errorDetails[*].additionalInfo[*].type` |
+| `properties.privateLinkScopeResourceId` | `Microsoft.HybridCompute/machines/privateLinkScopeResourceId` |
 

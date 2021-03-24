@@ -100,4 +100,16 @@
 | `properties.encryption.identity` | `Microsoft.Storage/storageAccounts/encryption.identity` |
 | `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Storage/storageAccounts/encryption.identity.userAssignedIdentity` |
 | `properties.isNfsV3Enabled` | `Microsoft.Storage/storageAccounts/isNfsV3Enabled` |
+| `properties.privateEndpointConnections` | `Microsoft.Storage/storageAccounts/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateLinkServiceConnectionState.actionRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].provisioningState` |
 

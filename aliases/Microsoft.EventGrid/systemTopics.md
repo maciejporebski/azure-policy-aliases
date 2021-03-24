@@ -40,4 +40,5 @@
 | `properties.source` | `Microsoft.EventGrid/systemTopics/source` |
 | `properties.topicType` | `Microsoft.EventGrid/systemTopics/topicType` |
 | `properties.metricResourceId` | `Microsoft.EventGrid/systemTopics/metricResourceId` |
+| `properties.provisioningState` | `Microsoft.EventGrid/systemTopics/provisioningState` |
 

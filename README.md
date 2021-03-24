@@ -481,9 +481,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EventGrid/domains](aliases/Microsoft.EventGrid/domains.md)
 - [Microsoft.EventGrid/domains/topics](aliases/Microsoft.EventGrid/domains-topics.md)
 - [Microsoft.EventGrid/systemTopics](aliases/Microsoft.EventGrid/systemTopics.md)
+- [Microsoft.EventGrid/systemTopics/eventSubscriptions](aliases/Microsoft.EventGrid/systemTopics-eventSubscriptions.md)
 - [Microsoft.EventGrid/partnerRegistrations](aliases/Microsoft.EventGrid/partnerRegistrations.md)
 - [Microsoft.EventGrid/partnerNamespaces](aliases/Microsoft.EventGrid/partnerNamespaces.md)
 - [Microsoft.EventGrid/partnerTopics](aliases/Microsoft.EventGrid/partnerTopics.md)
+- [Microsoft.EventGrid/partnerTopics/eventSubscriptions](aliases/Microsoft.EventGrid/partnerTopics-eventSubscriptions.md)
 - [Microsoft.EventGrid/partnerNamespaces/eventChannels](aliases/Microsoft.EventGrid/partnerNamespaces-eventChannels.md)
 - [Microsoft.EventGrid/domains/privateEndpointConnections](aliases/Microsoft.EventGrid/domains-privateEndpointConnections.md)
 - [Microsoft.EventGrid/topics/privateEndpointConnections](aliases/Microsoft.EventGrid/topics-privateEndpointConnections.md)
@@ -525,6 +527,8 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.HybridCompute/machines](aliases/Microsoft.HybridCompute/machines.md)
 - [Microsoft.HybridCompute/machines/extensions](aliases/Microsoft.HybridCompute/machines-extensions.md)
+- [Microsoft.HybridCompute/privateLinkScopes](aliases/Microsoft.HybridCompute/privateLinkScopes.md)
+- [Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections](aliases/Microsoft.HybridCompute/privateLinkScopes-privateEndpointConnections.md)
 
 
 ## microsoft.insights

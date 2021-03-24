@@ -37,4 +37,9 @@
 | `properties.deadLetterWithResourceIdentity.deadLetterDestination.endpointType` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions.deadLetterWithResourceIdentity.deadLetterDestination.endpointType` |
 | `properties.deadLetterWithResourceIdentity.deadLetterDestination` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions.deadLetterWithResourceIdentity.deadLetterDestination` |
 | `properties.deadLetterWithResourceIdentity` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions.deadLetterWithResourceIdentity` |
+| `properties.source` | `Microsoft.EventGrid/partnerTopics/source` |
+| `properties.expirationTimeIfNotActivatedUtc` | `Microsoft.EventGrid/partnerTopics/expirationTimeIfNotActivatedUtc` |
+| `properties.provisioningState` | `Microsoft.EventGrid/partnerTopics/provisioningState` |
+| `properties.activationState` | `Microsoft.EventGrid/partnerTopics/activationState` |
+| `properties.partnerTopicFriendlyDescription` | `Microsoft.EventGrid/partnerTopics/partnerTopicFriendlyDescription` |
 
