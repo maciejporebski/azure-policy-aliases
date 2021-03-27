@@ -301,6 +301,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataFactory/factories/dataflows](aliases/Microsoft.DataFactory/factories-dataflows.md)
 - [Microsoft.DataFactory/factories/managedVirtualNetworks](aliases/Microsoft.DataFactory/factories-managedVirtualNetworks.md)
 - [Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints](aliases/Microsoft.DataFactory/factories-managedVirtualNetworks-managedPrivateEndpoints.md)
+- [Microsoft.DataFactory/factories/privateEndpointConnections](aliases/Microsoft.DataFactory/factories-privateEndpointConnections.md)
 
 
 ## Microsoft.DataLakeAnalytics
@@ -847,6 +848,12 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.PowerBIDedicated
 
 - [Microsoft.PowerBIDedicated/capacities](aliases/Microsoft.PowerBIDedicated/capacities.md)
+
+
+## Microsoft.Purview
+
+- [Microsoft.Purview/accounts](aliases/Microsoft.Purview/accounts.md)
+- [Microsoft.Purview/accounts/privateEndpointConnections](aliases/Microsoft.Purview/accounts-privateEndpointConnections.md)
 
 
 ## Microsoft.RecoveryServices

@@ -26,4 +26,14 @@
 | `properties.typeProperties.avroCompressionCodec` | `Microsoft.DataFactory/factories/datasets/Avro.typeProperties.avroCompressionCodec` |
 | `properties.typeProperties.avroCompressionLevel` | `Microsoft.DataFactory/factories/datasets/Avro.typeProperties.avroCompressionLevel` |
 | `properties.typeProperties.orcCompressionCodec` | `Microsoft.DataFactory/factories/datasets/Orc.typeProperties.orcCompressionCodec` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/HttpFile.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/AzureDatabricksDeltaLakeDataset.typeProperties` |
+| `properties.typeProperties.format` | `Microsoft.DataFactory/factories/datasets/HttpFile.typeProperties.format.JsonFormat` |
+| `properties.typeProperties.format.filePattern` | `Microsoft.DataFactory/factories/datasets/HttpFile.typeProperties.format.JsonFormat.filePattern` |
+| `properties.typeProperties.format.type` | `Microsoft.DataFactory/factories/datasets/HttpFile.typeProperties.format.type` |
+| `properties.typeProperties.compression` | `Microsoft.DataFactory/factories/datasets/HttpFile.typeProperties.compression.ZipDeflate` |
+| `properties.typeProperties.compression` | `Microsoft.DataFactory/factories/datasets/HttpFile.typeProperties.compression.TarGZip` |
+| `properties.typeProperties.compression.type` | `Microsoft.DataFactory/factories/datasets/HttpFile.typeProperties.compression.type` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Binary.typeProperties.location.HttpServerLocation` |
+| `properties.typeProperties.location.type` | `Microsoft.DataFactory/factories/datasets/Binary.typeProperties.location.type` |
 

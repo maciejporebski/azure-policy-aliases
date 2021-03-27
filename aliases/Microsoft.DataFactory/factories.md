@@ -43,4 +43,5 @@
 | `properties.encryption.keyVersion` | `Microsoft.DataFactory/factories/encryption.keyVersion` |
 | `properties.encryption.identity` | `Microsoft.DataFactory/factories/encryption.identity` |
 | `properties.encryption.identity.userAssignedIdentity` | `Microsoft.DataFactory/factories/encryption.identity.userAssignedIdentity` |
+| `properties.repoConfiguration` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration` |
 
