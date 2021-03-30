@@ -339,4 +339,12 @@
 | `properties.subnets[*].properties.ipAllocations` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipAllocations` |
 | `properties.subnets[*].properties.ipAllocations[*]` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipAllocations[*]` |
 | `properties.subnets[*].properties.ipAllocations[*].id` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipAllocations[*].id` |
+| `properties.subnets[*].type` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].type` |
+| `properties.subnets[*].properties.delegations[*].type` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].delegations[*].type` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*]` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations[*]` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations[*].name` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations[*].etag` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations[*].type` |
+| `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].serviceEndpointPolicies[*].kind` |
 

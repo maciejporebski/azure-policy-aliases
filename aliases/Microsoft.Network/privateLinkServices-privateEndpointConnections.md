@@ -72,4 +72,5 @@
 | `properties.privateEndpoint.extendedLocation` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.extendedLocation` |
 | `properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.extendedLocation.name` |
 | `properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.extendedLocation.type` |
+| `properties.privateEndpoint.properties.subnet.type` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.type` |
 

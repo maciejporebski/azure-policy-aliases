@@ -82,4 +82,10 @@
 | `properties.vpnLinkConnections[*].properties.egressNatRules` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressNatRules` |
 | `properties.vpnLinkConnections[*].properties.egressNatRules[*]` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressNatRules[*]` |
 | `properties.vpnLinkConnections[*].properties.egressNatRules[*].id` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressNatRules[*].id` |
+| `properties.trafficSelectorPolicies` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies` |
+| `properties.trafficSelectorPolicies[*]` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*]` |
+| `properties.trafficSelectorPolicies[*].localAddressRanges` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*].localAddressRanges` |
+| `properties.trafficSelectorPolicies[*].localAddressRanges[*]` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*].localAddressRanges[*]` |
+| `properties.trafficSelectorPolicies[*].remoteAddressRanges` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*].remoteAddressRanges` |
+| `properties.trafficSelectorPolicies[*].remoteAddressRanges[*]` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*].remoteAddressRanges[*]` |
 

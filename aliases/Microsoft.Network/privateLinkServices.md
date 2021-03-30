@@ -1353,4 +1353,11 @@
 | `properties.privateEndpointConnections[*].properties.privateEndpoint.extendedLocation` | `Microsoft.Network/privateLinkServices/privateEndpointConnections[*].privateEndpoint.extendedLocation` |
 | `properties.privateEndpointConnections[*].properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/privateLinkServices/privateEndpointConnections[*].privateEndpoint.extendedLocation.name` |
 | `properties.privateEndpointConnections[*].properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/privateLinkServices/privateEndpointConnections[*].privateEndpoint.extendedLocation.type` |
+| `properties.loadBalancerFrontendIpConfigurations[*].properties.subnet.type` | `Microsoft.Network/privateLinkServices/loadBalancerFrontendIpConfigurations[*].subnet.type` |
+| `properties.ipConfigurations[*].properties.subnet.type` | `Microsoft.Network/privateLinkServices/ipConfigurations[*].subnet.type` |
+| `properties.networkInterfaces[*].properties.ipConfigurations[*].type` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].ipConfigurations[*].type` |
+| `properties.networkInterfaces[*].properties.nicType` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].nicType` |
+| `properties.networkInterfaces[*].properties.privateLinkService` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService` |
+| `properties.networkInterfaces[*].properties.privateLinkService.etag` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.etag` |
+| `properties.networkInterfaces[*].properties.migrationPhase` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].migrationPhase` |
 

@@ -336,4 +336,5 @@
 | `properties.virtualNetworkTap.type` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.type` |
 | `properties.virtualNetworkTap.location` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.location` |
 | `properties.virtualNetworkTap.tags` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.tags` |
+| `properties.virtualNetworkTap.properties.destinationNetworkInterfaceIPConfiguration.type` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.destinationNetworkInterfaceIPConfiguration.type` |
 

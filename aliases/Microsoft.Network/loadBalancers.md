@@ -895,4 +895,9 @@
 | `properties.frontendIPConfigurations[*].properties.subnet.properties.privateEndpoints[*].extendedLocation.name` | `Microsoft.Network/loadBalancers/frontendIPConfigurations[*].subnet.privateEndpoints[*].extendedLocation.name` |
 | `properties.frontendIPConfigurations[*].properties.subnet.properties.privateEndpoints[*].extendedLocation.type` | `Microsoft.Network/loadBalancers/frontendIPConfigurations[*].subnet.privateEndpoints[*].extendedLocation.type` |
 | `properties.backendAddressPools[*].properties.location` | `Microsoft.Network/loadBalancers/backendAddressPools[*].location` |
+| `properties.frontendIPConfigurations[*].properties.subnet.type` | `Microsoft.Network/loadBalancers/frontendIPConfigurations[*].subnet.type` |
+| `properties.backendAddressPools[*].properties.backendIPConfigurations[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools[*].backendIPConfigurations[*].type` |
+| `properties.inboundNatRules[*].properties.backendIPConfiguration.type` | `Microsoft.Network/loadBalancers/inboundNatRules[*].backendIPConfiguration.type` |
+| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.subnet` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].subnet` |
+| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.subnet.id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].subnet.id` |
 

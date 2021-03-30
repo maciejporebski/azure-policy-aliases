@@ -519,4 +519,25 @@
 | `properties.subnet.properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.privateEndpoints[*].extendedLocation` |
 | `properties.subnet.properties.privateEndpoints[*].extendedLocation.name` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.privateEndpoints[*].extendedLocation.name` |
 | `properties.subnet.properties.privateEndpoints[*].extendedLocation.type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.privateEndpoints[*].extendedLocation.type` |
+| `properties.subnet.type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.type` |
+| `properties.publicIPAddress.properties.natGateway` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway` |
+| `properties.publicIPAddress.properties.natGateway.zones` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.zones` |
+| `properties.publicIPAddress.properties.natGateway.zones[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.zones[*]` |
+| `properties.publicIPAddress.properties.natGateway.etag` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.etag` |
+| `properties.publicIPAddress.properties.migrationPhase` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.migrationPhase` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.etag` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.etag` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.zones` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.zones` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.zones[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.zones[*]` |
+| `properties.subnet.properties.delegations[*].type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.delegations[*].type` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.applicationGatewayIpConfigurations` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.applicationGatewayIpConfigurations[*]` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.applicationGatewayIpConfigurations[*].name` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.applicationGatewayIpConfigurations[*].etag` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.applicationGatewayIpConfigurations[*].type` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.etag` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.etag` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.zones` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.zones` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.zones[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.zones[*]` |
+| `properties.subnet.properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.serviceEndpointPolicies[*].kind` |
 

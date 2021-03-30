@@ -21,4 +21,6 @@
 | `properties.remoteVirtualNetworkAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkAddressSpace.addressPrefixes[*]` |
 | `properties.peeringSyncLevel` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringSyncLevel` |
 | `properties.syncRemoteAddressSpace` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/syncRemoteAddressSpace` |
+| `properties.resourceGuid` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/resourceGuid` |
+| `properties.doNotVerifyRemoteGateways` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/doNotVerifyRemoteGateways` |
 

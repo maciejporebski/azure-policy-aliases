@@ -492,4 +492,6 @@
 | `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.requiredMemberName` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.requiredMemberName` |
 | `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.fqdns` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.fqdns` |
 | `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.fqdns[*]` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.fqdns[*]` |
+| `properties.backendIPConfiguration.properties.subnet.type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.subnet.type` |
+| `properties.backendIPConfiguration.type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.type` |
 

@@ -69,4 +69,18 @@
 | `properties.intrusionDetection.configuration.bypassTrafficSettings[*].destinationIpGroups[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*].destinationIpGroups[*]` |
 | `properties.sku` | `Microsoft.Network/firewallPolicies/sku` |
 | `properties.sku.tier` | `Microsoft.Network/firewallPolicies/sku.tier` |
+| `properties.insights` | `Microsoft.Network/firewallPolicies/insights` |
+| `properties.insights.isEnabled` | `Microsoft.Network/firewallPolicies/insights.isEnabled` |
+| `properties.insights.retentionDays` | `Microsoft.Network/firewallPolicies/insights.retentionDays` |
+| `properties.insights.logAnalyticsResources` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources` |
+| `properties.insights.logAnalyticsResources.workspaces` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources.workspaces` |
+| `properties.insights.logAnalyticsResources.workspaces[*]` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources.workspaces[*]` |
+| `properties.insights.logAnalyticsResources.workspaces[*].region` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources.workspaces[*].region` |
+| `properties.insights.logAnalyticsResources.workspaces[*].workspaceId` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources.workspaces[*].workspaceId` |
+| `properties.insights.logAnalyticsResources.workspaces[*].workspaceId.id` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources.workspaces[*].workspaceId.id` |
+| `properties.insights.logAnalyticsResources.defaultWorkspaceId` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources.defaultWorkspaceId` |
+| `properties.insights.logAnalyticsResources.defaultWorkspaceId.id` | `Microsoft.Network/firewallPolicies/insights.logAnalyticsResources.defaultWorkspaceId.id` |
+| `properties.snat` | `Microsoft.Network/firewallPolicies/snat` |
+| `properties.snat.privateRanges` | `Microsoft.Network/firewallPolicies/snat.privateRanges` |
+| `properties.snat.privateRanges[*]` | `Microsoft.Network/firewallPolicies/snat.privateRanges[*]` |
 

@@ -772,4 +772,17 @@
 | `properties.subnets[*].properties.ipAllocations` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipAllocations` |
 | `properties.subnets[*].properties.ipAllocations[*]` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipAllocations[*]` |
 | `properties.subnets[*].properties.ipAllocations[*].id` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipAllocations[*].id` |
+| `properties.networkInterfaces[*].properties.ipConfigurations[*].type` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].ipConfigurations[*].type` |
+| `properties.networkInterfaces[*].properties.nicType` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].nicType` |
+| `properties.networkInterfaces[*].properties.privateLinkService` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateLinkService` |
+| `properties.networkInterfaces[*].properties.privateLinkService.etag` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].privateLinkService.etag` |
+| `properties.subnets[*].type` | `Microsoft.Network/networkSecurityGroups/subnets[*].type` |
+| `properties.networkInterfaces[*].properties.migrationPhase` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].migrationPhase` |
+| `properties.subnets[*].properties.delegations[*].type` | `Microsoft.Network/networkSecurityGroups/subnets[*].delegations[*].type` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations` | `Microsoft.Network/networkSecurityGroups/subnets[*].applicationGatewayIpConfigurations` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*]` | `Microsoft.Network/networkSecurityGroups/subnets[*].applicationGatewayIpConfigurations[*]` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/networkSecurityGroups/subnets[*].applicationGatewayIpConfigurations[*].name` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/networkSecurityGroups/subnets[*].applicationGatewayIpConfigurations[*].etag` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/networkSecurityGroups/subnets[*].applicationGatewayIpConfigurations[*].type` |
+| `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/networkSecurityGroups/subnets[*].serviceEndpointPolicies[*].kind` |
 

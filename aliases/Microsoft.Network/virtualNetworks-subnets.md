@@ -748,4 +748,21 @@
 | `properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].extendedLocation` |
 | `properties.privateEndpoints[*].extendedLocation.name` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].extendedLocation.name` |
 | `properties.privateEndpoints[*].extendedLocation.type` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].extendedLocation.type` |
+| `properties.networkSecurityGroup.properties.subnets[*].type` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.subnets[*].type` |
+| `properties.routeTable.properties.subnets[*].type` | `Microsoft.Network/virtualnetworks/subnets/routeTable.subnets[*].type` |
+| `properties.serviceEndpointPolicies[*].properties.subnets[*].type` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpointPolicies[*].subnets[*].type` |
+| `properties.privateEndpoints[*].properties.subnet.type` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].subnet.type` |
+| `properties.ipConfigurations[*].properties.subnet.type` | `Microsoft.Network/virtualnetworks/subnets/ipConfigurations[*].subnet.type` |
+| `properties.ipConfigurationProfiles[*].properties.subnet.type` | `Microsoft.Network/virtualnetworks/subnets/ipConfigurationProfiles[*].subnet.type` |
+| `properties.delegations[*].type` | `Microsoft.Network/virtualnetworks/subnets/delegations[*].type` |
+| `properties.applicationGatewayIpConfigurations` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations` |
+| `properties.applicationGatewayIpConfigurations[*]` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*]` |
+| `properties.applicationGatewayIpConfigurations[*].id` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].id` |
+| `properties.applicationGatewayIpConfigurations[*].properties.subnet` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].subnet` |
+| `properties.applicationGatewayIpConfigurations[*].properties.subnet.id` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].subnet.id` |
+| `properties.applicationGatewayIpConfigurations[*].properties.provisioningState` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].provisioningState` |
+| `properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].name` |
+| `properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].etag` |
+| `properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].type` |
+| `properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpointPolicies[*].kind` |
 

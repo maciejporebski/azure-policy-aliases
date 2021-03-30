@@ -137,4 +137,10 @@
 | `properties.natRules[*].properties.ingressVpnSiteLinkConnections[*].id` | `Microsoft.Network/vpnGateways/natRules[*].ingressVpnSiteLinkConnections[*].id` |
 | `properties.natRules[*].name` | `Microsoft.Network/vpnGateways/natRules[*].name` |
 | `properties.natRules[*].etag` | `Microsoft.Network/vpnGateways/natRules[*].etag` |
+| `properties.connections[*].properties.trafficSelectorPolicies` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies` |
+| `properties.connections[*].properties.trafficSelectorPolicies[*]` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*]` |
+| `properties.connections[*].properties.trafficSelectorPolicies[*].localAddressRanges` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*].localAddressRanges` |
+| `properties.connections[*].properties.trafficSelectorPolicies[*].localAddressRanges[*]` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*].localAddressRanges[*]` |
+| `properties.connections[*].properties.trafficSelectorPolicies[*].remoteAddressRanges` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*].remoteAddressRanges` |
+| `properties.connections[*].properties.trafficSelectorPolicies[*].remoteAddressRanges[*]` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*].remoteAddressRanges[*]` |
 

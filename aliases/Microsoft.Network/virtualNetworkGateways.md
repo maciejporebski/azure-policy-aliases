@@ -90,4 +90,10 @@
 | `properties.extendedLocation` | `Microsoft.Network/virtualnetworkgateways/extendedLocation` |
 | `properties.extendedLocation.name` | `Microsoft.Network/virtualnetworkgateways/extendedLocation.name` |
 | `properties.extendedLocation.type` | `Microsoft.Network/virtualnetworkgateways/extendedLocation.type` |
+| `properties.vNetExtendedLocationResourceId` | `Microsoft.Network/virtualnetworkgateways/vNetExtendedLocationResourceId` |
+| `properties.virtualNetworkExtendedLocation` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkExtendedLocation` |
+| `properties.virtualNetworkExtendedLocation.name` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkExtendedLocation.name` |
+| `properties.virtualNetworkExtendedLocation.type` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkExtendedLocation.type` |
+| `properties.vpnClientConfiguration.vpnAuthenticationTypes` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnAuthenticationTypes` |
+| `properties.vpnClientConfiguration.vpnAuthenticationTypes[*]` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnAuthenticationTypes[*]` |
 

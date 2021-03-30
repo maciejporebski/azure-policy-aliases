@@ -91,4 +91,6 @@
 | `properties.replicaSets[*].healthAlerts[*].raised` | `Microsoft.AAD/domainServices/replicaSets[*].healthAlerts[*].raised` |
 | `properties.replicaSets[*].healthAlerts[*].lastDetected` | `Microsoft.AAD/domainServices/replicaSets[*].healthAlerts[*].lastDetected` |
 | `properties.replicaSets[*].healthAlerts[*].resolutionUri` | `Microsoft.AAD/domainServices/replicaSets[*].healthAlerts[*].resolutionUri` |
+| `properties.domainSecuritySettings.kerberosRc4Encryption` | `Microsoft.AAD/domainServices/domainSecuritySettings.kerberosRc4Encryption` |
+| `properties.domainSecuritySettings.kerberosArmoring` | `Microsoft.AAD/domainServices/domainSecuritySettings.kerberosArmoring` |
 

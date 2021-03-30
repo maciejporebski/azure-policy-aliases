@@ -260,4 +260,16 @@
 | `properties.virtualNetworkGateway2.properties.extendedLocation.name` | `Microsoft.Network/connections/virtualNetworkGateway2.extendedLocation.name` |
 | `properties.virtualNetworkGateway2.properties.extendedLocation.type` | `Microsoft.Network/connections/virtualNetworkGateway2.extendedLocation.type` |
 | `properties.connectionMode` | `Microsoft.Network/connections/connectionMode` |
+| `properties.virtualNetworkGateway1.properties.vNetExtendedLocationResourceId` | `Microsoft.Network/connections/virtualNetworkGateway1.vNetExtendedLocationResourceId` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkExtendedLocation` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkExtendedLocation` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkExtendedLocation.name` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkExtendedLocation.name` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkExtendedLocation.type` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkExtendedLocation.type` |
+| `properties.virtualNetworkGateway2.properties.vNetExtendedLocationResourceId` | `Microsoft.Network/connections/virtualNetworkGateway2.vNetExtendedLocationResourceId` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkExtendedLocation` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkExtendedLocation` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkExtendedLocation.name` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkExtendedLocation.name` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkExtendedLocation.type` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkExtendedLocation.type` |
+| `properties.virtualNetworkGateway1.properties.vpnClientConfiguration.vpnAuthenticationTypes` | `Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnAuthenticationTypes` |
+| `properties.virtualNetworkGateway1.properties.vpnClientConfiguration.vpnAuthenticationTypes[*]` | `Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnAuthenticationTypes[*]` |
+| `properties.virtualNetworkGateway2.properties.vpnClientConfiguration.vpnAuthenticationTypes` | `Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnAuthenticationTypes` |
+| `properties.virtualNetworkGateway2.properties.vpnClientConfiguration.vpnAuthenticationTypes[*]` | `Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnAuthenticationTypes[*]` |
 

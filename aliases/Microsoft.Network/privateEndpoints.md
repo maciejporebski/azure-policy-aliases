@@ -402,4 +402,17 @@
 | `properties.subnet.properties.ipAllocations[*].id` | `Microsoft.Network/privateEndpoints/subnet.ipAllocations[*].id` |
 | `properties.networkInterfaces[*].properties.dscpConfiguration` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].dscpConfiguration` |
 | `properties.networkInterfaces[*].properties.dscpConfiguration.id` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].dscpConfiguration.id` |
+| `properties.subnet.type` | `Microsoft.Network/privateEndpoints/subnet.type` |
+| `properties.networkInterfaces[*].properties.ipConfigurations[*].type` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].ipConfigurations[*].type` |
+| `properties.networkInterfaces[*].properties.nicType` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].nicType` |
+| `properties.networkInterfaces[*].properties.privateLinkService` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].privateLinkService` |
+| `properties.networkInterfaces[*].properties.privateLinkService.etag` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].privateLinkService.etag` |
+| `properties.subnet.properties.delegations[*].type` | `Microsoft.Network/privateEndpoints/subnet.delegations[*].type` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations` | `Microsoft.Network/privateEndpoints/subnet.applicationGatewayIpConfigurations` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*]` | `Microsoft.Network/privateEndpoints/subnet.applicationGatewayIpConfigurations[*]` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/privateEndpoints/subnet.applicationGatewayIpConfigurations[*].name` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/privateEndpoints/subnet.applicationGatewayIpConfigurations[*].etag` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/privateEndpoints/subnet.applicationGatewayIpConfigurations[*].type` |
+| `properties.networkInterfaces[*].properties.migrationPhase` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].migrationPhase` |
+| `properties.subnet.properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/privateEndpoints/subnet.serviceEndpointPolicies[*].kind` |
 

@@ -23,4 +23,27 @@
 | `properties.customIPPrefix` | `Microsoft.Network/publicIPPrefixes/customIPPrefix` |
 | `properties.customIPPrefix.id` | `Microsoft.Network/publicIPPrefixes/customIPPrefix.id` |
 | `sku.tier` | `Microsoft.Network/publicIPPrefixes/sku.tier` |
+| `properties.natGateway` | `Microsoft.Network/publicIPPrefixes/natGateway` |
+| `properties.natGateway.id` | `Microsoft.Network/publicIPPrefixes/natGateway.id` |
+| `properties.natGateway.name` | `Microsoft.Network/publicIPPrefixes/natGateway.name` |
+| `properties.natGateway.type` | `Microsoft.Network/publicIPPrefixes/natGateway.type` |
+| `properties.natGateway.location` | `Microsoft.Network/publicIPPrefixes/natGateway.location` |
+| `properties.natGateway.tags` | `Microsoft.Network/publicIPPrefixes/natGateway.tags` |
+| `properties.natGateway.sku` | `Microsoft.Network/publicIPPrefixes/natGateway.sku` |
+| `properties.natGateway.sku.name` | `Microsoft.Network/publicIPPrefixes/natGateway.sku.name` |
+| `properties.natGateway.properties.idleTimeoutInMinutes` | `Microsoft.Network/publicIPPrefixes/natGateway.idleTimeoutInMinutes` |
+| `properties.natGateway.properties.publicIpAddresses` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpAddresses` |
+| `properties.natGateway.properties.publicIpAddresses[*]` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpAddresses[*]` |
+| `properties.natGateway.properties.publicIpAddresses[*].id` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpAddresses[*].id` |
+| `properties.natGateway.properties.publicIpPrefixes` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpPrefixes` |
+| `properties.natGateway.properties.publicIpPrefixes[*]` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpPrefixes[*]` |
+| `properties.natGateway.properties.publicIpPrefixes[*].id` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpPrefixes[*].id` |
+| `properties.natGateway.properties.subnets` | `Microsoft.Network/publicIPPrefixes/natGateway.subnets` |
+| `properties.natGateway.properties.subnets[*]` | `Microsoft.Network/publicIPPrefixes/natGateway.subnets[*]` |
+| `properties.natGateway.properties.subnets[*].id` | `Microsoft.Network/publicIPPrefixes/natGateway.subnets[*].id` |
+| `properties.natGateway.properties.resourceGuid` | `Microsoft.Network/publicIPPrefixes/natGateway.resourceGuid` |
+| `properties.natGateway.properties.provisioningState` | `Microsoft.Network/publicIPPrefixes/natGateway.provisioningState` |
+| `properties.natGateway.zones` | `Microsoft.Network/publicIPPrefixes/natGateway.zones` |
+| `properties.natGateway.zones[*]` | `Microsoft.Network/publicIPPrefixes/natGateway.zones[*]` |
+| `properties.natGateway.etag` | `Microsoft.Network/publicIPPrefixes/natGateway.etag` |
 

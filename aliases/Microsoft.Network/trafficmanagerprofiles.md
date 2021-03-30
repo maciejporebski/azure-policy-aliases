@@ -68,4 +68,8 @@
 | `properties.maxReturn` | `Microsoft.Network/trafficmanagerprofiles/maxReturn` |
 | `properties.monitorConfig.customHeaders[*].value` | `Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders[*].value` |
 | `properties.endpoints[*].properties.customHeaders[*].value` | `Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders[*].value` |
+| `properties.endpoints[*].properties.minChildEndpointsIPv4` | `Microsoft.Network/trafficmanagerprofiles/endpoints[*].minChildEndpointsIPv4` |
+| `properties.endpoints[*].properties.minChildEndpointsIPv6` | `Microsoft.Network/trafficmanagerprofiles/endpoints[*].minChildEndpointsIPv6` |
+| `properties.allowedEndpointRecordTypes` | `Microsoft.Network/trafficmanagerprofiles/allowedEndpointRecordTypes` |
+| `properties.allowedEndpointRecordTypes[*]` | `Microsoft.Network/trafficmanagerprofiles/allowedEndpointRecordTypes[*]` |
 

@@ -65,4 +65,8 @@
 | `properties.backendIPConfigurations[*].properties.privateLinkConnectionProperties.requiredMemberName` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].privateLinkConnectionProperties.requiredMemberName` |
 | `properties.backendIPConfigurations[*].properties.privateLinkConnectionProperties.fqdns` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].privateLinkConnectionProperties.fqdns` |
 | `properties.backendIPConfigurations[*].properties.privateLinkConnectionProperties.fqdns[*]` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].privateLinkConnectionProperties.fqdns[*]` |
+| `properties.backendIPConfigurations[*].properties.subnet.type` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].subnet.type` |
+| `properties.backendIPConfigurations[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].type` |
+| `properties.loadBalancerBackendAddresses[*].properties.subnet` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].subnet` |
+| `properties.loadBalancerBackendAddresses[*].properties.subnet.id` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].subnet.id` |
 

@@ -905,4 +905,7 @@
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.privateLinkConnectionProperties.requiredMemberName` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.privateLinkConnectionProperties.requiredMemberName` |
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.privateLinkConnectionProperties.fqdns` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.privateLinkConnectionProperties.fqdns` |
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.privateLinkConnectionProperties.fqdns[*]` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.privateLinkConnectionProperties.fqdns[*]` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.subnet.type` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.subnet.type` |
+| `properties.destinationNetworkInterfaceIPConfiguration.type` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.type` |
+| `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.subnet.type` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.subnet.type` |
 

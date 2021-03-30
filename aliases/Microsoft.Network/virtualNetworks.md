@@ -795,4 +795,15 @@
 | `properties.subnets[*].properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/virtualnetworks/subnets[*].privateEndpoints[*].extendedLocation` |
 | `properties.subnets[*].properties.privateEndpoints[*].extendedLocation.name` | `Microsoft.Network/virtualnetworks/subnets[*].privateEndpoints[*].extendedLocation.name` |
 | `properties.subnets[*].properties.privateEndpoints[*].extendedLocation.type` | `Microsoft.Network/virtualnetworks/subnets[*].privateEndpoints[*].extendedLocation.type` |
+| `properties.subnets[*].type` | `Microsoft.Network/virtualnetworks/subnets[*].type` |
+| `properties.virtualNetworkPeerings[*].properties.resourceGuid` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].resourceGuid` |
+| `properties.virtualNetworkPeerings[*].type` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].type` |
+| `properties.subnets[*].properties.delegations[*].type` | `Microsoft.Network/virtualnetworks/subnets[*].delegations[*].type` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations` | `Microsoft.Network/virtualnetworks/subnets[*].applicationGatewayIpConfigurations` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*]` | `Microsoft.Network/virtualnetworks/subnets[*].applicationGatewayIpConfigurations[*]` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/virtualnetworks/subnets[*].applicationGatewayIpConfigurations[*].name` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/virtualnetworks/subnets[*].applicationGatewayIpConfigurations[*].etag` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/virtualnetworks/subnets[*].applicationGatewayIpConfigurations[*].type` |
+| `properties.virtualNetworkPeerings[*].properties.doNotVerifyRemoteGateways` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].doNotVerifyRemoteGateways` |
+| `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualnetworks/subnets[*].serviceEndpointPolicies[*].kind` |
 

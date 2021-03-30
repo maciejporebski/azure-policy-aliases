@@ -426,4 +426,12 @@
 | `properties.subnets[*].properties.ipAllocations` | `Microsoft.Network/routeTables/subnets[*].ipAllocations` |
 | `properties.subnets[*].properties.ipAllocations[*]` | `Microsoft.Network/routeTables/subnets[*].ipAllocations[*]` |
 | `properties.subnets[*].properties.ipAllocations[*].id` | `Microsoft.Network/routeTables/subnets[*].ipAllocations[*].id` |
+| `properties.subnets[*].type` | `Microsoft.Network/routeTables/subnets[*].type` |
+| `properties.subnets[*].properties.delegations[*].type` | `Microsoft.Network/routeTables/subnets[*].delegations[*].type` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*]` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*]` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].name` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].etag` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].type` |
+| `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/routeTables/subnets[*].serviceEndpointPolicies[*].kind` |
 
