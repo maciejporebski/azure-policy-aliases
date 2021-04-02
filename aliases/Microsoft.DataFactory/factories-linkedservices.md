@@ -429,4 +429,13 @@
 | `properties.typeProperties.servicePrincipalCredentialType` | `Microsoft.DataFactory/factories/linkedservices/CosmosDb.typeProperties.servicePrincipalCredentialType` |
 | `properties.typeProperties.connectionMode` | `Microsoft.DataFactory/factories/linkedservices/CosmosDb.typeProperties.connectionMode` |
 | `properties.typeProperties.accountKind` | `Microsoft.DataFactory/factories/linkedservices/AzureBlobStorage.typeProperties.accountKind` |
+| `properties.typeProperties.alwaysEncryptedSettings` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings` |
+| `properties.typeProperties.alwaysEncryptedSettings.alwaysEncryptedAkvAuthType` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.alwaysEncryptedAkvAuthType` |
+| `properties.typeProperties.alwaysEncryptedSettings.servicePrincipalKey` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.AzureKeyVaultSecret` |
+| `properties.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.store` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.AzureKeyVaultSecret.store` |
+| `properties.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.store.type` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.AzureKeyVaultSecret.store.type` |
+| `properties.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.store.referenceName` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.AzureKeyVaultSecret.store.referenceName` |
+| `properties.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.store.parameters` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.AzureKeyVaultSecret.store.parameters` |
+| `properties.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.value` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.SecureString.value` |
+| `properties.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.type` | `Microsoft.DataFactory/factories/linkedservices/AzureSqlMI.typeProperties.alwaysEncryptedSettings.servicePrincipalKey.type` |
 
