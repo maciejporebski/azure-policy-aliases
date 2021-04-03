@@ -52,6 +52,5 @@
 | `properties.workspaceRepositoryConfiguration.lastCommitId` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.lastCommitId` |
 | `properties.workspaceRepositoryConfiguration.tenantId` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.tenantId` |
 | `properties.adlaResourceId` | `Microsoft.Synapse/workspaces/adlaResourceId` |
-| `properties.networkSettings` | `Microsoft.Synapse/workspaces/networkSettings` |
-| `properties.networkSettings.publicNetworkAccess` | `Microsoft.Synapse/workspaces/networkSettings.publicNetworkAccess` |
+| `properties.publicNetworkAccess` | `Microsoft.Synapse/workspaces/publicNetworkAccess` |
 

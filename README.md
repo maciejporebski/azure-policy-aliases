@@ -1143,6 +1143,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces](aliases/Microsoft.Synapse/workspaces.md)
 - [Microsoft.Synapse/workspaces/bigDataPools](aliases/Microsoft.Synapse/workspaces-bigDataPools.md)
 - [Microsoft.Synapse/workspaces/sqlPools](aliases/Microsoft.Synapse/workspaces-sqlPools.md)
+- [Microsoft.Synapse/workspaces/sqlDatabases](aliases/Microsoft.Synapse/workspaces-sqlDatabases.md)
 - [Microsoft.Synapse/privateLinkHubs](aliases/Microsoft.Synapse/privateLinkHubs.md)
 - [Microsoft.Synapse/workspaces/administrators](aliases/Microsoft.Synapse/workspaces-administrators.md)
 - [Microsoft.Synapse/workspaces/firewallRules](aliases/Microsoft.Synapse/workspaces-firewallRules.md)

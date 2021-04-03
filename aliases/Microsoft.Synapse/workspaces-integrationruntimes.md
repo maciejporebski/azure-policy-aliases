@@ -67,4 +67,19 @@
 | `properties.typeProperties.linkedInfo.authorizationType` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.authorizationType` |
 | `properties.type` | `Microsoft.Synapse/workspaces/integrationRuntimes/type` |
 | `properties.description` | `Microsoft.Synapse/workspaces/integrationRuntimes/description` |
+| `properties.typeProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties` |
+| `properties.typeProperties.linkedInfo` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.RBAC` |
+| `properties.typeProperties.linkedInfo.key` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.Key.key.SecureString` |
+| `properties.typeProperties.linkedInfo.key.value` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.Key.key.SecureString.value` |
+| `properties.typeProperties.linkedInfo.key.type` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.Key.key.type` |
+| `properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.SecureString` |
+| `properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.value` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.SecureString.value` |
+| `properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.type` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.type` |
+| `properties.typeProperties.ssisProperties.customSetupScriptProperties.sasToken` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.customSetupScriptProperties.sasToken.SecureString` |
+| `properties.typeProperties.ssisProperties.customSetupScriptProperties.sasToken.value` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.customSetupScriptProperties.sasToken.SecureString.value` |
+| `properties.typeProperties.ssisProperties.customSetupScriptProperties.sasToken.type` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.customSetupScriptProperties.sasToken.type` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties` |
+| `properties.managedVirtualNetwork` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork` |
+| `properties.managedVirtualNetwork.type` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.type` |
+| `properties.managedVirtualNetwork.referenceName` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.referenceName` |
 
