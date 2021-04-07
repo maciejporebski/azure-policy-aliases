@@ -64,4 +64,5 @@
 | `properties.purchasePlan.publisher` | `Microsoft.Compute/snapshots/purchasePlan.publisher` |
 | `properties.purchasePlan.product` | `Microsoft.Compute/snapshots/purchasePlan.product` |
 | `properties.purchasePlan.promotionCode` | `Microsoft.Compute/snapshots/purchasePlan.promotionCode` |
+| `properties.supportsHibernation` | `Microsoft.Compute/snapshots/supportsHibernation` |
 

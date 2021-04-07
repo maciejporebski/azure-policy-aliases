@@ -57,4 +57,6 @@
 | `properties.extensionProfile.extensions[*].properties.rolesAppliedTo[*]` | `Microsoft.Compute/cloudServices/extensionProfile.extensions[*].rolesAppliedTo[*]` |
 | `properties.provisioningState` | `Microsoft.Compute/cloudServices/provisioningState` |
 | `properties.uniqueId` | `Microsoft.Compute/cloudServices/uniqueId` |
+| `properties.allowModelOverride` | `Microsoft.Compute/cloudServices/allowModelOverride` |
+| `properties.networkProfile.loadBalancerConfigurations[*].id` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].id` |
 

@@ -13,4 +13,6 @@
 | `properties.previousKeys` | `Microsoft.Compute/diskEncryptionSets/previousKeys` |
 | `properties.provisioningState` | `Microsoft.Compute/diskEncryptionSets/provisioningState` |
 | `properties.encryptionType` | `Microsoft.Compute/diskEncryptionSets/encryptionType` |
+| `properties.rotationToLatestKeyVersionEnabled` | `Microsoft.Compute/diskEncryptionSets/rotationToLatestKeyVersionEnabled` |
+| `properties.lastKeyRotationTimestamp` | `Microsoft.Compute/diskEncryptionSets/lastKeyRotationTimestamp` |
 

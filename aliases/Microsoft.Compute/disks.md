@@ -80,4 +80,9 @@
 | `properties.purchasePlan.product` | `Microsoft.Compute/disks/purchasePlan.product` |
 | `properties.purchasePlan.promotionCode` | `Microsoft.Compute/disks/purchasePlan.promotionCode` |
 | `properties.burstingEnabled` | `Microsoft.Compute/disks/burstingEnabled` |
+| `properties.propertyUpdatesInProgress` | `Microsoft.Compute/disks/propertyUpdatesInProgress` |
+| `properties.propertyUpdatesInProgress.targetTier` | `Microsoft.Compute/disks/propertyUpdatesInProgress.targetTier` |
+| `properties.supportsHibernation` | `Microsoft.Compute/disks/supportsHibernation` |
+| `properties.securityProfile` | `Microsoft.Compute/disks/securityProfile` |
+| `properties.securityProfile.securityType` | `Microsoft.Compute/disks/securityProfile.securityType` |
 
