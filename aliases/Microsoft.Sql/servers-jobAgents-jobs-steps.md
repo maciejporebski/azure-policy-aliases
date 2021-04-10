@@ -23,4 +23,5 @@
 | `properties.executionOptions.maximumRetryIntervalSeconds` | `Microsoft.Sql/servers/jobAgents/jobs/steps/executionOptions.maximumRetryIntervalSeconds` |
 | `properties.executionOptions.retryIntervalBackoffMultiplier` | `Microsoft.Sql/servers/jobAgents/jobs/steps/executionOptions.retryIntervalBackoffMultiplier` |
 | `properties.executionOptions` | `Microsoft.Sql/servers/jobAgents/jobs/steps/executionOptions` |
+| `properties.action.value` | `Microsoft.Sql/servers/jobAgents/jobs/steps/action.value` |
 

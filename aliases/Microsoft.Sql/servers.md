@@ -24,4 +24,13 @@
 | `properties.publicNetworkAccess` | `Microsoft.Sql/servers/publicNetworkAccess` |
 | `properties.azureADOnlyAuthentication` | `Microsoft.Sql/servers/azureADOnlyAuthentications.Default.azureADOnlyAuthentication` |
 | `properties.workspaceFeature` | `Microsoft.Sql/servers/workspaceFeature` |
+| `properties.primaryUserAssignedIdentityId` | `Microsoft.Sql/servers/primaryUserAssignedIdentityId` |
+| `properties.keyId` | `Microsoft.Sql/servers/keyId` |
+| `properties.administrators` | `Microsoft.Sql/servers/administrators` |
+| `properties.administrators.administratorType` | `Microsoft.Sql/servers/administrators.administratorType` |
+| `properties.administrators.principalType` | `Microsoft.Sql/servers/administrators.principalType` |
+| `properties.administrators.login` | `Microsoft.Sql/servers/administrators.login` |
+| `properties.administrators.sid` | `Microsoft.Sql/servers/administrators.sid` |
+| `properties.administrators.tenantId` | `Microsoft.Sql/servers/administrators.tenantId` |
+| `properties.administrators.azureADOnlyAuthentication` | `Microsoft.Sql/servers/administrators.azureADOnlyAuthentication` |
 

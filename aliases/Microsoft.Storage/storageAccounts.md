@@ -112,4 +112,12 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].privateLinkServiceConnectionState.actionRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].provisioningState` |
+| `properties.sasPolicy` | `Microsoft.Storage/storageAccounts/sasPolicy` |
+| `properties.sasPolicy.sasExpirationPeriod` | `Microsoft.Storage/storageAccounts/sasPolicy.sasExpirationPeriod` |
+| `properties.sasPolicy.expirationAction` | `Microsoft.Storage/storageAccounts/sasPolicy.expirationAction` |
+| `properties.keyPolicy` | `Microsoft.Storage/storageAccounts/keyPolicy` |
+| `properties.keyPolicy.keyExpirationPeriodInDays` | `Microsoft.Storage/storageAccounts/keyPolicy.keyExpirationPeriodInDays` |
+| `properties.keyCreationTime` | `Microsoft.Storage/storageAccounts/keyCreationTime` |
+| `properties.keyCreationTime.key1` | `Microsoft.Storage/storageAccounts/keyCreationTime.key1` |
+| `properties.keyCreationTime.key2` | `Microsoft.Storage/storageAccounts/keyCreationTime.key2` |
 

@@ -121,4 +121,6 @@
 | `properties.highAvailabilityReplicaCount` | `Microsoft.Sql/servers/databases/highAvailabilityReplicaCount` |
 | `properties.secondaryType` | `Microsoft.Sql/servers/databases/secondaryType` |
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/servers/databases/maintenanceConfigurationId` |
+| `properties.currentBackupStorageRedundancy` | `Microsoft.Sql/servers/databases/currentBackupStorageRedundancy` |
+| `properties.requestedBackupStorageRedundancy` | `Microsoft.Sql/servers/databases/requestedBackupStorageRedundancy` |
 

@@ -41,4 +41,13 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].provisioningState` |
 | `properties.zoneRedundant` | `Microsoft.Sql/managedInstances/zoneRedundant` |
+| `properties.primaryUserAssignedIdentityId` | `Microsoft.Sql/managedInstances/primaryUserAssignedIdentityId` |
+| `properties.keyId` | `Microsoft.Sql/managedInstances/keyId` |
+| `properties.administrators` | `Microsoft.Sql/managedInstances/administrators` |
+| `properties.administrators.administratorType` | `Microsoft.Sql/managedInstances/administrators.administratorType` |
+| `properties.administrators.principalType` | `Microsoft.Sql/managedInstances/administrators.principalType` |
+| `properties.administrators.login` | `Microsoft.Sql/managedInstances/administrators.login` |
+| `properties.administrators.sid` | `Microsoft.Sql/managedInstances/administrators.sid` |
+| `properties.administrators.tenantId` | `Microsoft.Sql/managedInstances/administrators.tenantId` |
+| `properties.administrators.azureADOnlyAuthentication` | `Microsoft.Sql/managedInstances/administrators.azureADOnlyAuthentication` |
 

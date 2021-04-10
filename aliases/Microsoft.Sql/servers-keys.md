@@ -7,4 +7,5 @@
 | `properties.uri` | `Microsoft.Sql/servers/keys/uri` |
 | `properties.thumbprint` | `Microsoft.Sql/servers/keys/thumbprint` |
 | `properties.creationDate` | `Microsoft.Sql/servers/keys/creationDate` |
+| `properties.autoRotationEnabled` | `Microsoft.Sql/servers/keys/autoRotationEnabled` |
 
