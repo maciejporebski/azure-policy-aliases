@@ -78,4 +78,5 @@
 | `properties.serviceManagedResourcesSettings.cosmosDb` | `Microsoft.MachineLearningServices/workspaces/serviceManagedResourcesSettings.cosmosDb` |
 | `properties.serviceManagedResourcesSettings.cosmosDb.collectionsThroughput` | `Microsoft.MachineLearningServices/workspaces/serviceManagedResourcesSettings.cosmosDb.collectionsThroughput` |
 | `properties.primaryUserAssignedIdentity` | `Microsoft.MachineLearningServices/workspaces/primaryUserAssignedIdentity` |
+| `properties.tenantId` | `Microsoft.MachineLearningServices/workspaces/tenantId` |
 

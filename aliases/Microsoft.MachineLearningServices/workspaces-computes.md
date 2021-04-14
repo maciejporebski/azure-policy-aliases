@@ -132,4 +132,25 @@
 | `properties.properties.setupScripts.scripts.creationScript.scriptArguments` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.creationScript.scriptArguments` |
 | `properties.properties.setupScripts.scripts.creationScript.timeout` | `Microsoft.MachineLearningServices/workspaces/computes/setupScripts.scripts.creationScript.timeout` |
 | `properties.properties.workspaceUrl` | `Microsoft.MachineLearningServices/workspaces/computes/workspaceUrl` |
+| `properties.properties.autoScaleProperties` | `Microsoft.MachineLearningServices/workspaces/computes/autoScaleProperties` |
+| `properties.properties.autoScaleProperties.minNodeCount` | `Microsoft.MachineLearningServices/workspaces/computes/autoScaleProperties.minNodeCount` |
+| `properties.properties.autoScaleProperties.enabled` | `Microsoft.MachineLearningServices/workspaces/computes/autoScaleProperties.enabled` |
+| `properties.properties.autoScaleProperties.maxNodeCount` | `Microsoft.MachineLearningServices/workspaces/computes/autoScaleProperties.maxNodeCount` |
+| `properties.properties.autoPauseProperties` | `Microsoft.MachineLearningServices/workspaces/computes/autoPauseProperties` |
+| `properties.properties.autoPauseProperties.delayInMinutes` | `Microsoft.MachineLearningServices/workspaces/computes/autoPauseProperties.delayInMinutes` |
+| `properties.properties.autoPauseProperties.enabled` | `Microsoft.MachineLearningServices/workspaces/computes/autoPauseProperties.enabled` |
+| `properties.properties.sparkVersion` | `Microsoft.MachineLearningServices/workspaces/computes/sparkVersion` |
+| `properties.properties.nodeCount` | `Microsoft.MachineLearningServices/workspaces/computes/nodeCount` |
+| `properties.properties.nodeSize` | `Microsoft.MachineLearningServices/workspaces/computes/nodeSize` |
+| `properties.properties.nodeSizeFamily` | `Microsoft.MachineLearningServices/workspaces/computes/nodeSizeFamily` |
+| `properties.properties.subscriptionId` | `Microsoft.MachineLearningServices/workspaces/computes/subscriptionId` |
+| `properties.properties.resourceGroup` | `Microsoft.MachineLearningServices/workspaces/computes/resourceGroup` |
+| `properties.properties.workspaceName` | `Microsoft.MachineLearningServices/workspaces/computes/workspaceName` |
+| `properties.properties.poolName` | `Microsoft.MachineLearningServices/workspaces/computes/poolName` |
+| `properties.properties.isNotebookInstanceCompute` | `Microsoft.MachineLearningServices/workspaces/computes/isNotebookInstanceCompute` |
+| `properties.properties.errors[*].error.target` | `Microsoft.MachineLearningServices/workspaces/computes/errors[*].error.target` |
+| `properties.properties.loadBalancerType` | `Microsoft.MachineLearningServices/workspaces/computes/loadBalancerType` |
+| `properties.properties.loadBalancerSubnet` | `Microsoft.MachineLearningServices/workspaces/computes/loadBalancerSubnet` |
+| `properties.provisioningErrors[*].error.target` | `Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.target` |
+| `properties.disableLocalAuth` | `Microsoft.MachineLearningServices/workspaces/computes/disableLocalAuth` |
 
