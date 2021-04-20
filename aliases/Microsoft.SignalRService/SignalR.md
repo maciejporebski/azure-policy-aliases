@@ -61,4 +61,25 @@
 | `properties.upstream.templates[*].auth.managedIdentity.resource` | `Microsoft.SignalRService/SignalR/upstream.templates[*].auth.managedIdentity.resource` |
 | `properties.tls` | `Microsoft.SignalRService/SignalR/tls` |
 | `properties.tls.clientCertEnabled` | `Microsoft.SignalRService/SignalR/tls.clientCertEnabled` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.sharedPrivateLinkResources` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources` |
+| `properties.sharedPrivateLinkResources[*]` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*]` |
+| `properties.sharedPrivateLinkResources[*].systemData` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].systemData` |
+| `properties.sharedPrivateLinkResources[*].systemData.createdBy` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].systemData.createdBy` |
+| `properties.sharedPrivateLinkResources[*].systemData.createdByType` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].systemData.createdByType` |
+| `properties.sharedPrivateLinkResources[*].systemData.createdAt` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].systemData.createdAt` |
+| `properties.sharedPrivateLinkResources[*].systemData.lastModifiedBy` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].systemData.lastModifiedBy` |
+| `properties.sharedPrivateLinkResources[*].systemData.lastModifiedByType` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].systemData.lastModifiedByType` |
+| `properties.sharedPrivateLinkResources[*].systemData.lastModifiedAt` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].systemData.lastModifiedAt` |
+| `properties.sharedPrivateLinkResources[*].properties.groupId` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].groupId` |
+| `properties.sharedPrivateLinkResources[*].properties.privateLinkResourceId` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].privateLinkResourceId` |
+| `properties.sharedPrivateLinkResources[*].properties.provisioningState` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].provisioningState` |
+| `properties.sharedPrivateLinkResources[*].properties.requestMessage` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].requestMessage` |
+| `properties.sharedPrivateLinkResources[*].properties.status` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].status` |
 

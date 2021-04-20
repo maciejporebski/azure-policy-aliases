@@ -694,12 +694,12 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.NetApp
 
 - [Microsoft.NetApp/netAppAccounts](aliases/Microsoft.NetApp/netAppAccounts.md)
+- [Microsoft.NetApp/netAppAccounts/snapshotPolicies](aliases/Microsoft.NetApp/netAppAccounts-snapshotPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/backupPolicies](aliases/Microsoft.NetApp/netAppAccounts-backupPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools](aliases/Microsoft.NetApp/netAppAccounts-capacityPools.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
-- [Microsoft.NetApp/netAppAccounts/snapshotPolicies](aliases/Microsoft.NetApp/netAppAccounts-snapshotPolicies.md)
 
 
 ## Microsoft.Network
@@ -978,6 +978,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.SignalRService
 
 - [Microsoft.SignalRService/SignalR](aliases/Microsoft.SignalRService/SignalR.md)
+- [Microsoft.SignalRService/WebPubSub](aliases/Microsoft.SignalRService/WebPubSub.md)
 - [Microsoft.SignalRService/signalR/privateEndpointConnections](aliases/Microsoft.SignalRService/signalR-privateEndpointConnections.md)
 
 
