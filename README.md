@@ -980,6 +980,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.SignalRService/SignalR](aliases/Microsoft.SignalRService/SignalR.md)
 - [Microsoft.SignalRService/WebPubSub](aliases/Microsoft.SignalRService/WebPubSub.md)
 - [Microsoft.SignalRService/signalR/privateEndpointConnections](aliases/Microsoft.SignalRService/signalR-privateEndpointConnections.md)
+- [Microsoft.SignalRService/SignalR/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources.md)
+- [Microsoft.SignalRService/WebPubSub/privateEndpointConnections](aliases/Microsoft.SignalRService/WebPubSub-privateEndpointConnections.md)
+- [Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources.md)
 
 
 ## Microsoft.Solutions

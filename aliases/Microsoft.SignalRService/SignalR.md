@@ -82,4 +82,7 @@
 | `properties.sharedPrivateLinkResources[*].properties.provisioningState` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].provisioningState` |
 | `properties.sharedPrivateLinkResources[*].properties.requestMessage` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].requestMessage` |
 | `properties.sharedPrivateLinkResources[*].properties.status` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].status` |
+| `properties.sharedPrivateLinkResources[*].id` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].id` |
+| `properties.sharedPrivateLinkResources[*].name` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].name` |
+| `properties.sharedPrivateLinkResources[*].type` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].type` |
 

@@ -23,4 +23,6 @@
 | `properties.luisKey` | `Microsoft.BotService/botServices/luisKey` |
 | `properties.isCmekEnabled` | `Microsoft.BotService/botServices/isCmekEnabled` |
 | `properties.cmekKeyVaultUrl` | `Microsoft.BotService/botServices/cmekKeyVaultUrl` |
+| `properties.isIsolated` | `Microsoft.BotService/botServices/isIsolated` |
+| `properties.schemaTransformationVersion` | `Microsoft.BotService/botServices/schemaTransformationVersion` |
 

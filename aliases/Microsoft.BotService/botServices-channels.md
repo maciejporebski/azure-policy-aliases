@@ -76,4 +76,17 @@
 | `properties.properties.customVoiceDeploymentId` | `Microsoft.BotService/botServices/channels/DirectLineSpeechChannel.customVoiceDeploymentId` |
 | `properties.properties.customSpeechModelId` | `Microsoft.BotService/botServices/channels/DirectLineSpeechChannel.customSpeechModelId` |
 | `properties.properties.isDefaultBotForCogSvcAccount` | `Microsoft.BotService/botServices/channels/DirectLineSpeechChannel.isDefaultBotForCogSvcAccount` |
+| `properties.properties.isValidated` | `Microsoft.BotService/botServices/channels/SlackChannel.isValidated` |
+| `properties.properties.isValidated` | `Microsoft.BotService/botServices/channels/LineChannel.isValidated` |
+| `properties.properties.isEnabled` | `Microsoft.BotService/botServices/channels/SlackChannel.isEnabled` |
+| `properties.properties.isEnabled` | `Microsoft.BotService/botServices/channels/DirectLineSpeechChannel.isEnabled` |
+| `properties.properties.sites` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites` |
+| `properties.properties.sites[*]` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites[*]` |
+| `properties.properties.sites[*].siteId` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites[*].siteId` |
+| `properties.properties.sites[*].siteName` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites[*].siteName` |
+| `properties.properties.sites[*].key` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites[*].key` |
+| `properties.properties.sites[*].key2` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites[*].key2` |
+| `properties.properties.sites[*].isEnabled` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites[*].isEnabled` |
+| `properties.properties.enableCalling` | `Microsoft.BotService/botServices/channels/SkypeChannel.enableCalling` |
+| `properties.properties.callbackUrl` | `Microsoft.BotService/botServices/channels/LineChannel.callbackUrl` |
 

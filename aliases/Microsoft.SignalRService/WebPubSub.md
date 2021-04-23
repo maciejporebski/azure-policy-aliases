@@ -67,4 +67,10 @@
 | `properties.networkACLs.privateEndpoints[*].deny[*]` | `Microsoft.SignalRService/webPubSub/networkACLs.privateEndpoints[*].deny[*]` |
 | `properties.networkACLs.privateEndpoints[*].name` | `Microsoft.SignalRService/webPubSub/networkACLs.privateEndpoints[*].name` |
 | `properties.publicNetworkAccess` | `Microsoft.SignalRService/webPubSub/publicNetworkAccess` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections[*].type` |
+| `properties.sharedPrivateLinkResources[*].id` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].id` |
+| `properties.sharedPrivateLinkResources[*].name` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].name` |
+| `properties.sharedPrivateLinkResources[*].type` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].type` |
 
