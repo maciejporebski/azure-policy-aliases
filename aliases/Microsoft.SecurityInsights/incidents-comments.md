@@ -9,4 +9,5 @@
 | `properties.author.objectId` | `Microsoft.SecurityInsights/incidents/comments/author.objectId` |
 | `properties.author.userPrincipalName` | `Microsoft.SecurityInsights/incidents/comments/author.userPrincipalName` |
 | `properties.author` | `Microsoft.SecurityInsights/incidents/comments/author` |
+| `properties.lastModifiedTimeUtc` | `Microsoft.SecurityInsights/incidents/comments/lastModifiedTimeUtc` |
 

@@ -27,4 +27,9 @@
 | `properties.bookmarkId` | `Microsoft.SecurityInsights/cases/relations.bookmarkId` |
 | `properties.caseIdentifier` | `Microsoft.SecurityInsights/cases/relations.caseIdentifier` |
 | `properties.bookmarkName` | `Microsoft.SecurityInsights/cases/relations.bookmarkName` |
+| `properties.metrics` | `Microsoft.SecurityInsights/cases/metrics` |
+| `properties.relatedAlertProductNames` | `Microsoft.SecurityInsights/cases/relatedAlertProductNames` |
+| `properties.relatedAlertProductNames[*]` | `Microsoft.SecurityInsights/cases/relatedAlertProductNames[*]` |
+| `properties.tactics` | `Microsoft.SecurityInsights/cases/tactics` |
+| `properties.tactics[*]` | `Microsoft.SecurityInsights/cases/tactics[*]` |
 

@@ -1,0 +1,60 @@
+# Microsoft.SecurityInsights/threatintelligence/indicators
+
+| Default Path | Alias |
+|---|---|
+| `properties.additionalData` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.additionalData` |
+| `properties.friendlyName` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.friendlyName` |
+| `properties.threatIntelligenceTags` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.threatIntelligenceTags` |
+| `properties.threatIntelligenceTags[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.threatIntelligenceTags[*]` |
+| `properties.lastUpdatedTimeUtc` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.lastUpdatedTimeUtc` |
+| `properties.source` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.source` |
+| `properties.displayName` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.displayName` |
+| `properties.description` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.description` |
+| `properties.indicatorTypes` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.indicatorTypes` |
+| `properties.indicatorTypes[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.indicatorTypes[*]` |
+| `properties.pattern` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.pattern` |
+| `properties.patternType` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.patternType` |
+| `properties.patternVersion` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.patternVersion` |
+| `properties.killChainPhases` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.killChainPhases` |
+| `properties.killChainPhases[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.killChainPhases[*]` |
+| `properties.killChainPhases[*].killChainName` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.killChainPhases[*].killChainName` |
+| `properties.killChainPhases[*].phaseName` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.killChainPhases[*].phaseName` |
+| `properties.parsedPattern` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.parsedPattern` |
+| `properties.parsedPattern[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.parsedPattern[*]` |
+| `properties.parsedPattern[*].patternTypeKey` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.parsedPattern[*].patternTypeKey` |
+| `properties.parsedPattern[*].patternTypeValues` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.parsedPattern[*].patternTypeValues` |
+| `properties.parsedPattern[*].patternTypeValues[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.parsedPattern[*].patternTypeValues[*]` |
+| `properties.parsedPattern[*].patternTypeValues[*].valueType` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.parsedPattern[*].patternTypeValues[*].valueType` |
+| `properties.parsedPattern[*].patternTypeValues[*].value` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.parsedPattern[*].patternTypeValues[*].value` |
+| `properties.externalId` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalId` |
+| `properties.createdByRef` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.createdByRef` |
+| `properties.defanged` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.defanged` |
+| `properties.externalLastUpdatedTimeUtc` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalLastUpdatedTimeUtc` |
+| `properties.externalReferences` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalReferences` |
+| `properties.externalReferences[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalReferences[*]` |
+| `properties.externalReferences[*].description` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalReferences[*].description` |
+| `properties.externalReferences[*].externalId` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalReferences[*].externalId` |
+| `properties.externalReferences[*].sourceName` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalReferences[*].sourceName` |
+| `properties.externalReferences[*].url` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalReferences[*].url` |
+| `properties.externalReferences[*].hashes` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.externalReferences[*].hashes` |
+| `properties.granularMarkings` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.granularMarkings` |
+| `properties.granularMarkings[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.granularMarkings[*]` |
+| `properties.granularMarkings[*].language` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.granularMarkings[*].language` |
+| `properties.granularMarkings[*].markingRef` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.granularMarkings[*].markingRef` |
+| `properties.granularMarkings[*].selectors` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.granularMarkings[*].selectors` |
+| `properties.granularMarkings[*].selectors[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.granularMarkings[*].selectors[*]` |
+| `properties.labels` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.labels` |
+| `properties.labels[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.labels[*]` |
+| `properties.revoked` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.revoked` |
+| `properties.confidence` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.confidence` |
+| `properties.objectMarkingRefs` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.objectMarkingRefs` |
+| `properties.objectMarkingRefs[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.objectMarkingRefs[*]` |
+| `properties.language` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.language` |
+| `properties.threatTypes` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.threatTypes` |
+| `properties.threatTypes[*]` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.threatTypes[*]` |
+| `properties.validFrom` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.validFrom` |
+| `properties.validUntil` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.validUntil` |
+| `properties.created` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.created` |
+| `properties.modified` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.modified` |
+| `properties.extensions` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.extensions` |
+

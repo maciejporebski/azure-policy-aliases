@@ -941,14 +941,20 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.SecurityInsights
 
+- [Microsoft.SecurityInsights/alertRules](aliases/Microsoft.SecurityInsights/alertRules.md)
 - [Microsoft.SecurityInsights/cases](aliases/Microsoft.SecurityInsights/cases.md)
 - [Microsoft.SecurityInsights/bookmarks](aliases/Microsoft.SecurityInsights/bookmarks.md)
+- [Microsoft.SecurityInsights/dataConnectors](aliases/Microsoft.SecurityInsights/dataConnectors.md)
 - [Microsoft.SecurityInsights/incidents](aliases/Microsoft.SecurityInsights/incidents.md)
+- [Microsoft.SecurityInsights/settings](aliases/Microsoft.SecurityInsights/settings.md)
+- [Microsoft.SecurityInsights/automationRules](aliases/Microsoft.SecurityInsights/automationRules.md)
+- [Microsoft.SecurityInsights/watchlists](aliases/Microsoft.SecurityInsights/watchlists.md)
 - [Microsoft.SecurityInsights/alertRules/actions](aliases/Microsoft.SecurityInsights/alertRules-actions.md)
 - [Microsoft.SecurityInsights/bookmarks/relations](aliases/Microsoft.SecurityInsights/bookmarks-relations.md)
 - [Microsoft.SecurityInsights/cases/comments](aliases/Microsoft.SecurityInsights/cases-comments.md)
 - [Microsoft.SecurityInsights/incidents/comments](aliases/Microsoft.SecurityInsights/incidents-comments.md)
 - [Microsoft.SecurityInsights/incidents/relations](aliases/Microsoft.SecurityInsights/incidents-relations.md)
+- [Microsoft.SecurityInsights/threatintelligence/indicators](aliases/Microsoft.SecurityInsights/threatintelligence-indicators.md)
 
 
 ## Microsoft.ServiceBus

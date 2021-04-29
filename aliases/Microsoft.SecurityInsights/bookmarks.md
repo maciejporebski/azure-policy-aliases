@@ -23,4 +23,7 @@
 | `properties.incidentInfo.title` | `Microsoft.SecurityInsights/bookmarks/incidentInfo.title` |
 | `properties.incidentInfo.relationName` | `Microsoft.SecurityInsights/bookmarks/incidentInfo.relationName` |
 | `properties.incidentInfo` | `Microsoft.SecurityInsights/bookmarks/incidentInfo` |
+| `properties.eventTime` | `Microsoft.SecurityInsights/bookmarks/eventTime` |
+| `properties.queryStartTime` | `Microsoft.SecurityInsights/bookmarks/queryStartTime` |
+| `properties.queryEndTime` | `Microsoft.SecurityInsights/bookmarks/queryEndTime` |
 

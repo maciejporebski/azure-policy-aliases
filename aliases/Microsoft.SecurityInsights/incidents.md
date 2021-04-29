@@ -27,4 +27,13 @@
 | `properties.severity` | `Microsoft.SecurityInsights/incidents/severity` |
 | `properties.status` | `Microsoft.SecurityInsights/incidents/status` |
 | `properties.title` | `Microsoft.SecurityInsights/incidents/title` |
+| `properties.additionalData.tactics` | `Microsoft.SecurityInsights/incidents/additionalData.tactics` |
+| `properties.additionalData.tactics[*]` | `Microsoft.SecurityInsights/incidents/additionalData.tactics[*]` |
+| `properties.classificationComment` | `Microsoft.SecurityInsights/incidents/classificationComment` |
+| `properties.classificationReason` | `Microsoft.SecurityInsights/incidents/classificationReason` |
+| `properties.incidentUrl` | `Microsoft.SecurityInsights/incidents/incidentUrl` |
+| `properties.providerName` | `Microsoft.SecurityInsights/incidents/providerName` |
+| `properties.providerIncidentId` | `Microsoft.SecurityInsights/incidents/providerIncidentId` |
+| `properties.relatedAnalyticRuleIds` | `Microsoft.SecurityInsights/incidents/relatedAnalyticRuleIds` |
+| `properties.relatedAnalyticRuleIds[*]` | `Microsoft.SecurityInsights/incidents/relatedAnalyticRuleIds[*]` |
 
