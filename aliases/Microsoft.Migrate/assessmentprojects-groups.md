@@ -9,4 +9,5 @@
 | `properties.areAssessmentsRunning` | `Microsoft.Migrate/assessmentprojects/groups/areAssessmentsRunning` |
 | `properties.createdTimestamp` | `Microsoft.Migrate/assessmentprojects/groups/createdTimestamp` |
 | `properties.updatedTimestamp` | `Microsoft.Migrate/assessmentprojects/groups/updatedTimestamp` |
+| `properties.groupType` | `Microsoft.Migrate/assessmentProjects/groups/groupType` |
 

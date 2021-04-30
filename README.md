@@ -682,6 +682,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Migrate/projects](aliases/Microsoft.Migrate/projects.md)
 - [Microsoft.Migrate/migrateprojects](aliases/Microsoft.Migrate/migrateprojects.md)
 - [Microsoft.Migrate/assessmentProjects](aliases/Microsoft.Migrate/assessmentProjects.md)
+- [Microsoft.Migrate/moveCollections](aliases/Microsoft.Migrate/moveCollections.md)
 - [Microsoft.Migrate/projects/groups](aliases/Microsoft.Migrate/projects-groups.md)
 - [Microsoft.Migrate/projects/groups/assessments](aliases/Microsoft.Migrate/projects-groups-assessments.md)
 - [Microsoft.Migrate/assessmentprojects/groups](aliases/Microsoft.Migrate/assessmentprojects-groups.md)
@@ -689,6 +690,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Migrate/assessmentprojects/hypervcollectors](aliases/Microsoft.Migrate/assessmentprojects-hypervcollectors.md)
 - [Microsoft.Migrate/assessmentprojects/vmwarecollectors](aliases/Microsoft.Migrate/assessmentprojects-vmwarecollectors.md)
 - [Microsoft.Migrate/migrateprojects/solutions](aliases/Microsoft.Migrate/migrateprojects-solutions.md)
+- [Microsoft.Migrate/assessmentprojects/importcollectors](aliases/Microsoft.Migrate/assessmentprojects-importcollectors.md)
+- [Microsoft.Migrate/assessmentprojects/privateEndpointConnections](aliases/Microsoft.Migrate/assessmentprojects-privateEndpointConnections.md)
+- [Microsoft.Migrate/assessmentprojects/servercollectors](aliases/Microsoft.Migrate/assessmentprojects-servercollectors.md)
+- [Microsoft.Migrate/moveCollections/moveResources](aliases/Microsoft.Migrate/moveCollections-moveResources.md)
 
 
 ## Microsoft.NetApp
@@ -890,6 +895,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Relay/namespaces/hybridconnections/authorizationrules](aliases/Microsoft.Relay/namespaces-hybridconnections-authorizationrules.md)
 - [Microsoft.Relay/namespaces/wcfrelays](aliases/Microsoft.Relay/namespaces-wcfrelays.md)
 - [Microsoft.Relay/namespaces/wcfrelays/authorizationrules](aliases/Microsoft.Relay/namespaces-wcfrelays-authorizationrules.md)
+- [Microsoft.Relay/namespaces/networkrulesets](aliases/Microsoft.Relay/namespaces-networkrulesets.md)
 
 
 ## Microsoft.Resources

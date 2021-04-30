@@ -7,4 +7,5 @@
 | `properties.lastSummaryRefreshedTime` | `Microsoft.Migrate/migrateprojects/lastSummaryRefreshedTime` |
 | `properties.refreshSummaryState` | `Microsoft.Migrate/migrateprojects/refreshSummaryState` |
 | `properties.provisioningState` | `Microsoft.Migrate/migrateprojects/provisioningState` |
+| `properties.summary` | `Microsoft.Migrate/migrateProjects/summary` |
 
