@@ -16,4 +16,13 @@
 | `properties.ignoreFirstRecord` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.ignoreFirstRecord` |
 | `properties.blobStorageEventType` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.blobStorageEventType` |
 | `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/dataConnections/EventHub.provisioningState` |
+| `properties.eventHubResourceId` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.eventHubResourceId` |
+| `properties.consumerGroup` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.consumerGroup` |
+| `properties.tableName` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.tableName` |
+| `properties.mappingRuleName` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.mappingRuleName` |
+| `properties.dataFormat` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.dataFormat` |
+| `properties.eventSystemProperties` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.eventSystemProperties` |
+| `properties.eventSystemProperties[*]` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.eventSystemProperties[*]` |
+| `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.provisioningState` |
+| `properties.managedIdentityResourceId` | `Microsoft.Kusto/clusters/databases/dataConnections/EventHub.managedIdentityResourceId` |
 

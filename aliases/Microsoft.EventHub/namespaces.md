@@ -66,4 +66,25 @@
 | `properties.encryption.keyVaultProperties[*].keyVaultUri` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*].keyVaultUri` |
 | `properties.encryption.keyVaultProperties[*].keyVersion` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*].keyVersion` |
 | `properties.encryption.keyVaultProperties[*]` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*]` |
+| `properties.encryption.keyVaultProperties[*].identity` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*].identity` |
+| `properties.encryption.keyVaultProperties[*].identity.userAssignedIdentity` | `Microsoft.EventHub/namespaces/encryption.keyVaultProperties[*].identity.userAssignedIdentity` |
+| `properties.encryption.requireInfrastructureEncryption` | `Microsoft.EventHub/namespaces/encryption.requireInfrastructureEncryption` |
+| `properties.privateEndpointConnections` | `Microsoft.EventHub/namespaces/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].provisioningState` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
 

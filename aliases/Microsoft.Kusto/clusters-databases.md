@@ -18,4 +18,9 @@
 | `properties.attachedDatabaseConfigurationName` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.attachedDatabaseConfigurationName` |
 | `properties.principalsModificationKind` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.principalsModificationKind` |
 | `properties.isFollowed` | `Microsoft.Kusto/clusters/databases/ReadWrite.isFollowed` |
+| `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.provisioningState` |
+| `properties.statistics` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.statistics` |
+| `properties.statistics.size` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.statistics.size` |
+| `properties.softDeletePeriod` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.softDeletePeriod` |
+| `properties.hotCachePeriod` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.hotCachePeriod` |
 
