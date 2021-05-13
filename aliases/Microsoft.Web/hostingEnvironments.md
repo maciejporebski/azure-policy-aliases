@@ -92,4 +92,5 @@
 | `properties.sslCertKeyVaultSecretName` | `Microsoft.Web/hostingEnvironments/sslCertKeyVaultSecretName` |
 | `properties.environmentCapacities[*].isLinux` | `Microsoft.Web/hostingEnvironments/environmentCapacities[*].isLinux` |
 | `properties.vipMappings[*].serviceName` | `Microsoft.Web/hostingEnvironments/vipMappings[*].serviceName` |
+| `properties.dedicatedHostCount` | `Microsoft.Web/hostingEnvironments/dedicatedHostCount` |
 

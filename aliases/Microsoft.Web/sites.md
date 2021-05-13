@@ -293,4 +293,26 @@
 | `properties.siteConfig.push.systemData.lastModifiedByType` | `Microsoft.Web/sites/siteConfig.push.systemData.lastModifiedByType` |
 | `properties.siteConfig.push.systemData.lastModifiedAt` | `Microsoft.Web/sites/siteConfig.push.systemData.lastModifiedAt` |
 | `properties.storageAccountRequired` | `Microsoft.Web/sites/storageAccountRequired` |
+| `properties.siteConfig.autoHealRules.triggers.statusCodes[*].path` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.statusCodes[*].path` |
+| `properties.siteConfig.autoHealRules.triggers.slowRequests.path` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.slowRequests.path` |
+| `properties.siteConfig.autoHealRules.triggers.slowRequestsWithPath` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.slowRequestsWithPath` |
+| `properties.siteConfig.autoHealRules.triggers.slowRequestsWithPath[*]` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.slowRequestsWithPath[*]` |
+| `properties.siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].timeTaken` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].timeTaken` |
+| `properties.siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].path` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].path` |
+| `properties.siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].count` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].count` |
+| `properties.siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].timeInterval` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.slowRequestsWithPath[*].timeInterval` |
+| `properties.siteConfig.autoHealRules.triggers.statusCodesRange` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.statusCodesRange` |
+| `properties.siteConfig.autoHealRules.triggers.statusCodesRange[*]` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.statusCodesRange[*]` |
+| `properties.siteConfig.autoHealRules.triggers.statusCodesRange[*].statusCodes` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.statusCodesRange[*].statusCodes` |
+| `properties.siteConfig.autoHealRules.triggers.statusCodesRange[*].path` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.statusCodesRange[*].path` |
+| `properties.siteConfig.autoHealRules.triggers.statusCodesRange[*].count` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.statusCodesRange[*].count` |
+| `properties.siteConfig.autoHealRules.triggers.statusCodesRange[*].timeInterval` | `Microsoft.Web/sites/siteConfig.autoHealRules.triggers.statusCodesRange[*].timeInterval` |
+| `properties.siteConfig.keyVaultReferenceIdentity` | `Microsoft.Web/sites/siteConfig.keyVaultReferenceIdentity` |
+| `properties.siteConfig.functionAppScaleLimit` | `Microsoft.Web/sites/siteConfig.functionAppScaleLimit` |
+| `properties.siteConfig.functionsRuntimeScaleMonitoringEnabled` | `Microsoft.Web/sites/siteConfig.functionsRuntimeScaleMonitoringEnabled` |
+| `properties.siteConfig.websiteTimeZone` | `Microsoft.Web/sites/siteConfig.websiteTimeZone` |
+| `properties.siteConfig.minimumElasticInstanceCount` | `Microsoft.Web/sites/siteConfig.minimumElasticInstanceCount` |
+| `properties.siteConfig.publicNetworkAccess` | `Microsoft.Web/sites/siteConfig.publicNetworkAccess` |
+| `properties.keyVaultReferenceIdentity` | `Microsoft.Web/sites/keyVaultReferenceIdentity` |
+| `properties.virtualNetworkSubnetId` | `Microsoft.Web/sites/virtualNetworkSubnetId` |
 

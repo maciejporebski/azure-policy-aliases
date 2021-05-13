@@ -385,4 +385,24 @@
 | `properties.push.systemData.lastModifiedBy` | `Microsoft.Web/sites/slots/config/push.systemData.lastModifiedBy` |
 | `properties.push.systemData.lastModifiedByType` | `Microsoft.Web/sites/slots/config/push.systemData.lastModifiedByType` |
 | `properties.push.systemData.lastModifiedAt` | `Microsoft.Web/sites/slots/config/push.systemData.lastModifiedAt` |
+| `properties.autoHealRules.triggers.statusCodes[*].path` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.statusCodes[*].path` |
+| `properties.autoHealRules.triggers.slowRequests.path` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.slowRequests.path` |
+| `properties.autoHealRules.triggers.slowRequestsWithPath` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.slowRequestsWithPath` |
+| `properties.autoHealRules.triggers.slowRequestsWithPath[*]` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.slowRequestsWithPath[*]` |
+| `properties.autoHealRules.triggers.slowRequestsWithPath[*].timeTaken` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.slowRequestsWithPath[*].timeTaken` |
+| `properties.autoHealRules.triggers.slowRequestsWithPath[*].path` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.slowRequestsWithPath[*].path` |
+| `properties.autoHealRules.triggers.slowRequestsWithPath[*].count` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.slowRequestsWithPath[*].count` |
+| `properties.autoHealRules.triggers.slowRequestsWithPath[*].timeInterval` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.slowRequestsWithPath[*].timeInterval` |
+| `properties.autoHealRules.triggers.statusCodesRange` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.statusCodesRange` |
+| `properties.autoHealRules.triggers.statusCodesRange[*]` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.statusCodesRange[*]` |
+| `properties.autoHealRules.triggers.statusCodesRange[*].statusCodes` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.statusCodesRange[*].statusCodes` |
+| `properties.autoHealRules.triggers.statusCodesRange[*].path` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.statusCodesRange[*].path` |
+| `properties.autoHealRules.triggers.statusCodesRange[*].count` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.statusCodesRange[*].count` |
+| `properties.autoHealRules.triggers.statusCodesRange[*].timeInterval` | `Microsoft.Web/sites/slots/config/autoHealRules.triggers.statusCodesRange[*].timeInterval` |
+| `properties.keyVaultReferenceIdentity` | `Microsoft.Web/sites/slots/config/keyVaultReferenceIdentity` |
+| `properties.functionAppScaleLimit` | `Microsoft.Web/sites/slots/config/functionAppScaleLimit` |
+| `properties.functionsRuntimeScaleMonitoringEnabled` | `Microsoft.Web/sites/slots/config/functionsRuntimeScaleMonitoringEnabled` |
+| `properties.websiteTimeZone` | `Microsoft.Web/sites/slots/config/websiteTimeZone` |
+| `properties.minimumElasticInstanceCount` | `Microsoft.Web/sites/slots/config/minimumElasticInstanceCount` |
+| `properties.publicNetworkAccess` | `Microsoft.Web/sites/slots/config/publicNetworkAccess` |
 

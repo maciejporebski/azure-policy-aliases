@@ -27,4 +27,5 @@
 | `properties.geoRegion` | `Microsoft.Web/certificates/geoRegion` |
 | `properties.serverFarmId` | `Microsoft.Web/certificates/serverFarmId` |
 | `properties.canonicalName` | `Microsoft.Web/certificates/canonicalName` |
+| `properties.domainValidationMethod` | `Microsoft.Web/certificates/domainValidationMethod` |
 

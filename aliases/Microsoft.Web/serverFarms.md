@@ -46,4 +46,9 @@
 | `properties.vnetName` | `Microsoft.Web/serverFarms/virtualNetworkConnections.gateways.vnetName` |
 | `properties.vpnPackageUri` | `Microsoft.Web/serverFarms/virtualNetworkConnections.gateways.vpnPackageUri` |
 | `sku.capabilities[*].value` | `Microsoft.Web/serverFarms/sku.capabilities[*].value` |
+| `properties.kubeEnvironmentProfile` | `Microsoft.Web/serverfarms/kubeEnvironmentProfile` |
+| `properties.kubeEnvironmentProfile.id` | `Microsoft.Web/serverfarms/kubeEnvironmentProfile.id` |
+| `properties.kubeEnvironmentProfile.name` | `Microsoft.Web/serverfarms/kubeEnvironmentProfile.name` |
+| `properties.kubeEnvironmentProfile.type` | `Microsoft.Web/serverfarms/kubeEnvironmentProfile.type` |
+| `sku.skuCapacity.elasticMaximum` | `Microsoft.Web/serverfarms/sku.skuCapacity.elasticMaximum` |
 

@@ -50,4 +50,5 @@
 | `sku.capabilities[*].name` | `Microsoft.Web/hostingEnvironments/multiRolePools/sku.capabilities[*].name` |
 | `sku.capabilities[*].value` | `Microsoft.Web/hostingEnvironments/multiRolePools/sku.capabilities[*].value` |
 | `sku.capabilities[*].reason` | `Microsoft.Web/hostingEnvironments/multiRolePools/sku.capabilities[*].reason` |
+| `sku.skuCapacity.elasticMaximum` | `Microsoft.Web/hostingEnvironments/multiRolePools/sku.skuCapacity.elasticMaximum` |
 

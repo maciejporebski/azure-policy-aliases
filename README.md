@@ -1209,6 +1209,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/publishingUsers](aliases/Microsoft.Web/publishingUsers.md)
 - [Microsoft.Web/sourceControls](aliases/Microsoft.Web/sourceControls.md)
 - [Microsoft.Web/staticSites](aliases/Microsoft.Web/staticSites.md)
+- [Microsoft.Web/staticSites/userProvidedFunctionApps](aliases/Microsoft.Web/staticSites-userProvidedFunctionApps.md)
+- [Microsoft.Web/staticSites/builds/userProvidedFunctionApps](aliases/Microsoft.Web/staticSites-builds-userProvidedFunctionApps.md)
 - [Microsoft.Web/sites/networkConfig](aliases/Microsoft.Web/sites-networkConfig.md)
 - [Microsoft.Web/sites/slots/networkConfig](aliases/Microsoft.Web/sites-slots-networkConfig.md)
 - [Microsoft.Web/sites/hostNameBindings](aliases/Microsoft.Web/sites-hostNameBindings.md)
@@ -1247,6 +1249,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/sites/basicPublishingCredentialsPolicies/ftp](aliases/Microsoft.Web/sites-basicPublishingCredentialsPolicies-ftp.md)
 - [Microsoft.Web/sites/basicPublishingCredentialsPolicies/scm](aliases/Microsoft.Web/sites-basicPublishingCredentialsPolicies-scm.md)
 - [Microsoft.Web/sites/privateEndpointConnections](aliases/Microsoft.Web/sites-privateEndpointConnections.md)
+- [Microsoft.Web/hostingEnvironments/privateEndpointConnections](aliases/Microsoft.Web/hostingEnvironments-privateEndpointConnections.md)
+- [Microsoft.Web/staticSites/privateEndpointConnections](aliases/Microsoft.Web/staticSites-privateEndpointConnections.md)
 
 
 
