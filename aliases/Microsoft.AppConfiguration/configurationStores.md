@@ -24,4 +24,5 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.AppConfiguration/configurationStores/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections` | `Microsoft.AppConfiguration/configurationStores/privateEndpointConnections` |
 | `properties.publicNetworkAccess` | `Microsoft.AppConfiguration/configurationStores/publicNetworkAccess` |
+| `properties.disableLocalAuth` | `Microsoft.AppConfiguration/configurationStores/disableLocalAuth` |
 

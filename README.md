@@ -632,10 +632,16 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.MachineLearningServices
 
 - [Microsoft.MachineLearningServices/workspaces](aliases/Microsoft.MachineLearningServices/workspaces.md)
+- [Microsoft.MachineLearningServices/workspaces/batchEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints.md)
+- [Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces/computes](aliases/Microsoft.MachineLearningServices/workspaces-computes.md)
+- [Microsoft.MachineLearningServices/workspaces/environments](aliases/Microsoft.MachineLearningServices/workspaces-environments.md)
+- [Microsoft.MachineLearningServices/workspaces/datastores](aliases/Microsoft.MachineLearningServices/workspaces-datastores.md)
+- [Microsoft.MachineLearningServices/workspaces/models](aliases/Microsoft.MachineLearningServices/workspaces-models.md)
 - [Microsoft.MachineLearningServices/workspaces/linkedServices](aliases/Microsoft.MachineLearningServices/workspaces-linkedServices.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
+- [Microsoft.MachineLearningServices/workspaces/environments/versions](aliases/Microsoft.MachineLearningServices/workspaces-environments-versions.md)
 
 
 ## Microsoft.ManagedIdentity
