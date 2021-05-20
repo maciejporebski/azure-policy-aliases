@@ -100,4 +100,5 @@
 | `properties.networkAclBypass` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypass` |
 | `properties.networkAclBypassResourceIds` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypassResourceIds` |
 | `properties.networkAclBypassResourceIds[*]` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypassResourceIds[*]` |
+| `properties.defaultIdentity` | `Microsoft.DocumentDB/databaseAccounts/defaultIdentity` |
 

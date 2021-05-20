@@ -434,6 +434,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.DocumentDB
 
 - [Microsoft.DocumentDB/databaseAccounts](aliases/Microsoft.DocumentDB/databaseAccounts.md)
+- [Microsoft.DocumentDB/cassandraClusters](aliases/Microsoft.DocumentDB/cassandraClusters.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables-throughputSettings.md)
@@ -473,6 +474,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces](aliases/Microsoft.DocumentDB/databaseAccounts-notebookWorkspaces.md)
 - [Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleAssignments.md)
 - [Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions.md)
+- [Microsoft.DocumentDB/cassandraClusters/dataCenters](aliases/Microsoft.DocumentDB/cassandraClusters-dataCenters.md)
+- [Microsoft.DocumentDB/databaseAccounts/services](aliases/Microsoft.DocumentDB/databaseAccounts-services.md)
 
 
 ## Microsoft.EventGrid
