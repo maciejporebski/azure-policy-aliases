@@ -79,4 +79,10 @@
 | `properties.step.encodedValuesContent` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.encodedValuesContent` |
 | `properties.logTemplate` | `Microsoft.ContainerRegistry/registries/tasks/logTemplate` |
 | `properties.isSystemTask` | `Microsoft.ContainerRegistry/registries/tasks/isSystemTask` |
+| `properties.step` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask` |
+| `properties.step.values` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values` |
+| `properties.step.values[*]` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values[*]` |
+| `properties.step.values[*].name` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values[*].name` |
+| `properties.step.values[*].value` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values[*].value` |
+| `properties.step.values[*].isSecret` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values[*].isSecret` |
 
