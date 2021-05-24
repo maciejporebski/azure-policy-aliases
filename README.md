@@ -398,11 +398,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Devices/provisioningServices/privateEndpointConnections](aliases/Microsoft.Devices/provisioningServices-privateEndpointConnections.md)
 
 
-## Microsoft.DevSpaces
-
-- [Microsoft.DevSpaces/controllers](aliases/Microsoft.DevSpaces/controllers.md)
-
-
 ## Microsoft.DevTestLab
 
 - [Microsoft.DevTestLab/labs](aliases/Microsoft.DevTestLab/labs.md)
