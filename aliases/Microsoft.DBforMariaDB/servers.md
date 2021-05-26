@@ -33,4 +33,5 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.DBForMariaDB/servers/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBForMariaDB/servers/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DBForMariaDB/servers/privateEndpointConnections[*].provisioningState` |
+| `properties.minimalTlsVersion` | `Microsoft.DBForMariaDB/servers/minimalTlsVersion` |
 
