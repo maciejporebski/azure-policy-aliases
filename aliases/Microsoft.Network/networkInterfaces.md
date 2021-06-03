@@ -545,4 +545,7 @@
 | `properties.privateLinkService.extendedLocation.name` | `Microsoft.Network/networkInterfaces/privateLinkService.extendedLocation.name` |
 | `properties.privateLinkService.extendedLocation.type` | `Microsoft.Network/networkInterfaces/privateLinkService.extendedLocation.type` |
 | `properties.migrationPhase` | `Microsoft.Network/networkInterfaces/migrationPhase` |
+| `properties.ipConfigurations[*].properties.gatewayLoadBalancer` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].gatewayLoadBalancer` |
+| `properties.ipConfigurations[*].properties.gatewayLoadBalancer.id` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].gatewayLoadBalancer.id` |
+| `properties.workloadType` | `Microsoft.Network/networkInterfaces/workloadType` |
 

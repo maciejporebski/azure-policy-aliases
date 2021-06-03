@@ -1360,4 +1360,7 @@
 | `properties.networkInterfaces[*].properties.privateLinkService` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService` |
 | `properties.networkInterfaces[*].properties.privateLinkService.etag` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.etag` |
 | `properties.networkInterfaces[*].properties.migrationPhase` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].migrationPhase` |
+| `properties.loadBalancerFrontendIpConfigurations[*].properties.gatewayLoadBalancer` | `Microsoft.Network/privateLinkServices/loadBalancerFrontendIpConfigurations[*].gatewayLoadBalancer` |
+| `properties.loadBalancerFrontendIpConfigurations[*].properties.gatewayLoadBalancer.id` | `Microsoft.Network/privateLinkServices/loadBalancerFrontendIpConfigurations[*].gatewayLoadBalancer.id` |
+| `properties.networkInterfaces[*].properties.workloadType` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].workloadType` |
 

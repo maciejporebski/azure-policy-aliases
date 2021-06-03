@@ -69,4 +69,12 @@
 | `properties.backendIPConfigurations[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].type` |
 | `properties.loadBalancerBackendAddresses[*].properties.subnet` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].subnet` |
 | `properties.loadBalancerBackendAddresses[*].properties.subnet.id` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].subnet.id` |
+| `properties.tunnelInterfaces` | `Microsoft.Network/loadBalancers/backendAddressPools/tunnelInterfaces` |
+| `properties.tunnelInterfaces[*]` | `Microsoft.Network/loadBalancers/backendAddressPools/tunnelInterfaces[*]` |
+| `properties.tunnelInterfaces[*].port` | `Microsoft.Network/loadBalancers/backendAddressPools/tunnelInterfaces[*].port` |
+| `properties.tunnelInterfaces[*].identifier` | `Microsoft.Network/loadBalancers/backendAddressPools/tunnelInterfaces[*].identifier` |
+| `properties.tunnelInterfaces[*].protocol` | `Microsoft.Network/loadBalancers/backendAddressPools/tunnelInterfaces[*].protocol` |
+| `properties.tunnelInterfaces[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools/tunnelInterfaces[*].type` |
+| `properties.backendIPConfigurations[*].properties.gatewayLoadBalancer` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].gatewayLoadBalancer` |
+| `properties.backendIPConfigurations[*].properties.gatewayLoadBalancer.id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].gatewayLoadBalancer.id` |
 

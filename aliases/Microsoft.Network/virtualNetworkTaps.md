@@ -908,4 +908,8 @@
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.subnet.type` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.subnet.type` |
 | `properties.destinationNetworkInterfaceIPConfiguration.type` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.type` |
 | `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.subnet.type` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.subnet.type` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.gatewayLoadBalancer` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.gatewayLoadBalancer` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.gatewayLoadBalancer.id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.gatewayLoadBalancer.id` |
+| `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.gatewayLoadBalancer` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.gatewayLoadBalancer` |
+| `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.gatewayLoadBalancer.id` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.gatewayLoadBalancer.id` |
 

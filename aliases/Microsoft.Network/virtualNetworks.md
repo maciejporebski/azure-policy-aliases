@@ -806,4 +806,5 @@
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/virtualnetworks/subnets[*].applicationGatewayIpConfigurations[*].type` |
 | `properties.virtualNetworkPeerings[*].properties.doNotVerifyRemoteGateways` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].doNotVerifyRemoteGateways` |
 | `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualnetworks/subnets[*].serviceEndpointPolicies[*].kind` |
+| `properties.flowTimeoutInMinutes` | `Microsoft.Network/virtualnetworks/flowTimeoutInMinutes` |
 

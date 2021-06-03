@@ -900,4 +900,15 @@
 | `properties.inboundNatRules[*].properties.backendIPConfiguration.type` | `Microsoft.Network/loadBalancers/inboundNatRules[*].backendIPConfiguration.type` |
 | `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.subnet` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].subnet` |
 | `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.subnet.id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].subnet.id` |
+| `properties.frontendIPConfigurations[*].properties.gatewayLoadBalancer` | `Microsoft.Network/loadBalancers/frontendIPConfigurations[*].gatewayLoadBalancer` |
+| `properties.frontendIPConfigurations[*].properties.gatewayLoadBalancer.id` | `Microsoft.Network/loadBalancers/frontendIPConfigurations[*].gatewayLoadBalancer.id` |
+| `properties.backendAddressPools[*].properties.tunnelInterfaces` | `Microsoft.Network/loadBalancers/backendAddressPools[*].tunnelInterfaces` |
+| `properties.backendAddressPools[*].properties.tunnelInterfaces[*]` | `Microsoft.Network/loadBalancers/backendAddressPools[*].tunnelInterfaces[*]` |
+| `properties.backendAddressPools[*].properties.tunnelInterfaces[*].port` | `Microsoft.Network/loadBalancers/backendAddressPools[*].tunnelInterfaces[*].port` |
+| `properties.backendAddressPools[*].properties.tunnelInterfaces[*].identifier` | `Microsoft.Network/loadBalancers/backendAddressPools[*].tunnelInterfaces[*].identifier` |
+| `properties.backendAddressPools[*].properties.tunnelInterfaces[*].protocol` | `Microsoft.Network/loadBalancers/backendAddressPools[*].tunnelInterfaces[*].protocol` |
+| `properties.backendAddressPools[*].properties.tunnelInterfaces[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools[*].tunnelInterfaces[*].type` |
+| `properties.loadBalancingRules[*].properties.backendAddressPools` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].backendAddressPools` |
+| `properties.loadBalancingRules[*].properties.backendAddressPools[*]` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].backendAddressPools[*]` |
+| `properties.loadBalancingRules[*].properties.backendAddressPools[*].id` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].backendAddressPools[*].id` |
 

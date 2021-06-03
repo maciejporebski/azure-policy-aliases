@@ -272,4 +272,22 @@
 | `properties.virtualNetworkGateway1.properties.vpnClientConfiguration.vpnAuthenticationTypes[*]` | `Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnAuthenticationTypes[*]` |
 | `properties.virtualNetworkGateway2.properties.vpnClientConfiguration.vpnAuthenticationTypes` | `Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnAuthenticationTypes` |
 | `properties.virtualNetworkGateway2.properties.vpnClientConfiguration.vpnAuthenticationTypes[*]` | `Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnAuthenticationTypes[*]` |
+| `properties.virtualNetworkGateway1.properties.natRules` | `Microsoft.Network/connections/virtualNetworkGateway1.natRules` |
+| `properties.virtualNetworkGateway1.properties.natRules[*]` | `Microsoft.Network/connections/virtualNetworkGateway1.natRules[*]` |
+| `properties.virtualNetworkGateway1.properties.natRules[*].name` | `Microsoft.Network/connections/virtualNetworkGateway1.natRules[*].name` |
+| `properties.virtualNetworkGateway1.properties.natRules[*].etag` | `Microsoft.Network/connections/virtualNetworkGateway1.natRules[*].etag` |
+| `properties.virtualNetworkGateway1.properties.natRules[*].type` | `Microsoft.Network/connections/virtualNetworkGateway1.natRules[*].type` |
+| `properties.virtualNetworkGateway1.properties.enableBgpRouteTranslationForNat` | `Microsoft.Network/connections/virtualNetworkGateway1.enableBgpRouteTranslationForNat` |
+| `properties.virtualNetworkGateway2.properties.natRules` | `Microsoft.Network/connections/virtualNetworkGateway2.natRules` |
+| `properties.virtualNetworkGateway2.properties.natRules[*]` | `Microsoft.Network/connections/virtualNetworkGateway2.natRules[*]` |
+| `properties.virtualNetworkGateway2.properties.natRules[*].name` | `Microsoft.Network/connections/virtualNetworkGateway2.natRules[*].name` |
+| `properties.virtualNetworkGateway2.properties.natRules[*].etag` | `Microsoft.Network/connections/virtualNetworkGateway2.natRules[*].etag` |
+| `properties.virtualNetworkGateway2.properties.natRules[*].type` | `Microsoft.Network/connections/virtualNetworkGateway2.natRules[*].type` |
+| `properties.virtualNetworkGateway2.properties.enableBgpRouteTranslationForNat` | `Microsoft.Network/connections/virtualNetworkGateway2.enableBgpRouteTranslationForNat` |
+| `properties.ingressNatRules` | `Microsoft.Network/connections/ingressNatRules` |
+| `properties.ingressNatRules[*]` | `Microsoft.Network/connections/ingressNatRules[*]` |
+| `properties.ingressNatRules[*].id` | `Microsoft.Network/connections/ingressNatRules[*].id` |
+| `properties.egressNatRules` | `Microsoft.Network/connections/egressNatRules` |
+| `properties.egressNatRules[*]` | `Microsoft.Network/connections/egressNatRules[*]` |
+| `properties.egressNatRules[*].id` | `Microsoft.Network/connections/egressNatRules[*].id` |
 

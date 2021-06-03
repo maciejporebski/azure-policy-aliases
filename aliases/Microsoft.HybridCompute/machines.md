@@ -59,4 +59,6 @@
 | `properties.errorDetails[*].additionalInfo[*]` | `Microsoft.HybridCompute/machines/errorDetails[*].additionalInfo[*]` |
 | `properties.errorDetails[*].additionalInfo[*].type` | `Microsoft.HybridCompute/machines/errorDetails[*].additionalInfo[*].type` |
 | `properties.privateLinkScopeResourceId` | `Microsoft.HybridCompute/machines/privateLinkScopeResourceId` |
+| `properties.parentClusterResourceId` | `Microsoft.HybridCompute/machines/parentClusterResourceId` |
+| `properties.detectedProperties` | `Microsoft.HybridCompute/machines/detectedProperties` |
 

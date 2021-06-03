@@ -415,4 +415,5 @@
 | `properties.subnet.properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/privateEndpoints/subnet.applicationGatewayIpConfigurations[*].type` |
 | `properties.networkInterfaces[*].properties.migrationPhase` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].migrationPhase` |
 | `properties.subnet.properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/privateEndpoints/subnet.serviceEndpointPolicies[*].kind` |
+| `properties.networkInterfaces[*].properties.workloadType` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].workloadType` |
 

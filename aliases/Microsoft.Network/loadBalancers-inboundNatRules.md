@@ -494,4 +494,6 @@
 | `properties.backendIPConfiguration.properties.privateLinkConnectionProperties.fqdns[*]` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateLinkConnectionProperties.fqdns[*]` |
 | `properties.backendIPConfiguration.properties.subnet.type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.subnet.type` |
 | `properties.backendIPConfiguration.type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.type` |
+| `properties.backendIPConfiguration.properties.gatewayLoadBalancer` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.gatewayLoadBalancer` |
+| `properties.backendIPConfiguration.properties.gatewayLoadBalancer.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.gatewayLoadBalancer.id` |
 

@@ -431,4 +431,5 @@
 | `properties.servicePublicIPAddress.etag` | `Microsoft.Network/publicIPAddresses/servicePublicIPAddress.etag` |
 | `properties.servicePublicIPAddress.zones` | `Microsoft.Network/publicIPAddresses/servicePublicIPAddress.zones` |
 | `properties.servicePublicIPAddress.zones[*]` | `Microsoft.Network/publicIPAddresses/servicePublicIPAddress.zones[*]` |
+| `properties.deleteOption` | `Microsoft.Network/publicIPAddresses/deleteOption` |
 

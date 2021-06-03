@@ -781,6 +781,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
 - [Microsoft.Network/bastionHosts](aliases/Microsoft.Network/bastionHosts.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
+- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)

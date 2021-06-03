@@ -96,4 +96,20 @@
 | `properties.virtualNetworkExtendedLocation.type` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkExtendedLocation.type` |
 | `properties.vpnClientConfiguration.vpnAuthenticationTypes` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnAuthenticationTypes` |
 | `properties.vpnClientConfiguration.vpnAuthenticationTypes[*]` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnAuthenticationTypes[*]` |
+| `properties.natRules` | `Microsoft.Network/virtualnetworkgateways/natRules` |
+| `properties.natRules[*]` | `Microsoft.Network/virtualnetworkgateways/natRules[*]` |
+| `properties.natRules[*].id` | `Microsoft.Network/virtualnetworkgateways/natRules[*].id` |
+| `properties.natRules[*].properties.provisioningState` | `Microsoft.Network/virtualnetworkgateways/natRules[*].provisioningState` |
+| `properties.natRules[*].properties.type` | `Microsoft.Network/virtualnetworkgateways/natRules[*].type` |
+| `properties.natRules[*].properties.mode` | `Microsoft.Network/virtualnetworkgateways/natRules[*].mode` |
+| `properties.natRules[*].properties.internalMappings` | `Microsoft.Network/virtualnetworkgateways/natRules[*].internalMappings` |
+| `properties.natRules[*].properties.internalMappings[*]` | `Microsoft.Network/virtualnetworkgateways/natRules[*].internalMappings[*]` |
+| `properties.natRules[*].properties.internalMappings[*].addressSpace` | `Microsoft.Network/virtualnetworkgateways/natRules[*].internalMappings[*].addressSpace` |
+| `properties.natRules[*].properties.externalMappings` | `Microsoft.Network/virtualnetworkgateways/natRules[*].externalMappings` |
+| `properties.natRules[*].properties.externalMappings[*]` | `Microsoft.Network/virtualnetworkgateways/natRules[*].externalMappings[*]` |
+| `properties.natRules[*].properties.externalMappings[*].addressSpace` | `Microsoft.Network/virtualnetworkgateways/natRules[*].externalMappings[*].addressSpace` |
+| `properties.natRules[*].properties.ipConfigurationId` | `Microsoft.Network/virtualnetworkgateways/natRules[*].ipConfigurationId` |
+| `properties.natRules[*].name` | `Microsoft.Network/virtualnetworkgateways/natRules[*].name` |
+| `properties.natRules[*].etag` | `Microsoft.Network/virtualnetworkgateways/natRules[*].etag` |
+| `properties.enableBgpRouteTranslationForNat` | `Microsoft.Network/virtualnetworkgateways/enableBgpRouteTranslationForNat` |
 

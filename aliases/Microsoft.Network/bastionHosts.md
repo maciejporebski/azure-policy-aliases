@@ -16,4 +16,6 @@
 | `properties.ipConfigurations[*].id` | `Microsoft.Network/bastionHosts/ipConfigurations[*].id` |
 | `properties.dnsName` | `Microsoft.Network/bastionHosts/dnsName` |
 | `properties.provisioningState` | `Microsoft.Network/bastionHosts/provisioningState` |
+| `sku` | `Microsoft.Network/bastionHosts/sku` |
+| `sku.name` | `Microsoft.Network/bastionHosts/sku.name` |
 

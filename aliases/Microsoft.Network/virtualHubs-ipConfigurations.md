@@ -540,4 +540,5 @@
 | `properties.publicIPAddress.properties.servicePublicIPAddress.zones` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.zones` |
 | `properties.publicIPAddress.properties.servicePublicIPAddress.zones[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.zones[*]` |
 | `properties.subnet.properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.serviceEndpointPolicies[*].kind` |
+| `properties.publicIPAddress.properties.deleteOption` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.deleteOption` |
 

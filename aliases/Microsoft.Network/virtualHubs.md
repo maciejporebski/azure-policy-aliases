@@ -550,4 +550,5 @@
 | `properties.publicIPAddress.tags` | `Microsoft.Network/virtualHubs/ipConfigurations.publicIPAddress.tags` |
 | `properties.enableVirtualRouterRoutePropogation` | `Microsoft.Network/virtualHubs/enableVirtualRouterRoutePropogation` |
 | `properties.allowBranchToBranchTraffic` | `Microsoft.Network/virtualHubs/allowBranchToBranchTraffic` |
+| `properties.preferredRoutingGateway` | `Microsoft.Network/virtualHubs/preferredRoutingGateway` |
 

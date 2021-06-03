@@ -1809,4 +1809,6 @@
 | `properties.privateEndpointConnections[*].properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/applicationGateways/privateEndpointConnections[*].privateEndpoint.extendedLocation.name` |
 | `properties.privateEndpointConnections[*].properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/applicationGateways/privateEndpointConnections[*].privateEndpoint.extendedLocation.type` |
 | `properties.backendAddressPools[*].properties.backendIPConfigurations[*].type` | `Microsoft.Network/applicationGateways/backendAddressPools[*].backendIPConfigurations[*].type` |
+| `properties.trustedClientCertificates[*].properties.validatedCertData` | `Microsoft.Network/applicationGateways/trustedClientCertificates[*].validatedCertData` |
+| `properties.trustedClientCertificates[*].properties.clientCertIssuerDN` | `Microsoft.Network/applicationGateways/trustedClientCertificates[*].clientCertIssuerDN` |
 
