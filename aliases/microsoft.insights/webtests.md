@@ -34,4 +34,13 @@
 | `properties.SSLCertRemainingLifetimeCheck` | `Microsoft.Insights/webtests/SSLCertRemainingLifetimeCheck` |
 | `properties.ExpectedHttpStatusCode` | `Microsoft.Insights/webtests/ExpectedHttpStatusCode` |
 | `properties.IgnoreHttpsStatusCode` | `Microsoft.Insights/webtests/IgnoreHttpsStatusCode` |
+| `properties.ValidationRules` | `Microsoft.Insights/webtests/ValidationRules` |
+| `properties.ValidationRules.ContentValidation` | `Microsoft.Insights/webtests/ValidationRules.ContentValidation` |
+| `properties.ValidationRules.ContentValidation.ContentMatch` | `Microsoft.Insights/webtests/ValidationRules.ContentValidation.ContentMatch` |
+| `properties.ValidationRules.ContentValidation.IgnoreCase` | `Microsoft.Insights/webtests/ValidationRules.ContentValidation.IgnoreCase` |
+| `properties.ValidationRules.ContentValidation.PassIfTextFound` | `Microsoft.Insights/webtests/ValidationRules.ContentValidation.PassIfTextFound` |
+| `properties.ValidationRules.SSLCheck` | `Microsoft.Insights/webtests/ValidationRules.SSLCheck` |
+| `properties.ValidationRules.SSLCertRemainingLifetimeCheck` | `Microsoft.Insights/webtests/ValidationRules.SSLCertRemainingLifetimeCheck` |
+| `properties.ValidationRules.ExpectedHttpStatusCode` | `Microsoft.Insights/webtests/ValidationRules.ExpectedHttpStatusCode` |
+| `properties.ValidationRules.IgnoreHttpsStatusCode` | `Microsoft.Insights/webtests/ValidationRules.IgnoreHttpsStatusCode` |
 

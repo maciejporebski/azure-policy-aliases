@@ -61,4 +61,5 @@
 | `properties.profiles[*].rules[*].metricTrigger.dimensions[*].Values` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*].Values` |
 | `properties.profiles[*].rules[*].metricTrigger.dimensions[*]` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*]` |
 | `properties.profiles[*].rules[*].metricTrigger.dimensions` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions` |
+| `properties.profiles[*].rules[*].metricTrigger.dividePerInstance` | `microsoft.insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dividePerInstance` |
 

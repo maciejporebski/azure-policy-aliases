@@ -16,4 +16,6 @@
 | `properties.sourceResourceId` | `Microsoft.Insights/workbooks/sourceResourceId` |
 | `properties.sourceId` | `microsoft.insights/workbooks/sourceId` |
 | `properties.storageUri` | `microsoft.insights/workbooks/storageUri` |
+| `properties.description` | `microsoft.insights/workbooks/description` |
+| `properties.revision` | `microsoft.insights/workbooks/revision` |
 

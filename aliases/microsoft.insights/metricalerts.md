@@ -79,4 +79,9 @@
 | `properties.criteria.allOf[*].skipMetricValidation` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].skipMetricValidation` |
 | `properties.criteria.allOf[*].timeAggregation` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].timeAggregation` |
 | `properties.isMigrated` | `Microsoft.Insights/metricAlerts/isMigrated` |
+| `properties.criteria` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria` |
+| `properties.criteria.allOf` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf` |
+| `properties.criteria.allOf[*]` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*]` |
+| `properties.criteria.allOf[*].operator` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].DynamicThresholdCriterion.operator` |
+| `properties.criteria.allOf[*].threshold` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-MultipleResourceMultipleMetricCriteria.allOf[*].StaticThresholdCriterion.threshold` |
 

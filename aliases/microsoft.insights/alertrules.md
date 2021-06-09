@@ -91,4 +91,8 @@
 | `properties.action.customEmails[*]` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleEmailAction.customEmails[*]` |
 | `properties.action.serviceUri` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleWebhookAction.serviceUri` |
 | `properties.action.odata.type` | `Microsoft.Insights/alertrules/action.odata.type` |
+| `properties.condition` | `Microsoft.Insights/alertrules/condition.Microsoft-Azure-Management-Insights-Models-ManagementEventRuleCondition` |
+| `properties.condition.windowSize` | `Microsoft.Insights/alertrules/condition.Microsoft-Azure-Management-Insights-Models-LocationThresholdRuleCondition.windowSize` |
+| `properties.condition.dataSource` | `Microsoft.Insights/alertrules/condition.dataSource.Microsoft-Azure-Management-Insights-Models-RuleManagementEventDataSource` |
+| `properties.action` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleWebhookAction` |
 

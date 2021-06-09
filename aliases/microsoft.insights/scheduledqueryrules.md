@@ -122,4 +122,5 @@
 | `properties.checkWorkspaceAlertsStorageConfigured` | `Microsoft.Insights/scheduledQueryRules/checkWorkspaceAlertsStorageConfigured` |
 | `properties.skipQueryValidation` | `Microsoft.Insights/scheduledQueryRules/skipQueryValidation` |
 | `properties.autoMitigate` | `Microsoft.Insights/scheduledQueryRules/autoMitigate` |
+| `properties.action` | `Microsoft.Insights/scheduledQueryRules/action.Microsoft-WindowsAzure-Management-Monitoring-Alerts-Models-Microsoft-AppInsights-Nexus-DataContracts-Resources-ScheduledQueryRules-LogToMetricAction` |
 

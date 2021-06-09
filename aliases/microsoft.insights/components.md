@@ -29,4 +29,6 @@
 | `properties.LaMigrationDate` | `Microsoft.Insights/components/LaMigrationDate` |
 | `properties.linkedStorageAccount` | `Microsoft.Insights/components/linkedStorageAccounts.ServiceProfiler.linkedStorageAccount` |
 | `properties.Name` | `Microsoft.Insights/components/Name` |
+| `properties.DisableLocalAuth` | `Microsoft.Insights/components/DisableLocalAuth` |
+| `properties.ForceCustomerStorageForProfiler` | `Microsoft.Insights/components/ForceCustomerStorageForProfiler` |
 
