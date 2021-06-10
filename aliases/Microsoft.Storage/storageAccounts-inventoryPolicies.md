@@ -19,4 +19,10 @@
 | `properties.policy.rules[*].definition.filters.blobTypes[*]` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.blobTypes[*]` |
 | `properties.policy.rules[*].definition.filters.includeBlobVersions` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.includeBlobVersions` |
 | `properties.policy.rules[*].definition.filters.includeSnapshots` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.includeSnapshots` |
+| `properties.policy.rules[*].destination` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].destination` |
+| `properties.policy.rules[*].definition.format` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.format` |
+| `properties.policy.rules[*].definition.schedule` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.schedule` |
+| `properties.policy.rules[*].definition.objectType` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.objectType` |
+| `properties.policy.rules[*].definition.schemaFields` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.schemaFields` |
+| `properties.policy.rules[*].definition.schemaFields[*]` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.schemaFields[*]` |
 

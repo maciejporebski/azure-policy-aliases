@@ -52,4 +52,12 @@
 | `properties.privateLinkScopedResources[*]` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources[*]` |
 | `properties.privateLinkScopedResources` | `Microsoft.OperationalInsights/workspaces/privateLinkScopedResources` |
 | `properties.forceCmkForQuery` | `Microsoft.OperationalInsights/workspaces/forceCmkForQuery` |
+| `properties.createdDate` | `Microsoft.OperationalInsights/workspaces/createdDate` |
+| `properties.modifiedDate` | `Microsoft.OperationalInsights/workspaces/modifiedDate` |
+| `properties.features` | `Microsoft.OperationalInsights/workspaces/features` |
+| `properties.features.enableDataExport` | `Microsoft.OperationalInsights/workspaces/features.enableDataExport` |
+| `properties.features.immediatePurgeDataOn30Days` | `Microsoft.OperationalInsights/workspaces/features.immediatePurgeDataOn30Days` |
+| `properties.features.enableLogAccessUsingOnlyResourcePermissions` | `Microsoft.OperationalInsights/workspaces/features.enableLogAccessUsingOnlyResourcePermissions` |
+| `properties.features.clusterResourceId` | `Microsoft.OperationalInsights/workspaces/features.clusterResourceId` |
+| `properties.features.disableLocalAuth` | `Microsoft.OperationalInsights/workspaces/features.disableLocalAuth` |
 

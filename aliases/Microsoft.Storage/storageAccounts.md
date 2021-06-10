@@ -120,4 +120,6 @@
 | `properties.keyCreationTime` | `Microsoft.Storage/storageAccounts/keyCreationTime` |
 | `properties.keyCreationTime.key1` | `Microsoft.Storage/storageAccounts/keyCreationTime.key1` |
 | `properties.keyCreationTime.key2` | `Microsoft.Storage/storageAccounts/keyCreationTime.key2` |
+| `properties.azureFilesIdentityBasedAuthentication.defaultSharePermission` | `Microsoft.Storage/storageAccounts/azureFilesIdentityBasedAuthentication.defaultSharePermission` |
+| `properties.allowCrossTenantReplication` | `Microsoft.Storage/storageAccounts/allowCrossTenantReplication` |
 
