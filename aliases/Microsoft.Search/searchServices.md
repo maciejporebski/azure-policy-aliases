@@ -5,7 +5,7 @@
 | `properties.replicaCount` | `Microsoft.Search/searchServices/replicaCount` |
 | `properties.partitionCount` | `Microsoft.Search/searchServices/partitionCount` |
 | `properties.hostingMode` | `Microsoft.Search/searchServices/hostingMode` |
-| `sku.name` | `Microsoft.Search/searchServices/sku.name` |
+| `properties.sku.name` | `Microsoft.Search/searchServices/sku.name` |
 | `properties.status` | `Microsoft.Search/searchServices/status` |
 | `properties.statusDetails` | `Microsoft.Search/searchServices/statusDetails` |
 | `properties.provisioningState` | `Microsoft.Search/searchServices/provisioningState` |
@@ -51,4 +51,16 @@
 | `properties.sharedPrivateLinkResources[*].type` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].type` |
 | `properties.sharedPrivateLinkResources[*].properties.resourceRegion` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].resourceRegion` |
 | `properties.sharedPrivateLinkResources[*].properties.provisioningState` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].provisioningState` |
+| `properties.networkRuleSet.bypass` | `Microsoft.Search/searchServices/networkRuleSet.bypass` |
+| `properties.disabledDataExfiltrationOptions` | `Microsoft.Search/searchServices/disabledDataExfiltrationOptions` |
+| `properties.disabledDataExfiltrationOptions[*]` | `Microsoft.Search/searchServices/disabledDataExfiltrationOptions[*]` |
+| `properties.encryptionWithCmk` | `Microsoft.Search/searchServices/encryptionWithCmk` |
+| `properties.encryptionWithCmk.enforcement` | `Microsoft.Search/searchServices/encryptionWithCmk.enforcement` |
+| `properties.encryptionWithCmk.encryptionComplianceStatus` | `Microsoft.Search/searchServices/encryptionWithCmk.encryptionComplianceStatus` |
+| `properties.disableLocalAuth` | `Microsoft.Search/searchServices/disableLocalAuth` |
+| `properties.authOptions` | `Microsoft.Search/searchServices/authOptions` |
+| `properties.authOptions.aadOrApiKey` | `Microsoft.Search/searchServices/authOptions.aadOrApiKey` |
+| `properties.authOptions.aadOrApiKey.aadAuthFailureMode` | `Microsoft.Search/searchServices/authOptions.aadOrApiKey.aadAuthFailureMode` |
+| `properties.semanticSearch` | `Microsoft.Search/searchServices/semanticSearch` |
+| `properties.eTag` | `Microsoft.Search/searchServices/eTag` |
 
