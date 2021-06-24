@@ -1002,6 +1002,15 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources.md)
 
 
+## Microsoft.Singularity
+
+- [Microsoft.Singularity/accounts](aliases/Microsoft.Singularity/accounts.md)
+- [Microsoft.Singularity/accounts/storageContainers](aliases/Microsoft.Singularity/accounts-storageContainers.md)
+- [Microsoft.Singularity/accounts/accountQuotaPolicies](aliases/Microsoft.Singularity/accounts-accountQuotaPolicies.md)
+- [Microsoft.Singularity/accounts/groupPolicies](aliases/Microsoft.Singularity/accounts-groupPolicies.md)
+- [Microsoft.Singularity/accounts/jobs](aliases/Microsoft.Singularity/accounts-jobs.md)
+
+
 ## Microsoft.Solutions
 
 - [Microsoft.Solutions/applications](aliases/Microsoft.Solutions/applications.md)
