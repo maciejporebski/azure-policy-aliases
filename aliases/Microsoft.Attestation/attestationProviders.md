@@ -2,6 +2,5 @@
 
 | Default Path | Alias |
 |---|---|
-| `properties.privateEndpointConnections` | `Microsoft.Attestation/attestationProviders/privateEndpointConnections` |
-| `properties.privateEndpointConnections[*]` | `Microsoft.Attestation/attestationProviders/privateEndpointConnections[*]` |
+| `properties.publicNetworkAccess` | `Microsoft.Attestation/attestationProviders/publicNetworkAccess` |
 

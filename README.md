@@ -85,6 +85,7 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Attestation
 
+- [Microsoft.Attestation/attestationProviders](aliases/Microsoft.Attestation/attestationProviders.md)
 - [Microsoft.Attestation/attestationProviders/privateEndpointConnections](aliases/Microsoft.Attestation/attestationProviders-privateEndpointConnections.md)
 
 
