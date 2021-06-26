@@ -101,4 +101,11 @@
 | `properties.networkAclBypassResourceIds` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypassResourceIds` |
 | `properties.networkAclBypassResourceIds[*]` | `Microsoft.DocumentDB/databaseAccounts/networkAclBypassResourceIds[*]` |
 | `properties.defaultIdentity` | `Microsoft.DocumentDB/databaseAccounts/defaultIdentity` |
+| `properties.analyticalStorageConfiguration` | `Microsoft.DocumentDB/databaseAccounts/analyticalStorageConfiguration` |
+| `properties.analyticalStorageConfiguration.schemaType` | `Microsoft.DocumentDB/databaseAccounts/analyticalStorageConfiguration.schemaType` |
+| `properties.backupPolicy.migrationState` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.migrationState` |
+| `properties.backupPolicy.migrationState.status` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.migrationState.status` |
+| `properties.backupPolicy.migrationState.targetType` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.migrationState.targetType` |
+| `properties.backupPolicy.migrationState.startTime` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.migrationState.startTime` |
+| `properties.disableLocalAuth` | `Microsoft.DocumentDB/databaseAccounts/disableLocalAuth` |
 
