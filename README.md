@@ -253,6 +253,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerService/openShiftManagedClusters](aliases/Microsoft.ContainerService/openShiftManagedClusters.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
 - [Microsoft.ContainerService/managedClusters/privateEndpointConnections](aliases/Microsoft.ContainerService/managedClusters-privateEndpointConnections.md)
+- [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
 
 
 ## Microsoft.CustomProviders

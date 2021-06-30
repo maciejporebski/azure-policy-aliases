@@ -83,4 +83,9 @@
 | `properties.linuxOSConfig.sysctls.netCoreRmemDefault` | `Microsoft.ContainerService/managedClusters/agentPools/linuxOSConfig.sysctls.netCoreRmemDefault` |
 | `properties.linuxOSConfig.sysctls.netCoreWmemDefault` | `Microsoft.ContainerService/managedClusters/agentPools/linuxOSConfig.sysctls.netCoreWmemDefault` |
 | `properties.enableEncryptionAtHost` | `Microsoft.ContainerService/managedClusters/agentPools/enableEncryptionAtHost` |
+| `properties.nodePublicIPPrefixID` | `Microsoft.ContainerService/managedClusters/agentPools/nodePublicIPPrefixID` |
+| `properties.osSKU` | `Microsoft.ContainerService/managedClusters/agentPools/osSKU` |
+| `properties.enableFIPS` | `Microsoft.ContainerService/managedClusters/agentPools/enableFIPS` |
+| `properties.gpuInstanceProfile` | `Microsoft.ContainerService/managedClusters/agentPools/gpuInstanceProfile` |
+| `properties.enableUltraSSD` | `Microsoft.ContainerService/managedClusters/agentPools/enableUltraSSD` |
 
