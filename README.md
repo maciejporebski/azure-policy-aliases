@@ -1239,6 +1239,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/hostingEnvironments](aliases/Microsoft.Web/hostingEnvironments.md)
 - [Microsoft.Web/hostingEnvironments/multiRolePools](aliases/Microsoft.Web/hostingEnvironments-multiRolePools.md)
 - [Microsoft.Web/hostingEnvironments/workerPools](aliases/Microsoft.Web/hostingEnvironments-workerPools.md)
+- [Microsoft.Web/kubeEnvironments](aliases/Microsoft.Web/kubeEnvironments.md)
 - [Microsoft.Web/connections](aliases/Microsoft.Web/connections.md)
 - [Microsoft.Web/customApis](aliases/Microsoft.Web/customApis.md)
 - [Microsoft.Web/connectionGateways](aliases/Microsoft.Web/connectionGateways.md)

@@ -49,4 +49,8 @@
 | `properties.enableRbacAuthorization` | `Microsoft.KeyVault/vaults/enableRbacAuthorization` |
 | `properties.provisioningState` | `Microsoft.KeyVault/vaults/provisioningState` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.hsmPoolResourceId` | `Microsoft.KeyVault/vaults/hsmPoolResourceId` |
+| `properties.networkAcls.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint` | `Microsoft.KeyVault/vaults/networkAcls.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].etag` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].etag` |
 

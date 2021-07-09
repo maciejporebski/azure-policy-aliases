@@ -31,4 +31,25 @@
 | `properties.delegatedSubnetArguments.subnetArmResourceId` | `Microsoft.DBForPostgreSql/flexibleServers/delegatedSubnetArguments.subnetArmResourceId` |
 | `properties.createMode` | `Microsoft.DBForPostgreSql/flexibleServers/createMode` |
 | `properties.tags` | `Microsoft.DBForPostgreSql/flexibleServers/tags` |
+| `properties.sourceSubscriptionId` | `Microsoft.DBForPostgreSql/flexibleServers/sourceSubscriptionId` |
+| `properties.sourceResourceGroupName` | `Microsoft.DBForPostgreSql/flexibleServers/sourceResourceGroupName` |
+| `properties.privateDnsZoneArguments` | `Microsoft.DBForPostgreSql/flexibleServers/privateDnsZoneArguments` |
+| `properties.privateDnsZoneArguments.privateDnsZoneArmResourceId` | `Microsoft.DBForPostgreSql/flexibleServers/privateDnsZoneArguments.privateDnsZoneArmResourceId` |
+| `properties.storageProfile.geoRedundantBackup` | `Microsoft.DBForPostgreSql/flexibleServers/storageProfile.geoRedundantBackup` |
+| `properties.minorVersion` | `Microsoft.DBForPostgreSql/flexibleServers/minorVersion` |
+| `properties.storage` | `Microsoft.DBForPostgreSql/flexibleServers/storage` |
+| `properties.storage.storageSizeGB` | `Microsoft.DBForPostgreSql/flexibleServers/storage.storageSizeGB` |
+| `properties.backup` | `Microsoft.DBForPostgreSql/flexibleServers/backup` |
+| `properties.backup.backupRetentionDays` | `Microsoft.DBForPostgreSql/flexibleServers/backup.backupRetentionDays` |
+| `properties.backup.geoRedundantBackup` | `Microsoft.DBForPostgreSql/flexibleServers/backup.geoRedundantBackup` |
+| `properties.backup.earliestRestoreDate` | `Microsoft.DBForPostgreSql/flexibleServers/backup.earliestRestoreDate` |
+| `properties.network` | `Microsoft.DBForPostgreSql/flexibleServers/network` |
+| `properties.network.publicNetworkAccess` | `Microsoft.DBForPostgreSql/flexibleServers/network.publicNetworkAccess` |
+| `properties.network.delegatedSubnetResourceId` | `Microsoft.DBForPostgreSql/flexibleServers/network.delegatedSubnetResourceId` |
+| `properties.network.privateDnsZoneArmResourceId` | `Microsoft.DBForPostgreSql/flexibleServers/network.privateDnsZoneArmResourceId` |
+| `properties.highAvailability` | `Microsoft.DBForPostgreSql/flexibleServers/highAvailability` |
+| `properties.highAvailability.mode` | `Microsoft.DBForPostgreSql/flexibleServers/highAvailability.mode` |
+| `properties.highAvailability.state` | `Microsoft.DBForPostgreSql/flexibleServers/highAvailability.state` |
+| `properties.highAvailability.standbyAvailabilityZone` | `Microsoft.DBForPostgreSql/flexibleServers/highAvailability.standbyAvailabilityZone` |
+| `properties.sourceServerResourceId` | `Microsoft.DBForPostgreSql/flexibleServers/sourceServerResourceId` |
 
