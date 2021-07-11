@@ -475,6 +475,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/services](aliases/Microsoft.DocumentDB/databaseAccounts-services.md)
 
 
+## Microsoft.EdgeOrder
+
+- [Microsoft.EdgeOrder/addresses](aliases/Microsoft.EdgeOrder/addresses.md)
+- [Microsoft.EdgeOrder/orderItems](aliases/Microsoft.EdgeOrder/orderItems.md)
+
+
 ## Microsoft.EventGrid
 
 - [Microsoft.EventGrid/eventSubscriptions](aliases/Microsoft.EventGrid/eventSubscriptions.md)
