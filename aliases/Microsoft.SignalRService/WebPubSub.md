@@ -73,4 +73,10 @@
 | `properties.sharedPrivateLinkResources[*].id` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].id` |
 | `properties.sharedPrivateLinkResources[*].name` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].name` |
 | `properties.sharedPrivateLinkResources[*].type` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].type` |
+| `properties.diagnosticConfiguration` | `Microsoft.SignalRService/webPubSub/diagnosticConfiguration` |
+| `properties.diagnosticConfiguration.enableConnectivityLogs` | `Microsoft.SignalRService/webPubSub/diagnosticConfiguration.enableConnectivityLogs` |
+| `properties.diagnosticConfiguration.enableMessagingLogs` | `Microsoft.SignalRService/webPubSub/diagnosticConfiguration.enableMessagingLogs` |
+| `properties.diagnosticConfiguration.enableLiveTrace` | `Microsoft.SignalRService/webPubSub/diagnosticConfiguration.enableLiveTrace` |
+| `properties.disableLocalAuth` | `Microsoft.SignalRService/webPubSub/disableLocalAuth` |
+| `properties.disableAadAuth` | `Microsoft.SignalRService/webPubSub/disableAadAuth` |
 

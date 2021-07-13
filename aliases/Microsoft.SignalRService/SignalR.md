@@ -85,4 +85,7 @@
 | `properties.sharedPrivateLinkResources[*].id` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].id` |
 | `properties.sharedPrivateLinkResources[*].name` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].name` |
 | `properties.sharedPrivateLinkResources[*].type` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].type` |
+| `properties.publicNetworkAccess` | `Microsoft.SignalRService/SignalR/publicNetworkAccess` |
+| `properties.disableLocalAuth` | `Microsoft.SignalRService/SignalR/disableLocalAuth` |
+| `properties.disableAadAuth` | `Microsoft.SignalRService/SignalR/disableAadAuth` |
 
