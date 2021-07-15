@@ -210,4 +210,14 @@
 | `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].autoUpgradeMinorVersion` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].autoUpgradeMinorVersion` |
 | `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions` |
 | `properties.deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions[*]` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.extensions[*].provisionAfterExtensions[*]` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.containerConfiguration.containerRegistries[*].identityReference` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.containerConfiguration.containerRegistries[*].identityReference` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.containerConfiguration.containerRegistries[*].identityReference.resourceId` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.containerConfiguration.containerRegistries[*].identityReference.resourceId` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.osDisk.ephemeralOSDiskSettings` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.osDisk.ephemeralOSDiskSettings` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.osDisk.ephemeralOSDiskSettings.placement` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.osDisk.ephemeralOSDiskSettings.placement` |
+| `properties.startTask.resourceFiles[*].identityReference` | `Microsoft.Batch/batchAccounts/pools/startTask.resourceFiles[*].identityReference` |
+| `properties.startTask.resourceFiles[*].identityReference.resourceId` | `Microsoft.Batch/batchAccounts/pools/startTask.resourceFiles[*].identityReference.resourceId` |
+| `properties.startTask.containerSettings.registry.identityReference` | `Microsoft.Batch/batchAccounts/pools/startTask.containerSettings.registry.identityReference` |
+| `properties.startTask.containerSettings.registry.identityReference.resourceId` | `Microsoft.Batch/batchAccounts/pools/startTask.containerSettings.registry.identityReference.resourceId` |
+| `properties.mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference` |
+| `properties.mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference.resourceId` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference.resourceId` |
 

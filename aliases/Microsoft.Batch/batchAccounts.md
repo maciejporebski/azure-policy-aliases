@@ -13,4 +13,9 @@
 | `properties.encryption.keyVaultProperties.keyIdentifier` | `Microsoft.Batch/batchAccounts/encryption.keyVaultProperties.keyIdentifier` |
 | `properties.encryption.keyVaultProperties` | `Microsoft.Batch/batchAccounts/encryption.keyVaultProperties` |
 | `properties.encryption` | `Microsoft.Batch/batchAccounts/encryption` |
+| `properties.autoStorage.authenticationMode` | `Microsoft.Batch/batchAccounts/autoStorage.authenticationMode` |
+| `properties.autoStorage.nodeIdentityReference` | `Microsoft.Batch/batchAccounts/autoStorage.nodeIdentityReference` |
+| `properties.autoStorage.nodeIdentityReference.resourceId` | `Microsoft.Batch/batchAccounts/autoStorage.nodeIdentityReference.resourceId` |
+| `properties.allowedAuthenticationModes` | `Microsoft.Batch/batchAccounts/allowedAuthenticationModes` |
+| `properties.allowedAuthenticationModes[*]` | `Microsoft.Batch/batchAccounts/allowedAuthenticationModes[*]` |
 

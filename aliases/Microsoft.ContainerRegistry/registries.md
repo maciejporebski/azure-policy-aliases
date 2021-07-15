@@ -205,4 +205,6 @@
 | `properties.networkRuleBypassOptions` | `Microsoft.ContainerRegistry/registries/networkRuleBypassOptions` |
 | `properties.zoneRedundancy` | `Microsoft.ContainerRegistry/registries/zoneRedundancy` |
 | `properties.anonymousPullEnabled` | `Microsoft.ContainerRegistry/registries/anonymousPullEnabled` |
+| `properties.policies.exportPolicy` | `Microsoft.ContainerRegistry/registries/policies.exportPolicy` |
+| `properties.policies.exportPolicy.status` | `Microsoft.ContainerRegistry/registries/policies.exportPolicy.status` |
 
