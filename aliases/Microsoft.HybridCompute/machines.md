@@ -61,4 +61,12 @@
 | `properties.privateLinkScopeResourceId` | `Microsoft.HybridCompute/machines/privateLinkScopeResourceId` |
 | `properties.parentClusterResourceId` | `Microsoft.HybridCompute/machines/parentClusterResourceId` |
 | `properties.detectedProperties` | `Microsoft.HybridCompute/machines/detectedProperties` |
+| `properties.osProfile.windowsConfiguration` | `Microsoft.HybridCompute/machines/osProfile.windowsConfiguration` |
+| `properties.osProfile.windowsConfiguration.patchSettings` | `Microsoft.HybridCompute/machines/osProfile.windowsConfiguration.patchSettings` |
+| `properties.osProfile.windowsConfiguration.patchSettings.assessmentMode` | `Microsoft.HybridCompute/machines/osProfile.windowsConfiguration.patchSettings.assessmentMode` |
+| `properties.osProfile.linuxConfiguration` | `Microsoft.HybridCompute/machines/osProfile.linuxConfiguration` |
+| `properties.osProfile.linuxConfiguration.patchSettings` | `Microsoft.HybridCompute/machines/osProfile.linuxConfiguration.patchSettings` |
+| `properties.osProfile.linuxConfiguration.patchSettings.assessmentMode` | `Microsoft.HybridCompute/machines/osProfile.linuxConfiguration.patchSettings.assessmentMode` |
+| `properties.osType` | `Microsoft.HybridCompute/machines/osType` |
+| `properties.mssqlDiscovered` | `Microsoft.HybridCompute/machines/mssqlDiscovered` |
 
