@@ -31,4 +31,21 @@
 | `properties.identity.principalId` | `Microsoft.KubernetesConfiguration/extensions/identity.principalId` |
 | `properties.identity.tenantId` | `Microsoft.KubernetesConfiguration/extensions/identity.tenantId` |
 | `properties.identity.type` | `Microsoft.KubernetesConfiguration/extensions/identity.type` |
+| `properties.provisioningState` | `Microsoft.KubernetesConfiguration/extensions/provisioningState` |
+| `properties.errorInfo.target` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.target` |
+| `properties.errorInfo.details` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details` |
+| `properties.errorInfo.details[*]` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*]` |
+| `properties.errorInfo.details[*].code` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].code` |
+| `properties.errorInfo.details[*].message` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].message` |
+| `properties.errorInfo.details[*].target` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].target` |
+| `properties.errorInfo.details[*].details` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].details` |
+| `properties.errorInfo.details[*].details[*]` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].details[*]` |
+| `properties.errorInfo.details[*].additionalInfo` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].additionalInfo` |
+| `properties.errorInfo.details[*].additionalInfo[*]` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].additionalInfo[*]` |
+| `properties.errorInfo.details[*].additionalInfo[*].type` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.details[*].additionalInfo[*].type` |
+| `properties.errorInfo.additionalInfo` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.additionalInfo` |
+| `properties.errorInfo.additionalInfo[*]` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.additionalInfo[*]` |
+| `properties.errorInfo.additionalInfo[*].type` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.additionalInfo[*].type` |
+| `properties.customLocationSettings` | `Microsoft.KubernetesConfiguration/extensions/customLocationSettings` |
+| `properties.packageUri` | `Microsoft.KubernetesConfiguration/extensions/packageUri` |
 
