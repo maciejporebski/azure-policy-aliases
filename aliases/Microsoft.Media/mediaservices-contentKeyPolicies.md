@@ -69,4 +69,6 @@
 | `properties.options[*].configuration.offlineRentalConfiguration` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyFairPlayConfiguration.offlineRentalConfiguration` |
 | `properties.options[*].configuration.offlineRentalConfiguration.playbackDurationSeconds` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyFairPlayConfiguration.offlineRentalConfiguration.playbackDurationSeconds` |
 | `properties.options[*].configuration.offlineRentalConfiguration.storageDurationSeconds` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyFairPlayConfiguration.offlineRentalConfiguration.storageDurationSeconds` |
+| `properties.options[*].configuration` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyFairPlayConfiguration` |
+| `properties.options[*].restriction.primaryVerificationKey` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.primaryVerificationKey.#Microsoft-Media-ContentKeyPolicyX509CertificateTokenKey` |
 

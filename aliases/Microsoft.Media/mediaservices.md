@@ -18,4 +18,18 @@
 | `properties.encryption.keyVaultProperties` | `Microsoft.Media/mediaservices/encryption.keyVaultProperties` |
 | `properties.encryption.keyVaultProperties.keyIdentifier` | `Microsoft.Media/mediaservices/encryption.keyVaultProperties.keyIdentifier` |
 | `properties.encryption.keyVaultProperties.currentKeyIdentifier` | `Microsoft.Media/mediaservices/encryption.keyVaultProperties.currentKeyIdentifier` |
+| `properties.keyDelivery` | `Microsoft.Media/mediaservices/keyDelivery` |
+| `properties.keyDelivery.accessControl` | `Microsoft.Media/mediaservices/keyDelivery.accessControl` |
+| `properties.keyDelivery.accessControl.defaultAction` | `Microsoft.Media/mediaservices/keyDelivery.accessControl.defaultAction` |
+| `properties.keyDelivery.accessControl.ipAllowList` | `Microsoft.Media/mediaservices/keyDelivery.accessControl.ipAllowList` |
+| `properties.keyDelivery.accessControl.ipAllowList[*]` | `Microsoft.Media/mediaservices/keyDelivery.accessControl.ipAllowList[*]` |
+| `properties.storageAccounts[*].identity` | `Microsoft.Media/mediaservices/storageAccounts[*].identity` |
+| `properties.storageAccounts[*].identity.userAssignedIdentity` | `Microsoft.Media/mediaservices/storageAccounts[*].identity.userAssignedIdentity` |
+| `properties.storageAccounts[*].identity.useSystemAssignedIdentity` | `Microsoft.Media/mediaservices/storageAccounts[*].identity.useSystemAssignedIdentity` |
+| `properties.storageAccounts[*].status` | `Microsoft.Media/mediaservices/storageAccounts[*].status` |
+| `properties.encryption.identity` | `Microsoft.Media/mediaservices/encryption.identity` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Media/mediaservices/encryption.identity.userAssignedIdentity` |
+| `properties.encryption.identity.useSystemAssignedIdentity` | `Microsoft.Media/mediaservices/encryption.identity.useSystemAssignedIdentity` |
+| `properties.encryption.status` | `Microsoft.Media/mediaservices/encryption.status` |
+| `properties.publicNetworkAccess` | `Microsoft.Media/mediaservices/publicNetworkAccess` |
 

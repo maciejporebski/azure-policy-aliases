@@ -89,4 +89,7 @@
 | `properties.properties.sites[*].isEnabled` | `Microsoft.BotService/botServices/channels/DirectLineChannel.sites[*].isEnabled` |
 | `properties.properties.enableCalling` | `Microsoft.BotService/botServices/channels/SkypeChannel.enableCalling` |
 | `properties.properties.callbackUrl` | `Microsoft.BotService/botServices/channels/LineChannel.callbackUrl` |
+| `properties.properties.cognitiveServiceRegion` | `Microsoft.BotService/botServices/channels/DirectLineSpeechChannel.cognitiveServiceRegion` |
+| `properties.properties.cognitiveServiceSubscriptionKey` | `Microsoft.BotService/botServices/channels/DirectLineSpeechChannel.cognitiveServiceSubscriptionKey` |
+| `properties.properties.scopes` | `Microsoft.BotService/botServices/channels/SlackChannel.scopes` |
 

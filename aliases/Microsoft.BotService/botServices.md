@@ -25,4 +25,20 @@
 | `properties.cmekKeyVaultUrl` | `Microsoft.BotService/botServices/cmekKeyVaultUrl` |
 | `properties.isIsolated` | `Microsoft.BotService/botServices/isIsolated` |
 | `properties.schemaTransformationVersion` | `Microsoft.BotService/botServices/schemaTransformationVersion` |
+| `properties.msaAppType` | `Microsoft.BotService/botServices/msaAppType` |
+| `properties.msaAppTenantId` | `Microsoft.BotService/botServices/msaAppTenantId` |
+| `properties.msaAppMSIResourceId` | `Microsoft.BotService/botServices/msaAppMSIResourceId` |
+| `properties.disableLocalAuth` | `Microsoft.BotService/botServices/disableLocalAuth` |
+| `properties.privateEndpointConnections` | `Microsoft.BotService/botServices/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.BotService/botServices/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.BotService/botServices/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.BotService/botServices/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.BotService/botServices/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.BotService/botServices/privateEndpointConnections[*].provisioningState` |
 

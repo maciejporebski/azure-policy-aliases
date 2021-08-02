@@ -157,6 +157,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.BotService/botServices](aliases/Microsoft.BotService/botServices.md)
 - [Microsoft.BotService/botServices/channels](aliases/Microsoft.BotService/botServices-channels.md)
 - [Microsoft.BotService/botServices/connections](aliases/Microsoft.BotService/botServices-connections.md)
+- [Microsoft.BotService/botServices/privateEndpointConnections](aliases/Microsoft.BotService/botServices-privateEndpointConnections.md)
 
 
 ## Microsoft.Cache
@@ -204,8 +205,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines.md)
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-extensions.md)
 - [Microsoft.Compute/virtualMachines/runCommands](aliases/Microsoft.Compute/virtualMachines-runCommands.md)
+- [Microsoft.Compute/restorePointCollections](aliases/Microsoft.Compute/restorePointCollections.md)
+- [Microsoft.Compute/restorePointCollections/restorePoints](aliases/Microsoft.Compute/restorePointCollections-restorePoints.md)
 - [Microsoft.Compute/proximityPlacementGroups](aliases/Microsoft.Compute/proximityPlacementGroups.md)
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
+- [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
+- [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
 - [Microsoft.Compute/galleries](aliases/Microsoft.Compute/galleries.md)
 - [Microsoft.Compute/galleries/images](aliases/Microsoft.Compute/galleries-images.md)
 - [Microsoft.Compute/galleries/images/versions](aliases/Microsoft.Compute/galleries-images-versions.md)
@@ -674,6 +679,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Media
 
 - [Microsoft.Media/mediaservices](aliases/Microsoft.Media/mediaservices.md)
+- [Microsoft.Media/videoAnalyzers](aliases/Microsoft.Media/videoAnalyzers.md)
 - [Microsoft.Media/mediaservices/assets](aliases/Microsoft.Media/mediaservices-assets.md)
 - [Microsoft.Media/mediaservices/contentKeyPolicies](aliases/Microsoft.Media/mediaservices-contentKeyPolicies.md)
 - [Microsoft.Media/mediaservices/streamingLocators](aliases/Microsoft.Media/mediaservices-streamingLocators.md)
@@ -687,6 +693,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Media/mediaservices/assets/assetFilters](aliases/Microsoft.Media/mediaservices-assets-assetFilters.md)
 - [Microsoft.Media/mediaservices/accountFilters](aliases/Microsoft.Media/mediaservices-accountFilters.md)
 - [Microsoft.Media/mediaservices/mediaGraphs](aliases/Microsoft.Media/mediaservices-mediaGraphs.md)
+- [Microsoft.Media/videoAnalyzers/accessPolicies](aliases/Microsoft.Media/videoAnalyzers-accessPolicies.md)
+- [Microsoft.Media/videoAnalyzers/edgeModules](aliases/Microsoft.Media/videoAnalyzers-edgeModules.md)
+- [Microsoft.Media/videoAnalyzers/videos](aliases/Microsoft.Media/videoAnalyzers-videos.md)
 
 
 ## Microsoft.Migrate
@@ -919,6 +928,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Resources/deploymentScripts](aliases/Microsoft.Resources/deploymentScripts.md)
 - [Microsoft.Resources/templateSpecs](aliases/Microsoft.Resources/templateSpecs.md)
 - [Microsoft.Resources/templateSpecs/versions](aliases/Microsoft.Resources/templateSpecs-versions.md)
+
+
+## Microsoft.SaaS
+
+- [Microsoft.SaaS/saasresources](aliases/Microsoft.SaaS/saasresources.md)
+- [Microsoft.SaaS/resources](aliases/Microsoft.SaaS/resources.md)
 
 
 ## Microsoft.Scheduler
