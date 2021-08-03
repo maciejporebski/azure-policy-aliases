@@ -220,9 +220,4 @@
 | `properties.scheduledEventsProfile.terminateNotificationProfile.notBeforeTimeout` | `Microsoft.Compute/virtualMachines/scheduledEventsProfile.terminateNotificationProfile.notBeforeTimeout` |
 | `properties.scheduledEventsProfile.terminateNotificationProfile.enable` | `Microsoft.Compute/virtualMachines/scheduledEventsProfile.terminateNotificationProfile.enable` |
 | `properties.userData` | `Microsoft.Compute/virtualMachines/userData` |
-| `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.publicIPAddressConfiguration.sku.name` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].publicIPAddressConfiguration.sku.name` |
-| `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.publicIPAddressConfiguration.sku.tier` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].publicIPAddressConfiguration.sku.tier` |
-| `properties.capacityReservation` | `Microsoft.Compute/virtualMachines/capacityReservation` |
-| `properties.capacityReservation.capacityReservationGroup` | `Microsoft.Compute/virtualMachines/capacityReservation.capacityReservationGroup` |
-| `properties.capacityReservation.capacityReservationGroup.id` | `Microsoft.Compute/virtualMachines/capacityReservation.capacityReservationGroup.id` |
 

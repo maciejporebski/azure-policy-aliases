@@ -246,15 +246,4 @@
 | `properties.virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.patchMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.patchMode` |
 | `properties.virtualMachineProfile.securityProfile.securityType` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.securityType` |
 | `properties.orchestrationMode` | `Microsoft.Compute/virtualMachineScaleSets/orchestrationMode` |
-| `properties.virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.assessmentMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.assessmentMode` |
-| `properties.virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.assessmentMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.assessmentMode` |
-| `properties.virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].properties.deleteOption` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].deleteOption` |
-| `properties.virtualMachineProfile.networkProfile.networkApiVersion` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkApiVersion` |
-| `properties.virtualMachineProfile.userData` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.userData` |
-| `properties.virtualMachineProfile.capacityReservation` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.capacityReservation` |
-| `properties.virtualMachineProfile.capacityReservation.capacityReservationGroup` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.capacityReservation.capacityReservationGroup` |
-| `properties.virtualMachineProfile.capacityReservation.capacityReservationGroup.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.capacityReservation.capacityReservationGroup.id` |
-| `properties.spotRestorePolicy` | `Microsoft.Compute/virtualMachineScaleSets/spotRestorePolicy` |
-| `properties.spotRestorePolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/spotRestorePolicy.enabled` |
-| `properties.spotRestorePolicy.restoreTimeout` | `Microsoft.Compute/virtualMachineScaleSets/spotRestorePolicy.restoreTimeout` |
 
