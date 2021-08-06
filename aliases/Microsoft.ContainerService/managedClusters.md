@@ -242,4 +242,16 @@
 | `properties.httpProxyConfig.trustedCa` | `Microsoft.ContainerService/managedClusters/httpProxyConfig.trustedCa` |
 | `properties.agentPoolProfiles[*].enableUltraSSD` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].enableUltraSSD` |
 | `properties.apiServerAccessProfile.enablePrivateClusterPublicFQDN` | `Microsoft.ContainerService/managedClusters/apiServerAccessProfile.enablePrivateClusterPublicFQDN` |
+| `properties.agentPoolProfiles[*].scaleDownMode` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].scaleDownMode` |
+| `properties.networkProfile.natGatewayProfile` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile` |
+| `properties.networkProfile.natGatewayProfile.managedOutboundIPProfile` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.managedOutboundIPProfile` |
+| `properties.networkProfile.natGatewayProfile.managedOutboundIPProfile.count` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.managedOutboundIPProfile.count` |
+| `properties.networkProfile.natGatewayProfile.effectiveOutboundIPs` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.effectiveOutboundIPs` |
+| `properties.networkProfile.natGatewayProfile.effectiveOutboundIPs[*]` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.effectiveOutboundIPs[*]` |
+| `properties.networkProfile.natGatewayProfile.effectiveOutboundIPs[*].id` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.effectiveOutboundIPs[*].id` |
+| `properties.networkProfile.natGatewayProfile.idleTimeoutInMinutes` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.idleTimeoutInMinutes` |
+| `properties.securityProfile` | `Microsoft.ContainerService/managedClusters/securityProfile` |
+| `properties.securityProfile.azureDefender` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender` |
+| `properties.securityProfile.azureDefender.enabled` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.enabled` |
+| `properties.securityProfile.azureDefender.logAnalyticsWorkspaceResourceId` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.logAnalyticsWorkspaceResourceId` |
 

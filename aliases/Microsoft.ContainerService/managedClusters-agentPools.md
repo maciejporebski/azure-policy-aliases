@@ -88,4 +88,5 @@
 | `properties.enableFIPS` | `Microsoft.ContainerService/managedClusters/agentPools/enableFIPS` |
 | `properties.gpuInstanceProfile` | `Microsoft.ContainerService/managedClusters/agentPools/gpuInstanceProfile` |
 | `properties.enableUltraSSD` | `Microsoft.ContainerService/managedClusters/agentPools/enableUltraSSD` |
+| `properties.scaleDownMode` | `Microsoft.ContainerService/managedClusters/agentPools/scaleDownMode` |
 
