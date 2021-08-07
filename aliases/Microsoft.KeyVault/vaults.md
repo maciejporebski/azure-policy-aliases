@@ -53,4 +53,5 @@
 | `properties.networkAcls.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint` | `Microsoft.KeyVault/vaults/networkAcls.virtualNetworkRules[*].ignoreMissingVnetServiceEndpoint` |
 | `properties.privateEndpointConnections[*].id` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].id` |
 | `properties.privateEndpointConnections[*].etag` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].etag` |
+| `properties.publicNetworkAccess` | `Microsoft.KeyVault/vaults/publicNetworkAccess` |
 

@@ -582,6 +582,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.KeyVault/managedHSMs](aliases/Microsoft.KeyVault/managedHSMs.md)
 - [Microsoft.KeyVault/vaults/keys](aliases/Microsoft.KeyVault/vaults-keys.md)
 - [Microsoft.KeyVault/vaults/privateEndpointConnections](aliases/Microsoft.KeyVault/vaults-privateEndpointConnections.md)
+- [Microsoft.KeyVault/managedHSMs/privateEndpointConnections](aliases/Microsoft.KeyVault/managedHSMs-privateEndpointConnections.md)
 
 
 ## Microsoft.Kubernetes
