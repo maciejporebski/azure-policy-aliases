@@ -1290,8 +1290,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/sites/privateEndpointConnections](aliases/Microsoft.Web/sites-privateEndpointConnections.md)
 - [Microsoft.Web/hostingEnvironments/privateEndpointConnections](aliases/Microsoft.Web/hostingEnvironments-privateEndpointConnections.md)
 - [Microsoft.Web/staticSites/privateEndpointConnections](aliases/Microsoft.Web/staticSites-privateEndpointConnections.md)
-- [Microsoft.Web/sites/basicPublishingCredentialsPolicies](aliases/Microsoft.Web/sites-basicPublishingCredentialsPolicies.md)
-- [Microsoft.Web/sites/slots/basicPublishingCredentialsPolicies](aliases/Microsoft.Web/sites-slots-basicPublishingCredentialsPolicies.md)
 
 
 
