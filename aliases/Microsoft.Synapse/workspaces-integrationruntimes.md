@@ -82,4 +82,5 @@
 | `properties.managedVirtualNetwork` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork` |
 | `properties.managedVirtualNetwork.type` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.type` |
 | `properties.managedVirtualNetwork.referenceName` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.referenceName` |
+| `properties.typeProperties.computeProperties.vNetProperties.subnetId` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.vNetProperties.subnetId` |
 

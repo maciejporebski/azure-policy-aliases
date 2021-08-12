@@ -53,4 +53,12 @@
 | `properties.workspaceRepositoryConfiguration.tenantId` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.tenantId` |
 | `properties.adlaResourceId` | `Microsoft.Synapse/workspaces/adlaResourceId` |
 | `properties.publicNetworkAccess` | `Microsoft.Synapse/workspaces/publicNetworkAccess` |
+| `properties.workspaceRepositoryConfiguration.clientId` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.clientId` |
+| `properties.workspaceRepositoryConfiguration.clientSecret` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.clientSecret` |
+| `properties.workspaceRepositoryConfiguration.clientSecret.byoaSecretAkvUrl` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.clientSecret.byoaSecretAkvUrl` |
+| `properties.workspaceRepositoryConfiguration.clientSecret.byoaSecretName` | `Microsoft.Synapse/workspaces/workspaceRepositoryConfiguration.clientSecret.byoaSecretName` |
+| `properties.encryption.cmk.kekIdentity` | `Microsoft.Synapse/workspaces/encryption.cmk.kekIdentity` |
+| `properties.encryption.cmk.kekIdentity.userAssignedIdentity` | `Microsoft.Synapse/workspaces/encryption.cmk.kekIdentity.userAssignedIdentity` |
+| `properties.cspWorkspaceAdminProperties` | `Microsoft.Synapse/workspaces/cspWorkspaceAdminProperties` |
+| `properties.cspWorkspaceAdminProperties.initialWorkspaceAdminObjectId` | `Microsoft.Synapse/workspaces/cspWorkspaceAdminProperties.initialWorkspaceAdminObjectId` |
 

@@ -37,4 +37,7 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.HealthcareApis/services/privateEndpointConnections[*].provisioningState` |
 | `properties.publicNetworkAccess` | `Microsoft.HealthcareApis/services/publicNetworkAccess` |
+| `properties.acrConfiguration` | `Microsoft.HealthcareApis/services/acrConfiguration` |
+| `properties.acrConfiguration.loginServers` | `Microsoft.HealthcareApis/services/acrConfiguration.loginServers` |
+| `properties.acrConfiguration.loginServers[*]` | `Microsoft.HealthcareApis/services/acrConfiguration.loginServers[*]` |
 

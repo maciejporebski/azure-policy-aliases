@@ -6,4 +6,5 @@
 | `properties.maxSizeBytes` | `Microsoft.Synapse/workspaces/sqlDatabases/maxSizeBytes` |
 | `properties.databaseGuid` | `Microsoft.Synapse/workspaces/sqlDatabases/databaseGuid` |
 | `properties.status` | `Microsoft.Synapse/workspaces/sqlDatabases/status` |
+| `properties.storageRedundancy` | `Microsoft.Synapse/workspaces/sqlDatabases/storageRedundancy` |
 

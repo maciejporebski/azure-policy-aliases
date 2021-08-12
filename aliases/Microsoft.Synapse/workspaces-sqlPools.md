@@ -19,4 +19,7 @@
 | `properties.currentServiceObjectiveName` | `Microsoft.Synapse/workspaces/sqlPools/currentServiceObjectiveName` |
 | `properties.requestedServiceObjectiveName` | `Microsoft.Synapse/workspaces/sqlPools/requestedServiceObjectiveName` |
 | `properties.storageAccountType` | `Microsoft.Synapse/workspaces/sqlPools/storageAccountType` |
+| `properties.maxServiceObjectiveName` | `Microsoft.Synapse/workspaces/sqlPools/maxServiceObjectiveName` |
+| `properties.autoPauseTimer` | `Microsoft.Synapse/workspaces/sqlPools/autoPauseTimer` |
+| `properties.autoResume` | `Microsoft.Synapse/workspaces/sqlPools/autoResume` |
 

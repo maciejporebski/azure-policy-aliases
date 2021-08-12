@@ -533,6 +533,11 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.HealthcareApis/services](aliases/Microsoft.HealthcareApis/services.md)
 - [Microsoft.HealthcareApis/services/privateEndpointConnections](aliases/Microsoft.HealthcareApis/services-privateEndpointConnections.md)
+- [Microsoft.HealthcareApis/workspaces](aliases/Microsoft.HealthcareApis/workspaces.md)
+- [Microsoft.HealthcareApis/workspaces/dicomservices](aliases/Microsoft.HealthcareApis/workspaces-dicomservices.md)
+- [Microsoft.HealthcareApis/workspaces/iotconnectors](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors.md)
+- [Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations.md)
+- [Microsoft.HealthcareApis/workspaces/fhirservices](aliases/Microsoft.HealthcareApis/workspaces-fhirservices.md)
 
 
 ## Microsoft.HybridCompute
@@ -1198,6 +1203,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/bigDataPools](aliases/Microsoft.Synapse/workspaces-bigDataPools.md)
 - [Microsoft.Synapse/workspaces/sqlPools](aliases/Microsoft.Synapse/workspaces-sqlPools.md)
 - [Microsoft.Synapse/workspaces/sqlDatabases](aliases/Microsoft.Synapse/workspaces-sqlDatabases.md)
+- [Microsoft.Synapse/workspaces/kustoPools](aliases/Microsoft.Synapse/workspaces-kustoPools.md)
+- [Microsoft.Synapse/workspaces/kustoPools/databases](aliases/Microsoft.Synapse/workspaces-kustoPools-databases.md)
+- [Microsoft.Synapse/workspaces/kustoPools/databases/dataconnections](aliases/Microsoft.Synapse/workspaces-kustoPools-databases-dataconnections.md)
 - [Microsoft.Synapse/privateLinkHubs](aliases/Microsoft.Synapse/privateLinkHubs.md)
 - [Microsoft.Synapse/workspaces/administrators](aliases/Microsoft.Synapse/workspaces-administrators.md)
 - [Microsoft.Synapse/workspaces/firewallRules](aliases/Microsoft.Synapse/workspaces-firewallRules.md)
@@ -1223,6 +1231,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/vulnerabilityAssessments](aliases/Microsoft.Synapse/workspaces-vulnerabilityAssessments.md)
 - [Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/rules](aliases/Microsoft.Synapse/workspaces-sqlPools-dataMaskingPolicies-rules.md)
 - [Microsoft.Synapse/workspaces/sqlPools/maintenanceWindows](aliases/Microsoft.Synapse/workspaces-sqlPools-maintenanceWindows.md)
+- [Microsoft.Synapse/workspaces/kustoPools/Databases/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-Databases-PrincipalAssignments.md)
+- [Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-PrincipalAssignments.md)
 
 
 ## Microsoft.TimeSeriesInsights
