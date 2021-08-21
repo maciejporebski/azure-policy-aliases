@@ -337,6 +337,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataMigration/services/serviceTasks](aliases/Microsoft.DataMigration/services-serviceTasks.md)
 
 
+## Microsoft.DataProtection
+
+- [Microsoft.DataProtection/BackupVaults](aliases/Microsoft.DataProtection/BackupVaults.md)
+- [Microsoft.DataProtection/backupVaults/backupInstances](aliases/Microsoft.DataProtection/backupVaults-backupInstances.md)
+- [Microsoft.DataProtection/backupVaults/backupPolicies](aliases/Microsoft.DataProtection/backupVaults-backupPolicies.md)
+
+
 ## Microsoft.DataShare
 
 - [Microsoft.DataShare/accounts](aliases/Microsoft.DataShare/accounts.md)
