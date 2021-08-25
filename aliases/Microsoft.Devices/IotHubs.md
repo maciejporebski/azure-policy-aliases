@@ -138,4 +138,18 @@
 | `properties.networkRuleSets.ipRules[*].filterName` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules[*].filterName` |
 | `properties.networkRuleSets.ipRules[*].action` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules[*].action` |
 | `properties.networkRuleSets.ipRules[*].ipMask` | `Microsoft.Devices/IotHubs/networkRuleSets.ipRules[*].ipMask` |
+| `properties.routing.endpoints.serviceBusQueues[*].identity` | `Microsoft.Devices/IotHubs/routing.endpoints.serviceBusQueues[*].identity` |
+| `properties.routing.endpoints.serviceBusQueues[*].identity.userAssignedIdentity` | `Microsoft.Devices/IotHubs/routing.endpoints.serviceBusQueues[*].identity.userAssignedIdentity` |
+| `properties.routing.endpoints.serviceBusTopics[*].identity` | `Microsoft.Devices/IotHubs/routing.endpoints.serviceBusTopics[*].identity` |
+| `properties.routing.endpoints.serviceBusTopics[*].identity.userAssignedIdentity` | `Microsoft.Devices/IotHubs/routing.endpoints.serviceBusTopics[*].identity.userAssignedIdentity` |
+| `properties.routing.endpoints.eventHubs[*].identity` | `Microsoft.Devices/IotHubs/routing.endpoints.eventHubs[*].identity` |
+| `properties.routing.endpoints.eventHubs[*].identity.userAssignedIdentity` | `Microsoft.Devices/IotHubs/routing.endpoints.eventHubs[*].identity.userAssignedIdentity` |
+| `properties.routing.endpoints.storageContainers[*].identity` | `Microsoft.Devices/IotHubs/routing.endpoints.storageContainers[*].identity` |
+| `properties.routing.endpoints.storageContainers[*].identity.userAssignedIdentity` | `Microsoft.Devices/IotHubs/routing.endpoints.storageContainers[*].identity.userAssignedIdentity` |
+| `properties.disableLocalAuth` | `Microsoft.Devices/IotHubs/disableLocalAuth` |
+| `properties.disableDeviceSAS` | `Microsoft.Devices/IotHubs/disableDeviceSAS` |
+| `properties.disableModuleSAS` | `Microsoft.Devices/IotHubs/disableModuleSAS` |
+| `properties.restrictOutboundNetworkAccess` | `Microsoft.Devices/IotHubs/restrictOutboundNetworkAccess` |
+| `properties.allowedFqdnList` | `Microsoft.Devices/IotHubs/allowedFqdnList` |
+| `properties.allowedFqdnList[*]` | `Microsoft.Devices/IotHubs/allowedFqdnList[*]` |
 

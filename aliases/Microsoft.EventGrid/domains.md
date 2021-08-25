@@ -45,4 +45,7 @@
 | `properties.inputSchemaMapping.properties.dataVersion` | `Microsoft.EventGrid/domains/inputSchemaMapping.Json.dataVersion` |
 | `properties.inputSchemaMapping.properties.dataVersion.sourceField` | `Microsoft.EventGrid/domains/inputSchemaMapping.Json.dataVersion.sourceField` |
 | `properties.inputSchemaMapping.properties.dataVersion.defaultValue` | `Microsoft.EventGrid/domains/inputSchemaMapping.Json.dataVersion.defaultValue` |
+| `properties.disableLocalAuth` | `Microsoft.EventGrid/domains/disableLocalAuth` |
+| `properties.autoCreateTopicWithFirstSubscription` | `Microsoft.EventGrid/domains/autoCreateTopicWithFirstSubscription` |
+| `properties.autoDeleteTopicWithLastSubscription` | `Microsoft.EventGrid/domains/autoDeleteTopicWithLastSubscription` |
 
