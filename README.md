@@ -290,6 +290,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.Databricks/workspaces](aliases/Microsoft.Databricks/workspaces.md)
 - [Microsoft.Databricks/workspaces/virtualNetworkPeerings](aliases/Microsoft.Databricks/workspaces-virtualNetworkPeerings.md)
+- [Microsoft.Databricks/workspaces/privateEndpointConnections](aliases/Microsoft.Databricks/workspaces-privateEndpointConnections.md)
 
 
 ## Microsoft.DataCatalog
