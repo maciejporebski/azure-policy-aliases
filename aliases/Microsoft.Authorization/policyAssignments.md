@@ -14,4 +14,8 @@
 | `sku.tier` | `Microsoft.Authorization/policyAssignments/sku.tier` |
 | `sku` | `Microsoft.Authorization/policyAssignments/sku` |
 | `properties.enforcementMode` | `Microsoft.Authorization/policyAssignments/enforcementMode` |
+| `properties.nonComplianceMessages` | `Microsoft.Authorization/policyassignments/nonComplianceMessages` |
+| `properties.nonComplianceMessages[*]` | `Microsoft.Authorization/policyassignments/nonComplianceMessages[*]` |
+| `properties.nonComplianceMessages[*].message` | `Microsoft.Authorization/policyassignments/nonComplianceMessages[*].message` |
+| `properties.nonComplianceMessages[*].policyDefinitionReferenceId` | `Microsoft.Authorization/policyassignments/nonComplianceMessages[*].policyDefinitionReferenceId` |
 

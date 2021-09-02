@@ -9,4 +9,10 @@
 | `properties.description` | `Microsoft.Authorization/roleAssignments/description` |
 | `properties.condition` | `Microsoft.Authorization/roleAssignments/condition` |
 | `properties.conditionVersion` | `Microsoft.Authorization/roleAssignments/conditionVersion` |
+| `properties.scope` | `Microsoft.Authorization/roleAssignments/scope` |
+| `properties.createdOn` | `Microsoft.Authorization/roleAssignments/createdOn` |
+| `properties.updatedOn` | `Microsoft.Authorization/roleAssignments/updatedOn` |
+| `properties.createdBy` | `Microsoft.Authorization/roleAssignments/createdBy` |
+| `properties.updatedBy` | `Microsoft.Authorization/roleAssignments/updatedBy` |
+| `properties.delegatedManagedIdentityResourceId` | `Microsoft.Authorization/roleAssignments/delegatedManagedIdentityResourceId` |
 

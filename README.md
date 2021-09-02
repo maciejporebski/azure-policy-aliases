@@ -91,6 +91,10 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Authorization
 
+- [Microsoft.Authorization/roleAssignmentScheduleRequests](aliases/Microsoft.Authorization/roleAssignmentScheduleRequests.md)
+- [Microsoft.Authorization/roleEligibilityScheduleRequests](aliases/Microsoft.Authorization/roleEligibilityScheduleRequests.md)
+- [Microsoft.Authorization/roleAssignmentScheduleInstances](aliases/Microsoft.Authorization/roleAssignmentScheduleInstances.md)
+- [Microsoft.Authorization/roleManagementPolicies](aliases/Microsoft.Authorization/roleManagementPolicies.md)
 - [Microsoft.Authorization/roleAssignments](aliases/Microsoft.Authorization/roleAssignments.md)
 - [Microsoft.Authorization/roleDefinitions](aliases/Microsoft.Authorization/roleDefinitions.md)
 - [Microsoft.Authorization/locks](aliases/Microsoft.Authorization/locks.md)
