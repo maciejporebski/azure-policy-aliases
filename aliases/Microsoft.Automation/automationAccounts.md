@@ -22,4 +22,5 @@
 | `properties.encryption.identity` | `Microsoft.Automation/automationAccounts/encryption.identity` |
 | `properties.publicNetworkAccess` | `Microsoft.Automation/automationAccounts/publicNetworkAccess` |
 | `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Automation/automationAccounts/encryption.identity.userAssignedIdentity` |
+| `properties.disableLocalAuth` | `Microsoft.Automation/automationAccounts/disableLocalAuth` |
 
