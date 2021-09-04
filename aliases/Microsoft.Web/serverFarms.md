@@ -52,4 +52,5 @@
 | `properties.kubeEnvironmentProfile.type` | `Microsoft.Web/serverfarms/kubeEnvironmentProfile.type` |
 | `sku.skuCapacity.elasticMaximum` | `Microsoft.Web/serverfarms/sku.skuCapacity.elasticMaximum` |
 | `properties.elasticScaleEnabled` | `Microsoft.Web/serverfarms/elasticScaleEnabled` |
+| `properties.zoneRedundant` | `Microsoft.Web/serverfarms/zoneRedundant` |
 
