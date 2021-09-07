@@ -986,8 +986,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Security/advancedThreatProtectionSettings](aliases/Microsoft.Security/advancedThreatProtectionSettings.md)
 - [Microsoft.Security/deviceSecurityGroups](aliases/Microsoft.Security/deviceSecurityGroups.md)
 - [Microsoft.Security/iotSecuritySolutions](aliases/Microsoft.Security/iotSecuritySolutions.md)
-- [Microsoft.Security/iotDefenderSettings](aliases/Microsoft.Security/iotDefenderSettings.md)
-- [Microsoft.Security/iotSensors](aliases/Microsoft.Security/iotSensors.md)
 - [Microsoft.Security/settings](aliases/Microsoft.Security/settings.md)
 - [Microsoft.Security/automations](aliases/Microsoft.Security/automations.md)
 
