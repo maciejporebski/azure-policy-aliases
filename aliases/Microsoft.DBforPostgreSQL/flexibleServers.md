@@ -52,4 +52,7 @@
 | `properties.highAvailability.state` | `Microsoft.DBForPostgreSql/flexibleServers/highAvailability.state` |
 | `properties.highAvailability.standbyAvailabilityZone` | `Microsoft.DBForPostgreSql/flexibleServers/highAvailability.standbyAvailabilityZone` |
 | `properties.sourceServerResourceId` | `Microsoft.DBForPostgreSql/flexibleServers/sourceServerResourceId` |
+| `properties.storageProfile.earliestRestoreDate` | `Microsoft.DBForPostgreSql/flexibleServers/storageProfile.earliestRestoreDate` |
+| `properties.standbyCount` | `Microsoft.DBForPostgreSql/flexibleServers/standbyCount` |
+| `properties.logBackupStorageSku` | `Microsoft.DBForPostgreSql/flexibleServers/logBackupStorageSku` |
 

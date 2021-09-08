@@ -24,4 +24,5 @@
 | `properties.isAnonymous` | `Microsoft.MachineLearningServices/workspaces/environments/versions/isAnonymous` |
 | `properties.description` | `Microsoft.MachineLearningServices/workspaces/environments/versions/description` |
 | `properties.tags` | `Microsoft.MachineLearningServices/workspaces/environments/versions/tags` |
+| `properties.docker` | `Microsoft.MachineLearningServices/workspaces/environments/versions/docker.Image` |
 

@@ -79,4 +79,7 @@
 | `properties.serviceManagedResourcesSettings.cosmosDb.collectionsThroughput` | `Microsoft.MachineLearningServices/workspaces/serviceManagedResourcesSettings.cosmosDb.collectionsThroughput` |
 | `properties.primaryUserAssignedIdentity` | `Microsoft.MachineLearningServices/workspaces/primaryUserAssignedIdentity` |
 | `properties.tenantId` | `Microsoft.MachineLearningServices/workspaces/tenantId` |
+| `properties.publicNetworkAccess` | `Microsoft.MachineLearningServices/workspaces/publicNetworkAccess` |
+| `properties.storageHnsEnabled` | `Microsoft.MachineLearningServices/workspaces/storageHnsEnabled` |
+| `properties.mlFlowTrackingUri` | `Microsoft.MachineLearningServices/workspaces/mlFlowTrackingUri` |
 

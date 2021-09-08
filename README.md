@@ -395,6 +395,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforPostgreSQL/servers/configurations](aliases/Microsoft.DBforPostgreSQL/servers-configurations.md)
 - [Microsoft.DBforPostgreSQL/servers/databases](aliases/Microsoft.DBforPostgreSQL/servers-databases.md)
 - [Microsoft.DBforPostgreSQL/servers/administrators](aliases/Microsoft.DBforPostgreSQL/servers-administrators.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/configurations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-configurations.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/databases](aliases/Microsoft.DBforPostgreSQL/flexibleServers-databases.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/firewallRules](aliases/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules.md)
 
 
 ## Microsoft.DesktopVirtualization

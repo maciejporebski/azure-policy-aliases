@@ -195,4 +195,27 @@
 | `properties.provisioningErrors[*].error.additionalInfo` | `Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.additionalInfo` |
 | `properties.provisioningErrors[*].error.additionalInfo[*]` | `Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.additionalInfo[*]` |
 | `properties.provisioningErrors[*].error.additionalInfo[*].type` | `Microsoft.MachineLearningServices/workspaces/computes/provisioningErrors[*].error.additionalInfo[*].type` |
+| `properties.properties.autoScaleProperties` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.autoScaleProperties` |
+| `properties.properties.autoScaleProperties.minNodeCount` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.autoScaleProperties.minNodeCount` |
+| `properties.properties.autoScaleProperties.enabled` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.autoScaleProperties.enabled` |
+| `properties.properties.autoScaleProperties.maxNodeCount` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.autoScaleProperties.maxNodeCount` |
+| `properties.properties.autoPauseProperties` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.autoPauseProperties` |
+| `properties.properties.autoPauseProperties.delayInMinutes` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.autoPauseProperties.delayInMinutes` |
+| `properties.properties.autoPauseProperties.enabled` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.autoPauseProperties.enabled` |
+| `properties.properties.sparkVersion` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.sparkVersion` |
+| `properties.properties.nodeCount` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.nodeCount` |
+| `properties.properties.nodeSize` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.nodeSize` |
+| `properties.properties.nodeSizeFamily` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.nodeSizeFamily` |
+| `properties.properties.subscriptionId` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.subscriptionId` |
+| `properties.properties.resourceGroup` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.resourceGroup` |
+| `properties.properties.workspaceName` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.workspaceName` |
+| `properties.properties.poolName` | `Microsoft.MachineLearningServices/workspaces/computes/SynapseSpark.poolName` |
+| `properties.properties.relayConnectionString` | `Microsoft.MachineLearningServices/workspaces/computes/relayConnectionString` |
+| `properties.properties.serviceBusConnectionString` | `Microsoft.MachineLearningServices/workspaces/computes/serviceBusConnectionString` |
+| `properties.properties.extensionPrincipalId` | `Microsoft.MachineLearningServices/workspaces/computes/extensionPrincipalId` |
+| `properties.properties.extensionInstanceReleaseTrain` | `Microsoft.MachineLearningServices/workspaces/computes/extensionInstanceReleaseTrain` |
+| `properties.properties.vcName` | `Microsoft.MachineLearningServices/workspaces/computes/vcName` |
+| `properties.properties.namespace` | `Microsoft.MachineLearningServices/workspaces/computes/namespace` |
+| `properties.properties.defaultInstanceType` | `Microsoft.MachineLearningServices/workspaces/computes/defaultInstanceType` |
+| `properties.properties.instanceTypes` | `Microsoft.MachineLearningServices/workspaces/computes/instanceTypes` |
 
