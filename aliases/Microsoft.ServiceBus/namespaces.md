@@ -49,4 +49,5 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.disableLocalAuth` | `Microsoft.ServiceBus/namespaces/disableLocalAuth` |
 

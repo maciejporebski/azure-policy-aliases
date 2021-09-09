@@ -87,4 +87,5 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.disableLocalAuth` | `Microsoft.EventHub/namespaces/disableLocalAuth` |
 

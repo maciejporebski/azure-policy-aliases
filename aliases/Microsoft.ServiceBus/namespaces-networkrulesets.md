@@ -22,4 +22,6 @@
 | `properties.ipRules[*]` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules[*]` |
 | `properties.ipRules[*].ipMask` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules[*].ipMask` |
 | `properties.ipRules[*].action` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules[*].action` |
+| `properties.trustedServiceAccessEnabled` | `Microsoft.ServiceBus/namespaces/networkRuleSets/trustedServiceAccessEnabled` |
+| `properties.publicNetworkAccess` | `Microsoft.ServiceBus/namespaces/networkRuleSets/publicNetworkAccess` |
 

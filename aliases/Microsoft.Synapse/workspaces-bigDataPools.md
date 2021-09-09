@@ -41,4 +41,5 @@
 | `properties.customLibraries[*].provisioningStatus` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].provisioningStatus` |
 | `properties.customLibraries[*].creatorId` | `Microsoft.Synapse/workspaces/bigDataPools/customLibraries[*].creatorId` |
 | `properties.lastSucceededTimestamp` | `Microsoft.Synapse/workspaces/bigDataPools/lastSucceededTimestamp` |
+| `properties.sparkConfigProperties.configurationType` | `Microsoft.Synapse/workspaces/bigDataPools/sparkConfigProperties.configurationType` |
 

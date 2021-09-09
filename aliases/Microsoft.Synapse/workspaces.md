@@ -61,4 +61,8 @@
 | `properties.encryption.cmk.kekIdentity.userAssignedIdentity` | `Microsoft.Synapse/workspaces/encryption.cmk.kekIdentity.userAssignedIdentity` |
 | `properties.cspWorkspaceAdminProperties` | `Microsoft.Synapse/workspaces/cspWorkspaceAdminProperties` |
 | `properties.cspWorkspaceAdminProperties.initialWorkspaceAdminObjectId` | `Microsoft.Synapse/workspaces/cspWorkspaceAdminProperties.initialWorkspaceAdminObjectId` |
+| `properties.defaultDataLakeStorage.resourceId` | `Microsoft.Synapse/workspaces/defaultDataLakeStorage.resourceId` |
+| `properties.defaultDataLakeStorage.createManagedPrivateEndpoint` | `Microsoft.Synapse/workspaces/defaultDataLakeStorage.createManagedPrivateEndpoint` |
+| `properties.settings` | `Microsoft.Synapse/workspaces/settings` |
+| `properties.azureADOnlyAuthentication` | `Microsoft.Synapse/workspaces/azureADOnlyAuthentication` |
 

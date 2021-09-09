@@ -1219,6 +1219,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/sqlDatabases](aliases/Microsoft.Synapse/workspaces-sqlDatabases.md)
 - [Microsoft.Synapse/workspaces/kustoPools](aliases/Microsoft.Synapse/workspaces-kustoPools.md)
 - [Microsoft.Synapse/workspaces/kustoPools/databases](aliases/Microsoft.Synapse/workspaces-kustoPools-databases.md)
+- [Microsoft.Synapse/workspaces/kustoPools/attacheddatabaseconfigurations](aliases/Microsoft.Synapse/workspaces-kustoPools-attacheddatabaseconfigurations.md)
 - [Microsoft.Synapse/workspaces/kustoPools/databases/dataconnections](aliases/Microsoft.Synapse/workspaces-kustoPools-databases-dataconnections.md)
 - [Microsoft.Synapse/privateLinkHubs](aliases/Microsoft.Synapse/privateLinkHubs.md)
 - [Microsoft.Synapse/workspaces/administrators](aliases/Microsoft.Synapse/workspaces-administrators.md)
@@ -1247,6 +1248,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/sqlPools/maintenanceWindows](aliases/Microsoft.Synapse/workspaces-sqlPools-maintenanceWindows.md)
 - [Microsoft.Synapse/workspaces/kustoPools/Databases/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-Databases-PrincipalAssignments.md)
 - [Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-PrincipalAssignments.md)
+- [Microsoft.Synapse/workspaces/azureADOnlyAuthentications](aliases/Microsoft.Synapse/workspaces-azureADOnlyAuthentications.md)
 
 
 ## Microsoft.TimeSeriesInsights

@@ -83,4 +83,7 @@
 | `properties.managedVirtualNetwork.type` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.type` |
 | `properties.managedVirtualNetwork.referenceName` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.referenceName` |
 | `properties.typeProperties.computeProperties.vNetProperties.subnetId` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.vNetProperties.subnetId` |
+| `properties.typeProperties.computeProperties.dataFlowProperties.cleanup` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.cleanup` |
+| `properties.typeProperties.customerVirtualNetwork` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork` |
+| `properties.typeProperties.customerVirtualNetwork.subnetId` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork.subnetId` |
 

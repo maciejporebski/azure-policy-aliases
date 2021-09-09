@@ -5,7 +5,7 @@
 | `properties.replicaCount` | `Microsoft.Search/searchServices/replicaCount` |
 | `properties.partitionCount` | `Microsoft.Search/searchServices/partitionCount` |
 | `properties.hostingMode` | `Microsoft.Search/searchServices/hostingMode` |
-| `properties.sku.name` | `Microsoft.Search/searchServices/sku.name` |
+| `sku.name` | `Microsoft.Search/searchServices/sku.name` |
 | `properties.status` | `Microsoft.Search/searchServices/status` |
 | `properties.statusDetails` | `Microsoft.Search/searchServices/statusDetails` |
 | `properties.provisioningState` | `Microsoft.Search/searchServices/provisioningState` |

@@ -31,4 +31,5 @@
 | `properties.updatedAt` | `Microsoft.ServiceBus/namespaces/queues/updatedAt` |
 | `properties.forwardTo` | `Microsoft.ServiceBus/namespaces/queues/forwardTo` |
 | `properties.forwardDeadLetteredMessagesTo` | `Microsoft.ServiceBus/namespaces/queues/forwardDeadLetteredMessagesTo` |
+| `properties.maxMessageSizeInKilobytes` | `Microsoft.ServiceBus/namespaces/queues/maxMessageSizeInKilobytes` |
 
