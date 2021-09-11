@@ -70,4 +70,8 @@
 | `properties.properties.binding.properties.outputs[*].dataType` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding.Microsoft-MachineLearningServices.outputs[*].dataType` |
 | `properties.properties.binding.properties.batchSize` | `Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.binding.Microsoft-MachineLearning-WebService.batchSize` |
 | `properties.properties.binding.properties.batchSize` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding.Microsoft-MachineLearningServices.batchSize` |
+| `properties.properties.binding` | `Microsoft.StreamAnalytics/streamingjobs/functions/Scalar.binding.Microsoft-MachineLearning-WebService` |
+| `properties.properties.binding` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding.Microsoft-StreamAnalytics-CLRUdf` |
+| `properties.properties.binding` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding.Microsoft-StreamAnalytics-JavascriptUdf` |
+| `properties.properties.binding` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding` |
 
