@@ -168,6 +168,9 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.Cache/Redis](aliases/Microsoft.Cache/Redis.md)
 - [Microsoft.Cache/Redis/privateEndpointConnections](aliases/Microsoft.Cache/Redis-privateEndpointConnections.md)
+- [Microsoft.Cache/redisEnterprise](aliases/Microsoft.Cache/redisEnterprise.md)
+- [Microsoft.Cache/RedisEnterprise/privateEndpointConnections](aliases/Microsoft.Cache/RedisEnterprise-privateEndpointConnections.md)
+- [Microsoft.Cache/redisEnterprise/databases](aliases/Microsoft.Cache/redisEnterprise-databases.md)
 - [Microsoft.Cache/Redis/firewallrules](aliases/Microsoft.Cache/Redis-firewallrules.md)
 - [Microsoft.Cache/redis/linkedservers](aliases/Microsoft.Cache/redis-linkedservers.md)
 - [Microsoft.Cache/redis/patchSchedules](aliases/Microsoft.Cache/redis-patchSchedules.md)

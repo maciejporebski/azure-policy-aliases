@@ -79,4 +79,10 @@
 | `properties.diagnosticConfiguration.enableLiveTrace` | `Microsoft.SignalRService/webPubSub/diagnosticConfiguration.enableLiveTrace` |
 | `properties.disableLocalAuth` | `Microsoft.SignalRService/webPubSub/disableLocalAuth` |
 | `properties.disableAadAuth` | `Microsoft.SignalRService/webPubSub/disableAadAuth` |
+| `properties.liveTraceConfiguration` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration` |
+| `properties.liveTraceConfiguration.enabled` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.enabled` |
+| `properties.liveTraceConfiguration.categories` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.categories` |
+| `properties.liveTraceConfiguration.categories[*]` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.categories[*]` |
+| `properties.liveTraceConfiguration.categories[*].name` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.categories[*].name` |
+| `properties.liveTraceConfiguration.categories[*].enabled` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.categories[*].enabled` |
 
