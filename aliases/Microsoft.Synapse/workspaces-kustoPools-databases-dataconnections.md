@@ -16,4 +16,17 @@
 | `properties.eventSystemProperties[*]` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/IotHub.eventSystemProperties[*]` |
 | `properties.sharedAccessPolicyName` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/IotHub.sharedAccessPolicyName` |
 | `properties.compression` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.compression` |
+| `properties.eventHubResourceId` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.eventHubResourceId` |
+| `properties.consumerGroup` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/IotHub.consumerGroup` |
+| `properties.consumerGroup` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.consumerGroup` |
+| `properties.tableName` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/IotHub.tableName` |
+| `properties.tableName` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.tableName` |
+| `properties.mappingRuleName` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/IotHub.mappingRuleName` |
+| `properties.mappingRuleName` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.mappingRuleName` |
+| `properties.dataFormat` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/IotHub.dataFormat` |
+| `properties.dataFormat` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.dataFormat` |
+| `properties.provisioningState` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/IotHub.provisioningState` |
+| `properties.provisioningState` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.provisioningState` |
+| `properties.eventSystemProperties` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.eventSystemProperties` |
+| `properties.eventSystemProperties[*]` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.eventSystemProperties[*]` |
 

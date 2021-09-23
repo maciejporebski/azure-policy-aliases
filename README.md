@@ -545,6 +545,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.HDInsight/clusters](aliases/Microsoft.HDInsight/clusters.md)
 - [Microsoft.HDInsight/clusters/applications](aliases/Microsoft.HDInsight/clusters-applications.md)
+- [Microsoft.HDInsight/clusters/privateEndpointConnections](aliases/Microsoft.HDInsight/clusters-privateEndpointConnections.md)
 
 
 ## Microsoft.HealthcareApis

@@ -99,4 +99,25 @@
 | `properties.computeIsolationProperties` | `Microsoft.HDInsight/clusters/computeIsolationProperties` |
 | `properties.computeIsolationProperties.enableComputeIsolation` | `Microsoft.HDInsight/clusters/computeIsolationProperties.enableComputeIsolation` |
 | `properties.computeIsolationProperties.hostSku` | `Microsoft.HDInsight/clusters/computeIsolationProperties.hostSku` |
+| `properties.kafkaRestProperties.configurationOverride` | `Microsoft.HDInsight/clusters/kafkaRestProperties.configurationOverride` |
+| `zones` | `Microsoft.HDInsight/clusters/zones` |
+| `zones[*]` | `Microsoft.HDInsight/clusters/zones[*]` |
+| `properties.privateLinkConfigurations` | `Microsoft.HDInsight/clusters/privateLinkConfigurations` |
+| `properties.privateLinkConfigurations[*]` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*]` |
+| `properties.privateLinkConfigurations[*].id` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].id` |
+| `properties.privateLinkConfigurations[*].name` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].name` |
+| `properties.privateLinkConfigurations[*].type` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].type` |
+| `properties.privateLinkConfigurations[*].properties.groupId` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].groupId` |
+| `properties.privateLinkConfigurations[*].properties.provisioningState` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].provisioningState` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*]` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*]` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].id` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].id` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].name` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].name` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].type` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].type` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.provisioningState` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].provisioningState` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.primary` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].primary` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.privateIPAddress` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].privateIPAddress` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.privateIPAllocationMethod` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].privateIPAllocationMethod` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.subnet` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].subnet` |
+| `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.subnet.id` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].subnet.id` |
 

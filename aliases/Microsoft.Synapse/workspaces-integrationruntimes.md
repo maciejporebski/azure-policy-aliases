@@ -86,4 +86,11 @@
 | `properties.typeProperties.computeProperties.dataFlowProperties.cleanup` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.cleanup` |
 | `properties.typeProperties.customerVirtualNetwork` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork` |
 | `properties.typeProperties.customerVirtualNetwork.subnetId` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork.subnetId` |
+| `properties.typeProperties.linkedInfo` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.linkedInfo` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].EnvironmentVariableSetup` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].EnvironmentVariableSetup.typeProperties` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.licenseKey` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties.licenseKey` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.password` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup.typeProperties.password` |
 
