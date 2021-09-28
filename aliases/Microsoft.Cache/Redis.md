@@ -41,4 +41,5 @@
 | `properties.replicasPerMaster` | `Microsoft.Cache/Redis/replicasPerMaster` |
 | `properties.publicNetworkAccess` | `Microsoft.Cache/Redis/publicNetworkAccess` |
 | `properties.replicasPerPrimary` | `Microsoft.Cache/Redis/replicasPerPrimary` |
+| `properties.redisConfiguration.maxclients` | `Microsoft.Cache/Redis/redisConfiguration.maxclients` |
 
