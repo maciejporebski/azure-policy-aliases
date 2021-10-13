@@ -423,6 +423,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Devices/provisioningServices/privateEndpointConnections](aliases/Microsoft.Devices/provisioningServices-privateEndpointConnections.md)
 
 
+## Microsoft.DeviceUpdate
+
+- [Microsoft.DeviceUpdate/accounts](aliases/Microsoft.DeviceUpdate/accounts.md)
+- [Microsoft.DeviceUpdate/accounts/instances](aliases/Microsoft.DeviceUpdate/accounts-instances.md)
+- [Microsoft.DeviceUpdate/accounts/privateEndpointConnections](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnections.md)
+
+
 ## Microsoft.DevTestLab
 
 - [Microsoft.DevTestLab/labs](aliases/Microsoft.DevTestLab/labs.md)

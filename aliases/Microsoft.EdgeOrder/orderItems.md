@@ -113,4 +113,10 @@
 | `properties.addressDetails.returnAddress.contactDetails.emailList[*]` | `Microsoft.EdgeOrder/orderItems/addressDetails.returnAddress.contactDetails.emailList[*]` |
 | `properties.startTime` | `Microsoft.EdgeOrder/orderItems/startTime` |
 | `properties.orderId` | `Microsoft.EdgeOrder/orderItems/orderId` |
+| `properties.orderItemDetails.productDetails.displayInfo` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.displayInfo` |
+| `properties.orderItemDetails.productDetails.displayInfo.productFamilyDisplayName` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.displayInfo.productFamilyDisplayName` |
+| `properties.orderItemDetails.productDetails.displayInfo.configurationDisplayName` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.displayInfo.configurationDisplayName` |
+| `properties.orderItemDetails.productDetails.deviceDetails[*].managementResourceId` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails[*].managementResourceId` |
+| `properties.orderItemDetails.preferences.managementResourcePreferences` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.preferences.managementResourcePreferences` |
+| `properties.orderItemDetails.preferences.managementResourcePreferences.preferredManagementResourceId` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.preferences.managementResourcePreferences.preferredManagementResourceId` |
 
