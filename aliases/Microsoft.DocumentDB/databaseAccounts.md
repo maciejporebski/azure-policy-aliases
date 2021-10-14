@@ -8,9 +8,9 @@
 | `properties.isVirtualNetworkFilterEnabled` | `Microsoft.DocumentDB/databaseAccounts/isVirtualNetworkFilterEnabled` |
 | `properties.consistencyPolicy.defaultConsistencyLevel` | `Microsoft.DocumentDB/databaseAccounts/consistencyPolicy.defaultConsistencyLevel` |
 | `properties.enableAutomaticFailover` | `Microsoft.DocumentDB/databaseAccounts/enableAutomaticFailover` |
-| `properties.Locations` | `Microsoft.DocumentDB/databaseAccounts/Locations` |
-| `properties.Locations[*]` | `Microsoft.DocumentDB/databaseAccounts/Locations[*]` |
-| `properties.Locations[*].locationName` | `Microsoft.DocumentDB/databaseAccounts/Locations[*].locationName` |
+| `properties.locations` | `Microsoft.DocumentDB/databaseAccounts/Locations` |
+| `properties.locations[*]` | `Microsoft.DocumentDB/databaseAccounts/Locations[*]` |
+| `properties.locations[*].locationName` | `Microsoft.DocumentDB/databaseAccounts/Locations[*].locationName` |
 | `properties.readLocations` | `Microsoft.DocumentDB/databaseAccounts/readLocations` |
 | `properties.readLocations[*]` | `Microsoft.DocumentDB/databaseAccounts/readLocations[*]` |
 | `properties.readLocations[*].locationName` | `Microsoft.DocumentDB/databaseAccounts/readLocations[*].locationName` |
@@ -108,4 +108,6 @@
 | `properties.backupPolicy.migrationState.targetType` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.migrationState.targetType` |
 | `properties.backupPolicy.migrationState.startTime` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.migrationState.startTime` |
 | `properties.disableLocalAuth` | `Microsoft.DocumentDB/databaseAccounts/disableLocalAuth` |
+| `properties.diagnosticLogSettings` | `Microsoft.DocumentDB/databaseAccounts/diagnosticLogSettings` |
+| `properties.diagnosticLogSettings.enableFullTextQuery` | `Microsoft.DocumentDB/databaseAccounts/diagnosticLogSettings.enableFullTextQuery` |
 
