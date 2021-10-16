@@ -503,6 +503,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions.md)
 - [Microsoft.DocumentDB/cassandraClusters/dataCenters](aliases/Microsoft.DocumentDB/cassandraClusters-dataCenters.md)
 - [Microsoft.DocumentDB/databaseAccounts/services](aliases/Microsoft.DocumentDB/databaseAccounts-services.md)
+- [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views.md)
 
 
 ## Microsoft.EdgeOrder
@@ -1153,6 +1154,7 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Storage
 
+- [Microsoft.Storage/storageAccounts/encryptionScopes](aliases/Microsoft.Storage/storageAccounts-encryptionScopes.md)
 - [Microsoft.Storage/storageAccounts](aliases/Microsoft.Storage/storageAccounts.md)
 - [Microsoft.Storage/storageAccounts/blobServices](aliases/Microsoft.Storage/storageAccounts-blobServices.md)
 - [Microsoft.Storage/storageAccounts/tableServices](aliases/Microsoft.Storage/storageAccounts-tableServices.md)
@@ -1162,7 +1164,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Storage/storageAccounts/fileServices/shares](aliases/Microsoft.Storage/storageAccounts-fileServices-shares.md)
 - [Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies](aliases/Microsoft.Storage/storageAccounts-blobServices-containers-immutabilityPolicies.md)
 - [Microsoft.Storage/storageAccounts/privateEndpointConnections](aliases/Microsoft.Storage/storageAccounts-privateEndpointConnections.md)
-- [Microsoft.Storage/storageAccounts/encryptionScopes](aliases/Microsoft.Storage/storageAccounts-encryptionScopes.md)
 - [Microsoft.Storage/storageAccounts/objectReplicationPolicies](aliases/Microsoft.Storage/storageAccounts-objectReplicationPolicies.md)
 - [Microsoft.Storage/storageAccounts/queueServices/queues](aliases/Microsoft.Storage/storageAccounts-queueServices-queues.md)
 - [Microsoft.Storage/storageAccounts/tableServices/tables](aliases/Microsoft.Storage/storageAccounts-tableServices-tables.md)
