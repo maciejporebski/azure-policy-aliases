@@ -248,9 +248,15 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.ContainerRegistry
 
 - [Microsoft.ContainerRegistry/registries](aliases/Microsoft.ContainerRegistry/registries.md)
+- [Microsoft.ContainerRegistry/registries/connectedRegistries](aliases/Microsoft.ContainerRegistry/registries-connectedRegistries.md)
 - [Microsoft.ContainerRegistry/registries/scopeMaps](aliases/Microsoft.ContainerRegistry/registries-scopeMaps.md)
 - [Microsoft.ContainerRegistry/registries/tokens](aliases/Microsoft.ContainerRegistry/registries-tokens.md)
 - [Microsoft.ContainerRegistry/registries/privateEndpointConnections](aliases/Microsoft.ContainerRegistry/registries-privateEndpointConnections.md)
+- [Microsoft.ContainerRegistry/registries/exportPipelines](aliases/Microsoft.ContainerRegistry/registries-exportPipelines.md)
+- [Microsoft.ContainerRegistry/registries/importPipelines](aliases/Microsoft.ContainerRegistry/registries-importPipelines.md)
+- [Microsoft.ContainerRegistry/registries/pipelineRuns](aliases/Microsoft.ContainerRegistry/registries-pipelineRuns.md)
+- [Microsoft.ContainerRegistry/registries/taskRuns](aliases/Microsoft.ContainerRegistry/registries-taskRuns.md)
+- [Microsoft.ContainerRegistry/registries/agentPools](aliases/Microsoft.ContainerRegistry/registries-agentPools.md)
 - [Microsoft.ContainerRegistry/registries/tasks](aliases/Microsoft.ContainerRegistry/registries-tasks.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks](aliases/Microsoft.ContainerRegistry/registries-buildTasks.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks/steps](aliases/Microsoft.ContainerRegistry/registries-buildTasks-steps.md)
@@ -503,6 +509,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions.md)
 - [Microsoft.DocumentDB/cassandraClusters/dataCenters](aliases/Microsoft.DocumentDB/cassandraClusters-dataCenters.md)
 - [Microsoft.DocumentDB/databaseAccounts/services](aliases/Microsoft.DocumentDB/databaseAccounts-services.md)
+- [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views.md)
 
 
 ## Microsoft.EdgeOrder
@@ -748,6 +755,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Migrate/assessmentprojects/privateEndpointConnections](aliases/Microsoft.Migrate/assessmentprojects-privateEndpointConnections.md)
 - [Microsoft.Migrate/assessmentprojects/servercollectors](aliases/Microsoft.Migrate/assessmentprojects-servercollectors.md)
 - [Microsoft.Migrate/moveCollections/moveResources](aliases/Microsoft.Migrate/moveCollections-moveResources.md)
+- [Microsoft.Migrate/migrateprojects/privateEndpointConnections](aliases/Microsoft.Migrate/migrateprojects-privateEndpointConnections.md)
 
 
 ## Microsoft.NetApp
@@ -872,6 +880,16 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.NotificationHubs/namespaces/notificationHubs](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs.md)
 - [Microsoft.NotificationHubs/Namespaces/AuthorizationRules](aliases/Microsoft.NotificationHubs/Namespaces-AuthorizationRules.md)
 - [Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs-authorizationRules.md)
+
+
+## Microsoft.OffAzure
+
+- [Microsoft.OffAzure/VMwareSites](aliases/Microsoft.OffAzure/VMwareSites.md)
+- [Microsoft.OffAzure/HyperVSites](aliases/Microsoft.OffAzure/HyperVSites.md)
+- [Microsoft.OffAzure/HyperVSites/clusters](aliases/Microsoft.OffAzure/HyperVSites-clusters.md)
+- [Microsoft.OffAzure/HyperVSites/hosts](aliases/Microsoft.OffAzure/HyperVSites-hosts.md)
+- [Microsoft.OffAzure/MasterSites/privateEndpointConnections](aliases/Microsoft.OffAzure/MasterSites-privateEndpointConnections.md)
+- [Microsoft.OffAzure/VMwareSites/vcenters](aliases/Microsoft.OffAzure/VMwareSites-vcenters.md)
 
 
 ## Microsoft.OperationalInsights
