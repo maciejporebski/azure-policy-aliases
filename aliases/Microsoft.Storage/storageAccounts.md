@@ -2,7 +2,7 @@
 
 | Default Path | Alias |
 |---|---|
-| `properties.accountType` | `Microsoft.Storage/storageAccounts/accountType` |
+| `sku.name` | `Microsoft.Storage/storageAccounts/accountType` |
 | `sku.name` | `Microsoft.Storage/storageAccounts/sku.name` |
 | `properties.accessTier` | `Microsoft.Storage/storageAccounts/accessTier` |
 | `properties.encryption.services.blob.enabled` | `Microsoft.Storage/storageAccounts/enableBlobEncryption` |
@@ -122,12 +122,4 @@
 | `properties.keyCreationTime.key2` | `Microsoft.Storage/storageAccounts/keyCreationTime.key2` |
 | `properties.azureFilesIdentityBasedAuthentication.defaultSharePermission` | `Microsoft.Storage/storageAccounts/azureFilesIdentityBasedAuthentication.defaultSharePermission` |
 | `properties.allowCrossTenantReplication` | `Microsoft.Storage/storageAccounts/allowCrossTenantReplication` |
-| `properties.defaultToOAuthAuthentication` | `Microsoft.Storage/storageAccounts/defaultToOAuthAuthentication` |
-| `properties.publicNetworkAccess` | `Microsoft.Storage/storageAccounts/publicNetworkAccess` |
-| `properties.immutableStorageWithVersioning` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning` |
-| `properties.immutableStorageWithVersioning.enabled` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.enabled` |
-| `properties.immutableStorageWithVersioning.immutabilityPolicy` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.immutabilityPolicy` |
-| `properties.immutableStorageWithVersioning.immutabilityPolicy.immutabilityPeriodSinceCreationInDays` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.immutabilityPolicy.immutabilityPeriodSinceCreationInDays` |
-| `properties.immutableStorageWithVersioning.immutabilityPolicy.state` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.immutabilityPolicy.state` |
-| `properties.immutableStorageWithVersioning.immutabilityPolicy.allowProtectedAppendWrites` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.immutabilityPolicy.allowProtectedAppendWrites` |
 
