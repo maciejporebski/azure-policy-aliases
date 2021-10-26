@@ -22,4 +22,5 @@
 | `properties.summary.replicatingCount` | `Microsoft.Migrate/migrateProjects/solutions/summary.Servers.replicatingCount` |
 | `properties.summary.testMigratedCount` | `Microsoft.Migrate/migrateProjects/solutions/summary.Servers.testMigratedCount` |
 | `properties.summary.migratedCount` | `Microsoft.Migrate/migrateProjects/solutions/summary.Servers.migratedCount` |
+| `properties.summary` | `Microsoft.Migrate/migrateProjects/solutions/summary.Servers` |
 
