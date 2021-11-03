@@ -15,4 +15,12 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Insights/privateLinkScopes/privateEndpointConnections[*].provisioningState` |
+| `properties.accessModeSettings` | `microsoft.insights/privateLinkScopes/accessModeSettings` |
+| `properties.accessModeSettings.queryAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.queryAccessMode` |
+| `properties.accessModeSettings.ingestionAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.ingestionAccessMode` |
+| `properties.accessModeSettings.exclusions` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions` |
+| `properties.accessModeSettings.exclusions[*]` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*]` |
+| `properties.accessModeSettings.exclusions[*].privateEndpointConnectionName` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].privateEndpointConnectionName` |
+| `properties.accessModeSettings.exclusions[*].queryAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].queryAccessMode` |
+| `properties.accessModeSettings.exclusions[*].ingestionAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].ingestionAccessMode` |
 

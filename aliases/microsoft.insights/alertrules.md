@@ -95,4 +95,8 @@
 | `properties.condition.windowSize` | `Microsoft.Insights/alertrules/condition.Microsoft-Azure-Management-Insights-Models-LocationThresholdRuleCondition.windowSize` |
 | `properties.condition.dataSource` | `Microsoft.Insights/alertrules/condition.dataSource.Microsoft-Azure-Management-Insights-Models-RuleManagementEventDataSource` |
 | `properties.action` | `Microsoft.Insights/alertrules/action.Microsoft-Azure-Management-Insights-Models-RuleWebhookAction` |
+| `properties.condition` | `Microsoft.Insights/alertrules/condition.Microsoft-Azure-Management-Insights-Models-LocationThresholdRuleCondition` |
+| `properties.action` | `Microsoft.Insights/alertrules/action` |
+| `properties.actions[*]` | `Microsoft.Insights/alertrules/actions[*].Microsoft-Azure-Management-Insights-Models-RuleWebhookAction` |
+| `properties.actions[*]` | `Microsoft.Insights/alertrules/actions[*].Microsoft-Azure-Management-Insights-Models-RuleEmailAction` |
 

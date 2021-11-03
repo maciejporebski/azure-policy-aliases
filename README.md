@@ -235,6 +235,22 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/diskAccesses/privateEndpointConnections](aliases/Microsoft.Compute/diskAccesses-privateEndpointConnections.md)
 
 
+## Microsoft.ConnectedVMwarevSphere
+
+- [Microsoft.ConnectedVMwarevSphere/VCenters](aliases/Microsoft.ConnectedVMwarevSphere/VCenters.md)
+- [Microsoft.ConnectedVMwarevSphere/ResourcePools](aliases/Microsoft.ConnectedVMwarevSphere/ResourcePools.md)
+- [Microsoft.ConnectedVMwarevSphere/VirtualNetworks](aliases/Microsoft.ConnectedVMwarevSphere/VirtualNetworks.md)
+- [Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates.md)
+- [Microsoft.ConnectedVMwarevSphere/VirtualMachines](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines.md)
+- [Microsoft.ConnectedVMwarevSphere/VCenters/InventoryItems](aliases/Microsoft.ConnectedVMwarevSphere/VCenters-InventoryItems.md)
+- [Microsoft.ConnectedVMwarevSphere/VirtualMachines/HybridIdentityMetadata](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines-HybridIdentityMetadata.md)
+- [Microsoft.ConnectedVMwarevSphere/VirtualMachines/Extensions](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines-Extensions.md)
+- [Microsoft.ConnectedVMwarevSphere/VirtualMachines/GuestAgents](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines-GuestAgents.md)
+- [Microsoft.ConnectedVMwarevSphere/Clusters](aliases/Microsoft.ConnectedVMwarevSphere/Clusters.md)
+- [Microsoft.ConnectedVMwarevSphere/Datastores](aliases/Microsoft.ConnectedVMwarevSphere/Datastores.md)
+- [Microsoft.ConnectedVMwarevSphere/Hosts](aliases/Microsoft.ConnectedVMwarevSphere/Hosts.md)
+
+
 ## Microsoft.Consumption
 
 - [Microsoft.Consumption/Budgets](aliases/Microsoft.Consumption/Budgets.md)
@@ -509,6 +525,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions.md)
 - [Microsoft.DocumentDB/cassandraClusters/dataCenters](aliases/Microsoft.DocumentDB/cassandraClusters-dataCenters.md)
 - [Microsoft.DocumentDB/databaseAccounts/services](aliases/Microsoft.DocumentDB/databaseAccounts-services.md)
+- [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views.md)
 
 
 ## Microsoft.EdgeOrder

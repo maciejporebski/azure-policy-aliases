@@ -26,4 +26,5 @@
 | `properties.logs` | `Microsoft.Insights/diagnosticSettings/logs` |
 | `properties.logAnalyticsDestinationType` | `Microsoft.Insights/diagnosticSettings/logAnalyticsDestinationType` |
 | `properties.logs[*].categoryGroup` | `microsoft.insights/diagnosticSettings/logs[*].categoryGroup` |
+| `properties.marketplacePartnerId` | `Microsoft.Insights/diagnosticSettings/marketplacePartnerId` |
 

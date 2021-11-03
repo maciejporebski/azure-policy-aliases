@@ -68,4 +68,12 @@
 | `properties.webhookReceivers[*].objectId` | `Microsoft.Insights/actiongroups/webhookReceivers[*].objectId` |
 | `properties.webhookReceivers[*].identifierUri` | `Microsoft.Insights/actiongroups/webhookReceivers[*].identifierUri` |
 | `properties.webhookReceivers[*].tenantId` | `Microsoft.Insights/actiongroups/webhookReceivers[*].tenantId` |
+| `properties.eventHubReceivers` | `microsoft.insights/actionGroups/eventHubReceivers` |
+| `properties.eventHubReceivers[*]` | `microsoft.insights/actionGroups/eventHubReceivers[*]` |
+| `properties.eventHubReceivers[*].name` | `microsoft.insights/actionGroups/eventHubReceivers[*].name` |
+| `properties.eventHubReceivers[*].eventHubNameSpace` | `microsoft.insights/actionGroups/eventHubReceivers[*].eventHubNameSpace` |
+| `properties.eventHubReceivers[*].eventHubName` | `microsoft.insights/actionGroups/eventHubReceivers[*].eventHubName` |
+| `properties.eventHubReceivers[*].useCommonAlertSchema` | `microsoft.insights/actionGroups/eventHubReceivers[*].useCommonAlertSchema` |
+| `properties.eventHubReceivers[*].tenantId` | `microsoft.insights/actionGroups/eventHubReceivers[*].tenantId` |
+| `properties.eventHubReceivers[*].subscriptionId` | `microsoft.insights/actionGroups/eventHubReceivers[*].subscriptionId` |
 

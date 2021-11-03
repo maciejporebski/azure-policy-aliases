@@ -62,4 +62,9 @@
 | `properties.profiles[*].rules[*].metricTrigger.dimensions[*]` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions[*]` |
 | `properties.profiles[*].rules[*].metricTrigger.dimensions` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dimensions` |
 | `properties.profiles[*].rules[*].metricTrigger.dividePerInstance` | `microsoft.insights/autoscalesettings/profiles[*].rules[*].metricTrigger.dividePerInstance` |
+| `properties.profiles[*].rules[*].metricTrigger.metricResourceLocation` | `Microsoft.Insights/autoscalesettings/profiles[*].rules[*].metricTrigger.metricResourceLocation` |
+| `properties.targetResourceLocation` | `Microsoft.Insights/autoscalesettings/targetResourceLocation` |
+| `properties.predictiveAutoscalePolicy` | `Microsoft.Insights/autoscalesettings/predictiveAutoscalePolicy` |
+| `properties.predictiveAutoscalePolicy.scaleMode` | `Microsoft.Insights/autoscalesettings/predictiveAutoscalePolicy.scaleMode` |
+| `properties.predictiveAutoscalePolicy.scaleLookAheadTime` | `Microsoft.Insights/autoscalesettings/predictiveAutoscalePolicy.scaleLookAheadTime` |
 

@@ -123,4 +123,7 @@
 | `properties.skipQueryValidation` | `Microsoft.Insights/scheduledQueryRules/skipQueryValidation` |
 | `properties.autoMitigate` | `Microsoft.Insights/scheduledQueryRules/autoMitigate` |
 | `properties.action` | `Microsoft.Insights/scheduledQueryRules/action.Microsoft-WindowsAzure-Management-Monitoring-Alerts-Models-Microsoft-AppInsights-Nexus-DataContracts-Resources-ScheduledQueryRules-LogToMetricAction` |
+| `properties.actions.actionGroups` | `Microsoft.Insights/scheduledQueryRules/actions.actionGroups` |
+| `properties.actions.actionGroups[*]` | `Microsoft.Insights/scheduledQueryRules/actions.actionGroups[*]` |
+| `properties.actions.customProperties` | `Microsoft.Insights/scheduledQueryRules/actions.customProperties` |
 
