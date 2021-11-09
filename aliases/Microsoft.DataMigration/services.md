@@ -11,4 +11,5 @@
 | `sku.size` | `Microsoft.DataMigration/services/sku.size` |
 | `sku.capacity` | `Microsoft.DataMigration/services/sku.capacity` |
 | `sku` | `Microsoft.DataMigration/services/sku` |
+| `properties.virtualNicId` | `Microsoft.DataMigration/services/virtualNicId` |
 
