@@ -48,8 +48,4 @@
 | `properties.errorInfo.additionalInfo[*].type` | `Microsoft.KubernetesConfiguration/extensions/errorInfo.additionalInfo[*].type` |
 | `properties.customLocationSettings` | `Microsoft.KubernetesConfiguration/extensions/customLocationSettings` |
 | `properties.packageUri` | `Microsoft.KubernetesConfiguration/extensions/packageUri` |
-| `properties.aksAssignedIdentity` | `Microsoft.KubernetesConfiguration/extensions/aksAssignedIdentity` |
-| `properties.aksAssignedIdentity.principalId` | `Microsoft.KubernetesConfiguration/extensions/aksAssignedIdentity.principalId` |
-| `properties.aksAssignedIdentity.tenantId` | `Microsoft.KubernetesConfiguration/extensions/aksAssignedIdentity.tenantId` |
-| `properties.aksAssignedIdentity.type` | `Microsoft.KubernetesConfiguration/extensions/aksAssignedIdentity.type` |
 
