@@ -520,6 +520,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-sqlRoleDefinitions.md)
 - [Microsoft.DocumentDB/cassandraClusters/dataCenters](aliases/Microsoft.DocumentDB/cassandraClusters-dataCenters.md)
 - [Microsoft.DocumentDB/databaseAccounts/services](aliases/Microsoft.DocumentDB/databaseAccounts-services.md)
+- [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views.md)
 
 
 ## Microsoft.EdgeOrder
@@ -642,6 +643,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.KubernetesConfiguration/sourceControlConfigurations](aliases/Microsoft.KubernetesConfiguration/sourceControlConfigurations.md)
 - [Microsoft.KubernetesConfiguration/extensions](aliases/Microsoft.KubernetesConfiguration/extensions.md)
+- [Microsoft.KubernetesConfiguration/fluxConfigurations](aliases/Microsoft.KubernetesConfiguration/fluxConfigurations.md)
 
 
 ## Microsoft.Kusto
