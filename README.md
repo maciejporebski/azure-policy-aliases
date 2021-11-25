@@ -1116,6 +1116,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/automaticTuning](aliases/Microsoft.Sql/servers-automaticTuning.md)
 - [Microsoft.Sql/servers/databases/automaticTuning](aliases/Microsoft.Sql/servers-databases-automaticTuning.md)
 - [Microsoft.Sql/servers/databases/transparentDataEncryption](aliases/Microsoft.Sql/servers-databases-transparentDataEncryption.md)
+- [Microsoft.Sql/servers/databases/ledgerDigestUploads](aliases/Microsoft.Sql/servers-databases-ledgerDigestUploads.md)
 - [Microsoft.Sql/servers/databases/dataMaskingPolicies](aliases/Microsoft.Sql/servers-databases-dataMaskingPolicies.md)
 - [Microsoft.Sql/servers/databases/securityAlertPolicies](aliases/Microsoft.Sql/servers-databases-securityAlertPolicies.md)
 - [Microsoft.Sql/servers/securityAlertPolicies](aliases/Microsoft.Sql/servers-securityAlertPolicies.md)
@@ -1125,6 +1126,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/devOpsAuditingSettings](aliases/Microsoft.Sql/servers-devOpsAuditingSettings.md)
 - [Microsoft.Sql/servers/elasticpools](aliases/Microsoft.Sql/servers-elasticpools.md)
 - [Microsoft.Sql/servers/jobAgents](aliases/Microsoft.Sql/servers-jobAgents.md)
+- [Microsoft.Sql/servers/jobAgents/jobs](aliases/Microsoft.Sql/servers-jobAgents-jobs.md)
 - [Microsoft.Sql/servers/jobAgents/jobs/steps](aliases/Microsoft.Sql/servers-jobAgents-jobs-steps.md)
 - [Microsoft.Sql/servers/disasterRecoveryConfiguration](aliases/Microsoft.Sql/servers-disasterRecoveryConfiguration.md)
 - [Microsoft.Sql/servers/failoverGroups](aliases/Microsoft.Sql/servers-failoverGroups.md)
@@ -1172,6 +1174,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/azureADOnlyAuthentications](aliases/Microsoft.Sql/servers-azureADOnlyAuthentications.md)
 - [Microsoft.Sql/servers/databases/advisors/recommendedActions](aliases/Microsoft.Sql/servers-databases-advisors-recommendedActions.md)
 - [Microsoft.Sql/servers/databases/maintenanceWindows](aliases/Microsoft.Sql/servers-databases-maintenanceWindows.md)
+- [Microsoft.Sql/managedInstances/distributedAvailabilityGroups](aliases/Microsoft.Sql/managedInstances-distributedAvailabilityGroups.md)
+- [Microsoft.Sql/managedInstances/serverTrustCertificates](aliases/Microsoft.Sql/managedInstances-serverTrustCertificates.md)
+- [Microsoft.Sql/servers/jobAgents/credentials](aliases/Microsoft.Sql/servers-jobAgents-credentials.md)
+- [Microsoft.Sql/servers/jobAgents/targetGroups](aliases/Microsoft.Sql/servers-jobAgents-targetGroups.md)
+- [Microsoft.Sql/servers/outboundFirewallRules](aliases/Microsoft.Sql/servers-outboundFirewallRules.md)
 
 
 ## Microsoft.SqlVirtualMachine

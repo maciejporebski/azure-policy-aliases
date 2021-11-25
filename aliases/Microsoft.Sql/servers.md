@@ -33,4 +33,8 @@
 | `properties.administrators.sid` | `Microsoft.Sql/servers/administrators.sid` |
 | `properties.administrators.tenantId` | `Microsoft.Sql/servers/administrators.tenantId` |
 | `properties.administrators.azureADOnlyAuthentication` | `Microsoft.Sql/servers/administrators.azureADOnlyAuthentication` |
+| `properties.federatedClientId` | `Microsoft.Sql/servers/federatedClientId` |
+| `properties.restrictOutboundNetworkAccess` | `Microsoft.Sql/servers/restrictOutboundNetworkAccess` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.Sql/servers/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.Sql/servers/privateEndpointConnections[*].groupIds[*]` |
 

@@ -117,10 +117,14 @@
 | `properties.readReplicaCount` | `Microsoft.Sql/servers/databases/readReplicaCount` |
 | `properties.pausedDate` | `Microsoft.Sql/servers/databases/pausedDate` |
 | `properties.resumedDate` | `Microsoft.Sql/servers/databases/resumedDate` |
-| `properties.storageAccountType` | `Microsoft.Sql/servers/databases/storageAccountType` |
+| `properties.requestedBackupStorageRedundancy` | `Microsoft.Sql/servers/databases/storageAccountType` |
 | `properties.highAvailabilityReplicaCount` | `Microsoft.Sql/servers/databases/highAvailabilityReplicaCount` |
 | `properties.secondaryType` | `Microsoft.Sql/servers/databases/secondaryType` |
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/servers/databases/maintenanceConfigurationId` |
 | `properties.currentBackupStorageRedundancy` | `Microsoft.Sql/servers/databases/currentBackupStorageRedundancy` |
 | `properties.requestedBackupStorageRedundancy` | `Microsoft.Sql/servers/databases/requestedBackupStorageRedundancy` |
+| `properties.isLedgerOn` | `Microsoft.Sql/servers/databases/isLedgerOn` |
+| `properties.isInfraEncryptionEnabled` | `Microsoft.Sql/servers/databases/isInfraEncryptionEnabled` |
+| `properties.federatedClientId` | `Microsoft.Sql/servers/databases/federatedClientId` |
+| `properties.primaryDelegatedIdentityClientId` | `Microsoft.Sql/servers/databases/primaryDelegatedIdentityClientId` |
 

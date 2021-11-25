@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Sql/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.Sql/servers/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.Sql/servers/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.Sql/servers/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.Sql/servers/privateEndpointConnections/groupIds[*]` |
 

@@ -29,7 +29,7 @@
 | `properties.minimalTlsVersion` | `Microsoft.Sql/managedInstances/minimalTlsVersion` |
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/managedInstances/maintenanceConfigurationId` |
 | `properties.provisioningState` | `Microsoft.Sql/managedInstances/provisioningState` |
-| `properties.storageAccountType` | `Microsoft.Sql/managedInstances/storageAccountType` |
+| `properties.requestedBackupStorageRedundancy` | `Microsoft.Sql/managedInstances/storageAccountType` |
 | `properties.privateEndpointConnections` | `Microsoft.Sql/managedInstances/privateEndpointConnections` |
 | `properties.privateEndpointConnections[*]` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*]` |
 | `properties.privateEndpointConnections[*].id` | `Microsoft.Sql/managedInstances/privateEndpointConnections[*].id` |
@@ -50,4 +50,11 @@
 | `properties.administrators.sid` | `Microsoft.Sql/managedInstances/administrators.sid` |
 | `properties.administrators.tenantId` | `Microsoft.Sql/managedInstances/administrators.tenantId` |
 | `properties.administrators.azureADOnlyAuthentication` | `Microsoft.Sql/managedInstances/administrators.azureADOnlyAuthentication` |
+| `properties.currentBackupStorageRedundancy` | `Microsoft.Sql/managedInstances/currentBackupStorageRedundancy` |
+| `properties.requestedBackupStorageRedundancy` | `Microsoft.Sql/managedInstances/requestedBackupStorageRedundancy` |
+| `properties.servicePrincipal` | `Microsoft.Sql/managedInstances/servicePrincipal` |
+| `properties.servicePrincipal.principalId` | `Microsoft.Sql/managedInstances/servicePrincipal.principalId` |
+| `properties.servicePrincipal.clientId` | `Microsoft.Sql/managedInstances/servicePrincipal.clientId` |
+| `properties.servicePrincipal.tenantId` | `Microsoft.Sql/managedInstances/servicePrincipal.tenantId` |
+| `properties.servicePrincipal.type` | `Microsoft.Sql/managedInstances/servicePrincipal.type` |
 
