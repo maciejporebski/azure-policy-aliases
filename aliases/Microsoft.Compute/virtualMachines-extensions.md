@@ -26,4 +26,5 @@
 | `properties.resources` | `Microsoft.Compute/virtualMachines/extensions/resources` |
 | `properties.forceUpdateTag` | `Microsoft.Compute/virtualMachines/extensions/forceUpdateTag` |
 | `properties.protectedSettings` | `Microsoft.Compute/virtualMachines/extensions/protectedSettings` |
+| `properties.suppressFailures` | `Microsoft.Compute/virtualMachines/extensions/suppressFailures` |
 

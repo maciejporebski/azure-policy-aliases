@@ -111,4 +111,8 @@
 | `properties.restorePoints[*].properties.provisioningDetails.totalUsedSizeInBytes` | `Microsoft.Compute/restorePointCollections/restorePoints[*].provisioningDetails.totalUsedSizeInBytes` |
 | `properties.restorePoints[*].properties.provisioningDetails.statusCode` | `Microsoft.Compute/restorePointCollections/restorePoints[*].provisioningDetails.statusCode` |
 | `properties.restorePoints[*].properties.provisioningDetails.statusMessage` | `Microsoft.Compute/restorePointCollections/restorePoints[*].provisioningDetails.statusMessage` |
+| `properties.restorePoints[*].properties.timeCreated` | `Microsoft.Compute/restorePointCollections/restorePoints[*].timeCreated` |
+| `properties.restorePoints[*].properties.sourceMetadata.hardwareProfile.vmSizeProperties` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.hardwareProfile.vmSizeProperties` |
+| `properties.restorePoints[*].properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` |
+| `properties.restorePoints[*].properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` |
 

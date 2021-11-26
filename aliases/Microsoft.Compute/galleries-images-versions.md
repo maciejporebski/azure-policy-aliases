@@ -50,4 +50,5 @@
 | `properties.storageProfile.source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.source.uri` |
 | `properties.storageProfile.osDiskImage.source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.uri` |
 | `properties.storageProfile.dataDiskImages[*].source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.uri` |
+| `properties.publishingProfile.replicationMode` | `Microsoft.Compute/galleries/images/versions/publishingProfile.replicationMode` |
 

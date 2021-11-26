@@ -65,4 +65,8 @@
 | `properties.purchasePlan.product` | `Microsoft.Compute/snapshots/purchasePlan.product` |
 | `properties.purchasePlan.promotionCode` | `Microsoft.Compute/snapshots/purchasePlan.promotionCode` |
 | `properties.supportsHibernation` | `Microsoft.Compute/snapshots/supportsHibernation` |
+| `properties.supportedCapabilities` | `Microsoft.Compute/snapshots/supportedCapabilities` |
+| `properties.supportedCapabilities.acceleratedNetwork` | `Microsoft.Compute/snapshots/supportedCapabilities.acceleratedNetwork` |
+| `properties.publicNetworkAccess` | `Microsoft.Compute/snapshots/publicNetworkAccess` |
+| `properties.completionPercent` | `Microsoft.Compute/snapshots/completionPercent` |
 

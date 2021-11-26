@@ -15,4 +15,16 @@
 | `properties.encryptionType` | `Microsoft.Compute/diskEncryptionSets/encryptionType` |
 | `properties.rotationToLatestKeyVersionEnabled` | `Microsoft.Compute/diskEncryptionSets/rotationToLatestKeyVersionEnabled` |
 | `properties.lastKeyRotationTimestamp` | `Microsoft.Compute/diskEncryptionSets/lastKeyRotationTimestamp` |
+| `properties.autoKeyRotationError` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError` |
+| `properties.autoKeyRotationError.details` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.details` |
+| `properties.autoKeyRotationError.details[*]` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.details[*]` |
+| `properties.autoKeyRotationError.details[*].code` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.details[*].code` |
+| `properties.autoKeyRotationError.details[*].target` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.details[*].target` |
+| `properties.autoKeyRotationError.details[*].message` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.details[*].message` |
+| `properties.autoKeyRotationError.innererror` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.innererror` |
+| `properties.autoKeyRotationError.innererror.exceptiontype` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.innererror.exceptiontype` |
+| `properties.autoKeyRotationError.innererror.errordetail` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.innererror.errordetail` |
+| `properties.autoKeyRotationError.code` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.code` |
+| `properties.autoKeyRotationError.target` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.target` |
+| `properties.autoKeyRotationError.message` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.message` |
 

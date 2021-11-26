@@ -225,4 +225,16 @@
 | `properties.capacityReservation` | `Microsoft.Compute/virtualMachines/capacityReservation` |
 | `properties.capacityReservation.capacityReservationGroup` | `Microsoft.Compute/virtualMachines/capacityReservation.capacityReservationGroup` |
 | `properties.capacityReservation.capacityReservationGroup.id` | `Microsoft.Compute/virtualMachines/capacityReservation.capacityReservationGroup.id` |
+| `properties.hardwareProfile.vmSizeProperties` | `Microsoft.Compute/virtualMachines/hardwareProfile.vmSizeProperties` |
+| `properties.hardwareProfile.vmSizeProperties.vCPUsAvailable` | `Microsoft.Compute/virtualMachines/hardwareProfile.vmSizeProperties.vCPUsAvailable` |
+| `properties.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/virtualMachines/hardwareProfile.vmSizeProperties.vCPUsPerCore` |
+| `properties.storageProfile.imageReference.sharedGalleryImageId` | `Microsoft.Compute/virtualMachines/storageProfile.imageReference.sharedGalleryImageId` |
+| `properties.additionalCapabilities.hibernationEnabled` | `Microsoft.Compute/virtualMachines/additionalCapabilities.hibernationEnabled` |
+| `properties.applicationProfile` | `Microsoft.Compute/virtualMachines/applicationProfile` |
+| `properties.applicationProfile.galleryApplications` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications` |
+| `properties.applicationProfile.galleryApplications[*]` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*]` |
+| `properties.applicationProfile.galleryApplications[*].tags` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].tags` |
+| `properties.applicationProfile.galleryApplications[*].order` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].order` |
+| `properties.applicationProfile.galleryApplications[*].packageReferenceId` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].packageReferenceId` |
+| `properties.applicationProfile.galleryApplications[*].configurationReference` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].configurationReference` |
 

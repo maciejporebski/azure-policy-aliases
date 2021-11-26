@@ -14,4 +14,5 @@
 | `properties.protectedSettings` | `Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettings` |
 | `properties.provisionAfterExtensions[*]` | `Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions[*]` |
 | `properties.provisionAfterExtensions` | `Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions` |
+| `properties.suppressFailures` | `Microsoft.Compute/virtualMachineScaleSets/extensions/suppressFailures` |
 

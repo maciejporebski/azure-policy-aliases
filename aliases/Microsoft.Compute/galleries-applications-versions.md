@@ -39,4 +39,5 @@
 | `properties.publishingProfile.manageActions.install` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.manageActions.install` |
 | `properties.publishingProfile.manageActions.remove` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.manageActions.remove` |
 | `properties.publishingProfile.manageActions.update` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.manageActions.update` |
+| `properties.publishingProfile.replicationMode` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.replicationMode` |
 

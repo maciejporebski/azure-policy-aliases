@@ -105,4 +105,8 @@
 | `properties.provisioningDetails.totalUsedSizeInBytes` | `Microsoft.Compute/restorePointCollections/restorePoints/provisioningDetails.totalUsedSizeInBytes` |
 | `properties.provisioningDetails.statusCode` | `Microsoft.Compute/restorePointCollections/restorePoints/provisioningDetails.statusCode` |
 | `properties.provisioningDetails.statusMessage` | `Microsoft.Compute/restorePointCollections/restorePoints/provisioningDetails.statusMessage` |
+| `properties.timeCreated` | `Microsoft.Compute/restorePointCollections/restorePoints/timeCreated` |
+| `properties.sourceMetadata.hardwareProfile.vmSizeProperties` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile.vmSizeProperties` |
+| `properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` |
+| `properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` |
 

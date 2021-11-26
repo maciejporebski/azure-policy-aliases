@@ -248,4 +248,9 @@
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.dscpConfiguration.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.networkInterfaceConfigurations[*].dscpConfiguration.id` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.deleteOption` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].deleteOption` |
 | `properties.userData` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/userData` |
+| `properties.hardwareProfile.vmSizeProperties` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/hardwareProfile.vmSizeProperties` |
+| `properties.hardwareProfile.vmSizeProperties.vCPUsAvailable` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/hardwareProfile.vmSizeProperties.vCPUsAvailable` |
+| `properties.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/hardwareProfile.vmSizeProperties.vCPUsPerCore` |
+| `properties.storageProfile.imageReference.sharedGalleryImageId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.imageReference.sharedGalleryImageId` |
+| `properties.additionalCapabilities.hibernationEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/additionalCapabilities.hibernationEnabled` |
 

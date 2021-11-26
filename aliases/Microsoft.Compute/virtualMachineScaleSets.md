@@ -257,4 +257,15 @@
 | `properties.spotRestorePolicy` | `Microsoft.Compute/virtualMachineScaleSets/spotRestorePolicy` |
 | `properties.spotRestorePolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/spotRestorePolicy.enabled` |
 | `properties.spotRestorePolicy.restoreTimeout` | `Microsoft.Compute/virtualMachineScaleSets/spotRestorePolicy.restoreTimeout` |
+| `properties.virtualMachineProfile.storageProfile.imageReference.sharedGalleryImageId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.storageProfile.imageReference.sharedGalleryImageId` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.suppressFailures` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].suppressFailures` |
+| `properties.virtualMachineProfile.applicationProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications[*]` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*]` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].tags` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].tags` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].order` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].order` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].packageReferenceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].packageReferenceId` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].configurationReference` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].configurationReference` |
+| `properties.additionalCapabilities.hibernationEnabled` | `Microsoft.Compute/virtualMachineScaleSets/additionalCapabilities.hibernationEnabled` |
+| `properties.scaleInPolicy.forceDeletion` | `Microsoft.Compute/virtualMachineScaleSets/scaleInPolicy.forceDeletion` |
 

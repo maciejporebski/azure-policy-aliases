@@ -42,4 +42,6 @@
 | `properties.sharingProfile.groups[*].type` | `Microsoft.Compute/galleries/sharingProfile.groups[*].type` |
 | `properties.sharingProfile.groups[*].ids` | `Microsoft.Compute/galleries/sharingProfile.groups[*].ids` |
 | `properties.sharingProfile.groups[*].ids[*]` | `Microsoft.Compute/galleries/sharingProfile.groups[*].ids[*]` |
+| `properties.softDeletePolicy` | `Microsoft.Compute/galleries/softDeletePolicy` |
+| `properties.softDeletePolicy.isSoftDeleteEnabled` | `Microsoft.Compute/galleries/softDeletePolicy.isSoftDeleteEnabled` |
 

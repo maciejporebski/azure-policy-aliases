@@ -85,4 +85,8 @@
 | `properties.supportsHibernation` | `Microsoft.Compute/disks/supportsHibernation` |
 | `properties.securityProfile` | `Microsoft.Compute/disks/securityProfile` |
 | `properties.securityProfile.securityType` | `Microsoft.Compute/disks/securityProfile.securityType` |
+| `properties.supportedCapabilities` | `Microsoft.Compute/disks/supportedCapabilities` |
+| `properties.supportedCapabilities.acceleratedNetwork` | `Microsoft.Compute/disks/supportedCapabilities.acceleratedNetwork` |
+| `properties.completionPercent` | `Microsoft.Compute/disks/completionPercent` |
+| `properties.publicNetworkAccess` | `Microsoft.Compute/disks/publicNetworkAccess` |
 
