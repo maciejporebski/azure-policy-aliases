@@ -71,13 +71,4 @@
 | `properties.options[*].configuration.offlineRentalConfiguration.storageDurationSeconds` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyFairPlayConfiguration.offlineRentalConfiguration.storageDurationSeconds` |
 | `properties.options[*].configuration` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyFairPlayConfiguration` |
 | `properties.options[*].restriction.primaryVerificationKey` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.primaryVerificationKey.#Microsoft-Media-ContentKeyPolicyX509CertificateTokenKey` |
-| `properties.options[*].configuration` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyPlayReadyConfiguration` |
-| `properties.options[*].configuration` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration` |
-| `properties.options[*].configuration.licenses[*].contentKeyLocation` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyPlayReadyConfiguration.licenses[*].contentKeyLocation` |
-| `properties.options[*].restriction` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction` |
-| `properties.options[*].restriction.primaryVerificationKey` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.primaryVerificationKey.#Microsoft-Media-ContentKeyPolicyRsaTokenKey` |
-| `properties.options[*].restriction.primaryVerificationKey` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.primaryVerificationKey` |
-| `properties.options[*].restriction.alternateVerificationKeys[*]` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.alternateVerificationKeys[*].#Microsoft-Media-ContentKeyPolicyX509CertificateTokenKey` |
-| `properties.options[*].restriction.alternateVerificationKeys[*]` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.alternateVerificationKeys[*].#Microsoft-Media-ContentKeyPolicyRsaTokenKey` |
-| `properties.options[*].restriction.alternateVerificationKeys[*]` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.alternateVerificationKeys[*].#Microsoft-Media-ContentKeyPolicySymmetricTokenKey` |
 

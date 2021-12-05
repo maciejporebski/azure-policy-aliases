@@ -182,24 +182,4 @@
 | `properties.initContainers[*].properties.volumeMounts[*].mountPath` | `Microsoft.ContainerInstance/containerGroups/initContainers[*].volumeMounts[*].mountPath` |
 | `properties.initContainers[*].properties.volumeMounts[*].readOnly` | `Microsoft.ContainerInstance/containerGroups/initContainers[*].volumeMounts[*].readOnly` |
 | `properties.diagnostics.logAnalytics.workspaceResourceId` | `Microsoft.ContainerInstance/containerGroups/diagnostics.logAnalytics.workspaceResourceId` |
-| `properties.containers[*].properties.livenessProbe.httpGet.httpHeaders` | `Microsoft.ContainerInstance/containerGroups/containers[*].livenessProbe.httpGet.httpHeaders` |
-| `properties.containers[*].properties.livenessProbe.httpGet.httpHeaders.name` | `Microsoft.ContainerInstance/containerGroups/containers[*].livenessProbe.httpGet.httpHeaders.name` |
-| `properties.containers[*].properties.livenessProbe.httpGet.httpHeaders.value` | `Microsoft.ContainerInstance/containerGroups/containers[*].livenessProbe.httpGet.httpHeaders.value` |
-| `properties.containers[*].properties.readinessProbe.httpGet.httpHeaders` | `Microsoft.ContainerInstance/containerGroups/containers[*].readinessProbe.httpGet.httpHeaders` |
-| `properties.containers[*].properties.readinessProbe.httpGet.httpHeaders.name` | `Microsoft.ContainerInstance/containerGroups/containers[*].readinessProbe.httpGet.httpHeaders.name` |
-| `properties.containers[*].properties.readinessProbe.httpGet.httpHeaders.value` | `Microsoft.ContainerInstance/containerGroups/containers[*].readinessProbe.httpGet.httpHeaders.value` |
-| `properties.containers[*].properties.livenessProbe.httpGet.httpHeaders[*]` | `Microsoft.ContainerInstance/containerGroups/containers[*].livenessProbe.httpGet.httpHeaders[*]` |
-| `properties.containers[*].properties.livenessProbe.httpGet.httpHeaders[*].name` | `Microsoft.ContainerInstance/containerGroups/containers[*].livenessProbe.httpGet.httpHeaders[*].name` |
-| `properties.containers[*].properties.livenessProbe.httpGet.httpHeaders[*].value` | `Microsoft.ContainerInstance/containerGroups/containers[*].livenessProbe.httpGet.httpHeaders[*].value` |
-| `properties.containers[*].properties.readinessProbe.httpGet.httpHeaders[*]` | `Microsoft.ContainerInstance/containerGroups/containers[*].readinessProbe.httpGet.httpHeaders[*]` |
-| `properties.containers[*].properties.readinessProbe.httpGet.httpHeaders[*].name` | `Microsoft.ContainerInstance/containerGroups/containers[*].readinessProbe.httpGet.httpHeaders[*].name` |
-| `properties.containers[*].properties.readinessProbe.httpGet.httpHeaders[*].value` | `Microsoft.ContainerInstance/containerGroups/containers[*].readinessProbe.httpGet.httpHeaders[*].value` |
-| `properties.imageRegistryCredentials[*].identity` | `Microsoft.ContainerInstance/containerGroups/imageRegistryCredentials[*].identity` |
-| `properties.imageRegistryCredentials[*].identityUrl` | `Microsoft.ContainerInstance/containerGroups/imageRegistryCredentials[*].identityUrl` |
-| `properties.subnetIds` | `Microsoft.ContainerInstance/containerGroups/subnetIds` |
-| `properties.subnetIds[*]` | `Microsoft.ContainerInstance/containerGroups/subnetIds[*]` |
-| `properties.subnetIds[*].id` | `Microsoft.ContainerInstance/containerGroups/subnetIds[*].id` |
-| `properties.subnetIds[*].name` | `Microsoft.ContainerInstance/containerGroups/subnetIds[*].name` |
-| `zones` | `Microsoft.ContainerInstance/containerGroups/zones` |
-| `zones[*]` | `Microsoft.ContainerInstance/containerGroups/zones[*]` |
 
