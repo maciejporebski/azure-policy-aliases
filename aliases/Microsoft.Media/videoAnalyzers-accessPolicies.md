@@ -20,4 +20,8 @@
 | `properties.authentication.keys[*].n` | `Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].#Microsoft-VideoAnalyzer-RsaTokenKey.n` |
 | `properties.authentication.keys[*].e` | `Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].#Microsoft-VideoAnalyzer-RsaTokenKey.e` |
 | `properties.authentication.keys[*].kid` | `Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].kid` |
+| `properties.authentication` | `Microsoft.Media/videoAnalyzers/accessPolicies/authentication` |
+| `properties.authentication.keys[*]` | `Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].#Microsoft-VideoAnalyzer-EccTokenKey` |
+| `properties.authentication.keys[*]` | `Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].#Microsoft-VideoAnalyzer-RsaTokenKey` |
+| `properties.authentication.keys[*].alg` | `Microsoft.Media/videoAnalyzers/accessPolicies/authentication.#Microsoft-VideoAnalyzer-JwtAuthentication.keys[*].#Microsoft-VideoAnalyzer-RsaTokenKey.alg` |
 

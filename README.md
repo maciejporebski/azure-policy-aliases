@@ -747,7 +747,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Media/mediaservices/mediaGraphs](aliases/Microsoft.Media/mediaservices-mediaGraphs.md)
 - [Microsoft.Media/videoAnalyzers/accessPolicies](aliases/Microsoft.Media/videoAnalyzers-accessPolicies.md)
 - [Microsoft.Media/videoAnalyzers/edgeModules](aliases/Microsoft.Media/videoAnalyzers-edgeModules.md)
+- [Microsoft.Media/videoAnalyzers/pipelineTopologies](aliases/Microsoft.Media/videoAnalyzers-pipelineTopologies.md)
+- [Microsoft.Media/videoAnalyzers/livePipelines](aliases/Microsoft.Media/videoAnalyzers-livePipelines.md)
+- [Microsoft.Media/videoAnalyzers/pipelineJobs](aliases/Microsoft.Media/videoAnalyzers-pipelineJobs.md)
 - [Microsoft.Media/videoAnalyzers/videos](aliases/Microsoft.Media/videoAnalyzers-videos.md)
+- [Microsoft.Media/videoAnalyzers/privateEndpointConnections](aliases/Microsoft.Media/videoAnalyzers-privateEndpointConnections.md)
 
 
 ## Microsoft.Migrate
@@ -898,6 +902,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.OffAzure/VMwareSites](aliases/Microsoft.OffAzure/VMwareSites.md)
 - [Microsoft.OffAzure/HyperVSites](aliases/Microsoft.OffAzure/HyperVSites.md)
+- [Microsoft.OffAzure/MasterSites](aliases/Microsoft.OffAzure/MasterSites.md)
 - [Microsoft.OffAzure/HyperVSites/clusters](aliases/Microsoft.OffAzure/HyperVSites-clusters.md)
 - [Microsoft.OffAzure/HyperVSites/hosts](aliases/Microsoft.OffAzure/HyperVSites-hosts.md)
 - [Microsoft.OffAzure/MasterSites/privateEndpointConnections](aliases/Microsoft.OffAzure/MasterSites-privateEndpointConnections.md)

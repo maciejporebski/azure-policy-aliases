@@ -31,4 +31,9 @@
 | `properties.sources[*].endpoint.credentials.username` | `Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.endpoint.credentials.#Microsoft-Media-MediaGraphUsernamePasswordCredentials.username` |
 | `properties.sources[*].endpoint.credentials.password` | `Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.endpoint.credentials.#Microsoft-Media-MediaGraphUsernamePasswordCredentials.password` |
 | `properties.sources[*].endpoint.url` | `Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.endpoint.url` |
+| `properties.sources[*]` | `Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource` |
+| `properties.sinks[*]` | `Microsoft.Media/mediaServices/mediaGraphs/sinks[*].#Microsoft-Media-MediaGraphAssetSink` |
+| `properties.sources[*].endpoint` | `Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.endpoint` |
+| `properties.sources[*].endpoint.trustedCertificates` | `Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.endpoint.#Microsoft-Media-MediaGraphTlsEndpoint.trustedCertificates` |
+| `properties.sources[*].endpoint.credentials` | `Microsoft.Media/mediaServices/mediaGraphs/sources[*].#Microsoft-Media-MediaGraphRtspSource.endpoint.credentials` |
 
