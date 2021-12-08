@@ -15,4 +15,7 @@
 | `properties.parameters[*].value` | `Microsoft.BotService/botServices/connections/parameters[*].value` |
 | `properties.parameters[*]` | `Microsoft.BotService/botServices/connections/parameters[*]` |
 | `properties.parameters` | `Microsoft.BotService/botServices/connections/parameters` |
+| `zones` | `Microsoft.BotService/botServices/Connections/zones` |
+| `zones[*]` | `Microsoft.BotService/botServices/Connections/zones[*]` |
+| `properties.provisioningState` | `Microsoft.BotService/botServices/Connections/provisioningState` |
 

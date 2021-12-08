@@ -41,4 +41,18 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.BotService/botServices/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.BotService/botServices/privateEndpointConnections[*].provisioningState` |
+| `zones` | `Microsoft.BotService/botServices/zones` |
+| `zones[*]` | `Microsoft.BotService/botServices/zones[*]` |
+| `properties.allSettings` | `Microsoft.BotService/botServices/allSettings` |
+| `properties.parameters` | `Microsoft.BotService/botServices/parameters` |
+| `properties.manifestUrl` | `Microsoft.BotService/botServices/manifestUrl` |
+| `properties.cmekEncryptionStatus` | `Microsoft.BotService/botServices/cmekEncryptionStatus` |
+| `properties.publicNetworkAccess` | `Microsoft.BotService/botServices/publicNetworkAccess` |
+| `properties.isStreamingSupported` | `Microsoft.BotService/botServices/isStreamingSupported` |
+| `properties.isDeveloperAppInsightsApiKeySet` | `Microsoft.BotService/botServices/isDeveloperAppInsightsApiKeySet` |
+| `properties.migrationToken` | `Microsoft.BotService/botServices/migrationToken` |
+| `properties.openWithHint` | `Microsoft.BotService/botServices/openWithHint` |
+| `properties.appPasswordHint` | `Microsoft.BotService/botServices/appPasswordHint` |
+| `properties.provisioningState` | `Microsoft.BotService/botServices/provisioningState` |
+| `properties.publishingCredentials` | `Microsoft.BotService/botServices/publishingCredentials` |
 
