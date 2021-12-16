@@ -20,4 +20,5 @@
 | `properties.contactDetails.mobile` | `Microsoft.EdgeOrder/addresses/contactDetails.mobile` |
 | `properties.contactDetails.emailList` | `Microsoft.EdgeOrder/addresses/contactDetails.emailList` |
 | `properties.contactDetails.emailList[*]` | `Microsoft.EdgeOrder/addresses/contactDetails.emailList[*]` |
+| `properties.addressValidationStatus` | `Microsoft.EdgeOrder/addresses/addressValidationStatus` |
 

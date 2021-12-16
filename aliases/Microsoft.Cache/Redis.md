@@ -42,4 +42,7 @@
 | `properties.publicNetworkAccess` | `Microsoft.Cache/Redis/publicNetworkAccess` |
 | `properties.replicasPerPrimary` | `Microsoft.Cache/Redis/replicasPerPrimary` |
 | `properties.redisConfiguration.maxclients` | `Microsoft.Cache/Redis/redisConfiguration.maxclients` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Cache/Redis/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Cache/Redis/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Cache/Redis/privateEndpointConnections[*].provisioningState` |
 

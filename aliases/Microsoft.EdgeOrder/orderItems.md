@@ -119,4 +119,14 @@
 | `properties.orderItemDetails.productDetails.deviceDetails[*].managementResourceId` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails[*].managementResourceId` |
 | `properties.orderItemDetails.preferences.managementResourcePreferences` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.preferences.managementResourcePreferences` |
 | `properties.orderItemDetails.preferences.managementResourcePreferences.preferredManagementResourceId` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.preferences.managementResourcePreferences.preferredManagementResourceId` |
+| `properties.orderItemDetails.productDetails.productDoubleEncryptionStatus` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.productDoubleEncryptionStatus` |
+| `properties.orderItemDetails.productDetails.deviceDetails[*].managementResourceTenantId` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.productDetails.deviceDetails[*].managementResourceTenantId` |
+| `properties.orderItemDetails.reverseShippingDetails.sasKeyForLabel` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.reverseShippingDetails.sasKeyForLabel` |
+| `properties.orderItemDetails.managementRpDetails` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.managementRpDetails` |
+| `properties.orderItemDetails.managementRpDetails.resourceProviderNamespace` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.managementRpDetails.resourceProviderNamespace` |
+| `properties.orderItemDetails.managementRpDetailsList` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.managementRpDetailsList` |
+| `properties.orderItemDetails.managementRpDetailsList[*]` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.managementRpDetailsList[*]` |
+| `properties.orderItemDetails.managementRpDetailsList[*].resourceProviderNamespace` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.managementRpDetailsList[*].resourceProviderNamespace` |
+| `properties.addressDetails.forwardAddress.addressValidationStatus` | `Microsoft.EdgeOrder/orderItems/addressDetails.forwardAddress.addressValidationStatus` |
+| `properties.addressDetails.returnAddress.addressValidationStatus` | `Microsoft.EdgeOrder/orderItems/addressDetails.returnAddress.addressValidationStatus` |
 
