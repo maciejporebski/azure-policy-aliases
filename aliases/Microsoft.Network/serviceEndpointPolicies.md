@@ -347,4 +347,8 @@
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations[*].etag` |
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations[*].type` |
 | `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].serviceEndpointPolicies[*].kind` |
+| `properties.serviceEndpointPolicyDefinitions[*].type` | `Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions[*].type` |
+| `properties.serviceAlias` | `Microsoft.Network/serviceEndpointPolicies/serviceAlias` |
+| `properties.contextualServiceEndpointPolicies` | `Microsoft.Network/serviceEndpointPolicies/contextualServiceEndpointPolicies` |
+| `properties.contextualServiceEndpointPolicies[*]` | `Microsoft.Network/serviceEndpointPolicies/contextualServiceEndpointPolicies[*]` |
 
