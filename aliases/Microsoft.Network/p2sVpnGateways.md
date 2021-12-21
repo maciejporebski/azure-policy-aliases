@@ -95,7 +95,4 @@
 | `properties.customDnsServers` | `Microsoft.Network/p2sVpnGateways/customDnsServers` |
 | `properties.p2SConnectionConfigurations[*].properties.enableInternetSecurity` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].enableInternetSecurity` |
 | `properties.isRoutingPreferenceInternet` | `Microsoft.Network/p2svpnGateways/isRoutingPreferenceInternet` |
-| `properties.p2SConnectionConfigurations[*].properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].routingConfiguration.vnetRoutes.bgpConnections` |
-| `properties.p2SConnectionConfigurations[*].properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].routingConfiguration.vnetRoutes.bgpConnections[*]` |
-| `properties.p2SConnectionConfigurations[*].properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].routingConfiguration.vnetRoutes.bgpConnections[*].id` |
 

@@ -496,8 +496,4 @@
 | `properties.backendIPConfiguration.type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.type` |
 | `properties.backendIPConfiguration.properties.gatewayLoadBalancer` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.gatewayLoadBalancer` |
 | `properties.backendIPConfiguration.properties.gatewayLoadBalancer.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.gatewayLoadBalancer.id` |
-| `properties.frontendPortRangeStart` | `Microsoft.Network/loadBalancers/inboundNatRules/frontendPortRangeStart` |
-| `properties.frontendPortRangeEnd` | `Microsoft.Network/loadBalancers/inboundNatRules/frontendPortRangeEnd` |
-| `properties.backendAddressPool` | `Microsoft.Network/loadBalancers/inboundNatRules/backendAddressPool` |
-| `properties.backendAddressPool.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendAddressPool.id` |
 
