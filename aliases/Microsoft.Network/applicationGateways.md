@@ -1811,4 +1811,24 @@
 | `properties.backendAddressPools[*].properties.backendIPConfigurations[*].type` | `Microsoft.Network/applicationGateways/backendAddressPools[*].backendIPConfigurations[*].type` |
 | `properties.trustedClientCertificates[*].properties.validatedCertData` | `Microsoft.Network/applicationGateways/trustedClientCertificates[*].validatedCertData` |
 | `properties.trustedClientCertificates[*].properties.clientCertIssuerDN` | `Microsoft.Network/applicationGateways/trustedClientCertificates[*].clientCertIssuerDN` |
+| `properties.urlPathMaps[*].properties.defaultLoadDistributionPolicy` | `Microsoft.Network/applicationGateways/urlPathMaps[*].defaultLoadDistributionPolicy` |
+| `properties.urlPathMaps[*].properties.defaultLoadDistributionPolicy.id` | `Microsoft.Network/applicationGateways/urlPathMaps[*].defaultLoadDistributionPolicy.id` |
+| `properties.requestRoutingRules[*].properties.loadDistributionPolicy` | `Microsoft.Network/applicationGateways/requestRoutingRules[*].loadDistributionPolicy` |
+| `properties.requestRoutingRules[*].properties.loadDistributionPolicy.id` | `Microsoft.Network/applicationGateways/requestRoutingRules[*].loadDistributionPolicy.id` |
+| `properties.loadDistributionPolicies` | `Microsoft.Network/applicationGateways/loadDistributionPolicies` |
+| `properties.loadDistributionPolicies[*]` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*]` |
+| `properties.loadDistributionPolicies[*].id` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].id` |
+| `properties.loadDistributionPolicies[*].properties.loadDistributionTargets` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionTargets` |
+| `properties.loadDistributionPolicies[*].properties.loadDistributionTargets[*]` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionTargets[*]` |
+| `properties.loadDistributionPolicies[*].properties.loadDistributionTargets[*].name` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionTargets[*].name` |
+| `properties.loadDistributionPolicies[*].properties.loadDistributionTargets[*].etag` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionTargets[*].etag` |
+| `properties.loadDistributionPolicies[*].properties.loadDistributionTargets[*].type` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionTargets[*].type` |
+| `properties.loadDistributionPolicies[*].properties.loadDistributionAlgorithm` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionAlgorithm` |
+| `properties.loadDistributionPolicies[*].properties.provisioningState` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].provisioningState` |
+| `properties.loadDistributionPolicies[*].name` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].name` |
+| `properties.loadDistributionPolicies[*].etag` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].etag` |
+| `properties.loadDistributionPolicies[*].type` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].type` |
+| `properties.globalConfiguration` | `Microsoft.Network/applicationGateways/globalConfiguration` |
+| `properties.globalConfiguration.enableRequestBuffering` | `Microsoft.Network/applicationGateways/globalConfiguration.enableRequestBuffering` |
+| `properties.globalConfiguration.enableResponseBuffering` | `Microsoft.Network/applicationGateways/globalConfiguration.enableResponseBuffering` |
 
