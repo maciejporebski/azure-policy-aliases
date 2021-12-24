@@ -143,10 +143,4 @@
 | `properties.connections[*].properties.trafficSelectorPolicies[*].localAddressRanges[*]` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*].localAddressRanges[*]` |
 | `properties.connections[*].properties.trafficSelectorPolicies[*].remoteAddressRanges` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*].remoteAddressRanges` |
 | `properties.connections[*].properties.trafficSelectorPolicies[*].remoteAddressRanges[*]` | `Microsoft.Network/vpnGateways/connections[*].trafficSelectorPolicies[*].remoteAddressRanges[*]` |
-| `properties.connections[*].properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes.bgpConnections` |
-| `properties.connections[*].properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes.bgpConnections[*]` |
-| `properties.connections[*].properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes.bgpConnections[*].id` |
-| `properties.enableBgpRouteTranslationForNat` | `Microsoft.Network/vpnGateways/enableBgpRouteTranslationForNat` |
-| `properties.natRules[*].properties.internalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules[*].internalMappings[*].portRange` |
-| `properties.natRules[*].properties.externalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules[*].externalMappings[*].portRange` |
 

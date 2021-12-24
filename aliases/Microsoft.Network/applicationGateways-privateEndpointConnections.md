@@ -70,17 +70,4 @@
 | `properties.privateEndpoint.extendedLocation.name` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.extendedLocation.name` |
 | `properties.privateEndpoint.extendedLocation.type` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.extendedLocation.type` |
 | `properties.privateEndpoint.properties.subnet.type` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.subnet.type` |
-| `properties.privateEndpoint.properties.resourceGuid` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.resourceGuid` |
-| `properties.privateEndpoint.properties.applicationSecurityGroups` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups` |
-| `properties.privateEndpoint.properties.applicationSecurityGroups[*]` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*]` |
-| `properties.privateEndpoint.properties.applicationSecurityGroups[*].etag` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].etag` |
-| `properties.privateEndpoint.properties.ipConfigurations` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations` |
-| `properties.privateEndpoint.properties.ipConfigurations[*]` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*]` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].properties.groupId` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].groupId` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].properties.memberName` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].memberName` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].properties.privateIPAddress` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].privateIPAddress` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].name` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].name` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].type` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].type` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].etag` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].etag` |
-| `properties.privateEndpoint.properties.customNetworkInterfaceName` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.customNetworkInterfaceName` |
 

@@ -83,5 +83,4 @@
 | `properties.securityPolicyLinks[*].id` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/securityPolicyLinks[*].id` |
 | `sku` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/sku` |
 | `sku.name` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/sku.name` |
-| `properties.managedRules.ruleSets[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet` |
 
