@@ -112,4 +112,7 @@
 | `properties.natRules[*].name` | `Microsoft.Network/virtualnetworkgateways/natRules[*].name` |
 | `properties.natRules[*].etag` | `Microsoft.Network/virtualnetworkgateways/natRules[*].etag` |
 | `properties.enableBgpRouteTranslationForNat` | `Microsoft.Network/virtualnetworkgateways/enableBgpRouteTranslationForNat` |
+| `properties.disableIPSecReplayProtection` | `Microsoft.Network/virtualnetworkgateways/disableIPSecReplayProtection` |
+| `properties.natRules[*].properties.internalMappings[*].portRange` | `Microsoft.Network/virtualnetworkgateways/natRules[*].internalMappings[*].portRange` |
+| `properties.natRules[*].properties.externalMappings[*].portRange` | `Microsoft.Network/virtualnetworkgateways/natRules[*].externalMappings[*].portRange` |
 

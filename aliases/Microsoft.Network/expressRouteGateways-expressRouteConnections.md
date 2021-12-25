@@ -25,4 +25,7 @@
 | `properties.routingConfiguration.vnetRoutes` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes` |
 | `properties.routingConfiguration` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration` |
 | `properties.expressRouteGatewayBypass` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteGatewayBypass` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.bgpConnections` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.bgpConnections[*]` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.bgpConnections[*].id` |
 
