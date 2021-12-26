@@ -35,5 +35,4 @@
 | `properties.inboundSecurityRules` | `Microsoft.Network/networkVirtualAppliances/inboundSecurityRules` |
 | `properties.inboundSecurityRules[*]` | `Microsoft.Network/networkVirtualAppliances/inboundSecurityRules[*]` |
 | `properties.inboundSecurityRules[*].id` | `Microsoft.Network/networkVirtualAppliances/inboundSecurityRules[*].id` |
-| `properties.sshPublicKey` | `Microsoft.Network/networkVirtualAppliances/sshPublicKey` |
 

@@ -18,10 +18,4 @@
 | `properties.provisioningState` | `Microsoft.Network/bastionHosts/provisioningState` |
 | `sku` | `Microsoft.Network/bastionHosts/sku` |
 | `sku.name` | `Microsoft.Network/bastionHosts/sku.name` |
-| `properties.scaleUnits` | `Microsoft.Network/bastionHosts/scaleUnits` |
-| `properties.disableCopyPaste` | `Microsoft.Network/bastionHosts/disableCopyPaste` |
-| `properties.enableFileCopy` | `Microsoft.Network/bastionHosts/enableFileCopy` |
-| `properties.enableIpConnect` | `Microsoft.Network/bastionHosts/enableIpConnect` |
-| `properties.enableShareableLink` | `Microsoft.Network/bastionHosts/enableShareableLink` |
-| `properties.enableTunneling` | `Microsoft.Network/bastionHosts/enableTunneling` |
 

@@ -18,6 +18,4 @@
 | `properties.ingressVpnSiteLinkConnections` | `Microsoft.Network/vpnGateways/natRules/ingressVpnSiteLinkConnections` |
 | `properties.ingressVpnSiteLinkConnections[*]` | `Microsoft.Network/vpnGateways/natRules/ingressVpnSiteLinkConnections[*]` |
 | `properties.ingressVpnSiteLinkConnections[*].id` | `Microsoft.Network/vpnGateways/natRules/ingressVpnSiteLinkConnections[*].id` |
-| `properties.internalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules/internalMappings[*].portRange` |
-| `properties.externalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules/externalMappings[*].portRange` |
 

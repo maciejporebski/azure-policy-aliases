@@ -548,19 +548,4 @@
 | `properties.ipConfigurations[*].properties.gatewayLoadBalancer` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].gatewayLoadBalancer` |
 | `properties.ipConfigurations[*].properties.gatewayLoadBalancer.id` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].gatewayLoadBalancer.id` |
 | `properties.workloadType` | `Microsoft.Network/networkInterfaces/workloadType` |
-| `properties.privateEndpoint.properties.resourceGuid` | `Microsoft.Network/networkInterfaces/privateEndpoint.resourceGuid` |
-| `properties.privateLinkService.properties.resourceGuid` | `Microsoft.Network/networkInterfaces/privateLinkService.resourceGuid` |
-| `properties.privateEndpoint.properties.applicationSecurityGroups` | `Microsoft.Network/networkInterfaces/privateEndpoint.applicationSecurityGroups` |
-| `properties.privateEndpoint.properties.applicationSecurityGroups[*]` | `Microsoft.Network/networkInterfaces/privateEndpoint.applicationSecurityGroups[*]` |
-| `properties.privateEndpoint.properties.applicationSecurityGroups[*].etag` | `Microsoft.Network/networkInterfaces/privateEndpoint.applicationSecurityGroups[*].etag` |
-| `properties.privateEndpoint.properties.ipConfigurations` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations` |
-| `properties.privateEndpoint.properties.ipConfigurations[*]` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*]` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].properties.groupId` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*].groupId` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].properties.memberName` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*].memberName` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].properties.privateIPAddress` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*].privateIPAddress` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].name` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*].name` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].type` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*].type` |
-| `properties.privateEndpoint.properties.ipConfigurations[*].etag` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*].etag` |
-| `properties.privateEndpoint.properties.customNetworkInterfaceName` | `Microsoft.Network/networkInterfaces/privateEndpoint.customNetworkInterfaceName` |
-| `properties.vnetEncryptionSupported` | `Microsoft.Network/networkInterfaces/vnetEncryptionSupported` |
 

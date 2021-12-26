@@ -807,10 +807,4 @@
 | `properties.virtualNetworkPeerings[*].properties.doNotVerifyRemoteGateways` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].doNotVerifyRemoteGateways` |
 | `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualnetworks/subnets[*].serviceEndpointPolicies[*].kind` |
 | `properties.flowTimeoutInMinutes` | `Microsoft.Network/virtualnetworks/flowTimeoutInMinutes` |
-| `properties.virtualNetworkPeerings[*].properties.remoteVirtualNetworkEncryption` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteVirtualNetworkEncryption` |
-| `properties.virtualNetworkPeerings[*].properties.remoteVirtualNetworkEncryption.enabled` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteVirtualNetworkEncryption.enabled` |
-| `properties.virtualNetworkPeerings[*].properties.remoteVirtualNetworkEncryption.enforcement` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteVirtualNetworkEncryption.enforcement` |
-| `properties.encryption` | `Microsoft.Network/virtualnetworks/encryption` |
-| `properties.encryption.enabled` | `Microsoft.Network/virtualnetworks/encryption.enabled` |
-| `properties.encryption.enforcement` | `Microsoft.Network/virtualnetworks/encryption.enforcement` |
 
