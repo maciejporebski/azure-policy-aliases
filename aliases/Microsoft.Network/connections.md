@@ -290,6 +290,4 @@
 | `properties.egressNatRules` | `Microsoft.Network/connections/egressNatRules` |
 | `properties.egressNatRules[*]` | `Microsoft.Network/connections/egressNatRules[*]` |
 | `properties.egressNatRules[*].id` | `Microsoft.Network/connections/egressNatRules[*].id` |
-| `properties.virtualNetworkGateway1.properties.disableIPSecReplayProtection` | `Microsoft.Network/connections/virtualNetworkGateway1.disableIPSecReplayProtection` |
-| `properties.virtualNetworkGateway2.properties.disableIPSecReplayProtection` | `Microsoft.Network/connections/virtualNetworkGateway2.disableIPSecReplayProtection` |
 
