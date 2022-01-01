@@ -83,12 +83,4 @@
 | `properties.snat` | `Microsoft.Network/firewallPolicies/snat` |
 | `properties.snat.privateRanges` | `Microsoft.Network/firewallPolicies/snat.privateRanges` |
 | `properties.snat.privateRanges[*]` | `Microsoft.Network/firewallPolicies/snat.privateRanges[*]` |
-| `properties.sql` | `Microsoft.Network/firewallPolicies/sql` |
-| `properties.sql.allowSqlRedirect` | `Microsoft.Network/firewallPolicies/sql.allowSqlRedirect` |
-| `properties.explicitProxySettings` | `Microsoft.Network/firewallPolicies/explicitProxySettings` |
-| `properties.explicitProxySettings.enableExplicitProxy` | `Microsoft.Network/firewallPolicies/explicitProxySettings.enableExplicitProxy` |
-| `properties.explicitProxySettings.httpPort` | `Microsoft.Network/firewallPolicies/explicitProxySettings.httpPort` |
-| `properties.explicitProxySettings.httpsPort` | `Microsoft.Network/firewallPolicies/explicitProxySettings.httpsPort` |
-| `properties.explicitProxySettings.pacFilePort` | `Microsoft.Network/firewallPolicies/explicitProxySettings.pacFilePort` |
-| `properties.explicitProxySettings.pacFile` | `Microsoft.Network/firewallPolicies/explicitProxySettings.pacFile` |
 

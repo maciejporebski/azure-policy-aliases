@@ -416,27 +416,4 @@
 | `properties.networkInterfaces[*].properties.migrationPhase` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].migrationPhase` |
 | `properties.subnet.properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/privateEndpoints/subnet.serviceEndpointPolicies[*].kind` |
 | `properties.networkInterfaces[*].properties.workloadType` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].workloadType` |
-| `properties.resourceGuid` | `Microsoft.Network/privateEndpoints/resourceGuid` |
-| `properties.privateLinkServiceConnections[*].properties.resolvedPrivateLinkServiceLocation` | `Microsoft.Network/privateEndpoints/privateLinkServiceConnections[*].resolvedPrivateLinkServiceLocation` |
-| `properties.manualPrivateLinkServiceConnections[*].properties.resolvedPrivateLinkServiceLocation` | `Microsoft.Network/privateEndpoints/manualPrivateLinkServiceConnections[*].resolvedPrivateLinkServiceLocation` |
-| `properties.applicationSecurityGroups` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups` |
-| `properties.applicationSecurityGroups[*]` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*]` |
-| `properties.applicationSecurityGroups[*].id` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].id` |
-| `properties.applicationSecurityGroups[*].name` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].name` |
-| `properties.applicationSecurityGroups[*].type` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].type` |
-| `properties.applicationSecurityGroups[*].location` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].location` |
-| `properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].tags` |
-| `properties.applicationSecurityGroups[*].properties.resourceGuid` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].resourceGuid` |
-| `properties.applicationSecurityGroups[*].properties.provisioningState` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].provisioningState` |
-| `properties.applicationSecurityGroups[*].etag` | `Microsoft.Network/privateEndpoints/applicationSecurityGroups[*].etag` |
-| `properties.ipConfigurations` | `Microsoft.Network/privateEndpoints/ipConfigurations` |
-| `properties.ipConfigurations[*]` | `Microsoft.Network/privateEndpoints/ipConfigurations[*]` |
-| `properties.ipConfigurations[*].properties.groupId` | `Microsoft.Network/privateEndpoints/ipConfigurations[*].groupId` |
-| `properties.ipConfigurations[*].properties.memberName` | `Microsoft.Network/privateEndpoints/ipConfigurations[*].memberName` |
-| `properties.ipConfigurations[*].properties.privateIPAddress` | `Microsoft.Network/privateEndpoints/ipConfigurations[*].privateIPAddress` |
-| `properties.ipConfigurations[*].name` | `Microsoft.Network/privateEndpoints/ipConfigurations[*].name` |
-| `properties.ipConfigurations[*].type` | `Microsoft.Network/privateEndpoints/ipConfigurations[*].type` |
-| `properties.ipConfigurations[*].etag` | `Microsoft.Network/privateEndpoints/ipConfigurations[*].etag` |
-| `properties.customNetworkInterfaceName` | `Microsoft.Network/privateEndpoints/customNetworkInterfaceName` |
-| `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].vnetEncryptionSupported` |
 

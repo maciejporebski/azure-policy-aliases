@@ -911,16 +911,4 @@
 | `properties.loadBalancingRules[*].properties.backendAddressPools` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].backendAddressPools` |
 | `properties.loadBalancingRules[*].properties.backendAddressPools[*]` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].backendAddressPools[*]` |
 | `properties.loadBalancingRules[*].properties.backendAddressPools[*].id` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].backendAddressPools[*].id` |
-| `properties.inboundNatRules[*].properties.frontendPortRangeStart` | `Microsoft.Network/loadBalancers/inboundNatRules[*].frontendPortRangeStart` |
-| `properties.inboundNatRules[*].properties.frontendPortRangeEnd` | `Microsoft.Network/loadBalancers/inboundNatRules[*].frontendPortRangeEnd` |
-| `properties.inboundNatRules[*].properties.backendAddressPool` | `Microsoft.Network/loadBalancers/inboundNatRules[*].backendAddressPool` |
-| `properties.inboundNatRules[*].properties.backendAddressPool.id` | `Microsoft.Network/loadBalancers/inboundNatRules[*].backendAddressPool.id` |
-| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].inboundNatRulesPortMapping` |
-| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*]` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*]` |
-| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*].inboundNatRuleName` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*].inboundNatRuleName` |
-| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*].frontendPort` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*].frontendPort` |
-| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*].backendPort` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*].backendPort` |
-| `properties.backendAddressPools[*].properties.inboundNatRules` | `Microsoft.Network/loadBalancers/backendAddressPools[*].inboundNatRules` |
-| `properties.backendAddressPools[*].properties.inboundNatRules[*]` | `Microsoft.Network/loadBalancers/backendAddressPools[*].inboundNatRules[*]` |
-| `properties.backendAddressPools[*].properties.inboundNatRules[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].inboundNatRules[*].id` |
 
