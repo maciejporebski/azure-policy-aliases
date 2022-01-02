@@ -16,4 +16,8 @@
 | `properties.privateDnsZoneConfigs[*].properties.recordSets` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].recordSets` |
 | `properties.privateDnsZoneConfigs[*]` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*]` |
 | `properties.privateDnsZoneConfigs` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs` |
+| `properties.privateDnsZoneConfigs[*].id` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].id` |
+| `properties.privateDnsZoneConfigs[*].type` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].type` |
+| `properties.privateDnsZoneConfigs[*].etag` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].etag` |
+| `properties.privateDnsZoneConfigs[*].properties.provisioningState` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].provisioningState` |
 

@@ -765,4 +765,21 @@
 | `properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].etag` |
 | `properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/virtualnetworks/subnets/applicationGatewayIpConfigurations[*].type` |
 | `properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpointPolicies[*].kind` |
+| `properties.privateEndpoints[*].properties.resourceGuid` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].resourceGuid` |
+| `properties.serviceEndpointPolicies[*].properties.serviceEndpointPolicyDefinitions[*].type` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].type` |
+| `properties.serviceEndpointPolicies[*].properties.serviceAlias` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpointPolicies[*].serviceAlias` |
+| `properties.serviceEndpointPolicies[*].properties.contextualServiceEndpointPolicies` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpointPolicies[*].contextualServiceEndpointPolicies` |
+| `properties.serviceEndpointPolicies[*].properties.contextualServiceEndpointPolicies[*]` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpointPolicies[*].contextualServiceEndpointPolicies[*]` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups[*]` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*]` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].etag` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].etag` |
+| `properties.privateEndpoints[*].properties.ipConfigurations` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations` |
+| `properties.privateEndpoints[*].properties.ipConfigurations[*]` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*]` |
+| `properties.privateEndpoints[*].properties.ipConfigurations[*].properties.groupId` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].groupId` |
+| `properties.privateEndpoints[*].properties.ipConfigurations[*].properties.memberName` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].memberName` |
+| `properties.privateEndpoints[*].properties.ipConfigurations[*].properties.privateIPAddress` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].privateIPAddress` |
+| `properties.privateEndpoints[*].properties.ipConfigurations[*].name` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].name` |
+| `properties.privateEndpoints[*].properties.ipConfigurations[*].type` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].type` |
+| `properties.privateEndpoints[*].properties.ipConfigurations[*].etag` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].etag` |
+| `properties.privateEndpoints[*].properties.customNetworkInterfaceName` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].customNetworkInterfaceName` |
 

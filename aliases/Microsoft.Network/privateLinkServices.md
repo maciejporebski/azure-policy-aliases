@@ -1363,4 +1363,6 @@
 | `properties.loadBalancerFrontendIpConfigurations[*].properties.gatewayLoadBalancer` | `Microsoft.Network/privateLinkServices/loadBalancerFrontendIpConfigurations[*].gatewayLoadBalancer` |
 | `properties.loadBalancerFrontendIpConfigurations[*].properties.gatewayLoadBalancer.id` | `Microsoft.Network/privateLinkServices/loadBalancerFrontendIpConfigurations[*].gatewayLoadBalancer.id` |
 | `properties.networkInterfaces[*].properties.workloadType` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].workloadType` |
+| `properties.resourceGuid` | `Microsoft.Network/privateLinkServices/resourceGuid` |
+| `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].vnetEncryptionSupported` |
 

@@ -786,4 +786,5 @@
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/networkSecurityGroups/subnets[*].applicationGatewayIpConfigurations[*].type` |
 | `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/networkSecurityGroups/subnets[*].serviceEndpointPolicies[*].kind` |
 | `properties.networkInterfaces[*].properties.workloadType` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].workloadType` |
+| `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].vnetEncryptionSupported` |
 

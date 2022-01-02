@@ -24,4 +24,7 @@
 | `properties.routingConfiguration.vnetRoutes.staticRoutes` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.staticRoutes` |
 | `properties.routingConfiguration.vnetRoutes` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes` |
 | `properties.routingConfiguration` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.bgpConnections` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.bgpConnections[*]` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.bgpConnections[*].id` |
 

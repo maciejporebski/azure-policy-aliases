@@ -88,4 +88,7 @@
 | `properties.trafficSelectorPolicies[*].localAddressRanges[*]` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*].localAddressRanges[*]` |
 | `properties.trafficSelectorPolicies[*].remoteAddressRanges` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*].remoteAddressRanges` |
 | `properties.trafficSelectorPolicies[*].remoteAddressRanges[*]` | `Microsoft.Network/vpnGateways/vpnConnections/trafficSelectorPolicies[*].remoteAddressRanges[*]` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.bgpConnections` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.bgpConnections[*]` |
+| `properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.bgpConnections[*].id` |
 
