@@ -857,7 +857,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
 - [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -889,7 +888,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/virtualHubs/bgpConnections](aliases/Microsoft.Network/virtualHubs-bgpConnections.md)
 - [Microsoft.Network/virtualHubs/ipConfigurations](aliases/Microsoft.Network/virtualHubs-ipConfigurations.md)
 - [Microsoft.Network/vpnGateways/natRules](aliases/Microsoft.Network/vpnGateways-natRules.md)
-- [Microsoft.Network/virtualHubs/routingIntent](aliases/Microsoft.Network/virtualHubs-routingIntent.md)
 
 
 ## Microsoft.NotificationHubs
