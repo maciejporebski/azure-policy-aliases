@@ -77,4 +77,12 @@
 | `properties.tunnelInterfaces[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools/tunnelInterfaces[*].type` |
 | `properties.backendIPConfigurations[*].properties.gatewayLoadBalancer` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].gatewayLoadBalancer` |
 | `properties.backendIPConfigurations[*].properties.gatewayLoadBalancer.id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].gatewayLoadBalancer.id` |
+| `properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].inboundNatRulesPortMapping` |
+| `properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*]` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*]` |
+| `properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*].inboundNatRuleName` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*].inboundNatRuleName` |
+| `properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*].frontendPort` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*].frontendPort` |
+| `properties.loadBalancerBackendAddresses[*].properties.inboundNatRulesPortMapping[*].backendPort` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].inboundNatRulesPortMapping[*].backendPort` |
+| `properties.inboundNatRules` | `Microsoft.Network/loadBalancers/backendAddressPools/inboundNatRules` |
+| `properties.inboundNatRules[*]` | `Microsoft.Network/loadBalancers/backendAddressPools/inboundNatRules[*]` |
+| `properties.inboundNatRules[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools/inboundNatRules[*].id` |
 

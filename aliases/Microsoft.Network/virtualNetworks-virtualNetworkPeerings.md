@@ -23,4 +23,7 @@
 | `properties.syncRemoteAddressSpace` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/syncRemoteAddressSpace` |
 | `properties.resourceGuid` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/resourceGuid` |
 | `properties.doNotVerifyRemoteGateways` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/doNotVerifyRemoteGateways` |
+| `properties.remoteVirtualNetworkEncryption` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkEncryption` |
+| `properties.remoteVirtualNetworkEncryption.enabled` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkEncryption.enabled` |
+| `properties.remoteVirtualNetworkEncryption.enforcement` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkEncryption.enforcement` |
 
