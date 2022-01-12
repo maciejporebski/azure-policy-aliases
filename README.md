@@ -976,6 +976,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.RecoveryServices/Vaults/backupconfig](aliases/Microsoft.RecoveryServices/Vaults-backupconfig.md)
 - [Microsoft.RecoveryServices/Vaults/backupEncryptionConfigs](aliases/Microsoft.RecoveryServices/Vaults-backupEncryptionConfigs.md)
 - [Microsoft.RecoveryServices/vaults/replicationProtectionIntents](aliases/Microsoft.RecoveryServices/vaults-replicationProtectionIntents.md)
+- [Microsoft.RecoveryServices/vaults/replicationFabrics/replicationRecoveryServicesProviders](aliases/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationRecoveryServicesProviders.md)
 
 
 ## Microsoft.Relay

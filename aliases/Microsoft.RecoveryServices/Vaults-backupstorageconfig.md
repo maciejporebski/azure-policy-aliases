@@ -9,4 +9,6 @@
 | `properties.storageType` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/storageType` |
 | `properties.storageTypeState` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/storageTypeState` |
 | `properties.crossRegionRestoreFlag` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/crossRegionRestoreFlag` |
+| `properties.dedupState` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/dedupState` |
+| `properties.xcoolState` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/xcoolState` |
 

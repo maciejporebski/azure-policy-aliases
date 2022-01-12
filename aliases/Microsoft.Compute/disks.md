@@ -89,4 +89,6 @@
 | `properties.supportedCapabilities.acceleratedNetwork` | `Microsoft.Compute/disks/supportedCapabilities.acceleratedNetwork` |
 | `properties.completionPercent` | `Microsoft.Compute/disks/completionPercent` |
 | `properties.publicNetworkAccess` | `Microsoft.Compute/disks/publicNetworkAccess` |
+| `properties.creationData.securityDataUri` | `Microsoft.Compute/disks/creationData.securityDataUri` |
+| `properties.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/disks/securityProfile.secureVMDiskEncryptionSetId` |
 

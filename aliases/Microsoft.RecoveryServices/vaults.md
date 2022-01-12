@@ -40,4 +40,19 @@
 | `properties.encryption.kekIdentity.useSystemAssignedIdentity` | `Microsoft.RecoveryServices/vaults/encryption.kekIdentity.useSystemAssignedIdentity` |
 | `properties.encryption.kekIdentity.userAssignedIdentity` | `Microsoft.RecoveryServices/vaults/encryption.kekIdentity.userAssignedIdentity` |
 | `properties.encryption.infrastructureEncryption` | `Microsoft.RecoveryServices/vaults/encryption.infrastructureEncryption` |
+| `sku.tier` | `Microsoft.RecoveryServices/vaults/sku.tier` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].location` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections[*].location` |
+| `properties.moveDetails` | `Microsoft.RecoveryServices/vaults/moveDetails` |
+| `properties.moveDetails.operationId` | `Microsoft.RecoveryServices/vaults/moveDetails.operationId` |
+| `properties.moveDetails.startTimeUtc` | `Microsoft.RecoveryServices/vaults/moveDetails.startTimeUtc` |
+| `properties.moveDetails.completionTimeUtc` | `Microsoft.RecoveryServices/vaults/moveDetails.completionTimeUtc` |
+| `properties.moveDetails.sourceResourceId` | `Microsoft.RecoveryServices/vaults/moveDetails.sourceResourceId` |
+| `properties.moveDetails.targetResourceId` | `Microsoft.RecoveryServices/vaults/moveDetails.targetResourceId` |
+| `properties.moveState` | `Microsoft.RecoveryServices/vaults/moveState` |
+| `sku.family` | `Microsoft.RecoveryServices/vaults/sku.family` |
+| `sku.size` | `Microsoft.RecoveryServices/vaults/sku.size` |
+| `sku.capacity` | `Microsoft.RecoveryServices/vaults/sku.capacity` |
+| `properties.backupStorageVersion` | `Microsoft.RecoveryServices/vaults/backupStorageVersion` |
 

@@ -69,4 +69,8 @@
 | `properties.supportedCapabilities.acceleratedNetwork` | `Microsoft.Compute/snapshots/supportedCapabilities.acceleratedNetwork` |
 | `properties.publicNetworkAccess` | `Microsoft.Compute/snapshots/publicNetworkAccess` |
 | `properties.completionPercent` | `Microsoft.Compute/snapshots/completionPercent` |
+| `properties.creationData.securityDataUri` | `Microsoft.Compute/snapshots/creationData.securityDataUri` |
+| `properties.securityProfile` | `Microsoft.Compute/snapshots/securityProfile` |
+| `properties.securityProfile.securityType` | `Microsoft.Compute/snapshots/securityProfile.securityType` |
+| `properties.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/snapshots/securityProfile.secureVMDiskEncryptionSetId` |
 

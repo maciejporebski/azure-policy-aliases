@@ -12,4 +12,7 @@
 | `properties.storageTypeState` | `Microsoft.RecoveryServices/vaults/backupconfig/storageTypeState` |
 | `properties.enhancedSecurityState` | `Microsoft.RecoveryServices/vaults/backupconfig/enhancedSecurityState` |
 | `properties.softDeleteFeatureState` | `Microsoft.RecoveryServices/vaults/backupconfig/softDeleteFeatureState` |
+| `properties.resourceGuardOperationRequests` | `Microsoft.RecoveryServices/vaults/backupconfig/resourceGuardOperationRequests` |
+| `properties.resourceGuardOperationRequests[*]` | `Microsoft.RecoveryServices/vaults/backupconfig/resourceGuardOperationRequests[*]` |
+| `properties.isSoftDeleteFeatureStateEditable` | `Microsoft.RecoveryServices/vaults/backupconfig/isSoftDeleteFeatureStateEditable` |
 

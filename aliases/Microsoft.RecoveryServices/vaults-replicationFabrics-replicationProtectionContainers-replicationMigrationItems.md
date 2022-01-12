@@ -18,4 +18,10 @@
 | `properties.providerSpecificDetails.targetBootDiagnosticsStorageAccountId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetBootDiagnosticsStorageAccountId` |
 | `properties.providerSpecificDetails.targetNetworkId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetNetworkId` |
 | `properties.providerSpecificDetails.performAutoResync` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.performAutoResync` |
+| `properties.providerSpecificDetails.sqlServerLicenseType` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.sqlServerLicenseType` |
+| `properties.providerSpecificDetails.targetProximityPlacementGroupId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetProximityPlacementGroupId` |
+| `properties.providerSpecificDetails.targetVmTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetVmTags` |
+| `properties.providerSpecificDetails.targetNicTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetNicTags` |
+| `properties.providerSpecificDetails.seedDiskTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.seedDiskTags` |
+| `properties.providerSpecificDetails.targetDiskTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetDiskTags` |
 

@@ -48,4 +48,6 @@
 | `properties.groups[*].endGroupActions[*].customDetails.fabricLocation` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.AutomationRunbookActionDetails.fabricLocation` |
 | `properties.groups[*].endGroupActions[*].customDetails.runbookId` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.AutomationRunbookActionDetails.runbookId` |
 | `properties.groups[*].endGroupActions[*].customDetails.description` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ManualActionDetails.description` |
+| `properties.groups[*].startGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.ManualActionDetails` |
+| `properties.groups[*].endGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ManualActionDetails` |
 
