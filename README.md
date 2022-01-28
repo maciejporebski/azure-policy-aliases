@@ -561,6 +561,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EventHub/namespaces/virtualNetworkRules](aliases/Microsoft.EventHub/namespaces-virtualNetworkRules.md)
 
 
+## Microsoft.FluidRelay
+
+- [Microsoft.FluidRelay/fluidRelayServers](aliases/Microsoft.FluidRelay/fluidRelayServers.md)
+
+
 ## Microsoft.GuestConfiguration
 
 - [Microsoft.GuestConfiguration/guestConfigurationAssignments](aliases/Microsoft.GuestConfiguration/guestConfigurationAssignments.md)
