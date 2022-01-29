@@ -138,12 +138,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Batch/batchAccounts/privateEndpointConnections](aliases/Microsoft.Batch/batchAccounts-privateEndpointConnections.md)
 
 
-## Microsoft.Blockchain
-
-- [Microsoft.Blockchain/blockchainMembers](aliases/Microsoft.Blockchain/blockchainMembers.md)
-- [Microsoft.Blockchain/blockchainMembers/transactionNodes](aliases/Microsoft.Blockchain/blockchainMembers-transactionNodes.md)
-
-
 ## Microsoft.Blueprint
 
 - [Microsoft.Blueprint/blueprints](aliases/Microsoft.Blueprint/blueprints.md)
@@ -600,6 +594,9 @@ This repository contains all available resource property aliases for easy refere
 ## microsoft.insights
 
 - [microsoft.insights/components](aliases/microsoft.insights/components.md)
+- [microsoft.insights/components/analyticsItems](aliases/microsoft.insights/components-analyticsItems.md)
+- [microsoft.insights/components/myAnalyticsItems](aliases/microsoft.insights/components-myAnalyticsItems.md)
+- [microsoft.insights/components/proactiveDetectionConfigs](aliases/microsoft.insights/components-proactiveDetectionConfigs.md)
 - [microsoft.insights/webtests](aliases/microsoft.insights/webtests.md)
 - [microsoft.insights/scheduledqueryrules](aliases/microsoft.insights/scheduledqueryrules.md)
 - [microsoft.insights/components/pricingPlans](aliases/microsoft.insights/components-pricingPlans.md)
@@ -619,9 +616,6 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
-- [microsoft.insights/Components/ProactiveDetectionConfigs](aliases/microsoft.insights/Components-ProactiveDetectionConfigs.md)
-- [microsoft.insights/Components/AnalyticsItems](aliases/microsoft.insights/Components-AnalyticsItems.md)
-- [microsoft.insights/Components/MyAnalyticsItems](aliases/microsoft.insights/Components-MyAnalyticsItems.md)
 
 
 ## Microsoft.IoTCentral

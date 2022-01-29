@@ -13,4 +13,5 @@
 | `properties.quotas[*].used` | `Microsoft.Singularity/accounts/groupPolicies/quotas[*].used` |
 | `properties.maxSharedStorageIOPs` | `Microsoft.Singularity/accounts/groupPolicies/maxSharedStorageIOPs` |
 | `properties.maxSharedStorageBandwidth` | `Microsoft.Singularity/accounts/groupPolicies/maxSharedStorageBandwidth` |
+| `properties.quotas[*].slaTier` | `Microsoft.Singularity/accounts/groupPolicies/quotas[*].slaTier` |
 
