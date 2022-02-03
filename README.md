@@ -316,6 +316,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataCatalog/catalogs](aliases/Microsoft.DataCatalog/catalogs.md)
 
 
+## Microsoft.Datadog
+
+- [Microsoft.Datadog/monitors](aliases/Microsoft.Datadog/monitors.md)
+- [Microsoft.Datadog/monitors/tagRules](aliases/Microsoft.Datadog/monitors-tagRules.md)
+- [Microsoft.Datadog/monitors/singleSignOnConfigurations](aliases/Microsoft.Datadog/monitors-singleSignOnConfigurations.md)
+
+
 ## Microsoft.DataFactory
 
 - [Microsoft.DataFactory/factories](aliases/Microsoft.DataFactory/factories.md)

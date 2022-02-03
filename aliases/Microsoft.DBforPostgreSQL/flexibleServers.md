@@ -15,7 +15,7 @@
 | `properties.storageProfile` | `Microsoft.DBForPostgreSql/flexibleServers/storageProfile` |
 | `properties.storageProfile.backupRetentionDays` | `Microsoft.DBForPostgreSql/flexibleServers/storageProfile.backupRetentionDays` |
 | `properties.storageProfile.storageMB` | `Microsoft.DBForPostgreSql/flexibleServers/storageProfile.storageMB` |
-| `properties.publicNetworkAccess` | `Microsoft.DBForPostgreSql/flexibleServers/publicNetworkAccess` |
+| `properties.network.publicNetworkAccess` | `Microsoft.DBForPostgreSql/flexibleServers/publicNetworkAccess` |
 | `properties.maintenanceWindow` | `Microsoft.DBForPostgreSql/flexibleServers/maintenanceWindow` |
 | `properties.maintenanceWindow.customWindow` | `Microsoft.DBForPostgreSql/flexibleServers/maintenanceWindow.customWindow` |
 | `properties.maintenanceWindow.startHour` | `Microsoft.DBForPostgreSql/flexibleServers/maintenanceWindow.startHour` |

@@ -22,7 +22,7 @@
 | `properties.storageProfile.storageAutogrow` | `Microsoft.DBForMySql/flexibleServers/storageProfile.storageAutogrow` |
 | `properties.replicationRole` | `Microsoft.DBForMySql/flexibleServers/replicationRole` |
 | `properties.replicaCapacity` | `Microsoft.DBForMySql/flexibleServers/replicaCapacity` |
-| `properties.publicNetworkAccess` | `Microsoft.DBForMySql/flexibleServers/publicNetworkAccess` |
+| `properties.network.publicNetworkAccess` | `Microsoft.DBForMySql/flexibleServers/publicNetworkAccess` |
 | `properties.maintenanceWindow` | `Microsoft.DBForMySql/flexibleServers/maintenanceWindow` |
 | `properties.maintenanceWindow.customWindow` | `Microsoft.DBForMySql/flexibleServers/maintenanceWindow.customWindow` |
 | `properties.maintenanceWindow.startHour` | `Microsoft.DBForMySql/flexibleServers/maintenanceWindow.startHour` |
@@ -37,4 +37,25 @@
 | `properties.delegatedSubnetArguments.subnetArmResourceId` | `Microsoft.DBForMySql/flexibleServers/delegatedSubnetArguments.subnetArmResourceId` |
 | `properties.createMode` | `Microsoft.DBForMySql/flexibleServers/createMode` |
 | `properties.tags` | `Microsoft.DBForMySql/flexibleServers/tags` |
+| `properties.storageProfile.fileStorageSkuName` | `Microsoft.DBForMySql/flexibleServers/storageProfile.fileStorageSkuName` |
+| `properties.privateDnsZoneArguments` | `Microsoft.DBForMySql/flexibleServers/privateDnsZoneArguments` |
+| `properties.privateDnsZoneArguments.privateDnsZoneArmResourceId` | `Microsoft.DBForMySql/flexibleServers/privateDnsZoneArguments.privateDnsZoneArmResourceId` |
+| `properties.sourceServerResourceId` | `Microsoft.DBForMySql/flexibleServers/sourceServerResourceId` |
+| `properties.storage` | `Microsoft.DBForMySql/flexibleServers/storage` |
+| `properties.storage.storageSizeGB` | `Microsoft.DBForMySql/flexibleServers/storage.storageSizeGB` |
+| `properties.storage.iops` | `Microsoft.DBForMySql/flexibleServers/storage.iops` |
+| `properties.storage.autoGrow` | `Microsoft.DBForMySql/flexibleServers/storage.autoGrow` |
+| `properties.storage.storageSku` | `Microsoft.DBForMySql/flexibleServers/storage.storageSku` |
+| `properties.backup` | `Microsoft.DBForMySql/flexibleServers/backup` |
+| `properties.backup.backupRetentionDays` | `Microsoft.DBForMySql/flexibleServers/backup.backupRetentionDays` |
+| `properties.backup.geoRedundantBackup` | `Microsoft.DBForMySql/flexibleServers/backup.geoRedundantBackup` |
+| `properties.backup.earliestRestoreDate` | `Microsoft.DBForMySql/flexibleServers/backup.earliestRestoreDate` |
+| `properties.highAvailability` | `Microsoft.DBForMySql/flexibleServers/highAvailability` |
+| `properties.highAvailability.mode` | `Microsoft.DBForMySql/flexibleServers/highAvailability.mode` |
+| `properties.highAvailability.state` | `Microsoft.DBForMySql/flexibleServers/highAvailability.state` |
+| `properties.highAvailability.standbyAvailabilityZone` | `Microsoft.DBForMySql/flexibleServers/highAvailability.standbyAvailabilityZone` |
+| `properties.network` | `Microsoft.DBForMySql/flexibleServers/network` |
+| `properties.network.publicNetworkAccess` | `Microsoft.DBForMySql/flexibleServers/network.publicNetworkAccess` |
+| `properties.network.delegatedSubnetResourceId` | `Microsoft.DBForMySql/flexibleServers/network.delegatedSubnetResourceId` |
+| `properties.network.privateDnsZoneResourceId` | `Microsoft.DBForMySql/flexibleServers/network.privateDnsZoneResourceId` |
 
