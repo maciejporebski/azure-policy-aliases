@@ -20,4 +20,7 @@
 | `properties.captureDescription.destination` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination` |
 | `properties.captureDescription.skipEmptyArchives` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.skipEmptyArchives` |
 | `properties.captureDescription` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription` |
+| `properties.captureDescription.destination.properties.dataLakeSubscriptionId` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.dataLakeSubscriptionId` |
+| `properties.captureDescription.destination.properties.dataLakeAccountName` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.dataLakeAccountName` |
+| `properties.captureDescription.destination.properties.dataLakeFolderPath` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.dataLakeFolderPath` |
 
