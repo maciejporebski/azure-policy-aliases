@@ -402,6 +402,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforMySQL/servers/configurations](aliases/Microsoft.DBforMySQL/servers-configurations.md)
 - [Microsoft.DBforMySQL/servers/databases](aliases/Microsoft.DBforMySQL/servers-databases.md)
 - [Microsoft.DBforMySQL/servers/administrators](aliases/Microsoft.DBforMySQL/servers-administrators.md)
+- [Microsoft.DBforMySQL/flexibleServers/configurations](aliases/Microsoft.DBforMySQL/flexibleServers-configurations.md)
+- [Microsoft.DBforMySQL/flexibleServers/databases](aliases/Microsoft.DBforMySQL/flexibleServers-databases.md)
+- [Microsoft.DBforMySQL/flexibleServers/firewallRules](aliases/Microsoft.DBforMySQL/flexibleServers-firewallRules.md)
 
 
 ## Microsoft.DBforPostgreSQL
