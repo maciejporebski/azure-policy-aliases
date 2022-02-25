@@ -176,8 +176,17 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Cdn/profiles](aliases/Microsoft.Cdn/profiles.md)
 - [Microsoft.Cdn/profiles/endpoints](aliases/Microsoft.Cdn/profiles-endpoints.md)
 - [Microsoft.Cdn/profiles/endpoints/origins](aliases/Microsoft.Cdn/profiles-endpoints-origins.md)
+- [Microsoft.Cdn/profiles/endpoints/origingroups](aliases/Microsoft.Cdn/profiles-endpoints-origingroups.md)
 - [Microsoft.Cdn/profiles/endpoints/customdomains](aliases/Microsoft.Cdn/profiles-endpoints-customdomains.md)
 - [Microsoft.Cdn/CdnWebApplicationFirewallPolicies](aliases/Microsoft.Cdn/CdnWebApplicationFirewallPolicies.md)
+- [Microsoft.Cdn/profiles/afdendpoints](aliases/Microsoft.Cdn/profiles-afdendpoints.md)
+- [Microsoft.Cdn/profiles/afdendpoints/routes](aliases/Microsoft.Cdn/profiles-afdendpoints-routes.md)
+- [Microsoft.Cdn/profiles/customdomains](aliases/Microsoft.Cdn/profiles-customdomains.md)
+- [Microsoft.Cdn/profiles/origingroups](aliases/Microsoft.Cdn/profiles-origingroups.md)
+- [Microsoft.Cdn/profiles/origingroups/origins](aliases/Microsoft.Cdn/profiles-origingroups-origins.md)
+- [Microsoft.Cdn/profiles/rulesets/rules](aliases/Microsoft.Cdn/profiles-rulesets-rules.md)
+- [Microsoft.Cdn/profiles/secrets](aliases/Microsoft.Cdn/profiles-secrets.md)
+- [Microsoft.Cdn/profiles/securitypolicies](aliases/Microsoft.Cdn/profiles-securitypolicies.md)
 
 
 ## Microsoft.Codespaces
