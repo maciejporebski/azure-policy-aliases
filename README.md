@@ -680,11 +680,16 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.LabServices
 
+- [Microsoft.LabServices/labplans](aliases/Microsoft.LabServices/labplans.md)
+- [Microsoft.LabServices/labs](aliases/Microsoft.LabServices/labs.md)
 - [Microsoft.LabServices/labaccounts](aliases/Microsoft.LabServices/labaccounts.md)
 - [Microsoft.LabServices/labAccounts/galleryImages](aliases/Microsoft.LabServices/labAccounts-galleryImages.md)
 - [Microsoft.LabServices/labAccounts/labs](aliases/Microsoft.LabServices/labAccounts-labs.md)
 - [Microsoft.LabServices/labAccounts/labs/environmentSettings](aliases/Microsoft.LabServices/labAccounts-labs-environmentSettings.md)
 - [Microsoft.LabServices/labAccounts/labs/users](aliases/Microsoft.LabServices/labAccounts-labs-users.md)
+- [Microsoft.LabServices/labPlans/images](aliases/Microsoft.LabServices/labPlans-images.md)
+- [Microsoft.LabServices/labs/schedules](aliases/Microsoft.LabServices/labs-schedules.md)
+- [Microsoft.LabServices/labs/users](aliases/Microsoft.LabServices/labs-users.md)
 
 
 ## Microsoft.Logic

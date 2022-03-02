@@ -1,0 +1,61 @@
+# Microsoft.LabServices/labs
+
+| Default Path | Alias |
+|---|---|
+| `properties.autoShutdownProfile` | `Microsoft.LabServices/labs/autoShutdownProfile` |
+| `properties.autoShutdownProfile.shutdownOnDisconnect` | `Microsoft.LabServices/labs/autoShutdownProfile.shutdownOnDisconnect` |
+| `properties.autoShutdownProfile.shutdownWhenNotConnected` | `Microsoft.LabServices/labs/autoShutdownProfile.shutdownWhenNotConnected` |
+| `properties.autoShutdownProfile.shutdownOnIdle` | `Microsoft.LabServices/labs/autoShutdownProfile.shutdownOnIdle` |
+| `properties.autoShutdownProfile.disconnectDelay` | `Microsoft.LabServices/labs/autoShutdownProfile.disconnectDelay` |
+| `properties.autoShutdownProfile.noConnectDelay` | `Microsoft.LabServices/labs/autoShutdownProfile.noConnectDelay` |
+| `properties.autoShutdownProfile.idleDelay` | `Microsoft.LabServices/labs/autoShutdownProfile.idleDelay` |
+| `properties.connectionProfile` | `Microsoft.LabServices/labs/connectionProfile` |
+| `properties.connectionProfile.webSshAccess` | `Microsoft.LabServices/labs/connectionProfile.webSshAccess` |
+| `properties.connectionProfile.webRdpAccess` | `Microsoft.LabServices/labs/connectionProfile.webRdpAccess` |
+| `properties.connectionProfile.clientSshAccess` | `Microsoft.LabServices/labs/connectionProfile.clientSshAccess` |
+| `properties.connectionProfile.clientRdpAccess` | `Microsoft.LabServices/labs/connectionProfile.clientRdpAccess` |
+| `properties.virtualMachineProfile` | `Microsoft.LabServices/labs/virtualMachineProfile` |
+| `properties.virtualMachineProfile.createOption` | `Microsoft.LabServices/labs/virtualMachineProfile.createOption` |
+| `properties.virtualMachineProfile.imageReference` | `Microsoft.LabServices/labs/virtualMachineProfile.imageReference` |
+| `properties.virtualMachineProfile.imageReference.id` | `Microsoft.LabServices/labs/virtualMachineProfile.imageReference.id` |
+| `properties.virtualMachineProfile.imageReference.offer` | `Microsoft.LabServices/labs/virtualMachineProfile.imageReference.offer` |
+| `properties.virtualMachineProfile.imageReference.publisher` | `Microsoft.LabServices/labs/virtualMachineProfile.imageReference.publisher` |
+| `properties.virtualMachineProfile.imageReference.sku` | `Microsoft.LabServices/labs/virtualMachineProfile.imageReference.sku` |
+| `properties.virtualMachineProfile.imageReference.version` | `Microsoft.LabServices/labs/virtualMachineProfile.imageReference.version` |
+| `properties.virtualMachineProfile.imageReference.exactVersion` | `Microsoft.LabServices/labs/virtualMachineProfile.imageReference.exactVersion` |
+| `properties.virtualMachineProfile.osType` | `Microsoft.LabServices/labs/virtualMachineProfile.osType` |
+| `properties.virtualMachineProfile.sku` | `Microsoft.LabServices/labs/virtualMachineProfile.sku` |
+| `properties.virtualMachineProfile.sku.name` | `Microsoft.LabServices/labs/virtualMachineProfile.sku.name` |
+| `properties.virtualMachineProfile.sku.tier` | `Microsoft.LabServices/labs/virtualMachineProfile.sku.tier` |
+| `properties.virtualMachineProfile.sku.size` | `Microsoft.LabServices/labs/virtualMachineProfile.sku.size` |
+| `properties.virtualMachineProfile.sku.family` | `Microsoft.LabServices/labs/virtualMachineProfile.sku.family` |
+| `properties.virtualMachineProfile.sku.capacity` | `Microsoft.LabServices/labs/virtualMachineProfile.sku.capacity` |
+| `properties.virtualMachineProfile.additionalCapabilities` | `Microsoft.LabServices/labs/virtualMachineProfile.additionalCapabilities` |
+| `properties.virtualMachineProfile.additionalCapabilities.installGpuDrivers` | `Microsoft.LabServices/labs/virtualMachineProfile.additionalCapabilities.installGpuDrivers` |
+| `properties.virtualMachineProfile.usageQuota` | `Microsoft.LabServices/labs/virtualMachineProfile.usageQuota` |
+| `properties.virtualMachineProfile.useSharedPassword` | `Microsoft.LabServices/labs/virtualMachineProfile.useSharedPassword` |
+| `properties.virtualMachineProfile.adminUser` | `Microsoft.LabServices/labs/virtualMachineProfile.adminUser` |
+| `properties.virtualMachineProfile.adminUser.username` | `Microsoft.LabServices/labs/virtualMachineProfile.adminUser.username` |
+| `properties.virtualMachineProfile.adminUser.password` | `Microsoft.LabServices/labs/virtualMachineProfile.adminUser.password` |
+| `properties.virtualMachineProfile.nonAdminUser` | `Microsoft.LabServices/labs/virtualMachineProfile.nonAdminUser` |
+| `properties.virtualMachineProfile.nonAdminUser.username` | `Microsoft.LabServices/labs/virtualMachineProfile.nonAdminUser.username` |
+| `properties.virtualMachineProfile.nonAdminUser.password` | `Microsoft.LabServices/labs/virtualMachineProfile.nonAdminUser.password` |
+| `properties.securityProfile` | `Microsoft.LabServices/labs/securityProfile` |
+| `properties.securityProfile.registrationCode` | `Microsoft.LabServices/labs/securityProfile.registrationCode` |
+| `properties.securityProfile.openAccess` | `Microsoft.LabServices/labs/securityProfile.openAccess` |
+| `properties.rosterProfile` | `Microsoft.LabServices/labs/rosterProfile` |
+| `properties.rosterProfile.activeDirectoryGroupId` | `Microsoft.LabServices/labs/rosterProfile.activeDirectoryGroupId` |
+| `properties.rosterProfile.ltiContextId` | `Microsoft.LabServices/labs/rosterProfile.ltiContextId` |
+| `properties.rosterProfile.lmsInstance` | `Microsoft.LabServices/labs/rosterProfile.lmsInstance` |
+| `properties.rosterProfile.ltiClientId` | `Microsoft.LabServices/labs/rosterProfile.ltiClientId` |
+| `properties.rosterProfile.ltiRosterEndpoint` | `Microsoft.LabServices/labs/rosterProfile.ltiRosterEndpoint` |
+| `properties.labPlanId` | `Microsoft.LabServices/labs/labPlanId` |
+| `properties.title` | `Microsoft.LabServices/labs/title` |
+| `properties.description` | `Microsoft.LabServices/labs/description` |
+| `properties.provisioningState` | `Microsoft.LabServices/labs/provisioningState` |
+| `properties.networkProfile` | `Microsoft.LabServices/labs/networkProfile` |
+| `properties.networkProfile.subnetId` | `Microsoft.LabServices/labs/networkProfile.subnetId` |
+| `properties.networkProfile.loadBalancerId` | `Microsoft.LabServices/labs/networkProfile.loadBalancerId` |
+| `properties.networkProfile.publicIpId` | `Microsoft.LabServices/labs/networkProfile.publicIpId` |
+| `properties.state` | `Microsoft.LabServices/labs/state` |
+
