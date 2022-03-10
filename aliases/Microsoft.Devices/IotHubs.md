@@ -152,4 +152,5 @@
 | `properties.restrictOutboundNetworkAccess` | `Microsoft.Devices/IotHubs/restrictOutboundNetworkAccess` |
 | `properties.allowedFqdnList` | `Microsoft.Devices/IotHubs/allowedFqdnList` |
 | `properties.allowedFqdnList[*]` | `Microsoft.Devices/IotHubs/allowedFqdnList[*]` |
+| `properties.enableDataResidency` | `Microsoft.Devices/IotHubs/enableDataResidency` |
 

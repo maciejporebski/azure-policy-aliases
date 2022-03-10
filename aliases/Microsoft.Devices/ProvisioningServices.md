@@ -50,4 +50,12 @@
 | `properties.encryption.keyVaultProperties[*].keyIdentifier` | `Microsoft.Devices/provisioningServices/encryption.keyVaultProperties[*].keyIdentifier` |
 | `properties.encryption.identity` | `Microsoft.Devices/provisioningServices/encryption.identity` |
 | `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Devices/provisioningServices/encryption.identity.userAssignedIdentity` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.enableDataResidency` | `Microsoft.Devices/provisioningServices/enableDataResidency` |
 

@@ -89,4 +89,10 @@
 | `properties.gpuInstanceProfile` | `Microsoft.ContainerService/managedClusters/agentPools/gpuInstanceProfile` |
 | `properties.enableUltraSSD` | `Microsoft.ContainerService/managedClusters/agentPools/enableUltraSSD` |
 | `properties.scaleDownMode` | `Microsoft.ContainerService/managedClusters/agentPools/scaleDownMode` |
+| `properties.workloadRuntime` | `Microsoft.ContainerService/managedClusters/agentPools/workloadRuntime` |
+| `properties.creationData` | `Microsoft.ContainerService/managedClusters/agentPools/creationData` |
+| `properties.creationData.sourceResourceId` | `Microsoft.ContainerService/managedClusters/agentPools/creationData.sourceResourceId` |
+| `properties.messageOfTheDay` | `Microsoft.ContainerService/managedClusters/agentPools/messageOfTheDay` |
+| `properties.capacityReservationGroupID` | `Microsoft.ContainerService/managedClusters/agentPools/capacityReservationGroupID` |
+| `properties.hostGroupID` | `Microsoft.ContainerService/managedClusters/agentPools/hostGroupID` |
 
