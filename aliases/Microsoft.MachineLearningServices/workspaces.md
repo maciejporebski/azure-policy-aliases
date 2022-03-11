@@ -82,4 +82,9 @@
 | `properties.publicNetworkAccess` | `Microsoft.MachineLearningServices/workspaces/publicNetworkAccess` |
 | `properties.storageHnsEnabled` | `Microsoft.MachineLearningServices/workspaces/storageHnsEnabled` |
 | `properties.mlFlowTrackingUri` | `Microsoft.MachineLearningServices/workspaces/mlFlowTrackingUri` |
+| `properties.encryption.cosmosDbResourceId` | `Microsoft.MachineLearningServices/workspaces/encryption.cosmosDbResourceId` |
+| `properties.encryption.storageAccountResourceId` | `Microsoft.MachineLearningServices/workspaces/encryption.storageAccountResourceId` |
+| `properties.encryption.searchAccountResourceId` | `Microsoft.MachineLearningServices/workspaces/encryption.searchAccountResourceId` |
+| `properties.softDeleteEnabled` | `Microsoft.MachineLearningServices/workspaces/softDeleteEnabled` |
+| `properties.allowRecoverSoftDeletedWorkspace` | `Microsoft.MachineLearningServices/workspaces/allowRecoverSoftDeletedWorkspace` |
 

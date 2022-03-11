@@ -31,4 +31,8 @@
 | `properties.codeConfiguration.scoringScript` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/codeConfiguration.scoringScript` |
 | `properties.environmentId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/environmentId` |
 | `properties.environmentVariables` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/environmentVariables` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/model.Id` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/model.DataPath` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/model` |
+| `properties.model.path` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/model.DataPath.path` |
 

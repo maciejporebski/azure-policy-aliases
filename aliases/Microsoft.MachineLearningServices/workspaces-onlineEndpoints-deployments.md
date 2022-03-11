@@ -1,0 +1,57 @@
+# Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments
+
+| Default Path | Alias |
+|---|---|
+| `properties.instanceType` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.instanceType` |
+| `properties.readinessProbe` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe` |
+| `properties.readinessProbe.failureThreshold` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.failureThreshold` |
+| `properties.readinessProbe.initialDelay` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.initialDelay` |
+| `properties.readinessProbe.period` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.period` |
+| `properties.readinessProbe.successThreshold` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.successThreshold` |
+| `properties.readinessProbe.timeout` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/Managed.readinessProbe.timeout` |
+| `properties.containerResourceRequirements` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements` |
+| `properties.containerResourceRequirements.cpu` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.cpu` |
+| `properties.containerResourceRequirements.cpuLimit` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.cpuLimit` |
+| `properties.containerResourceRequirements.memoryInGB` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.memoryInGB` |
+| `properties.containerResourceRequirements.memoryInGBLimit` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.memoryInGBLimit` |
+| `properties.containerResourceRequirements.gpu` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.gpu` |
+| `properties.containerResourceRequirements.fpga` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/K8S.containerResourceRequirements.fpga` |
+| `properties.appInsightsEnabled` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/appInsightsEnabled` |
+| `properties.codeConfiguration` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/codeConfiguration` |
+| `properties.codeConfiguration.codeId` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/codeConfiguration.codeId` |
+| `properties.codeConfiguration.scoringScript` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/codeConfiguration.scoringScript` |
+| `properties.description` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/description` |
+| `properties.endpointComputeType` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/endpointComputeType` |
+| `properties.environmentId` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/environmentId` |
+| `properties.environmentVariables` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/environmentVariables` |
+| `properties.livenessProbe` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/livenessProbe` |
+| `properties.livenessProbe.failureThreshold` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/livenessProbe.failureThreshold` |
+| `properties.livenessProbe.initialDelay` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/livenessProbe.initialDelay` |
+| `properties.livenessProbe.period` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/livenessProbe.period` |
+| `properties.livenessProbe.successThreshold` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/livenessProbe.successThreshold` |
+| `properties.livenessProbe.timeout` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/livenessProbe.timeout` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.OutputPath` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.Id` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.DataPath` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model` |
+| `properties.model.jobId` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.OutputPath.jobId` |
+| `properties.model.path` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.OutputPath.path` |
+| `properties.model.path` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.DataPath.path` |
+| `properties.model.assetId` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.Id.assetId` |
+| `properties.model.datastoreId` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.DataPath.datastoreId` |
+| `properties.model.referenceType` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/model.referenceType` |
+| `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/provisioningState` |
+| `properties.requestSettings` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/requestSettings` |
+| `properties.requestSettings.maxConcurrentRequestsPerInstance` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/requestSettings.maxConcurrentRequestsPerInstance` |
+| `properties.requestSettings.maxQueueWait` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/requestSettings.maxQueueWait` |
+| `properties.requestSettings.requestTimeout` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/requestSettings.requestTimeout` |
+| `properties.scaleSettings` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.Manual` |
+| `properties.scaleSettings` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.Auto` |
+| `properties.scaleSettings` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings` |
+| `properties.scaleSettings.instanceCount` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.Manual.instanceCount` |
+| `properties.scaleSettings.pollingInterval` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.Auto.pollingInterval` |
+| `properties.scaleSettings.targetUtilizationPercentage` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.Auto.targetUtilizationPercentage` |
+| `properties.scaleSettings.maxInstances` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.maxInstances` |
+| `properties.scaleSettings.minInstances` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.minInstances` |
+| `properties.scaleSettings.scaleType` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/scaleSettings.scaleType` |
+
