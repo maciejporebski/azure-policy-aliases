@@ -1339,6 +1339,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/kustoPools/Databases/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-Databases-PrincipalAssignments.md)
 - [Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-PrincipalAssignments.md)
 - [Microsoft.Synapse/workspaces/azureADOnlyAuthentications](aliases/Microsoft.Synapse/workspaces-azureADOnlyAuthentications.md)
+- [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
 
 
 ## Microsoft.TimeSeriesInsights

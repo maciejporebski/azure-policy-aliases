@@ -13,4 +13,5 @@
 | `properties.isStorageSecondaryKeyInUse` | `Microsoft.Synapse/workspaces/extendedAuditingSettings/isStorageSecondaryKeyInUse` |
 | `properties.isAzureMonitorTargetEnabled` | `Microsoft.Synapse/workspaces/extendedAuditingSettings/isAzureMonitorTargetEnabled` |
 | `properties.queueDelayMs` | `Microsoft.Synapse/workspaces/extendedAuditingSettings/queueDelayMs` |
+| `properties.isDevopsAuditEnabled` | `Microsoft.Synapse/workspaces/extendedAuditingSettings/isDevopsAuditEnabled` |
 

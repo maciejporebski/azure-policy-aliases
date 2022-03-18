@@ -65,4 +65,5 @@
 | `properties.defaultDataLakeStorage.createManagedPrivateEndpoint` | `Microsoft.Synapse/workspaces/defaultDataLakeStorage.createManagedPrivateEndpoint` |
 | `properties.settings` | `Microsoft.Synapse/workspaces/settings` |
 | `properties.azureADOnlyAuthentication` | `Microsoft.Synapse/workspaces/azureADOnlyAuthentication` |
+| `properties.trustedServiceBypassEnabled` | `Microsoft.Synapse/workspaces/trustedServiceBypassEnabled` |
 

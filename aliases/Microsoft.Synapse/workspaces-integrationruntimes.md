@@ -93,4 +93,6 @@
 | `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].EnvironmentVariableSetup.typeProperties` |
 | `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.licenseKey` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties.licenseKey` |
 | `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.password` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup.typeProperties.password` |
+| `properties.provisioningState` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.provisioningState` |
+| `properties.managedVirtualNetwork.id` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.id` |
 

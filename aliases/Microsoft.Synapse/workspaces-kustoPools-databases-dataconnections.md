@@ -29,4 +29,5 @@
 | `properties.provisioningState` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.provisioningState` |
 | `properties.eventSystemProperties` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.eventSystemProperties` |
 | `properties.eventSystemProperties[*]` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.eventSystemProperties[*]` |
+| `properties.managedIdentityResourceId` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.managedIdentityResourceId` |
 
