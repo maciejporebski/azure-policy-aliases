@@ -1041,12 +1041,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.SaaS/resources](aliases/Microsoft.SaaS/resources.md)
 
 
-## Microsoft.Scheduler
-
-- [Microsoft.Scheduler/jobcollections](aliases/Microsoft.Scheduler/jobcollections.md)
-- [Microsoft.Scheduler/jobcollections/jobs](aliases/Microsoft.Scheduler/jobcollections-jobs.md)
-
-
 ## Microsoft.Search
 
 - [Microsoft.Search/searchServices](aliases/Microsoft.Search/searchServices.md)
