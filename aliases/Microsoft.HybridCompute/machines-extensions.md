@@ -20,4 +20,5 @@
 | `properties.instanceView.status.time` | `Microsoft.HybridCompute/machines/extensions/instanceView.status.time` |
 | `properties.instanceView.status` | `Microsoft.HybridCompute/machines/extensions/instanceView.status` |
 | `properties.instanceView` | `Microsoft.HybridCompute/machines/extensions/instanceView` |
+| `properties.enableAutomaticUpgrade` | `Microsoft.HybridCompute/machines/extensions/enableAutomaticUpgrade` |
 

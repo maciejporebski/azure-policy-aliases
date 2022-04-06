@@ -69,4 +69,12 @@
 | `properties.osProfile.linuxConfiguration.patchSettings.assessmentMode` | `Microsoft.HybridCompute/machines/osProfile.linuxConfiguration.patchSettings.assessmentMode` |
 | `properties.osType` | `Microsoft.HybridCompute/machines/osType` |
 | `properties.mssqlDiscovered` | `Microsoft.HybridCompute/machines/mssqlDiscovered` |
+| `properties.agentConfiguration` | `Microsoft.HybridCompute/machines/agentConfiguration` |
+| `properties.agentConfiguration.proxyUrl` | `Microsoft.HybridCompute/machines/agentConfiguration.proxyUrl` |
+| `properties.agentConfiguration.incomingConnectionsPorts` | `Microsoft.HybridCompute/machines/agentConfiguration.incomingConnectionsPorts` |
+| `properties.agentConfiguration.incomingConnectionsPorts[*]` | `Microsoft.HybridCompute/machines/agentConfiguration.incomingConnectionsPorts[*]` |
+| `properties.cloudMetadata` | `Microsoft.HybridCompute/machines/cloudMetadata` |
+| `properties.cloudMetadata.provider` | `Microsoft.HybridCompute/machines/cloudMetadata.provider` |
+| `properties.osProfile.windowsConfiguration.patchSettings.patchMode` | `Microsoft.HybridCompute/machines/osProfile.windowsConfiguration.patchSettings.patchMode` |
+| `properties.osProfile.linuxConfiguration.patchSettings.patchMode` | `Microsoft.HybridCompute/machines/osProfile.linuxConfiguration.patchSettings.patchMode` |
 
