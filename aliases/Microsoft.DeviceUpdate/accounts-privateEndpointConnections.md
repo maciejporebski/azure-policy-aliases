@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/groupIds[*]` |
 

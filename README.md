@@ -59,6 +59,16 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ApiManagement/service/tenant](aliases/Microsoft.ApiManagement/service-tenant.md)
 
 
+## Microsoft.App
+
+- [Microsoft.App/managedEnvironments](aliases/Microsoft.App/managedEnvironments.md)
+- [Microsoft.App/managedEnvironments/certificates](aliases/Microsoft.App/managedEnvironments-certificates.md)
+- [Microsoft.App/containerApps](aliases/Microsoft.App/containerApps.md)
+- [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
+- [Microsoft.App/managedenvironments/daprcomponents](aliases/Microsoft.App/managedenvironments-daprcomponents.md)
+- [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
+
+
 ## Microsoft.AppConfiguration
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
@@ -459,6 +469,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DeviceUpdate/accounts](aliases/Microsoft.DeviceUpdate/accounts.md)
 - [Microsoft.DeviceUpdate/accounts/instances](aliases/Microsoft.DeviceUpdate/accounts-instances.md)
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnections](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnections.md)
+- [Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies.md)
 
 
 ## Microsoft.DevTestLab
