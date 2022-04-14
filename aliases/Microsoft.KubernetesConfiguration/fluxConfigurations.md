@@ -51,4 +51,18 @@
 | `properties.complianceState` | `Microsoft.KubernetesConfiguration/fluxConfigurations/complianceState` |
 | `properties.provisioningState` | `Microsoft.KubernetesConfiguration/fluxConfigurations/provisioningState` |
 | `properties.errorMessage` | `Microsoft.KubernetesConfiguration/fluxConfigurations/errorMessage` |
+| `properties.gitRepository.httpsCACert` | `Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.httpsCACert` |
+| `properties.bucket` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket` |
+| `properties.bucket.url` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket.url` |
+| `properties.bucket.bucketName` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket.bucketName` |
+| `properties.bucket.insecure` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket.insecure` |
+| `properties.bucket.timeoutInSeconds` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket.timeoutInSeconds` |
+| `properties.bucket.syncIntervalInSeconds` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket.syncIntervalInSeconds` |
+| `properties.bucket.accessKey` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket.accessKey` |
+| `properties.bucket.localAuthRef` | `Microsoft.KubernetesConfiguration/fluxConfigurations/bucket.localAuthRef` |
+| `properties.lastSourceUpdatedCommitId` | `Microsoft.KubernetesConfiguration/fluxConfigurations/lastSourceUpdatedCommitId` |
+| `properties.lastSourceUpdatedAt` | `Microsoft.KubernetesConfiguration/fluxConfigurations/lastSourceUpdatedAt` |
+| `properties.sourceSyncedCommitId` | `Microsoft.KubernetesConfiguration/fluxConfigurations/sourceSyncedCommitId` |
+| `properties.sourceUpdatedAt` | `Microsoft.KubernetesConfiguration/fluxConfigurations/sourceUpdatedAt` |
+| `properties.statusUpdatedAt` | `Microsoft.KubernetesConfiguration/fluxConfigurations/statusUpdatedAt` |
 

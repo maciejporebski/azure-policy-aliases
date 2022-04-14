@@ -52,4 +52,5 @@
 | `properties.aksAssignedIdentity.principalId` | `Microsoft.KubernetesConfiguration/extensions/aksAssignedIdentity.principalId` |
 | `properties.aksAssignedIdentity.tenantId` | `Microsoft.KubernetesConfiguration/extensions/aksAssignedIdentity.tenantId` |
 | `properties.aksAssignedIdentity.type` | `Microsoft.KubernetesConfiguration/extensions/aksAssignedIdentity.type` |
+| `properties.installedVersion` | `Microsoft.KubernetesConfiguration/extensions/installedVersion` |
 
