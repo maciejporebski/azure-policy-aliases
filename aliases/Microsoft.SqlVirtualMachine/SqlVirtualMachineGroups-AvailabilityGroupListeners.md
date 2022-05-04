@@ -16,4 +16,12 @@
 | `properties.loadBalancerConfigurations` | `Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/loadBalancerConfigurations` |
 | `properties.createDefaultAvailabilityGroupIfNotExist` | `Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/createDefaultAvailabilityGroupIfNotExist` |
 | `properties.port` | `Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners/port` |
+| `properties.availabilityGroupConfiguration` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration` |
+| `properties.availabilityGroupConfiguration.replicas` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas` |
+| `properties.availabilityGroupConfiguration.replicas[*]` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*]` |
+| `properties.availabilityGroupConfiguration.replicas[*].sqlVirtualMachineInstanceId` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].sqlVirtualMachineInstanceId` |
+| `properties.availabilityGroupConfiguration.replicas[*].role` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].role` |
+| `properties.availabilityGroupConfiguration.replicas[*].commit` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].commit` |
+| `properties.availabilityGroupConfiguration.replicas[*].failover` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].failover` |
+| `properties.availabilityGroupConfiguration.replicas[*].readableSecondary` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].readableSecondary` |
 

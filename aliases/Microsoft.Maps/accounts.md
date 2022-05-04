@@ -12,4 +12,9 @@
 | `properties.linkedResources[*]` | `Microsoft.Maps/accounts/linkedResources[*]` |
 | `properties.linkedResources[*].uniqueName` | `Microsoft.Maps/accounts/linkedResources[*].uniqueName` |
 | `properties.linkedResources[*].id` | `Microsoft.Maps/accounts/linkedResources[*].id` |
+| `properties.cors` | `Microsoft.Maps/accounts/cors` |
+| `properties.cors.corsRules` | `Microsoft.Maps/accounts/cors.corsRules` |
+| `properties.cors.corsRules[*]` | `Microsoft.Maps/accounts/cors.corsRules[*]` |
+| `properties.cors.corsRules[*].allowedOrigins` | `Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins` |
+| `properties.cors.corsRules[*].allowedOrigins[*]` | `Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins[*]` |
 

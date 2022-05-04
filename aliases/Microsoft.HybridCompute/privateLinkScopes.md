@@ -17,4 +17,6 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].provisioningState` |
 | `properties.privateLinkScopeId` | `Microsoft.HybridCompute/privateLinkScopes/privateLinkScopeId` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].groupIds[*]` |
 

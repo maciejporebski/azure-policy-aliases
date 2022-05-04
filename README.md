@@ -305,6 +305,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CustomProviders/associations](aliases/Microsoft.CustomProviders/associations.md)
 
 
+## Microsoft.Dashboard
+
+- [Microsoft.Dashboard/grafana](aliases/Microsoft.Dashboard/grafana.md)
+
+
 ## Microsoft.DataBox
 
 - [Microsoft.DataBox/jobs](aliases/Microsoft.DataBox/jobs.md)
@@ -655,6 +660,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.IoTCentral
 
 - [Microsoft.IoTCentral/IoTApps](aliases/Microsoft.IoTCentral/IoTApps.md)
+- [Microsoft.IoTCentral/IoTApps/privateEndpointConnections](aliases/Microsoft.IoTCentral/IoTApps-privateEndpointConnections.md)
 
 
 ## Microsoft.KeyVault

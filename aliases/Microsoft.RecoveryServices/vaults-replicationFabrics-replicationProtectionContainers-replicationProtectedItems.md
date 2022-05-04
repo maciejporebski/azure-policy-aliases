@@ -67,4 +67,7 @@
 | `properties.providerSpecificDetails.targetNicTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.HyperVReplicaAzure.targetNicTags` |
 | `properties.providerSpecificDetails.recoveryVirtualMachineScaleSetId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.A2A.recoveryVirtualMachineScaleSetId` |
 | `properties.providerSpecificDetails.recoveryCapacityReservationGroupId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.A2A.recoveryCapacityReservationGroupId` |
+| `properties.providerSpecificDetails.recoveryExtendedLocation` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.A2A.recoveryExtendedLocation` |
+| `properties.providerSpecificDetails.recoveryExtendedLocation.name` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.A2A.recoveryExtendedLocation.name` |
+| `properties.providerSpecificDetails.recoveryExtendedLocation.type` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.A2A.recoveryExtendedLocation.type` |
 

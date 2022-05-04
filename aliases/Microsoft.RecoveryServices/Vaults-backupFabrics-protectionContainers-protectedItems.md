@@ -159,4 +159,13 @@
 | `properties.extendedProperties.linuxVmApplicationName` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/extendedProperties.linuxVmApplicationName` |
 | `properties.isArchiveEnabled` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/isArchiveEnabled` |
 | `properties.policyName` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/policyName` |
+| `properties.extendedInfo.oldestRecoveryPointInVault` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/extendedInfo.oldestRecoveryPointInVault` |
+| `properties.extendedInfo.oldestRecoveryPointInVault` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.extendedInfo.oldestRecoveryPointInVault` |
+| `properties.extendedInfo.oldestRecoveryPointInVault` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureIaaSVMProtectedItem.extendedInfo.oldestRecoveryPointInVault` |
+| `properties.extendedInfo.oldestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/extendedInfo.oldestRecoveryPointInArchive` |
+| `properties.extendedInfo.oldestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.extendedInfo.oldestRecoveryPointInArchive` |
+| `properties.extendedInfo.oldestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureIaaSVMProtectedItem.extendedInfo.oldestRecoveryPointInArchive` |
+| `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/extendedInfo.newestRecoveryPointInArchive` |
+| `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.extendedInfo.newestRecoveryPointInArchive` |
+| `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureIaaSVMProtectedItem.extendedInfo.newestRecoveryPointInArchive` |
 

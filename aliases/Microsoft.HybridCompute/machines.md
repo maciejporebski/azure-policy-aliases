@@ -77,4 +77,23 @@
 | `properties.cloudMetadata.provider` | `Microsoft.HybridCompute/machines/cloudMetadata.provider` |
 | `properties.osProfile.windowsConfiguration.patchSettings.patchMode` | `Microsoft.HybridCompute/machines/osProfile.windowsConfiguration.patchSettings.patchMode` |
 | `properties.osProfile.linuxConfiguration.patchSettings.patchMode` | `Microsoft.HybridCompute/machines/osProfile.linuxConfiguration.patchSettings.patchMode` |
+| `properties.agentConfiguration.extensionsAllowList` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsAllowList` |
+| `properties.agentConfiguration.extensionsAllowList[*]` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsAllowList[*]` |
+| `properties.agentConfiguration.extensionsAllowList[*].publisher` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsAllowList[*].publisher` |
+| `properties.agentConfiguration.extensionsAllowList[*].type` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsAllowList[*].type` |
+| `properties.agentConfiguration.extensionsBlockList` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsBlockList` |
+| `properties.agentConfiguration.extensionsBlockList[*]` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsBlockList[*]` |
+| `properties.agentConfiguration.extensionsBlockList[*].publisher` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsBlockList[*].publisher` |
+| `properties.agentConfiguration.extensionsBlockList[*].type` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsBlockList[*].type` |
+| `properties.agentConfiguration.proxyBypass` | `Microsoft.HybridCompute/machines/agentConfiguration.proxyBypass` |
+| `properties.agentConfiguration.proxyBypass[*]` | `Microsoft.HybridCompute/machines/agentConfiguration.proxyBypass[*]` |
+| `properties.agentConfiguration.extensionsEnabled` | `Microsoft.HybridCompute/machines/agentConfiguration.extensionsEnabled` |
+| `properties.agentConfiguration.guestConfigurationEnabled` | `Microsoft.HybridCompute/machines/agentConfiguration.guestConfigurationEnabled` |
+| `properties.serviceStatuses` | `Microsoft.HybridCompute/machines/serviceStatuses` |
+| `properties.serviceStatuses.extensionService` | `Microsoft.HybridCompute/machines/serviceStatuses.extensionService` |
+| `properties.serviceStatuses.extensionService.status` | `Microsoft.HybridCompute/machines/serviceStatuses.extensionService.status` |
+| `properties.serviceStatuses.extensionService.startupType` | `Microsoft.HybridCompute/machines/serviceStatuses.extensionService.startupType` |
+| `properties.serviceStatuses.guestConfigurationService` | `Microsoft.HybridCompute/machines/serviceStatuses.guestConfigurationService` |
+| `properties.serviceStatuses.guestConfigurationService.status` | `Microsoft.HybridCompute/machines/serviceStatuses.guestConfigurationService.status` |
+| `properties.serviceStatuses.guestConfigurationService.startupType` | `Microsoft.HybridCompute/machines/serviceStatuses.guestConfigurationService.startupType` |
 

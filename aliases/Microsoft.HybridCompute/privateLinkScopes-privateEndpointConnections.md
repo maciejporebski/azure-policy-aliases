@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/groupIds[*]` |
 
