@@ -747,14 +747,14 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearningServices/workspaces/codes](aliases/Microsoft.MachineLearningServices/workspaces-codes.md)
 - [Microsoft.MachineLearningServices/workspaces/codes/versions](aliases/Microsoft.MachineLearningServices/workspaces-codes-versions.md)
 - [Microsoft.MachineLearningServices/workspaces/environments](aliases/Microsoft.MachineLearningServices/workspaces-environments.md)
+- [Microsoft.MachineLearningServices/workspaces/environments/versions](aliases/Microsoft.MachineLearningServices/workspaces-environments-versions.md)
+- [Microsoft.MachineLearningServices/workspaces/data/versions](aliases/Microsoft.MachineLearningServices/workspaces-data-versions.md)
 - [Microsoft.MachineLearningServices/workspaces/datastores](aliases/Microsoft.MachineLearningServices/workspaces-datastores.md)
 - [Microsoft.MachineLearningServices/workspaces/models](aliases/Microsoft.MachineLearningServices/workspaces-models.md)
 - [Microsoft.MachineLearningServices/workspaces/models/versions](aliases/Microsoft.MachineLearningServices/workspaces-models-versions.md)
 - [Microsoft.MachineLearningServices/workspaces/linkedServices](aliases/Microsoft.MachineLearningServices/workspaces-linkedServices.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
-- [Microsoft.MachineLearningServices/workspaces/environments/versions](aliases/Microsoft.MachineLearningServices/workspaces-environments-versions.md)
-- [Microsoft.MachineLearningServices/workspaces/data/versions](aliases/Microsoft.MachineLearningServices/workspaces-data-versions.md)
 
 
 ## Microsoft.ManagedIdentity
