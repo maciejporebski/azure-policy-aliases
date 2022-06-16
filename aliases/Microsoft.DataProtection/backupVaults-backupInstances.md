@@ -100,4 +100,16 @@
 | `properties.datasourceAuthCredentials.secretStoreResource.uri` | `Microsoft.DataProtection/backupVaults/backupInstances/datasourceAuthCredentials.SecretStoreBasedAuthCredentials.secretStoreResource.uri` |
 | `properties.datasourceAuthCredentials.secretStoreResource.secretStoreType` | `Microsoft.DataProtection/backupVaults/backupInstances/datasourceAuthCredentials.SecretStoreBasedAuthCredentials.secretStoreResource.secretStoreType` |
 | `properties.datasourceAuthCredentials.objectType` | `Microsoft.DataProtection/backupVaults/backupInstances/datasourceAuthCredentials.objectType` |
+| `properties.policyInfo.policyParameters.dataStoreParametersList[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.dataStoreParametersList[*].AzureOperationalStoreParameters` |
+| `properties.datasourceAuthCredentials` | `Microsoft.DataProtection/backupVaults/backupInstances/datasourceAuthCredentials` |
+| `properties.dataSourceInfo.resourceProperties` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceProperties.VmwareVMProperties` |
+| `properties.dataSourceInfo.resourceProperties` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceProperties` |
+| `properties.dataSourceInfo.resourceProperties.instanceUuid` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceProperties.VmwareVMProperties.instanceUuid` |
+| `properties.dataSourceInfo.resourceProperties.objectType` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceInfo.resourceProperties.objectType` |
+| `properties.dataSourceSetInfo.resourceProperties` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.resourceProperties.VmwareVMProperties` |
+| `properties.dataSourceSetInfo.resourceProperties` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.resourceProperties` |
+| `properties.dataSourceSetInfo.resourceProperties.instanceUuid` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.resourceProperties.VmwareVMProperties.instanceUuid` |
+| `properties.dataSourceSetInfo.resourceProperties.objectType` | `Microsoft.DataProtection/backupVaults/backupInstances/dataSourceSetInfo.resourceProperties.objectType` |
+| `properties.datasourceAuthCredentials.secretStoreResource.value` | `Microsoft.DataProtection/backupVaults/backupInstances/datasourceAuthCredentials.SecretStoreBasedAuthCredentials.secretStoreResource.value` |
+| `properties.validationType` | `Microsoft.DataProtection/backupVaults/backupInstances/validationType` |
 

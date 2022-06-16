@@ -33,4 +33,5 @@
 | `properties.features[*]` | `Microsoft.Compute/galleries/images/features[*]` |
 | `properties.features[*].name` | `Microsoft.Compute/galleries/images/features[*].name` |
 | `properties.features[*].value` | `Microsoft.Compute/galleries/images/features[*].value` |
+| `properties.architecture` | `Microsoft.Compute/galleries/images/architecture` |
 

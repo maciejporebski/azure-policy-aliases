@@ -237,4 +237,10 @@
 | `properties.applicationProfile.galleryApplications[*].order` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].order` |
 | `properties.applicationProfile.galleryApplications[*].packageReferenceId` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].packageReferenceId` |
 | `properties.applicationProfile.galleryApplications[*].configurationReference` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].configurationReference` |
+| `properties.storageProfile.imageReference.communityGalleryImageId` | `Microsoft.Compute/virtualMachines/storageProfile.imageReference.communityGalleryImageId` |
+| `properties.storageProfile.osDisk.managedDisk.securityProfile` | `Microsoft.Compute/virtualMachines/storageProfile.osDisk.managedDisk.securityProfile` |
+| `properties.storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/virtualMachines/storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` |
+| `properties.storageProfile.dataDisks[*].managedDisk.securityProfile` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].managedDisk.securityProfile` |
+| `properties.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` |
+| `properties.timeCreated` | `Microsoft.Compute/virtualMachines/timeCreated` |
 

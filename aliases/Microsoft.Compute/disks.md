@@ -91,4 +91,6 @@
 | `properties.publicNetworkAccess` | `Microsoft.Compute/disks/publicNetworkAccess` |
 | `properties.creationData.securityDataUri` | `Microsoft.Compute/disks/creationData.securityDataUri` |
 | `properties.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/disks/securityProfile.secureVMDiskEncryptionSetId` |
+| `properties.supportedCapabilities.architecture` | `Microsoft.Compute/disks/supportedCapabilities.architecture` |
+| `properties.dataAccessAuthMode` | `Microsoft.Compute/disks/dataAccessAuthMode` |
 

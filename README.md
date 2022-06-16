@@ -447,6 +447,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforPostgreSQL/flexibleServers/configurations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-configurations.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/databases](aliases/Microsoft.DBforPostgreSQL/flexibleServers-databases.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/firewallRules](aliases/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/migrations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-migrations.md)
 
 
 ## Microsoft.DesktopVirtualization
@@ -694,6 +695,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Kusto/clusters/databases/eventhubconnections](aliases/Microsoft.Kusto/clusters-databases-eventhubconnections.md)
 - [Microsoft.Kusto/clusters/databases/dataconnections](aliases/Microsoft.Kusto/clusters-databases-dataconnections.md)
 - [Microsoft.Kusto/clusters/databases/principalassignments](aliases/Microsoft.Kusto/clusters-databases-principalassignments.md)
+- [Microsoft.Kusto/Clusters/ManagedPrivateEndpoints](aliases/Microsoft.Kusto/Clusters-ManagedPrivateEndpoints.md)
+- [Microsoft.Kusto/Clusters/PrivateEndpointConnections](aliases/Microsoft.Kusto/Clusters-PrivateEndpointConnections.md)
 
 
 ## Microsoft.LabServices

@@ -253,4 +253,9 @@
 | `properties.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/hardwareProfile.vmSizeProperties.vCPUsPerCore` |
 | `properties.storageProfile.imageReference.sharedGalleryImageId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.imageReference.sharedGalleryImageId` |
 | `properties.additionalCapabilities.hibernationEnabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/additionalCapabilities.hibernationEnabled` |
+| `properties.storageProfile.imageReference.communityGalleryImageId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.imageReference.communityGalleryImageId` |
+| `properties.storageProfile.osDisk.managedDisk.securityProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.osDisk.managedDisk.securityProfile` |
+| `properties.storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` |
+| `properties.storageProfile.dataDisks[*].managedDisk.securityProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].managedDisk.securityProfile` |
+| `properties.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` |
 

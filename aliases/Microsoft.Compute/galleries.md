@@ -44,4 +44,11 @@
 | `properties.sharingProfile.groups[*].ids[*]` | `Microsoft.Compute/galleries/sharingProfile.groups[*].ids[*]` |
 | `properties.softDeletePolicy` | `Microsoft.Compute/galleries/softDeletePolicy` |
 | `properties.softDeletePolicy.isSoftDeleteEnabled` | `Microsoft.Compute/galleries/softDeletePolicy.isSoftDeleteEnabled` |
+| `properties.sharingStatus` | `Microsoft.Compute/galleries/sharingStatus` |
+| `properties.sharingStatus.aggregatedState` | `Microsoft.Compute/galleries/sharingStatus.aggregatedState` |
+| `properties.sharingStatus.summary` | `Microsoft.Compute/galleries/sharingStatus.summary` |
+| `properties.sharingStatus.summary[*]` | `Microsoft.Compute/galleries/sharingStatus.summary[*]` |
+| `properties.sharingStatus.summary[*].region` | `Microsoft.Compute/galleries/sharingStatus.summary[*].region` |
+| `properties.sharingStatus.summary[*].state` | `Microsoft.Compute/galleries/sharingStatus.summary[*].state` |
+| `properties.sharingStatus.summary[*].details` | `Microsoft.Compute/galleries/sharingStatus.summary[*].details` |
 

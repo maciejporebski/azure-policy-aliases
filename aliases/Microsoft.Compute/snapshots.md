@@ -73,4 +73,6 @@
 | `properties.securityProfile` | `Microsoft.Compute/snapshots/securityProfile` |
 | `properties.securityProfile.securityType` | `Microsoft.Compute/snapshots/securityProfile.securityType` |
 | `properties.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/snapshots/securityProfile.secureVMDiskEncryptionSetId` |
+| `properties.supportedCapabilities.architecture` | `Microsoft.Compute/snapshots/supportedCapabilities.architecture` |
+| `properties.dataAccessAuthMode` | `Microsoft.Compute/snapshots/dataAccessAuthMode` |
 

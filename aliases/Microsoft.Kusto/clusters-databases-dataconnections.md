@@ -25,4 +25,16 @@
 | `properties.eventSystemProperties[*]` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.eventSystemProperties[*]` |
 | `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.provisioningState` |
 | `properties.managedIdentityResourceId` | `Microsoft.Kusto/clusters/databases/dataConnections/EventHub.managedIdentityResourceId` |
+| `properties.consumerGroup` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.consumerGroup` |
+| `properties.tableName` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.tableName` |
+| `properties.mappingRuleName` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.mappingRuleName` |
+| `properties.dataFormat` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.dataFormat` |
+| `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.provisioningState` |
+| `properties.managedIdentityResourceId` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.managedIdentityResourceId` |
+| `properties.eventGridResourceId` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.eventGridResourceId` |
+| `properties.managedIdentityObjectId` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.managedIdentityObjectId` |
+| `properties.managedIdentityObjectId` | `Microsoft.Kusto/clusters/databases/dataConnections/EventHub.managedIdentityObjectId` |
+| `properties.databaseRouting` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.databaseRouting` |
+| `properties.databaseRouting` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.databaseRouting` |
+| `properties.databaseRouting` | `Microsoft.Kusto/clusters/databases/dataConnections/EventHub.databaseRouting` |
 

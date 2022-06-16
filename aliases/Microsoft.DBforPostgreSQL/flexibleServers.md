@@ -55,4 +55,5 @@
 | `properties.storageProfile.earliestRestoreDate` | `Microsoft.DBForPostgreSql/flexibleServers/storageProfile.earliestRestoreDate` |
 | `properties.standbyCount` | `Microsoft.DBForPostgreSql/flexibleServers/standbyCount` |
 | `properties.logBackupStorageSku` | `Microsoft.DBForPostgreSql/flexibleServers/logBackupStorageSku` |
+| `properties.earliestRestoreDate` | `Microsoft.DBForPostgreSql/flexibleServers/earliestRestoreDate` |
 

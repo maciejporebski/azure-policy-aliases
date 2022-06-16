@@ -9,4 +9,5 @@
 | `properties.tenantName` | `Microsoft.Kusto/clusters/databases/principalAssignments/tenantName` |
 | `properties.principalName` | `Microsoft.Kusto/clusters/databases/principalAssignments/principalName` |
 | `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/principalAssignments/provisioningState` |
+| `properties.aadObjectId` | `Microsoft.Kusto/clusters/databases/principalAssignments/aadObjectId` |
 

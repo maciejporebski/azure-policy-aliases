@@ -207,4 +207,10 @@
 | `properties.anonymousPullEnabled` | `Microsoft.ContainerRegistry/registries/anonymousPullEnabled` |
 | `properties.policies.exportPolicy` | `Microsoft.ContainerRegistry/registries/policies.exportPolicy` |
 | `properties.policies.exportPolicy.status` | `Microsoft.ContainerRegistry/registries/policies.exportPolicy.status` |
+| `properties.policies.azureADAuthenticationAsArmPolicy` | `Microsoft.ContainerRegistry/registries/policies.azureADAuthenticationAsArmPolicy` |
+| `properties.policies.azureADAuthenticationAsArmPolicy.status` | `Microsoft.ContainerRegistry/registries/policies.azureADAuthenticationAsArmPolicy.status` |
+| `properties.policies.softDeletePolicy` | `Microsoft.ContainerRegistry/registries/policies.softDeletePolicy` |
+| `properties.policies.softDeletePolicy.retentionDays` | `Microsoft.ContainerRegistry/registries/policies.softDeletePolicy.retentionDays` |
+| `properties.policies.softDeletePolicy.lastUpdatedTime` | `Microsoft.ContainerRegistry/registries/policies.softDeletePolicy.lastUpdatedTime` |
+| `properties.policies.softDeletePolicy.status` | `Microsoft.ContainerRegistry/registries/policies.softDeletePolicy.status` |
 

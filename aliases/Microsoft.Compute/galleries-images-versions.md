@@ -51,4 +51,25 @@
 | `properties.storageProfile.osDiskImage.source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.uri` |
 | `properties.storageProfile.dataDiskImages[*].source.uri` | `Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.uri` |
 | `properties.publishingProfile.replicationMode` | `Microsoft.Compute/galleries/images/versions/publishingProfile.replicationMode` |
+| `properties.publishingProfile.targetRegions[*].encryption.osDiskImage.securityProfile` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.osDiskImage.securityProfile` |
+| `properties.publishingProfile.targetRegions[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType` |
+| `properties.publishingProfile.targetRegions[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId` |
+| `properties.publishingProfile.targetExtendedLocations` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations` |
+| `properties.publishingProfile.targetExtendedLocations[*]` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*]` |
+| `properties.publishingProfile.targetExtendedLocations[*].name` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].name` |
+| `properties.publishingProfile.targetExtendedLocations[*].extendedLocation` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].extendedLocation` |
+| `properties.publishingProfile.targetExtendedLocations[*].extendedLocation.name` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].extendedLocation.name` |
+| `properties.publishingProfile.targetExtendedLocations[*].extendedLocation.type` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].extendedLocation.type` |
+| `properties.publishingProfile.targetExtendedLocations[*].extendedLocationReplicaCount` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].extendedLocationReplicaCount` |
+| `properties.publishingProfile.targetExtendedLocations[*].storageAccountType` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].storageAccountType` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.diskEncryptionSetId` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.diskEncryptionSetId` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*]` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*]` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` |
+| `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun` |
 

@@ -109,4 +109,10 @@
 | `properties.sourceMetadata.hardwareProfile.vmSizeProperties` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile.vmSizeProperties` |
 | `properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` |
 | `properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` |
+| `properties.sourceMetadata.storageProfile.osDisk.managedDisk.securityProfile` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.managedDisk.securityProfile` |
+| `properties.sourceMetadata.storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` |
+| `properties.sourceMetadata.storageProfile.dataDisks[*].managedDisk.securityProfile` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.dataDisks[*].managedDisk.securityProfile` |
+| `properties.sourceMetadata.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` |
+| `properties.sourceRestorePoint` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceRestorePoint` |
+| `properties.sourceRestorePoint.id` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceRestorePoint.id` |
 

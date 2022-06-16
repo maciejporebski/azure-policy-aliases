@@ -115,4 +115,6 @@
 | `properties.restorePoints[*].properties.sourceMetadata.hardwareProfile.vmSizeProperties` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.hardwareProfile.vmSizeProperties` |
 | `properties.restorePoints[*].properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsAvailable` |
 | `properties.restorePoints[*].properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` |
+| `properties.restorePoints[*].properties.sourceRestorePoint` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceRestorePoint` |
+| `properties.restorePoints[*].properties.sourceRestorePoint.id` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceRestorePoint.id` |
 

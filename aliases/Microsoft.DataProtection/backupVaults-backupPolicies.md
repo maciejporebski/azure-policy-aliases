@@ -66,4 +66,13 @@
 | `properties.datasourceTypes` | `Microsoft.DataProtection/backupVaults/backupPolicies/datasourceTypes` |
 | `properties.datasourceTypes[*]` | `Microsoft.DataProtection/backupVaults/backupPolicies/datasourceTypes[*]` |
 | `properties.objectType` | `Microsoft.DataProtection/backupVaults/backupPolicies/objectType` |
+| `properties.policyRules[*].trigger.schedule.timeZone` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger.ScheduleBasedTriggerContext.schedule.timeZone` |
+| `properties.policyRules[*]` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule` |
+| `properties.policyRules[*]` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule` |
+| `properties.policyRules[*].lifecycles[*].targetDataStoreCopySettings[*].copyAfter` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureRetentionRule.lifecycles[*].targetDataStoreCopySettings[*].copyAfter` |
+| `properties.policyRules[*].backupParameters` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.backupParameters` |
+| `properties.policyRules[*].trigger` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger.AdhocBasedTriggerContext` |
+| `properties.policyRules[*].trigger` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger` |
+| `properties.policyRules[*].trigger.taggingCriteria` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger.AdhocBasedTriggerContext.taggingCriteria` |
+| `properties.policyRules[*].trigger.taggingCriteria[*].criteria[*]` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger.ScheduleBasedTriggerContext.taggingCriteria[*].criteria[*].ScheduleBasedBackupCriteria` |
 

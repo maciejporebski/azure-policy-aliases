@@ -15,4 +15,5 @@
 | `sku.tier` | `Microsoft.Compute/hostGroups/hosts/sku.tier` |
 | `sku.capacity` | `Microsoft.Compute/hostGroups/hosts/sku.capacity` |
 | `sku` | `Microsoft.Compute/hostGroups/hosts/sku` |
+| `properties.timeCreated` | `Microsoft.Compute/hostGroups/hosts/timeCreated` |
 

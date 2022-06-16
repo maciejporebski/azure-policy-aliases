@@ -14,4 +14,5 @@
 | `sku.capacity` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/sku.capacity` |
 | `zones` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/zones` |
 | `zones[*]` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/zones[*]` |
+| `properties.timeCreated` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/timeCreated` |
 
