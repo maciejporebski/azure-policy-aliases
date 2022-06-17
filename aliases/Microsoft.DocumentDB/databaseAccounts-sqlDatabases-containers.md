@@ -48,4 +48,12 @@
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/options.autoscaleSettings` |
 | `properties.resource.analyticalStorageTtl` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.analyticalStorageTtl` |
 | `properties.resource.partitionKey.systemKey` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.partitionKey.systemKey` |
+| `properties.resource.clientEncryptionPolicy` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy` |
+| `properties.resource.clientEncryptionPolicy.includedPaths` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths` |
+| `properties.resource.clientEncryptionPolicy.includedPaths[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths[*]` |
+| `properties.resource.clientEncryptionPolicy.includedPaths[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths[*].path` |
+| `properties.resource.clientEncryptionPolicy.includedPaths[*].clientEncryptionKeyId` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths[*].clientEncryptionKeyId` |
+| `properties.resource.clientEncryptionPolicy.includedPaths[*].encryptionType` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths[*].encryptionType` |
+| `properties.resource.clientEncryptionPolicy.includedPaths[*].encryptionAlgorithm` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths[*].encryptionAlgorithm` |
+| `properties.resource.clientEncryptionPolicy.policyFormatVersion` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.policyFormatVersion` |
 

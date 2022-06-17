@@ -9,4 +9,6 @@
 | `properties.backupType` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/backupType` |
 | `properties.backupId` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/backupId` |
 | `properties.failureReason` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/failureReason` |
+| `properties.volumeName` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/volumeName` |
+| `properties.useExistingSnapshot` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/useExistingSnapshot` |
 

@@ -57,6 +57,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ApiManagement/service/namedValues](aliases/Microsoft.ApiManagement/service-namedValues.md)
 - [Microsoft.ApiManagement/service/certificates](aliases/Microsoft.ApiManagement/service-certificates.md)
 - [Microsoft.ApiManagement/service/tenant](aliases/Microsoft.ApiManagement/service-tenant.md)
+- [Microsoft.ApiManagement/service/contentTypes](aliases/Microsoft.ApiManagement/service-contentTypes.md)
+- [Microsoft.ApiManagement/service/gateways/certificateAuthorities](aliases/Microsoft.ApiManagement/service-gateways-certificateAuthorities.md)
+- [Microsoft.ApiManagement/service/policyFragments](aliases/Microsoft.ApiManagement/service-policyFragments.md)
+- [Microsoft.ApiManagement/service/portalConfigs](aliases/Microsoft.ApiManagement/service-portalConfigs.md)
+- [Microsoft.ApiManagement/service/portalRevisions](aliases/Microsoft.ApiManagement/service-portalRevisions.md)
+- [Microsoft.ApiManagement/service/privateEndpointConnections](aliases/Microsoft.ApiManagement/service-privateEndpointConnections.md)
+- [Microsoft.ApiManagement/service/schemas](aliases/Microsoft.ApiManagement/service-schemas.md)
 
 
 ## Microsoft.App
@@ -552,6 +559,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/cassandraClusters/dataCenters](aliases/Microsoft.DocumentDB/cassandraClusters-dataCenters.md)
 - [Microsoft.DocumentDB/databaseAccounts/services](aliases/Microsoft.DocumentDB/databaseAccounts-services.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views.md)
+- [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views-throughputSettings.md)
+- [Microsoft.DocumentDB/databaseAccounts/graphs](aliases/Microsoft.DocumentDB/databaseAccounts-graphs.md)
+- [Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys](aliases/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-clientEncryptionKeys.md)
 
 
 ## Microsoft.EdgeOrder
@@ -833,10 +843,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.NetApp/netAppAccounts](aliases/Microsoft.NetApp/netAppAccounts.md)
 - [Microsoft.NetApp/netAppAccounts/snapshotPolicies](aliases/Microsoft.NetApp/netAppAccounts-snapshotPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/backupPolicies](aliases/Microsoft.NetApp/netAppAccounts-backupPolicies.md)
+- [Microsoft.NetApp/netAppAccounts/volumeGroups](aliases/Microsoft.NetApp/netAppAccounts-volumeGroups.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools](aliases/Microsoft.NetApp/netAppAccounts-capacityPools.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
+- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
 
 
 ## Microsoft.Network

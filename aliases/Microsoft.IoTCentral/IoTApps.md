@@ -33,4 +33,5 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.IoTCentral/iotApps/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.IoTCentral/iotApps/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.IoTCentral/iotApps/privateEndpointConnections[*].provisioningState` |
+| `properties.networkRuleSets.ipRules[*].action` | `Microsoft.IoTCentral/iotApps/networkRuleSets.ipRules[*].action` |
 

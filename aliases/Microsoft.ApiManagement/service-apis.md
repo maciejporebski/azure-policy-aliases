@@ -40,4 +40,12 @@
 | `properties.apiVersionSet.name` | `Microsoft.ApiManagement/service/apis/apiVersionSet.name` |
 | `properties.apiVersionSet.type` | `Microsoft.ApiManagement/service/apis/apiVersionSet.type` |
 | `properties.sourceApiId` | `Microsoft.ApiManagement/service/apis/sourceApiId` |
+| `properties.termsOfServiceUrl` | `Microsoft.ApiManagement/service/apis/termsOfServiceUrl` |
+| `properties.contact` | `Microsoft.ApiManagement/service/apis/contact` |
+| `properties.contact.name` | `Microsoft.ApiManagement/service/apis/contact.name` |
+| `properties.contact.url` | `Microsoft.ApiManagement/service/apis/contact.url` |
+| `properties.contact.email` | `Microsoft.ApiManagement/service/apis/contact.email` |
+| `properties.license` | `Microsoft.ApiManagement/service/apis/license` |
+| `properties.license.name` | `Microsoft.ApiManagement/service/apis/license.name` |
+| `properties.license.url` | `Microsoft.ApiManagement/service/apis/license.url` |
 

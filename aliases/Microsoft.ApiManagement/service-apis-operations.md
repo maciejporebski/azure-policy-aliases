@@ -80,4 +80,24 @@
 | `properties.request.representations[*].formParameters[*].required` | `Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].required` |
 | `properties.responses[*].representations[*].formParameters[*].required` | `Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].required` |
 | `properties.responses[*].headers[*].required` | `Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].required` |
+| `properties.templateParameters[*].schemaId` | `Microsoft.ApiManagement/service/apis/operations/templateParameters[*].schemaId` |
+| `properties.templateParameters[*].typeName` | `Microsoft.ApiManagement/service/apis/operations/templateParameters[*].typeName` |
+| `properties.templateParameters[*].examples` | `Microsoft.ApiManagement/service/apis/operations/templateParameters[*].examples` |
+| `properties.request.queryParameters[*].schemaId` | `Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].schemaId` |
+| `properties.request.queryParameters[*].typeName` | `Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].typeName` |
+| `properties.request.queryParameters[*].examples` | `Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].examples` |
+| `properties.request.headers[*].schemaId` | `Microsoft.ApiManagement/service/apis/operations/request.headers[*].schemaId` |
+| `properties.request.headers[*].typeName` | `Microsoft.ApiManagement/service/apis/operations/request.headers[*].typeName` |
+| `properties.request.headers[*].examples` | `Microsoft.ApiManagement/service/apis/operations/request.headers[*].examples` |
+| `properties.request.representations[*].formParameters[*].schemaId` | `Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].schemaId` |
+| `properties.request.representations[*].formParameters[*].typeName` | `Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].typeName` |
+| `properties.request.representations[*].formParameters[*].examples` | `Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].examples` |
+| `properties.responses[*].representations[*].formParameters[*].schemaId` | `Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].schemaId` |
+| `properties.responses[*].representations[*].formParameters[*].typeName` | `Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].typeName` |
+| `properties.responses[*].representations[*].formParameters[*].examples` | `Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].examples` |
+| `properties.responses[*].headers[*].schemaId` | `Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].schemaId` |
+| `properties.responses[*].headers[*].typeName` | `Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].typeName` |
+| `properties.responses[*].headers[*].examples` | `Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].examples` |
+| `properties.request.representations[*].examples` | `Microsoft.ApiManagement/service/apis/operations/request.representations[*].examples` |
+| `properties.responses[*].representations[*].examples` | `Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].examples` |
 

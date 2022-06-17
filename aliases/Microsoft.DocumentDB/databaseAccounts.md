@@ -110,4 +110,17 @@
 | `properties.disableLocalAuth` | `Microsoft.DocumentDB/databaseAccounts/disableLocalAuth` |
 | `properties.diagnosticLogSettings` | `Microsoft.DocumentDB/databaseAccounts/diagnosticLogSettings` |
 | `properties.diagnosticLogSettings.enableFullTextQuery` | `Microsoft.DocumentDB/databaseAccounts/diagnosticLogSettings.enableFullTextQuery` |
+| `properties.backupPolicy` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Continuous` |
+| `properties.capacity` | `Microsoft.DocumentDB/databaseAccounts/capacity` |
+| `properties.capacity.totalThroughputLimit` | `Microsoft.DocumentDB/databaseAccounts/capacity.totalThroughputLimit` |
+| `properties.restoreParameters.gremlinDatabasesToRestore` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.gremlinDatabasesToRestore` |
+| `properties.restoreParameters.gremlinDatabasesToRestore[*]` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.gremlinDatabasesToRestore[*]` |
+| `properties.restoreParameters.gremlinDatabasesToRestore[*].databaseName` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.gremlinDatabasesToRestore[*].databaseName` |
+| `properties.restoreParameters.gremlinDatabasesToRestore[*].graphNames` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.gremlinDatabasesToRestore[*].graphNames` |
+| `properties.restoreParameters.gremlinDatabasesToRestore[*].graphNames[*]` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.gremlinDatabasesToRestore[*].graphNames[*]` |
+| `properties.restoreParameters.tablesToRestore` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.tablesToRestore` |
+| `properties.restoreParameters.tablesToRestore[*]` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.tablesToRestore[*]` |
+| `properties.enableMaterializedViews` | `Microsoft.DocumentDB/databaseAccounts/enableMaterializedViews` |
+| `properties.backupPolicy.continuousModeProperties` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Continuous.continuousModeProperties` |
+| `properties.backupPolicy.continuousModeProperties.tier` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Continuous.continuousModeProperties.tier` |
 

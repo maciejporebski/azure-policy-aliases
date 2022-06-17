@@ -50,4 +50,8 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
 | `properties.disableLocalAuth` | `Microsoft.ServiceBus/namespaces/disableLocalAuth` |
+| `properties.privateEndpointConnections[*].location` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections[*].location` |
+| `properties.alternateName` | `Microsoft.ServiceBus/namespaces/alternateName` |
+| `properties.minimumTlsVersion` | `Microsoft.ServiceBus/namespaces/minimumTlsVersion` |
+| `properties.publicNetworkAccess` | `Microsoft.ServiceBus/namespaces/publicNetworkAccess` |
 

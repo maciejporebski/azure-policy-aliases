@@ -9,4 +9,6 @@
 | `properties.totalThroughputMibps` | `Microsoft.NetApp/netAppAccounts/capacityPools/totalThroughputMibps` |
 | `properties.utilizedThroughputMibps` | `Microsoft.NetApp/netAppAccounts/capacityPools/utilizedThroughputMibps` |
 | `properties.qosType` | `Microsoft.NetApp/netAppAccounts/capacityPools/qosType` |
+| `properties.coolAccess` | `Microsoft.NetApp/netAppAccounts/capacityPools/coolAccess` |
+| `properties.encryptionType` | `Microsoft.NetApp/netAppAccounts/capacityPools/encryptionType` |
 

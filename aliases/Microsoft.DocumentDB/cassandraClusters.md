@@ -28,4 +28,6 @@
 | `properties.seedNodes` | `Microsoft.DocumentDB/cassandraClusters/seedNodes` |
 | `properties.seedNodes[*]` | `Microsoft.DocumentDB/cassandraClusters/seedNodes[*]` |
 | `properties.seedNodes[*].ipAddress` | `Microsoft.DocumentDB/cassandraClusters/seedNodes[*].ipAddress` |
+| `properties.deallocated` | `Microsoft.DocumentDB/cassandraClusters/deallocated` |
+| `properties.cassandraAuditLoggingEnabled` | `Microsoft.DocumentDB/cassandraClusters/cassandraAuditLoggingEnabled` |
 

@@ -27,4 +27,12 @@
 | `properties.activeDirectories[*].ldapOverTLS` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapOverTLS` |
 | `properties.encryption` | `Microsoft.NetApp/netAppAccounts/encryption` |
 | `properties.encryption.keySource` | `Microsoft.NetApp/netAppAccounts/encryption.keySource` |
+| `properties.activeDirectories[*].allowLocalNfsUsersWithLdap` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].allowLocalNfsUsersWithLdap` |
+| `properties.activeDirectories[*].administrators` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].administrators` |
+| `properties.activeDirectories[*].administrators[*]` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].administrators[*]` |
+| `properties.activeDirectories[*].encryptDCConnections` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].encryptDCConnections` |
+| `properties.activeDirectories[*].ldapSearchScope` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSearchScope` |
+| `properties.activeDirectories[*].ldapSearchScope.userDN` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSearchScope.userDN` |
+| `properties.activeDirectories[*].ldapSearchScope.groupDN` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSearchScope.groupDN` |
+| `properties.activeDirectories[*].ldapSearchScope.groupMembershipFilter` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSearchScope.groupMembershipFilter` |
 

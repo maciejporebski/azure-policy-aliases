@@ -15,4 +15,5 @@
 | `properties.volumeBackups[*].volumeName` | `Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].volumeName` |
 | `properties.volumeBackups[*].backupsCount` | `Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].backupsCount` |
 | `properties.volumeBackups[*].policyEnabled` | `Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].policyEnabled` |
+| `properties.backupPolicyId` | `Microsoft.NetApp/netAppAccounts/backupPolicies/backupPolicyId` |
 

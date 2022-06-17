@@ -104,4 +104,25 @@
 | `properties.restore` | `Microsoft.ApiManagement/service/restore` |
 | `zones` | `Microsoft.ApiManagement/service/zones` |
 | `zones[*]` | `Microsoft.ApiManagement/service/zones[*]` |
+| `properties.hostnameConfigurations[*].certificateSource` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].certificateSource` |
+| `properties.hostnameConfigurations[*].certificateStatus` | `Microsoft.ApiManagement/service/hostnameConfigurations[*].certificateStatus` |
+| `properties.publicIpAddressId` | `Microsoft.ApiManagement/service/publicIpAddressId` |
+| `properties.additionalLocations[*].publicIpAddressId` | `Microsoft.ApiManagement/service/additionalLocations[*].publicIpAddressId` |
+| `properties.publicNetworkAccess` | `Microsoft.ApiManagement/service/publicNetworkAccess` |
+| `properties.additionalLocations[*].platformVersion` | `Microsoft.ApiManagement/service/additionalLocations[*].platformVersion` |
+| `properties.privateEndpointConnections` | `Microsoft.ApiManagement/service/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.ApiManagement/service/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].provisioningState` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].groupIds[*]` |
+| `properties.platformVersion` | `Microsoft.ApiManagement/service/platformVersion` |
 
