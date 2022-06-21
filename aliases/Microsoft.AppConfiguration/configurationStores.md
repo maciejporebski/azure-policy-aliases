@@ -25,4 +25,7 @@
 | `properties.privateEndpointConnections` | `Microsoft.AppConfiguration/configurationStores/privateEndpointConnections` |
 | `properties.publicNetworkAccess` | `Microsoft.AppConfiguration/configurationStores/publicNetworkAccess` |
 | `properties.disableLocalAuth` | `Microsoft.AppConfiguration/configurationStores/disableLocalAuth` |
+| `properties.softDeleteRetentionInDays` | `Microsoft.AppConfiguration/configurationStores/softDeleteRetentionInDays` |
+| `properties.enablePurgeProtection` | `Microsoft.AppConfiguration/configurationStores/enablePurgeProtection` |
+| `properties.createMode` | `Microsoft.AppConfiguration/configurationStores/createMode` |
 
