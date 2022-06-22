@@ -90,4 +90,6 @@
 | `properties.disableLocalAuth` | `Microsoft.EventHub/namespaces/disableLocalAuth` |
 | `properties.privateEndpointConnections[*].location` | `Microsoft.EventHub/namespaces/privateEndpointConnections[*].location` |
 | `properties.alternateName` | `Microsoft.EventHub/namespaces/alternateName` |
+| `properties.minimumTlsVersion` | `Microsoft.EventHub/namespaces/minimumTlsVersion` |
+| `properties.publicNetworkAccess` | `Microsoft.EventHub/namespaces/publicNetworkAccess` |
 

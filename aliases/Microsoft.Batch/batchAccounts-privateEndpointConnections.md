@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
+| `properties.groupIds` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds[*]` |
 

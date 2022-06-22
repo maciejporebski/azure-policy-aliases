@@ -220,4 +220,5 @@
 | `properties.startTask.containerSettings.registry.identityReference.resourceId` | `Microsoft.Batch/batchAccounts/pools/startTask.containerSettings.registry.identityReference.resourceId` |
 | `properties.mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference` |
 | `properties.mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference.resourceId` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference.resourceId` |
+| `properties.networkConfiguration.dynamicVNetAssignmentScope` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.dynamicVNetAssignmentScope` |
 

@@ -6,6 +6,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AAD/DomainServices](aliases/Microsoft.AAD/DomainServices.md)
 
 
+## microsoft.aadiam
+
+- [microsoft.aadiam/azureADMetrics](aliases/microsoft.aadiam/azureADMetrics.md)
+- [microsoft.aadiam/diagnosticSettings](aliases/microsoft.aadiam/diagnosticSettings.md)
+- [microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections](aliases/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections.md)
+
+
 ## Microsoft.AlertsManagement
 
 - [Microsoft.AlertsManagement/smartDetectorAlertRules](aliases/Microsoft.AlertsManagement/smartDetectorAlertRules.md)
@@ -301,6 +308,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerService/managedClusters](aliases/Microsoft.ContainerService/managedClusters.md)
 - [Microsoft.ContainerService/openShiftManagedClusters](aliases/Microsoft.ContainerService/openShiftManagedClusters.md)
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
+- [Microsoft.ContainerService/managedclustersnapshots](aliases/Microsoft.ContainerService/managedclustersnapshots.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
 - [Microsoft.ContainerService/managedClusters/privateEndpointConnections](aliases/Microsoft.ContainerService/managedClusters-privateEndpointConnections.md)
 - [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
@@ -620,6 +628,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.HDInsight/clusters/privateEndpointConnections](aliases/Microsoft.HDInsight/clusters-privateEndpointConnections.md)
 
 
+## Microsoft.HealthBot
+
+- [Microsoft.HealthBot/healthBots](aliases/Microsoft.HealthBot/healthBots.md)
+
+
 ## Microsoft.HealthcareApis
 
 - [Microsoft.HealthcareApis/services](aliases/Microsoft.HealthcareApis/services.md)
@@ -836,6 +849,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Migrate/assessmentprojects/servercollectors](aliases/Microsoft.Migrate/assessmentprojects-servercollectors.md)
 - [Microsoft.Migrate/moveCollections/moveResources](aliases/Microsoft.Migrate/moveCollections-moveResources.md)
 - [Microsoft.Migrate/migrateprojects/privateEndpointConnections](aliases/Microsoft.Migrate/migrateprojects-privateEndpointConnections.md)
+
+
+## Microsoft.MixedReality
+
+- [Microsoft.MixedReality/spatialAnchorsAccounts](aliases/Microsoft.MixedReality/spatialAnchorsAccounts.md)
+- [Microsoft.MixedReality/remoteRenderingAccounts](aliases/Microsoft.MixedReality/remoteRenderingAccounts.md)
+- [Microsoft.MixedReality/objectAnchorsAccounts](aliases/Microsoft.MixedReality/objectAnchorsAccounts.md)
 
 
 ## Microsoft.NetApp

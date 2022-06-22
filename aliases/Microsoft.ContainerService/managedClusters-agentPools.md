@@ -95,4 +95,6 @@
 | `properties.messageOfTheDay` | `Microsoft.ContainerService/managedClusters/agentPools/messageOfTheDay` |
 | `properties.capacityReservationGroupID` | `Microsoft.ContainerService/managedClusters/agentPools/capacityReservationGroupID` |
 | `properties.hostGroupID` | `Microsoft.ContainerService/managedClusters/agentPools/hostGroupID` |
+| `properties.currentOrchestratorVersion` | `Microsoft.ContainerService/managedClusters/agentPools/currentOrchestratorVersion` |
+| `properties.enableCustomCATrust` | `Microsoft.ContainerService/managedClusters/agentPools/enableCustomCATrust` |
 

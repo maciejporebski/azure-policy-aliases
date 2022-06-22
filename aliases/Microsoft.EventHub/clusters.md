@@ -11,4 +11,5 @@
 | `properties.status` | `Microsoft.EventHub/clusters/status` |
 | `properties.createdAt` | `Microsoft.EventHub/clusters/createdAt` |
 | `properties.updatedAt` | `Microsoft.EventHub/clusters/updatedAt` |
+| `properties.supportsScaling` | `Microsoft.EventHub/clusters/supportsScaling` |
 

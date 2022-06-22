@@ -18,4 +18,17 @@
 | `properties.autoStorage.nodeIdentityReference.resourceId` | `Microsoft.Batch/batchAccounts/autoStorage.nodeIdentityReference.resourceId` |
 | `properties.allowedAuthenticationModes` | `Microsoft.Batch/batchAccounts/allowedAuthenticationModes` |
 | `properties.allowedAuthenticationModes[*]` | `Microsoft.Batch/batchAccounts/allowedAuthenticationModes[*]` |
+| `properties.networkProfile` | `Microsoft.Batch/batchAccounts/networkProfile` |
+| `properties.networkProfile.accountAccess` | `Microsoft.Batch/batchAccounts/networkProfile.accountAccess` |
+| `properties.networkProfile.accountAccess.defaultAction` | `Microsoft.Batch/batchAccounts/networkProfile.accountAccess.defaultAction` |
+| `properties.networkProfile.accountAccess.ipRules` | `Microsoft.Batch/batchAccounts/networkProfile.accountAccess.ipRules` |
+| `properties.networkProfile.accountAccess.ipRules[*]` | `Microsoft.Batch/batchAccounts/networkProfile.accountAccess.ipRules[*]` |
+| `properties.networkProfile.accountAccess.ipRules[*].action` | `Microsoft.Batch/batchAccounts/networkProfile.accountAccess.ipRules[*].action` |
+| `properties.networkProfile.accountAccess.ipRules[*].value` | `Microsoft.Batch/batchAccounts/networkProfile.accountAccess.ipRules[*].value` |
+| `properties.networkProfile.nodeManagementAccess` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess` |
+| `properties.networkProfile.nodeManagementAccess.defaultAction` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.defaultAction` |
+| `properties.networkProfile.nodeManagementAccess.ipRules` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.ipRules` |
+| `properties.networkProfile.nodeManagementAccess.ipRules[*]` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.ipRules[*]` |
+| `properties.networkProfile.nodeManagementAccess.ipRules[*].action` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.ipRules[*].action` |
+| `properties.networkProfile.nodeManagementAccess.ipRules[*].value` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.ipRules[*].value` |
 
