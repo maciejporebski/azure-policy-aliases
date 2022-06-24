@@ -33,4 +33,20 @@
 | `properties.partnersData.partnerName` | `Microsoft.Security/assessments/partnersData.partnerName` |
 | `properties.partnersData.secret` | `Microsoft.Security/assessments/partnersData.secret` |
 | `properties.partnersData` | `Microsoft.Security/assessments/partnersData` |
+| `properties.resourceDetails` | `Microsoft.Security/assessments/resourceDetails.OnPremiseSql` |
+| `properties.resourceDetails` | `Microsoft.Security/assessments/resourceDetails.OnPremise` |
+| `properties.resourceDetails` | `Microsoft.Security/assessments/resourceDetails.Azure` |
+| `properties.resourceDetails.workspaceId` | `Microsoft.Security/assessments/resourceDetails.workspaceId` |
+| `properties.resourceDetails.workspaceId` | `Microsoft.Security/assessments/resourceDetails.OnPremise.workspaceId` |
+| `properties.resourceDetails.vmuuid` | `Microsoft.Security/assessments/resourceDetails.vmuuid` |
+| `properties.resourceDetails.vmuuid` | `Microsoft.Security/assessments/resourceDetails.OnPremise.vmuuid` |
+| `properties.resourceDetails.sourceComputerId` | `Microsoft.Security/assessments/resourceDetails.sourceComputerId` |
+| `properties.resourceDetails.sourceComputerId` | `Microsoft.Security/assessments/resourceDetails.OnPremise.sourceComputerId` |
+| `properties.resourceDetails.machineName` | `Microsoft.Security/assessments/resourceDetails.machineName` |
+| `properties.resourceDetails.machineName` | `Microsoft.Security/assessments/resourceDetails.OnPremise.machineName` |
+| `properties.resourceDetails.serverName` | `Microsoft.Security/assessments/resourceDetails.OnPremiseSql.serverName` |
+| `properties.resourceDetails.databaseName` | `Microsoft.Security/assessments/resourceDetails.OnPremiseSql.databaseName` |
+| `properties.resourceDetails.id` | `Microsoft.Security/assessments/resourceDetails.Azure.id` |
+| `properties.metadata.categories` | `Microsoft.Security/assessments/metadata.categories` |
+| `properties.metadata.categories[*]` | `Microsoft.Security/assessments/metadata.categories[*]` |
 

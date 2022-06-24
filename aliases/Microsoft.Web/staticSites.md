@@ -162,4 +162,5 @@
 | `properties.privateEndpointConnections[*].error.details[*].code` | `Microsoft.Web/staticSites/privateEndpointConnections[*].error.details[*].code` |
 | `properties.privateEndpointConnections[*].error.details[*].message` | `Microsoft.Web/staticSites/privateEndpointConnections[*].error.details[*].message` |
 | `properties.privateEndpointConnections[*].error.target` | `Microsoft.Web/staticSites/privateEndpointConnections[*].error.target` |
+| `properties.enterpriseGradeCdnStatus` | `Microsoft.Web/staticSites/enterpriseGradeCdnStatus` |
 

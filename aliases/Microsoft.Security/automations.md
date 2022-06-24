@@ -28,4 +28,7 @@
 | `properties.actions[*].sasPolicyName` | `Microsoft.Security/automations/actions[*].EventHub.sasPolicyName` |
 | `properties.actions[*].connectionString` | `Microsoft.Security/automations/actions[*].EventHub.connectionString` |
 | `properties.actions[*].workspaceResourceId` | `Microsoft.Security/automations/actions[*].Workspace.workspaceResourceId` |
+| `properties.actions[*]` | `Microsoft.Security/automations/actions[*].Workspace` |
+| `properties.actions[*]` | `Microsoft.Security/automations/actions[*].EventHub` |
+| `properties.actions[*]` | `Microsoft.Security/automations/actions[*].LogicApp` |
 

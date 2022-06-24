@@ -22,4 +22,12 @@
 | `properties.appLogsConfiguration.logAnalyticsConfiguration.customerId` | `Microsoft.Web/kubeEnvironments/appLogsConfiguration.logAnalyticsConfiguration.customerId` |
 | `properties.appLogsConfiguration.logAnalyticsConfiguration.sharedKey` | `Microsoft.Web/kubeEnvironments/appLogsConfiguration.logAnalyticsConfiguration.sharedKey` |
 | `properties.aksResourceID` | `Microsoft.Web/kubeEnvironments/aksResourceID` |
+| `properties.environmentType` | `Microsoft.Web/kubeEnvironments/environmentType` |
+| `properties.containerAppsConfiguration` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration` |
+| `properties.containerAppsConfiguration.daprAIInstrumentationKey` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.daprAIInstrumentationKey` |
+| `properties.containerAppsConfiguration.platformReservedCidr` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.platformReservedCidr` |
+| `properties.containerAppsConfiguration.platformReservedDnsIP` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.platformReservedDnsIP` |
+| `properties.containerAppsConfiguration.controlPlaneSubnetResourceId` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.controlPlaneSubnetResourceId` |
+| `properties.containerAppsConfiguration.appSubnetResourceId` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.appSubnetResourceId` |
+| `properties.containerAppsConfiguration.dockerBridgeCidr` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.dockerBridgeCidr` |
 

@@ -251,9 +251,9 @@
 | `properties.networkProfile.natGatewayProfile.effectiveOutboundIPs[*].id` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.effectiveOutboundIPs[*].id` |
 | `properties.networkProfile.natGatewayProfile.idleTimeoutInMinutes` | `Microsoft.ContainerService/managedClusters/networkProfile.natGatewayProfile.idleTimeoutInMinutes` |
 | `properties.securityProfile` | `Microsoft.ContainerService/managedClusters/securityProfile` |
-| `properties.securityProfile.azureDefender` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender` |
-| `properties.securityProfile.azureDefender.enabled` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.enabled` |
-| `properties.securityProfile.azureDefender.logAnalyticsWorkspaceResourceId` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.logAnalyticsWorkspaceResourceId` |
+| `properties.securityProfile.defender` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender` |
+| `properties.securityProfile.defender.securityMonitoring.enabled` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.enabled` |
+| `properties.securityProfile.defender.logAnalyticsWorkspaceResourceId` | `Microsoft.ContainerService/managedClusters/securityProfile.azureDefender.logAnalyticsWorkspaceResourceId` |
 | `properties.agentPoolProfiles[*].workloadRuntime` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].workloadRuntime` |
 | `properties.agentPoolProfiles[*].creationData` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].creationData` |
 | `properties.agentPoolProfiles[*].creationData.sourceResourceId` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].creationData.sourceResourceId` |

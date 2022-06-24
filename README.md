@@ -192,7 +192,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1428,6 +1427,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/connections](aliases/Microsoft.Web/connections.md)
 - [Microsoft.Web/customApis](aliases/Microsoft.Web/customApis.md)
 - [Microsoft.Web/connectionGateways](aliases/Microsoft.Web/connectionGateways.md)
+- [Microsoft.Web/containerApps](aliases/Microsoft.Web/containerApps.md)
 - [Microsoft.Web/sites/config](aliases/Microsoft.Web/sites-config.md)
 - [Microsoft.Web/sites/slots/config](aliases/Microsoft.Web/sites-slots-config.md)
 - [Microsoft.Web/serverfarms/virtualnetworkconnections/gateways](aliases/Microsoft.Web/serverfarms-virtualnetworkconnections-gateways.md)
@@ -1455,6 +1455,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/staticSites/privateEndpointConnections](aliases/Microsoft.Web/staticSites-privateEndpointConnections.md)
 - [Microsoft.Web/sites/basicPublishingCredentialsPolicies](aliases/Microsoft.Web/sites-basicPublishingCredentialsPolicies.md)
 - [Microsoft.Web/sites/slots/basicPublishingCredentialsPolicies](aliases/Microsoft.Web/sites-slots-basicPublishingCredentialsPolicies.md)
+- [Microsoft.Web/hostingenvironments/configurations](aliases/Microsoft.Web/hostingenvironments-configurations.md)
 
 
 
