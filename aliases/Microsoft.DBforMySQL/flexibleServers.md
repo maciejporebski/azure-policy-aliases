@@ -58,4 +58,10 @@
 | `properties.network.publicNetworkAccess` | `Microsoft.DBForMySql/flexibleServers/network.publicNetworkAccess` |
 | `properties.network.delegatedSubnetResourceId` | `Microsoft.DBForMySql/flexibleServers/network.delegatedSubnetResourceId` |
 | `properties.network.privateDnsZoneResourceId` | `Microsoft.DBForMySql/flexibleServers/network.privateDnsZoneResourceId` |
+| `properties.dataEncryption` | `Microsoft.DBForMySql/flexibleServers/dataEncryption` |
+| `properties.dataEncryption.primaryUserAssignedIdentityId` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.primaryUserAssignedIdentityId` |
+| `properties.dataEncryption.primaryKeyUri` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.primaryKeyUri` |
+| `properties.dataEncryption.geoBackupUserAssignedIdentityId` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.geoBackupUserAssignedIdentityId` |
+| `properties.dataEncryption.geoBackupKeyUri` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.geoBackupKeyUri` |
+| `properties.dataEncryption.type` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.type` |
 
