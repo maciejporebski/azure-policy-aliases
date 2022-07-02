@@ -87,4 +87,11 @@
 | `properties.encryption.searchAccountResourceId` | `Microsoft.MachineLearningServices/workspaces/encryption.searchAccountResourceId` |
 | `properties.softDeleteEnabled` | `Microsoft.MachineLearningServices/workspaces/softDeleteEnabled` |
 | `properties.allowRecoverSoftDeletedWorkspace` | `Microsoft.MachineLearningServices/workspaces/allowRecoverSoftDeletedWorkspace` |
+| `properties.privateEndpointConnections[*].sku.size` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].sku.size` |
+| `properties.privateEndpointConnections[*].sku.family` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].sku.family` |
+| `properties.privateEndpointConnections[*].sku.capacity` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections[*].sku.capacity` |
+| `sku.size` | `Microsoft.MachineLearningServices/workspaces/sku.size` |
+| `sku.family` | `Microsoft.MachineLearningServices/workspaces/sku.family` |
+| `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/sku.capacity` |
+| `properties.v1LegacyMode` | `Microsoft.MachineLearningServices/workspaces/v1LegacyMode` |
 

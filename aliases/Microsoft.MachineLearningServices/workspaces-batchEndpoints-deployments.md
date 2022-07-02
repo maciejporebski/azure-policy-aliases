@@ -35,4 +35,17 @@
 | `properties.model` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/model.DataPath` |
 | `properties.model` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/model` |
 | `properties.model.path` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/model.DataPath.path` |
+| `properties.maxConcurrencyPerInstance` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/maxConcurrencyPerInstance` |
+| `properties.outputAction` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/outputAction` |
+| `properties.outputFileName` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/outputFileName` |
+| `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/provisioningState` |
+| `properties.resources` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources` |
+| `properties.resources.instanceCount` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.instanceCount` |
+| `properties.resources.instanceType` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.instanceType` |
+| `sku` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku` |
+| `sku.name` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.name` |
+| `sku.tier` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.tier` |
+| `sku.size` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.size` |
+| `sku.family` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.family` |
+| `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.capacity` |
 

@@ -14,4 +14,7 @@
 | `sku` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpoint.subnetArmId` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/privateEndpoint.subnetArmId` |
+| `sku.size` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.size` |
+| `sku.family` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.family` |
+| `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.capacity` |
 

@@ -26,4 +26,21 @@
 | `properties.tags` | `Microsoft.MachineLearningServices/workspaces/environments/versions/tags` |
 | `properties.docker` | `Microsoft.MachineLearningServices/workspaces/environments/versions/docker.Image` |
 | `properties.docker` | `Microsoft.MachineLearningServices/workspaces/environments/versions/docker` |
+| `properties.isArchived` | `Microsoft.MachineLearningServices/workspaces/environments/versions/isArchived` |
+| `properties.build` | `Microsoft.MachineLearningServices/workspaces/environments/versions/build` |
+| `properties.build.contextUri` | `Microsoft.MachineLearningServices/workspaces/environments/versions/build.contextUri` |
+| `properties.build.dockerfilePath` | `Microsoft.MachineLearningServices/workspaces/environments/versions/build.dockerfilePath` |
+| `properties.environmentType` | `Microsoft.MachineLearningServices/workspaces/environments/versions/environmentType` |
+| `properties.image` | `Microsoft.MachineLearningServices/workspaces/environments/versions/image` |
+| `properties.inferenceConfig` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig` |
+| `properties.inferenceConfig.livenessRoute` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.livenessRoute` |
+| `properties.inferenceConfig.livenessRoute.path` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.livenessRoute.path` |
+| `properties.inferenceConfig.livenessRoute.port` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.livenessRoute.port` |
+| `properties.inferenceConfig.readinessRoute` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.readinessRoute` |
+| `properties.inferenceConfig.readinessRoute.path` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.readinessRoute.path` |
+| `properties.inferenceConfig.readinessRoute.port` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.readinessRoute.port` |
+| `properties.inferenceConfig.scoringRoute` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.scoringRoute` |
+| `properties.inferenceConfig.scoringRoute.path` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.scoringRoute.path` |
+| `properties.inferenceConfig.scoringRoute.port` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.scoringRoute.port` |
+| `properties.osType` | `Microsoft.MachineLearningServices/workspaces/environments/versions/osType` |
 
