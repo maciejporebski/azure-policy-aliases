@@ -123,4 +123,13 @@
 | `properties.enableMaterializedViews` | `Microsoft.DocumentDB/databaseAccounts/enableMaterializedViews` |
 | `properties.backupPolicy.continuousModeProperties` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Continuous.continuousModeProperties` |
 | `properties.backupPolicy.continuousModeProperties.tier` | `Microsoft.DocumentDB/databaseAccounts/backupPolicy.Continuous.continuousModeProperties.tier` |
+| `properties.keysMetadata` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata` |
+| `properties.keysMetadata.primaryMasterKey` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.primaryMasterKey` |
+| `properties.keysMetadata.primaryMasterKey.generationTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.primaryMasterKey.generationTime` |
+| `properties.keysMetadata.secondaryMasterKey` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryMasterKey` |
+| `properties.keysMetadata.secondaryMasterKey.generationTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryMasterKey.generationTime` |
+| `properties.keysMetadata.primaryReadonlyMasterKey` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.primaryReadonlyMasterKey` |
+| `properties.keysMetadata.primaryReadonlyMasterKey.generationTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.primaryReadonlyMasterKey.generationTime` |
+| `properties.keysMetadata.secondaryReadonlyMasterKey` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryReadonlyMasterKey` |
+| `properties.keysMetadata.secondaryReadonlyMasterKey.generationTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryReadonlyMasterKey.generationTime` |
 

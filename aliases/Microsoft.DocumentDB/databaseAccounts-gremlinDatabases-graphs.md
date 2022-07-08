@@ -47,4 +47,5 @@
 | `properties.options.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/options.autoscaleSettings.maxThroughput` |
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/options.autoscaleSettings` |
 | `properties.resource.partitionKey.systemKey` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.partitionKey.systemKey` |
+| `properties.resource.analyticalStorageTtl` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.analyticalStorageTtl` |
 

@@ -25,4 +25,7 @@
 | `properties.policy.rules[*].definition.objectType` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.objectType` |
 | `properties.policy.rules[*].definition.schemaFields` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.schemaFields` |
 | `properties.policy.rules[*].definition.schemaFields[*]` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.schemaFields[*]` |
+| `properties.policy.rules[*].definition.filters.excludePrefix` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.excludePrefix` |
+| `properties.policy.rules[*].definition.filters.excludePrefix[*]` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.excludePrefix[*]` |
+| `properties.policy.rules[*].definition.filters.includeDeleted` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.includeDeleted` |
 

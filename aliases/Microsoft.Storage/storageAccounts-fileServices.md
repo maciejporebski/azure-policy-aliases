@@ -46,4 +46,5 @@
 | `properties.protocolSettings.smb.authenticationMethods` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.authenticationMethods` |
 | `properties.protocolSettings.smb.kerberosTicketEncryption` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.kerberosTicketEncryption` |
 | `properties.protocolSettings.smb.channelEncryption` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.channelEncryption` |
+| `properties.shareDeleteRetentionPolicy.allowPermanentDelete` | `Microsoft.Storage/storageAccounts/fileServices/shareDeleteRetentionPolicy.allowPermanentDelete` |
 

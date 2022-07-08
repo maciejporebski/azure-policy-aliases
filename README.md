@@ -1294,6 +1294,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Storage/storageAccounts/queueServices/queues](aliases/Microsoft.Storage/storageAccounts-queueServices-queues.md)
 - [Microsoft.Storage/storageAccounts/tableServices/tables](aliases/Microsoft.Storage/storageAccounts-tableServices-tables.md)
 - [Microsoft.Storage/storageAccounts/inventoryPolicies](aliases/Microsoft.Storage/storageAccounts-inventoryPolicies.md)
+- [Microsoft.Storage/storageAccounts/localusers](aliases/Microsoft.Storage/storageAccounts-localusers.md)
 
 
 ## Microsoft.StorageCache

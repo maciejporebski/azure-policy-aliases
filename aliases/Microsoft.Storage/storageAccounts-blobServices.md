@@ -70,4 +70,6 @@
 | `properties.lastAccessTimeTrackingPolicy.blobType` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.blobType` |
 | `properties.lastAccessTimeTrackingPolicy.blobType[*]` | `Microsoft.Storage/storageAccounts/blobServices/lastAccessTimeTrackingPolicy.blobType[*]` |
 | `properties.changeFeed.retentionInDays` | `Microsoft.Storage/storageAccounts/blobServices/changeFeed.retentionInDays` |
+| `properties.deleteRetentionPolicy.allowPermanentDelete` | `Microsoft.Storage/storageAccounts/blobServices/deleteRetentionPolicy.allowPermanentDelete` |
+| `properties.containerDeleteRetentionPolicy.allowPermanentDelete` | `Microsoft.Storage/storageAccounts/blobServices/containerDeleteRetentionPolicy.allowPermanentDelete` |
 

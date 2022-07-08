@@ -130,4 +130,12 @@
 | `properties.immutableStorageWithVersioning.immutabilityPolicy.immutabilityPeriodSinceCreationInDays` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.immutabilityPolicy.immutabilityPeriodSinceCreationInDays` |
 | `properties.immutableStorageWithVersioning.immutabilityPolicy.state` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.immutabilityPolicy.state` |
 | `properties.immutableStorageWithVersioning.immutabilityPolicy.allowProtectedAppendWrites` | `Microsoft.Storage/storageAccounts/immutableStorageWithVersioning.immutabilityPolicy.allowProtectedAppendWrites` |
+| `properties.encryption.identity.federatedIdentityClientId` | `Microsoft.Storage/storageAccounts/encryption.identity.federatedIdentityClientId` |
+| `properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.samAccountName` | `Microsoft.Storage/storageAccounts/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.samAccountName` |
+| `properties.azureFilesIdentityBasedAuthentication.activeDirectoryProperties.accountType` | `Microsoft.Storage/storageAccounts/azureFilesIdentityBasedAuthentication.activeDirectoryProperties.accountType` |
+| `properties.isSftpEnabled` | `Microsoft.Storage/storageAccounts/isSftpEnabled` |
+| `properties.isLocalUserEnabled` | `Microsoft.Storage/storageAccounts/isLocalUserEnabled` |
+| `properties.allowedCopyScope` | `Microsoft.Storage/storageAccounts/allowedCopyScope` |
+| `properties.encryption.keyvaultproperties.currentVersionedKeyExpirationTimestamp` | `Microsoft.Storage/storageAccounts/encryption.keyvaultproperties.currentVersionedKeyExpirationTimestamp` |
+| `properties.dnsEndpointType` | `Microsoft.Storage/storageAccounts/dnsEndpointType` |
 
