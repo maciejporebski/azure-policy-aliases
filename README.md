@@ -706,6 +706,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.KubernetesConfiguration/sourceControlConfigurations](aliases/Microsoft.KubernetesConfiguration/sourceControlConfigurations.md)
 - [Microsoft.KubernetesConfiguration/extensions](aliases/Microsoft.KubernetesConfiguration/extensions.md)
 - [Microsoft.KubernetesConfiguration/fluxConfigurations](aliases/Microsoft.KubernetesConfiguration/fluxConfigurations.md)
+- [Microsoft.KubernetesConfiguration/privateLinkScopes](aliases/Microsoft.KubernetesConfiguration/privateLinkScopes.md)
+- [Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections](aliases/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections.md)
 
 
 ## Microsoft.Kusto
@@ -733,6 +735,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.LabServices/labPlans/images](aliases/Microsoft.LabServices/labPlans-images.md)
 - [Microsoft.LabServices/labs/schedules](aliases/Microsoft.LabServices/labs-schedules.md)
 - [Microsoft.LabServices/labs/users](aliases/Microsoft.LabServices/labs-users.md)
+
+
+## Microsoft.LoadTestService
+
+- [Microsoft.LoadTestService/loadtests](aliases/Microsoft.LoadTestService/loadtests.md)
 
 
 ## Microsoft.Logic
@@ -1414,6 +1421,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/sourceControls](aliases/Microsoft.Web/sourceControls.md)
 - [Microsoft.Web/staticSites](aliases/Microsoft.Web/staticSites.md)
 - [Microsoft.Web/staticSites/userProvidedFunctionApps](aliases/Microsoft.Web/staticSites-userProvidedFunctionApps.md)
+- [Microsoft.Web/staticSites/linkedBackends](aliases/Microsoft.Web/staticSites-linkedBackends.md)
+- [Microsoft.Web/staticSites/builds/linkedBackends](aliases/Microsoft.Web/staticSites-builds-linkedBackends.md)
 - [Microsoft.Web/staticSites/builds/userProvidedFunctionApps](aliases/Microsoft.Web/staticSites-builds-userProvidedFunctionApps.md)
 - [Microsoft.Web/sites/networkConfig](aliases/Microsoft.Web/sites-networkConfig.md)
 - [Microsoft.Web/sites/slots/networkConfig](aliases/Microsoft.Web/sites-slots-networkConfig.md)

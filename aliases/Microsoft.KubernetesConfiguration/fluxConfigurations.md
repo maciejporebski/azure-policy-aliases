@@ -65,4 +65,21 @@
 | `properties.sourceSyncedCommitId` | `Microsoft.KubernetesConfiguration/fluxConfigurations/sourceSyncedCommitId` |
 | `properties.sourceUpdatedAt` | `Microsoft.KubernetesConfiguration/fluxConfigurations/sourceUpdatedAt` |
 | `properties.statusUpdatedAt` | `Microsoft.KubernetesConfiguration/fluxConfigurations/statusUpdatedAt` |
+| `properties.azureBlob` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob` |
+| `properties.azureBlob.url` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.url` |
+| `properties.azureBlob.containerName` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.containerName` |
+| `properties.azureBlob.timeoutInSeconds` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.timeoutInSeconds` |
+| `properties.azureBlob.syncIntervalInSeconds` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.syncIntervalInSeconds` |
+| `properties.azureBlob.servicePrincipal` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.servicePrincipal` |
+| `properties.azureBlob.servicePrincipal.clientId` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.servicePrincipal.clientId` |
+| `properties.azureBlob.servicePrincipal.tenantId` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.servicePrincipal.tenantId` |
+| `properties.azureBlob.servicePrincipal.clientSecret` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.servicePrincipal.clientSecret` |
+| `properties.azureBlob.servicePrincipal.clientCertificate` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.servicePrincipal.clientCertificate` |
+| `properties.azureBlob.servicePrincipal.clientCertificatePassword` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.servicePrincipal.clientCertificatePassword` |
+| `properties.azureBlob.servicePrincipal.clientCertificateSendChain` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.servicePrincipal.clientCertificateSendChain` |
+| `properties.azureBlob.accountKey` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.accountKey` |
+| `properties.azureBlob.sasToken` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.sasToken` |
+| `properties.azureBlob.managedIdentity` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.managedIdentity` |
+| `properties.azureBlob.managedIdentity.clientId` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.managedIdentity.clientId` |
+| `properties.azureBlob.localAuthRef` | `Microsoft.KubernetesConfiguration/fluxConfigurations/azureBlob.localAuthRef` |
 

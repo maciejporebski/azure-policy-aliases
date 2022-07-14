@@ -163,4 +163,11 @@
 | `properties.privateEndpointConnections[*].error.details[*].message` | `Microsoft.Web/staticSites/privateEndpointConnections[*].error.details[*].message` |
 | `properties.privateEndpointConnections[*].error.target` | `Microsoft.Web/staticSites/privateEndpointConnections[*].error.target` |
 | `properties.enterpriseGradeCdnStatus` | `Microsoft.Web/staticSites/enterpriseGradeCdnStatus` |
+| `properties.linkedBackends` | `Microsoft.Web/staticSites/linkedBackends` |
+| `properties.linkedBackends[*]` | `Microsoft.Web/staticSites/linkedBackends[*]` |
+| `properties.linkedBackends[*].backendResourceId` | `Microsoft.Web/staticSites/linkedBackends[*].backendResourceId` |
+| `properties.linkedBackends[*].region` | `Microsoft.Web/staticSites/linkedBackends[*].region` |
+| `properties.linkedBackends[*].createdOn` | `Microsoft.Web/staticSites/linkedBackends[*].createdOn` |
+| `properties.linkedBackends[*].provisioningState` | `Microsoft.Web/staticSites/linkedBackends[*].provisioningState` |
+| `properties.publicNetworkAccess` | `Microsoft.Web/staticSites/publicNetworkAccess` |
 

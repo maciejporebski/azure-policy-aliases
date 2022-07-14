@@ -315,4 +315,8 @@
 | `properties.siteConfig.publicNetworkAccess` | `Microsoft.Web/sites/siteConfig.publicNetworkAccess` |
 | `properties.keyVaultReferenceIdentity` | `Microsoft.Web/sites/keyVaultReferenceIdentity` |
 | `properties.virtualNetworkSubnetId` | `Microsoft.Web/sites/virtualNetworkSubnetId` |
+| `properties.vnetRouteAllEnabled` | `Microsoft.Web/sites/vnetRouteAllEnabled` |
+| `properties.vnetImagePullEnabled` | `Microsoft.Web/sites/vnetImagePullEnabled` |
+| `properties.vnetContentShareEnabled` | `Microsoft.Web/sites/vnetContentShareEnabled` |
+| `properties.publicNetworkAccess` | `Microsoft.Web/sites/publicNetworkAccess` |
 

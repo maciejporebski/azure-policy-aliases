@@ -53,4 +53,5 @@
 | `sku.skuCapacity.elasticMaximum` | `Microsoft.Web/serverfarms/sku.skuCapacity.elasticMaximum` |
 | `properties.elasticScaleEnabled` | `Microsoft.Web/serverfarms/elasticScaleEnabled` |
 | `properties.zoneRedundant` | `Microsoft.Web/serverfarms/zoneRedundant` |
+| `properties.numberOfWorkers` | `Microsoft.Web/serverfarms/numberOfWorkers` |
 

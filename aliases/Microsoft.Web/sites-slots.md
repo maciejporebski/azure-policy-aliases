@@ -332,4 +332,8 @@
 | `properties.siteConfig.publicNetworkAccess` | `Microsoft.Web/sites/slots/siteConfig.publicNetworkAccess` |
 | `properties.keyVaultReferenceIdentity` | `Microsoft.Web/sites/slots/keyVaultReferenceIdentity` |
 | `properties.virtualNetworkSubnetId` | `Microsoft.Web/sites/slots/virtualNetworkSubnetId` |
+| `properties.vnetRouteAllEnabled` | `Microsoft.Web/sites/slots/vnetRouteAllEnabled` |
+| `properties.vnetImagePullEnabled` | `Microsoft.Web/sites/slots/vnetImagePullEnabled` |
+| `properties.vnetContentShareEnabled` | `Microsoft.Web/sites/slots/vnetContentShareEnabled` |
+| `properties.publicNetworkAccess` | `Microsoft.Web/sites/slots/publicNetworkAccess` |
 
