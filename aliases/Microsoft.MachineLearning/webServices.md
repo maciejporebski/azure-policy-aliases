@@ -87,4 +87,14 @@
 | `properties.payloadsLocation.uri` | `Microsoft.MachineLearning/webServices/payloadsLocation.uri` |
 | `properties.payloadsLocation.credentials` | `Microsoft.MachineLearning/webServices/payloadsLocation.credentials` |
 | `properties.payloadsLocation` | `Microsoft.MachineLearning/webServices/payloadsLocation` |
+| `properties.package` | `Microsoft.MachineLearning/webServices/Graph.package` |
+| `properties.package.nodes` | `Microsoft.MachineLearning/webServices/Graph.package.nodes` |
+| `properties.package.edges` | `Microsoft.MachineLearning/webServices/Graph.package.edges` |
+| `properties.package.edges[*]` | `Microsoft.MachineLearning/webServices/Graph.package.edges[*]` |
+| `properties.package.edges[*].sourceNodeId` | `Microsoft.MachineLearning/webServices/Graph.package.edges[*].sourceNodeId` |
+| `properties.package.edges[*].sourcePortId` | `Microsoft.MachineLearning/webServices/Graph.package.edges[*].sourcePortId` |
+| `properties.package.edges[*].targetNodeId` | `Microsoft.MachineLearning/webServices/Graph.package.edges[*].targetNodeId` |
+| `properties.package.edges[*].targetPortId` | `Microsoft.MachineLearning/webServices/Graph.package.edges[*].targetPortId` |
+| `properties.package.graphParameters` | `Microsoft.MachineLearning/webServices/Graph.package.graphParameters` |
+| `properties.readOnly` | `Microsoft.MachineLearning/webServices/readOnly` |
 
