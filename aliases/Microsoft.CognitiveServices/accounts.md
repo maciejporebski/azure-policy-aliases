@@ -114,4 +114,7 @@
 | `properties.disableLocalAuth` | `Microsoft.CognitiveServices/accounts/disableLocalAuth` |
 | `properties.endpoints` | `Microsoft.CognitiveServices/accounts/endpoints` |
 | `properties.restore` | `Microsoft.CognitiveServices/accounts/restore` |
+| `properties.dynamicThrottlingEnabled` | `Microsoft.CognitiveServices/accounts/dynamicThrottlingEnabled` |
+| `properties.deletionDate` | `Microsoft.CognitiveServices/accounts/deletionDate` |
+| `properties.scheduledPurgeDate` | `Microsoft.CognitiveServices/accounts/scheduledPurgeDate` |
 

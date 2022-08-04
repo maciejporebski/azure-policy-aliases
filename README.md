@@ -221,6 +221,8 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.CognitiveServices/accounts](aliases/Microsoft.CognitiveServices/accounts.md)
 - [Microsoft.CognitiveServices/accounts/privateEndpointConnections](aliases/Microsoft.CognitiveServices/accounts-privateEndpointConnections.md)
+- [Microsoft.CognitiveServices/accounts/commitmentplans](aliases/Microsoft.CognitiveServices/accounts-commitmentplans.md)
+- [Microsoft.CognitiveServices/accounts/deployments](aliases/Microsoft.CognitiveServices/accounts-deployments.md)
 
 
 ## Microsoft.Compute
