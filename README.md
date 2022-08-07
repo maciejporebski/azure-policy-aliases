@@ -307,7 +307,6 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.ContainerService/containerServices](aliases/Microsoft.ContainerService/containerServices.md)
 - [Microsoft.ContainerService/managedClusters](aliases/Microsoft.ContainerService/managedClusters.md)
-- [Microsoft.ContainerService/openShiftManagedClusters](aliases/Microsoft.ContainerService/openShiftManagedClusters.md)
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
 - [Microsoft.ContainerService/managedclustersnapshots](aliases/Microsoft.ContainerService/managedclustersnapshots.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
