@@ -1021,7 +1021,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.OperationsManagement
 
 - [Microsoft.OperationsManagement/solutions](aliases/Microsoft.OperationsManagement/solutions.md)
-- [Microsoft.OperationsManagement/managementconfigurations](aliases/Microsoft.OperationsManagement/managementconfigurations.md)
 - [Microsoft.OperationsManagement/managementassociations](aliases/Microsoft.OperationsManagement/managementassociations.md)
 
 
