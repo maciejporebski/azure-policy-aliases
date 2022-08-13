@@ -93,4 +93,8 @@
 | `properties.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/disks/securityProfile.secureVMDiskEncryptionSetId` |
 | `properties.supportedCapabilities.architecture` | `Microsoft.Compute/disks/supportedCapabilities.architecture` |
 | `properties.dataAccessAuthMode` | `Microsoft.Compute/disks/dataAccessAuthMode` |
+| `properties.creationData.imageReference.sharedGalleryImageId` | `Microsoft.Compute/disks/creationData.imageReference.sharedGalleryImageId` |
+| `properties.creationData.imageReference.communityGalleryImageId` | `Microsoft.Compute/disks/creationData.imageReference.communityGalleryImageId` |
+| `properties.creationData.galleryImageReference.sharedGalleryImageId` | `Microsoft.Compute/disks/creationData.galleryImageReference.sharedGalleryImageId` |
+| `properties.creationData.galleryImageReference.communityGalleryImageId` | `Microsoft.Compute/disks/creationData.galleryImageReference.communityGalleryImageId` |
 

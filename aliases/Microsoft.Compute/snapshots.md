@@ -75,4 +75,11 @@
 | `properties.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/snapshots/securityProfile.secureVMDiskEncryptionSetId` |
 | `properties.supportedCapabilities.architecture` | `Microsoft.Compute/snapshots/supportedCapabilities.architecture` |
 | `properties.dataAccessAuthMode` | `Microsoft.Compute/snapshots/dataAccessAuthMode` |
+| `properties.creationData.imageReference.sharedGalleryImageId` | `Microsoft.Compute/snapshots/creationData.imageReference.sharedGalleryImageId` |
+| `properties.creationData.imageReference.communityGalleryImageId` | `Microsoft.Compute/snapshots/creationData.imageReference.communityGalleryImageId` |
+| `properties.creationData.galleryImageReference.sharedGalleryImageId` | `Microsoft.Compute/snapshots/creationData.galleryImageReference.sharedGalleryImageId` |
+| `properties.creationData.galleryImageReference.communityGalleryImageId` | `Microsoft.Compute/snapshots/creationData.galleryImageReference.communityGalleryImageId` |
+| `properties.copyCompletionError` | `Microsoft.Compute/snapshots/copyCompletionError` |
+| `properties.copyCompletionError.errorCode` | `Microsoft.Compute/snapshots/copyCompletionError.errorCode` |
+| `properties.copyCompletionError.errorMessage` | `Microsoft.Compute/snapshots/copyCompletionError.errorMessage` |
 

@@ -115,4 +115,8 @@
 | `properties.sourceMetadata.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` |
 | `properties.sourceRestorePoint` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceRestorePoint` |
 | `properties.sourceRestorePoint.id` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceRestorePoint.id` |
+| `properties.sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
 

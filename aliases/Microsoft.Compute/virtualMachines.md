@@ -243,4 +243,10 @@
 | `properties.storageProfile.dataDisks[*].managedDisk.securityProfile` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].managedDisk.securityProfile` |
 | `properties.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` |
 | `properties.timeCreated` | `Microsoft.Compute/virtualMachines/timeCreated` |
+| `properties.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` |
+| `properties.applicationProfile.galleryApplications[*].enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].enableAutomaticUpgrade` |
 

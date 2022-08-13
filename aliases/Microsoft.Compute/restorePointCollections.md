@@ -117,4 +117,8 @@
 | `properties.restorePoints[*].properties.sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.hardwareProfile.vmSizeProperties.vCPUsPerCore` |
 | `properties.restorePoints[*].properties.sourceRestorePoint` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceRestorePoint` |
 | `properties.restorePoints[*].properties.sourceRestorePoint.id` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceRestorePoint.id` |
+| `properties.restorePoints[*].properties.sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.restorePoints[*].properties.sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.restorePoints[*].properties.sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.restorePoints[*].properties.sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
 

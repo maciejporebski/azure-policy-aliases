@@ -258,4 +258,8 @@
 | `properties.storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.osDisk.managedDisk.securityProfile.securityEncryptionType` |
 | `properties.storageProfile.dataDisks[*].managedDisk.securityProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].managedDisk.securityProfile` |
 | `properties.storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].managedDisk.securityProfile.securityEncryptionType` |
+| `properties.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
 

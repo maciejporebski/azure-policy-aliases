@@ -36,4 +36,9 @@
 | `properties.colocationStatus.message` | `Microsoft.Compute/proximityPlacementGroups/colocationStatus.message` |
 | `properties.colocationStatus.time` | `Microsoft.Compute/proximityPlacementGroups/colocationStatus.time` |
 | `properties.colocationStatus` | `Microsoft.Compute/proximityPlacementGroups/colocationStatus` |
+| `properties.intent` | `Microsoft.Compute/proximityPlacementGroups/intent` |
+| `properties.intent.vmSizes` | `Microsoft.Compute/proximityPlacementGroups/intent.vmSizes` |
+| `properties.intent.vmSizes[*]` | `Microsoft.Compute/proximityPlacementGroups/intent.vmSizes[*]` |
+| `zones` | `Microsoft.Compute/proximityPlacementGroups/zones` |
+| `zones[*]` | `Microsoft.Compute/proximityPlacementGroups/zones[*]` |
 

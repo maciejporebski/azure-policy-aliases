@@ -61,4 +61,8 @@
 | `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*]` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*]` |
 | `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` |
 | `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun` |
+| `properties.publishingProfile.settings` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings` |
+| `properties.publishingProfile.settings.packageFileName` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings.packageFileName` |
+| `properties.publishingProfile.settings.configFileName` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings.configFileName` |
+| `properties.publishingProfile.advancedSettings` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.advancedSettings` |
 

@@ -9,4 +9,6 @@
 | `zones[*]` | `Microsoft.Compute/hostGroups/zones[*]` |
 | `zones` | `Microsoft.Compute/hostGroups/zones` |
 | `properties.supportAutomaticPlacement` | `Microsoft.Compute/hostGroups/supportAutomaticPlacement` |
+| `properties.additionalCapabilities` | `Microsoft.Compute/hostGroups/additionalCapabilities` |
+| `properties.additionalCapabilities.ultraSSDEnabled` | `Microsoft.Compute/hostGroups/additionalCapabilities.ultraSSDEnabled` |
 

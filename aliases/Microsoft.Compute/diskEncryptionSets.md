@@ -27,4 +27,5 @@
 | `properties.autoKeyRotationError.code` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.code` |
 | `properties.autoKeyRotationError.target` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.target` |
 | `properties.autoKeyRotationError.message` | `Microsoft.Compute/diskEncryptionSets/autoKeyRotationError.message` |
+| `properties.federatedClientId` | `Microsoft.Compute/diskEncryptionSets/federatedClientId` |
 

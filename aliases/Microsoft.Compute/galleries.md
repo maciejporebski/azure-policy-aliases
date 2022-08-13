@@ -51,4 +51,12 @@
 | `properties.sharingStatus.summary[*].region` | `Microsoft.Compute/galleries/sharingStatus.summary[*].region` |
 | `properties.sharingStatus.summary[*].state` | `Microsoft.Compute/galleries/sharingStatus.summary[*].state` |
 | `properties.sharingStatus.summary[*].details` | `Microsoft.Compute/galleries/sharingStatus.summary[*].details` |
+| `properties.sharingProfile.communityGalleryInfo` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo` |
+| `properties.sharingProfile.communityGalleryInfo.publisherUri` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.publisherUri` |
+| `properties.sharingProfile.communityGalleryInfo.publisherContact` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.publisherContact` |
+| `properties.sharingProfile.communityGalleryInfo.eula` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.eula` |
+| `properties.sharingProfile.communityGalleryInfo.publicNamePrefix` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.publicNamePrefix` |
+| `properties.sharingProfile.communityGalleryInfo.communityGalleryEnabled` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.communityGalleryEnabled` |
+| `properties.sharingProfile.communityGalleryInfo.publicNames` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.publicNames` |
+| `properties.sharingProfile.communityGalleryInfo.publicNames[*]` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.publicNames[*]` |
 

@@ -284,4 +284,13 @@
 | `properties.virtualMachineProfile.hardwareProfile.vmSizeProperties.vCPUsAvailable` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.hardwareProfile.vmSizeProperties.vCPUsAvailable` |
 | `properties.virtualMachineProfile.hardwareProfile.vmSizeProperties.vCPUsPerCore` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.hardwareProfile.vmSizeProperties.vCPUsPerCore` |
 | `properties.timeCreated` | `Microsoft.Compute/virtualMachineScaleSets/timeCreated` |
+| `properties.upgradePolicy.automaticOSUpgradePolicy.useRollingUpgradePolicy` | `Microsoft.Compute/virtualMachineScaleSets/upgradePolicy.automaticOSUpgradePolicy.useRollingUpgradePolicy` |
+| `properties.virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` |
+| `properties.virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.virtualMachineProfile.storageProfile.osDisk.deleteOption` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.storageProfile.osDisk.deleteOption` |
+| `properties.virtualMachineProfile.storageProfile.dataDisks[*].deleteOption` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.storageProfile.dataDisks[*].deleteOption` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` |
+| `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].enableAutomaticUpgrade` |
 
