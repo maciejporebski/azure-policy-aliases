@@ -94,4 +94,6 @@
 | `sku.family` | `Microsoft.MachineLearningServices/workspaces/sku.family` |
 | `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/sku.capacity` |
 | `properties.v1LegacyMode` | `Microsoft.MachineLearningServices/workspaces/v1LegacyMode` |
+| `properties.softDeletedAt` | `Microsoft.MachineLearningServices/workspaces/softDeletedAt` |
+| `properties.scheduledPurgeDate` | `Microsoft.MachineLearningServices/workspaces/scheduledPurgeDate` |
 

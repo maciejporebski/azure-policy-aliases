@@ -789,6 +789,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearningServices/workspaces/models](aliases/Microsoft.MachineLearningServices/workspaces-models.md)
 - [Microsoft.MachineLearningServices/workspaces/models/versions](aliases/Microsoft.MachineLearningServices/workspaces-models-versions.md)
 - [Microsoft.MachineLearningServices/workspaces/linkedServices](aliases/Microsoft.MachineLearningServices/workspaces-linkedServices.md)
+- [Microsoft.MachineLearningServices/workspaces/schedules](aliases/Microsoft.MachineLearningServices/workspaces-schedules.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
 

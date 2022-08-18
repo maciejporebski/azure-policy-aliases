@@ -735,4 +735,6 @@
 | `properties.credentials.thumbprint` | `Microsoft.MachineLearningServices/workspaces/datastores/credentials.Certificate.thumbprint` |
 | `properties.credentials.credentialsType` | `Microsoft.MachineLearningServices/workspaces/datastores/credentials.credentialsType` |
 | `properties.datastoreType` | `Microsoft.MachineLearningServices/workspaces/datastores/datastoreType` |
+| `properties.resourceGroup` | `Microsoft.MachineLearningServices/workspaces/datastores/resourceGroup` |
+| `properties.subscriptionId` | `Microsoft.MachineLearningServices/workspaces/datastores/subscriptionId` |
 
