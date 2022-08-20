@@ -16,4 +16,11 @@
 | `properties.clfs.target` | `Microsoft.StorageCache/caches/storageTargets/clfs.target` |
 | `properties.unknown` | `Microsoft.StorageCache/caches/storageTargets/unknown` |
 | `properties.unknown.unknownMap` | `Microsoft.StorageCache/caches/storageTargets/unknown.unknownMap` |
+| `properties.junctions[*].nfsAccessPolicy` | `Microsoft.StorageCache/caches/storageTargets/junctions[*].nfsAccessPolicy` |
+| `properties.unknown.attributes` | `Microsoft.StorageCache/caches/storageTargets/unknown.attributes` |
+| `properties.blobNfs` | `Microsoft.StorageCache/caches/storageTargets/blobNfs` |
+| `properties.blobNfs.target` | `Microsoft.StorageCache/caches/storageTargets/blobNfs.target` |
+| `properties.blobNfs.usageModel` | `Microsoft.StorageCache/caches/storageTargets/blobNfs.usageModel` |
+| `properties.state` | `Microsoft.StorageCache/caches/storageTargets/state` |
+| `properties.allocationPercentage` | `Microsoft.StorageCache/caches/storageTargets/allocationPercentage` |
 
