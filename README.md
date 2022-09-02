@@ -611,6 +611,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EventHub/namespaces/schemagroups](aliases/Microsoft.EventHub/namespaces-schemagroups.md)
 
 
+## Microsoft.Features
+
+- [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
+
+
 ## Microsoft.FluidRelay
 
 - [Microsoft.FluidRelay/fluidRelayServers](aliases/Microsoft.FluidRelay/fluidRelayServers.md)
