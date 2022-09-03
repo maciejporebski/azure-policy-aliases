@@ -152,6 +152,15 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Automation/automationAccounts/nodes](aliases/Microsoft.Automation/automationAccounts-nodes.md)
 
 
+## Microsoft.AzureArcData
+
+- [Microsoft.AzureArcData/DataControllers](aliases/Microsoft.AzureArcData/DataControllers.md)
+- [Microsoft.AzureArcData/SqlManagedInstances](aliases/Microsoft.AzureArcData/SqlManagedInstances.md)
+- [Microsoft.AzureArcData/PostgresInstances](aliases/Microsoft.AzureArcData/PostgresInstances.md)
+- [Microsoft.AzureArcData/SqlServerInstances](aliases/Microsoft.AzureArcData/SqlServerInstances.md)
+- [Microsoft.AzureArcData/DataControllers/ActiveDirectoryConnectors](aliases/Microsoft.AzureArcData/DataControllers-ActiveDirectoryConnectors.md)
+
+
 ## Microsoft.Batch
 
 - [Microsoft.Batch/batchAccounts](aliases/Microsoft.Batch/batchAccounts.md)

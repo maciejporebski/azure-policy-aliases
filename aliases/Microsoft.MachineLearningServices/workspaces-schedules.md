@@ -449,4 +449,6 @@
 | `properties.trigger.startTime` | `Microsoft.MachineLearningServices/workspaces/schedules/trigger.startTime` |
 | `properties.trigger.timeZone` | `Microsoft.MachineLearningServices/workspaces/schedules/trigger.timeZone` |
 | `properties.trigger.triggerType` | `Microsoft.MachineLearningServices/workspaces/schedules/trigger.triggerType` |
+| `properties.action.jobDefinition.entry` | `Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Spark.entry.SparkJobScalaEntry` |
+| `properties.action.jobDefinition.entry.className` | `Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Spark.entry.SparkJobScalaEntry.className` |
 

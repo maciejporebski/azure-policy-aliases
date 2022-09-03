@@ -549,4 +549,6 @@
 | `properties.taskDetails.trainingData.description` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.taskDetails.trainingData.description` |
 | `properties.taskDetails.trainingData.jobInputType` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.taskDetails.trainingData.jobInputType` |
 | `properties.componentId` | `Microsoft.MachineLearningServices/workspaces/jobs/componentId` |
+| `properties.entry` | `Microsoft.MachineLearningServices/workspaces/jobs/Spark.entry.SparkJobScalaEntry` |
+| `properties.entry.className` | `Microsoft.MachineLearningServices/workspaces/jobs/Spark.entry.SparkJobScalaEntry.className` |
 
