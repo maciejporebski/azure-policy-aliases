@@ -316,4 +316,19 @@
 | `properties.workloadAutoScalerProfile` | `Microsoft.ContainerService/managedClusters/workloadAutoScalerProfile` |
 | `properties.workloadAutoScalerProfile.keda` | `Microsoft.ContainerService/managedClusters/workloadAutoScalerProfile.keda` |
 | `properties.workloadAutoScalerProfile.keda.enabled` | `Microsoft.ContainerService/managedClusters/workloadAutoScalerProfile.keda.enabled` |
+| `properties.securityProfile.nodeRestriction` | `Microsoft.ContainerService/managedClusters/securityProfile.nodeRestriction` |
+| `properties.securityProfile.nodeRestriction.enabled` | `Microsoft.ContainerService/managedClusters/securityProfile.nodeRestriction.enabled` |
+| `properties.securityProfile.imageCleaner` | `Microsoft.ContainerService/managedClusters/securityProfile.imageCleaner` |
+| `properties.securityProfile.imageCleaner.enabled` | `Microsoft.ContainerService/managedClusters/securityProfile.imageCleaner.enabled` |
+| `properties.securityProfile.imageCleaner.intervalHours` | `Microsoft.ContainerService/managedClusters/securityProfile.imageCleaner.intervalHours` |
+| `properties.workloadAutoScalerProfile.verticalPodAutoscaler` | `Microsoft.ContainerService/managedClusters/workloadAutoScalerProfile.verticalPodAutoscaler` |
+| `properties.workloadAutoScalerProfile.verticalPodAutoscaler.enabled` | `Microsoft.ContainerService/managedClusters/workloadAutoScalerProfile.verticalPodAutoscaler.enabled` |
+| `properties.workloadAutoScalerProfile.verticalPodAutoscaler.controlledValues` | `Microsoft.ContainerService/managedClusters/workloadAutoScalerProfile.verticalPodAutoscaler.controlledValues` |
+| `properties.workloadAutoScalerProfile.verticalPodAutoscaler.updateMode` | `Microsoft.ContainerService/managedClusters/workloadAutoScalerProfile.verticalPodAutoscaler.updateMode` |
+| `properties.azureMonitorProfile` | `Microsoft.ContainerService/managedClusters/azureMonitorProfile` |
+| `properties.azureMonitorProfile.metrics` | `Microsoft.ContainerService/managedClusters/azureMonitorProfile.metrics` |
+| `properties.azureMonitorProfile.metrics.enabled` | `Microsoft.ContainerService/managedClusters/azureMonitorProfile.metrics.enabled` |
+| `properties.azureMonitorProfile.metrics.kubeStateMetrics` | `Microsoft.ContainerService/managedClusters/azureMonitorProfile.metrics.kubeStateMetrics` |
+| `properties.azureMonitorProfile.metrics.kubeStateMetrics.metricLabelsAllowlist` | `Microsoft.ContainerService/managedClusters/azureMonitorProfile.metrics.kubeStateMetrics.metricLabelsAllowlist` |
+| `properties.azureMonitorProfile.metrics.kubeStateMetrics.metricAnnotationsAllowList` | `Microsoft.ContainerService/managedClusters/azureMonitorProfile.metrics.kubeStateMetrics.metricAnnotationsAllowList` |
 
