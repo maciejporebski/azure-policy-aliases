@@ -654,6 +654,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.HealthcareApis/services](aliases/Microsoft.HealthcareApis/services.md)
 - [Microsoft.HealthcareApis/services/privateEndpointConnections](aliases/Microsoft.HealthcareApis/services-privateEndpointConnections.md)
 - [Microsoft.HealthcareApis/workspaces](aliases/Microsoft.HealthcareApis/workspaces.md)
+- [Microsoft.HealthcareApis/workspaces/privateEndpointConnections](aliases/Microsoft.HealthcareApis/workspaces-privateEndpointConnections.md)
 - [Microsoft.HealthcareApis/workspaces/dicomservices](aliases/Microsoft.HealthcareApis/workspaces-dicomservices.md)
 - [Microsoft.HealthcareApis/workspaces/iotconnectors](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors.md)
 - [Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations.md)

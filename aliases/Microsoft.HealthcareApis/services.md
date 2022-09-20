@@ -40,4 +40,13 @@
 | `properties.acrConfiguration` | `Microsoft.HealthcareApis/services/acrConfiguration` |
 | `properties.acrConfiguration.loginServers` | `Microsoft.HealthcareApis/services/acrConfiguration.loginServers` |
 | `properties.acrConfiguration.loginServers[*]` | `Microsoft.HealthcareApis/services/acrConfiguration.loginServers[*]` |
+| `properties.acrConfiguration.ociArtifacts` | `Microsoft.HealthcareApis/services/acrConfiguration.ociArtifacts` |
+| `properties.acrConfiguration.ociArtifacts[*]` | `Microsoft.HealthcareApis/services/acrConfiguration.ociArtifacts[*]` |
+| `properties.acrConfiguration.ociArtifacts[*].loginServer` | `Microsoft.HealthcareApis/services/acrConfiguration.ociArtifacts[*].loginServer` |
+| `properties.acrConfiguration.ociArtifacts[*].imageName` | `Microsoft.HealthcareApis/services/acrConfiguration.ociArtifacts[*].imageName` |
+| `properties.acrConfiguration.ociArtifacts[*].digest` | `Microsoft.HealthcareApis/services/acrConfiguration.ociArtifacts[*].digest` |
+| `properties.importConfiguration` | `Microsoft.HealthcareApis/services/importConfiguration` |
+| `properties.importConfiguration.integrationDataStore` | `Microsoft.HealthcareApis/services/importConfiguration.integrationDataStore` |
+| `properties.importConfiguration.initialImportMode` | `Microsoft.HealthcareApis/services/importConfiguration.initialImportMode` |
+| `properties.importConfiguration.enabled` | `Microsoft.HealthcareApis/services/importConfiguration.enabled` |
 
