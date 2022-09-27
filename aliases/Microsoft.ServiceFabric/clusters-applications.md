@@ -46,4 +46,6 @@
 | `properties.managedIdentities[*].principalId` | `Microsoft.ServiceFabric/clusters/applications/managedIdentities[*].principalId` |
 | `properties.managedIdentities[*]` | `Microsoft.ServiceFabric/clusters/applications/managedIdentities[*]` |
 | `properties.managedIdentities` | `Microsoft.ServiceFabric/clusters/applications/managedIdentities` |
+| `properties.upgradePolicy.upgradeMode` | `Microsoft.ServiceFabric/clusters/applications/upgradePolicy.upgradeMode` |
+| `properties.upgradePolicy.recreateApplication` | `Microsoft.ServiceFabric/clusters/applications/upgradePolicy.recreateApplication` |
 

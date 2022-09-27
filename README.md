@@ -622,6 +622,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EventHub/namespaces/schemagroups](aliases/Microsoft.EventHub/namespaces-schemagroups.md)
 
 
+## Microsoft.ExtendedLocation
+
+- [Microsoft.ExtendedLocation/customLocations](aliases/Microsoft.ExtendedLocation/customLocations.md)
+- [Microsoft.ExtendedLocation/customLocations/resourceSyncRules](aliases/Microsoft.ExtendedLocation/customLocations-resourceSyncRules.md)
+
+
 ## Microsoft.Features
 
 - [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
@@ -1186,6 +1192,12 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.ServiceFabric/clusters](aliases/Microsoft.ServiceFabric/clusters.md)
 - [Microsoft.ServiceFabric/clusters/applications](aliases/Microsoft.ServiceFabric/clusters-applications.md)
+- [Microsoft.ServiceFabric/managedclusters](aliases/Microsoft.ServiceFabric/managedclusters.md)
+- [Microsoft.ServiceFabric/managedclusters/nodetypes](aliases/Microsoft.ServiceFabric/managedclusters-nodetypes.md)
+- [Microsoft.ServiceFabric/managedclusters/applicationTypes](aliases/Microsoft.ServiceFabric/managedclusters-applicationTypes.md)
+- [Microsoft.ServiceFabric/managedclusters/applicationTypes/versions](aliases/Microsoft.ServiceFabric/managedclusters-applicationTypes-versions.md)
+- [Microsoft.ServiceFabric/managedclusters/applications](aliases/Microsoft.ServiceFabric/managedclusters-applications.md)
+- [Microsoft.ServiceFabric/managedclusters/applications/services](aliases/Microsoft.ServiceFabric/managedclusters-applications-services.md)
 - [Microsoft.ServiceFabric/clusters/applications/services](aliases/Microsoft.ServiceFabric/clusters-applications-services.md)
 - [Microsoft.ServiceFabric/clusters/applicationTypes](aliases/Microsoft.ServiceFabric/clusters-applicationTypes.md)
 - [Microsoft.ServiceFabric/clusters/applicationTypes/versions](aliases/Microsoft.ServiceFabric/clusters-applicationTypes-versions.md)

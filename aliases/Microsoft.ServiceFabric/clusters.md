@@ -101,4 +101,25 @@
 | `properties.upgradeDescription.deltaHealthPolicy.applicationDeltaHealthPolicies` | `Microsoft.ServiceFabric/clusters/upgradeDescription.deltaHealthPolicy.applicationDeltaHealthPolicies` |
 | `properties.eventStoreServiceEnabled` | `Microsoft.ServiceFabric/clusters/eventStoreServiceEnabled` |
 | `properties.diagnosticsStorageAccountConfig.protectedAccountKeyName2` | `Microsoft.ServiceFabric/clusters/diagnosticsStorageAccountConfig.protectedAccountKeyName2` |
+| `properties.applicationTypeVersionsCleanupPolicy` | `Microsoft.ServiceFabric/clusters/applicationTypeVersionsCleanupPolicy` |
+| `properties.applicationTypeVersionsCleanupPolicy.maxUnusedVersionsToKeep` | `Microsoft.ServiceFabric/clusters/applicationTypeVersionsCleanupPolicy.maxUnusedVersionsToKeep` |
+| `properties.nodeTypes[*].isStateless` | `Microsoft.ServiceFabric/clusters/nodeTypes[*].isStateless` |
+| `properties.nodeTypes[*].multipleAvailabilityZones` | `Microsoft.ServiceFabric/clusters/nodeTypes[*].multipleAvailabilityZones` |
+| `properties.sfZonalUpgradeMode` | `Microsoft.ServiceFabric/clusters/sfZonalUpgradeMode` |
+| `properties.vmssZonalUpgradeMode` | `Microsoft.ServiceFabric/clusters/vmssZonalUpgradeMode` |
+| `properties.infrastructureServiceManager` | `Microsoft.ServiceFabric/clusters/infrastructureServiceManager` |
+| `properties.upgradeWave` | `Microsoft.ServiceFabric/clusters/upgradeWave` |
+| `properties.upgradePauseStartTimestampUtc` | `Microsoft.ServiceFabric/clusters/upgradePauseStartTimestampUtc` |
+| `properties.upgradePauseEndTimestampUtc` | `Microsoft.ServiceFabric/clusters/upgradePauseEndTimestampUtc` |
+| `properties.waveUpgradePaused` | `Microsoft.ServiceFabric/clusters/waveUpgradePaused` |
+| `properties.notifications` | `Microsoft.ServiceFabric/clusters/notifications` |
+| `properties.notifications[*]` | `Microsoft.ServiceFabric/clusters/notifications[*]` |
+| `properties.notifications[*].isEnabled` | `Microsoft.ServiceFabric/clusters/notifications[*].isEnabled` |
+| `properties.notifications[*].notificationCategory` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationCategory` |
+| `properties.notifications[*].notificationLevel` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationLevel` |
+| `properties.notifications[*].notificationTargets` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets` |
+| `properties.notifications[*].notificationTargets[*]` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*]` |
+| `properties.notifications[*].notificationTargets[*].notificationChannel` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].notificationChannel` |
+| `properties.notifications[*].notificationTargets[*].receivers` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].receivers` |
+| `properties.notifications[*].notificationTargets[*].receivers[*]` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].receivers[*]` |
 
