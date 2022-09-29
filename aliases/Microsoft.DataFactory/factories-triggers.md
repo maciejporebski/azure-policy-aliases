@@ -96,4 +96,16 @@
 | `properties.typeProperties.dependsOn[*].referenceTrigger.referenceName` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].referenceTrigger.referenceName` |
 | `properties.typeProperties.subjectBeginsWith` | `Microsoft.DataFactory/factories/triggers/CustomEventsTrigger.typeProperties.subjectBeginsWith` |
 | `properties.typeProperties.subjectEndsWith` | `Microsoft.DataFactory/factories/triggers/CustomEventsTrigger.typeProperties.subjectEndsWith` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/triggers/BlobEventsTrigger.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/triggers/BlobTrigger.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/triggers/RerunTumblingWindowTrigger.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/triggers/CustomEventsTrigger.typeProperties` |
+| `properties.typeProperties.dependsOn[*]` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].SelfDependencyTumblingWindowTriggerReference` |
+| `properties.typeProperties.dependsOn[*]` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TumblingWindowTriggerDependencyReference` |
+| `properties.typeProperties.dependsOn[*]` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference` |
+| `properties.typeProperties.dependsOn[*].offset` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TumblingWindowTriggerDependencyReference.offset` |
+| `properties.typeProperties.dependsOn[*].size` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TumblingWindowTriggerDependencyReference.size` |
+| `properties.typeProperties.dependsOn[*].referenceTrigger` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger` |
+| `properties.typeProperties.dependsOn[*].referenceTrigger.type` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger.type` |
+| `properties.typeProperties.dependsOn[*].referenceTrigger.referenceName` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger.referenceName` |
 

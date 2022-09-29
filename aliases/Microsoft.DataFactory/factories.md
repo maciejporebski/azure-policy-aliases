@@ -44,4 +44,10 @@
 | `properties.encryption.identity` | `Microsoft.DataFactory/factories/encryption.identity` |
 | `properties.encryption.identity.userAssignedIdentity` | `Microsoft.DataFactory/factories/encryption.identity.userAssignedIdentity` |
 | `properties.repoConfiguration` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration` |
+| `properties.purviewConfiguration` | `Microsoft.DataFactory/factories/purviewConfiguration` |
+| `properties.purviewConfiguration.purviewResourceId` | `Microsoft.DataFactory/factories/purviewConfiguration.purviewResourceId` |
+| `properties.repoConfiguration.clientId` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.clientId` |
+| `properties.repoConfiguration.clientSecret` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.clientSecret` |
+| `properties.repoConfiguration.clientSecret.byoaSecretAkvUrl` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.clientSecret.byoaSecretAkvUrl` |
+| `properties.repoConfiguration.clientSecret.byoaSecretName` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.clientSecret.byoaSecretName` |
 

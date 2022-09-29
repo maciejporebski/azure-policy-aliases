@@ -120,4 +120,26 @@
 | `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].AzPowerShellSetup.typeProperties` |
 | `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.licenseKey` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties.licenseKey.AzureKeyVaultSecret` |
 | `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.password` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup.typeProperties.password.AzureKeyVaultSecret` |
+| `properties.typeProperties.linkedInfo` | `Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo` |
+| `properties.typeProperties.linkedInfo.key` | `Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.Key.key.SecureString` |
+| `properties.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.catalogInfo.catalogAdminPassword.SecureString` |
+| `properties.typeProperties.ssisProperties.customSetupScriptProperties.sasToken` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.customSetupScriptProperties.sasToken.SecureString` |
+| `properties.typeProperties.linkedInfo.credential` | `Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.RBAC.credential` |
+| `properties.typeProperties.linkedInfo.credential.type` | `Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.RBAC.credential.type` |
+| `properties.typeProperties.linkedInfo.credential.referenceName` | `Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.linkedInfo.RBAC.credential.referenceName` |
+| `properties.typeProperties.computeProperties.dataFlowProperties.cleanup` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.cleanup` |
+| `properties.typeProperties.computeProperties.vNetProperties.subnetId` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.vNetProperties.subnetId` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].AzPowerShellSetup` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].EnvironmentVariableSetup` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*]` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].EnvironmentVariableSetup.typeProperties` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.licenseKey` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].ComponentSetup.typeProperties.licenseKey` |
+| `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.password` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup.typeProperties.password` |
+| `properties.typeProperties.ssisProperties.credential` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.credential` |
+| `properties.typeProperties.ssisProperties.credential.type` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.credential.type` |
+| `properties.typeProperties.ssisProperties.credential.referenceName` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.credential.referenceName` |
+| `properties.typeProperties.customerVirtualNetwork` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork` |
+| `properties.typeProperties.customerVirtualNetwork.subnetId` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork.subnetId` |
 
