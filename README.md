@@ -270,17 +270,17 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.ConnectedVMwarevSphere
 
 - [Microsoft.ConnectedVMwarevSphere/VCenters](aliases/Microsoft.ConnectedVMwarevSphere/VCenters.md)
-- [Microsoft.ConnectedVMwarevSphere/ResourcePools](aliases/Microsoft.ConnectedVMwarevSphere/ResourcePools.md)
-- [Microsoft.ConnectedVMwarevSphere/VirtualNetworks](aliases/Microsoft.ConnectedVMwarevSphere/VirtualNetworks.md)
-- [Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates.md)
-- [Microsoft.ConnectedVMwarevSphere/VirtualMachines](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines.md)
-- [Microsoft.ConnectedVMwarevSphere/VCenters/InventoryItems](aliases/Microsoft.ConnectedVMwarevSphere/VCenters-InventoryItems.md)
-- [Microsoft.ConnectedVMwarevSphere/VirtualMachines/HybridIdentityMetadata](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines-HybridIdentityMetadata.md)
-- [Microsoft.ConnectedVMwarevSphere/VirtualMachines/Extensions](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines-Extensions.md)
-- [Microsoft.ConnectedVMwarevSphere/VirtualMachines/GuestAgents](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines-GuestAgents.md)
-- [Microsoft.ConnectedVMwarevSphere/Clusters](aliases/Microsoft.ConnectedVMwarevSphere/Clusters.md)
-- [Microsoft.ConnectedVMwarevSphere/Datastores](aliases/Microsoft.ConnectedVMwarevSphere/Datastores.md)
-- [Microsoft.ConnectedVMwarevSphere/Hosts](aliases/Microsoft.ConnectedVMwarevSphere/Hosts.md)
+- [Microsoft.ConnectedVMwarevSphere/resourcepools](aliases/Microsoft.ConnectedVMwarevSphere/resourcepools.md)
+- [Microsoft.ConnectedVMwarevSphere/virtualnetworks](aliases/Microsoft.ConnectedVMwarevSphere/virtualnetworks.md)
+- [Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates.md)
+- [Microsoft.ConnectedVMwarevSphere/virtualmachines](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines.md)
+- [Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems](aliases/Microsoft.ConnectedVMwarevSphere/vcenters-inventoryitems.md)
+- [Microsoft.ConnectedVMwarevSphere/virtualmachines/hybrididentitymetadata](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-hybrididentitymetadata.md)
+- [Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-extensions.md)
+- [Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents.md)
+- [Microsoft.ConnectedVMwarevSphere/clusters](aliases/Microsoft.ConnectedVMwarevSphere/clusters.md)
+- [Microsoft.ConnectedVMwarevSphere/datastores](aliases/Microsoft.ConnectedVMwarevSphere/datastores.md)
+- [Microsoft.ConnectedVMwarevSphere/hosts](aliases/Microsoft.ConnectedVMwarevSphere/hosts.md)
 
 
 ## Microsoft.Consumption
