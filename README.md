@@ -126,6 +126,8 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Automanage
 
 - [Microsoft.Automanage/configurationProfileAssignments](aliases/Microsoft.Automanage/configurationProfileAssignments.md)
+- [Microsoft.Automanage/configurationProfiles](aliases/Microsoft.Automanage/configurationProfiles.md)
+- [Microsoft.Automanage/configurationProfiles/versions](aliases/Microsoft.Automanage/configurationProfiles-versions.md)
 
 
 ## Microsoft.Automation

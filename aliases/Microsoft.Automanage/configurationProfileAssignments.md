@@ -9,4 +9,8 @@
 | `properties.provisioningStatus` | `Microsoft.Automanage/configurationProfileAssignments/provisioningStatus` |
 | `properties.compliance` | `Microsoft.Automanage/configurationProfileAssignments/compliance` |
 | `properties.compliance.updateStatus` | `Microsoft.Automanage/configurationProfileAssignments/compliance.updateStatus` |
+| `properties.provisioningState` | `Microsoft.Automanage/configurationProfileAssignments/provisioningState` |
+| `properties.status` | `Microsoft.Automanage/configurationProfileAssignments/status` |
+| `properties.profileOverrides` | `Microsoft.Automanage/configurationProfileAssignments/profileOverrides` |
+| `managedBy` | `Microsoft.Automanage/configurationProfileAssignments/managedBy` |
 
