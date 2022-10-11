@@ -12,4 +12,8 @@
 | `properties.provisioningState` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/provisioningState` |
 | `properties.enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/enableAutomaticUpgrade` |
 | `properties.suppressFailures` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/suppressFailures` |
+| `properties.protectedSettingsFromKeyVault` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault` |
+| `properties.protectedSettingsFromKeyVault.secretUrl` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault.secretUrl` |
+| `properties.protectedSettingsFromKeyVault.sourceVault` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault` |
+| `properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault.id` |
 

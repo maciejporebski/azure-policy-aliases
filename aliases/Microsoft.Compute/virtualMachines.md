@@ -249,4 +249,8 @@
 | `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
 | `properties.applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` |
 | `properties.applicationProfile.galleryApplications[*].enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachines/applicationProfile.galleryApplications[*].enableAutomaticUpgrade` |
+| `properties.storageProfile.diskControllerType` | `Microsoft.Compute/virtualMachines/storageProfile.diskControllerType` |
+| `properties.osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` |
+| `properties.osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` |
+| `properties.networkProfile.networkInterfaceConfigurations[*].properties.disableTcpStateTracking` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].disableTcpStateTracking` |
 

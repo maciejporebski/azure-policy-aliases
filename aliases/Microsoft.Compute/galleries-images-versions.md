@@ -72,4 +72,15 @@
 | `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*]` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*]` |
 | `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` |
 | `properties.publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetExtendedLocations[*].encryption.dataDiskImages[*].lun` |
+| `properties.publishingProfile.targetRegions[*].excludeFromLatest` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].excludeFromLatest` |
+| `properties.storageProfile.source.communityGalleryImageId` | `Microsoft.Compute/galleries/images/versions/storageProfile.source.communityGalleryImageId` |
+| `properties.storageProfile.osDiskImage.source.storageAccountId` | `Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.storageAccountId` |
+| `properties.storageProfile.dataDiskImages[*].source.storageAccountId` | `Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.storageAccountId` |
+| `properties.safetyProfile` | `Microsoft.Compute/galleries/images/versions/safetyProfile` |
+| `properties.safetyProfile.allowDeletionOfReplicatedLocations` | `Microsoft.Compute/galleries/images/versions/safetyProfile.allowDeletionOfReplicatedLocations` |
+| `properties.safetyProfile.reportedForPolicyViolation` | `Microsoft.Compute/galleries/images/versions/safetyProfile.reportedForPolicyViolation` |
+| `properties.safetyProfile.policyViolations` | `Microsoft.Compute/galleries/images/versions/safetyProfile.policyViolations` |
+| `properties.safetyProfile.policyViolations[*]` | `Microsoft.Compute/galleries/images/versions/safetyProfile.policyViolations[*]` |
+| `properties.safetyProfile.policyViolations[*].category` | `Microsoft.Compute/galleries/images/versions/safetyProfile.policyViolations[*].category` |
+| `properties.safetyProfile.policyViolations[*].details` | `Microsoft.Compute/galleries/images/versions/safetyProfile.policyViolations[*].details` |
 

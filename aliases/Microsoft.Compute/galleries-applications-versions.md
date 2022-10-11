@@ -65,4 +65,19 @@
 | `properties.publishingProfile.settings.packageFileName` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings.packageFileName` |
 | `properties.publishingProfile.settings.configFileName` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings.configFileName` |
 | `properties.publishingProfile.advancedSettings` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.advancedSettings` |
+| `properties.publishingProfile.targetRegions[*].excludeFromLatest` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].excludeFromLatest` |
+| `properties.publishingProfile.customActions` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions` |
+| `properties.publishingProfile.customActions[*]` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*]` |
+| `properties.publishingProfile.customActions[*].name` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].name` |
+| `properties.publishingProfile.customActions[*].script` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].script` |
+| `properties.publishingProfile.customActions[*].description` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].description` |
+| `properties.publishingProfile.customActions[*].parameters` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters` |
+| `properties.publishingProfile.customActions[*].parameters[*]` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters[*]` |
+| `properties.publishingProfile.customActions[*].parameters[*].name` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters[*].name` |
+| `properties.publishingProfile.customActions[*].parameters[*].required` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters[*].required` |
+| `properties.publishingProfile.customActions[*].parameters[*].type` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters[*].type` |
+| `properties.publishingProfile.customActions[*].parameters[*].defaultValue` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters[*].defaultValue` |
+| `properties.publishingProfile.customActions[*].parameters[*].description` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters[*].description` |
+| `properties.safetyProfile` | `Microsoft.Compute/galleries/applications/versions/safetyProfile` |
+| `properties.safetyProfile.allowDeletionOfReplicatedLocations` | `Microsoft.Compute/galleries/applications/versions/safetyProfile.allowDeletionOfReplicatedLocations` |
 

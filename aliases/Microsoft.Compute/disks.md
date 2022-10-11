@@ -97,4 +97,8 @@
 | `properties.creationData.imageReference.communityGalleryImageId` | `Microsoft.Compute/disks/creationData.imageReference.communityGalleryImageId` |
 | `properties.creationData.galleryImageReference.sharedGalleryImageId` | `Microsoft.Compute/disks/creationData.galleryImageReference.sharedGalleryImageId` |
 | `properties.creationData.galleryImageReference.communityGalleryImageId` | `Microsoft.Compute/disks/creationData.galleryImageReference.communityGalleryImageId` |
+| `properties.supportedCapabilities.diskControllerTypes` | `Microsoft.Compute/disks/supportedCapabilities.diskControllerTypes` |
+| `properties.creationData.performancePlus` | `Microsoft.Compute/disks/creationData.performancePlus` |
+| `properties.burstingEnabledTime` | `Microsoft.Compute/disks/burstingEnabledTime` |
+| `properties.optimizedForFrequentAttach` | `Microsoft.Compute/disks/optimizedForFrequentAttach` |
 

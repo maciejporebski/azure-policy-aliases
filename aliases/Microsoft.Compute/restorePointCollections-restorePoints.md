@@ -119,4 +119,6 @@
 | `properties.sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
 | `properties.sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` |
 | `properties.sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.sourceMetadata.osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` |
+| `properties.sourceMetadata.osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` |
 

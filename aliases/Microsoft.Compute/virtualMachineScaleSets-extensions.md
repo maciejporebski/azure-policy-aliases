@@ -15,4 +15,8 @@
 | `properties.provisionAfterExtensions[*]` | `Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions[*]` |
 | `properties.provisionAfterExtensions` | `Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions` |
 | `properties.suppressFailures` | `Microsoft.Compute/virtualMachineScaleSets/extensions/suppressFailures` |
+| `properties.protectedSettingsFromKeyVault` | `Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettingsFromKeyVault` |
+| `properties.protectedSettingsFromKeyVault.secretUrl` | `Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettingsFromKeyVault.secretUrl` |
+| `properties.protectedSettingsFromKeyVault.sourceVault` | `Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettingsFromKeyVault.sourceVault` |
+| `properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettingsFromKeyVault.sourceVault.id` |
 

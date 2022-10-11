@@ -262,4 +262,9 @@
 | `properties.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
 | `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings` |
 | `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.rebootSetting` |
+| `properties.storageProfile.diskControllerType` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.diskControllerType` |
+| `properties.osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` |
+| `properties.osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` |
+| `properties.networkProfile.networkInterfaceConfigurations[*].properties.disableTcpStateTracking` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.networkInterfaceConfigurations[*].disableTcpStateTracking` |
+| `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.disableTcpStateTracking` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].disableTcpStateTracking` |
 

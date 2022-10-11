@@ -15,4 +15,5 @@
 | `zones` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/zones` |
 | `zones[*]` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/zones[*]` |
 | `properties.timeCreated` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/timeCreated` |
+| `properties.platformFaultDomainCount` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/platformFaultDomainCount` |
 

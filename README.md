@@ -154,6 +154,23 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Automation/automationAccounts/nodes](aliases/Microsoft.Automation/automationAccounts-nodes.md)
 
 
+## Microsoft.AVS
+
+- [Microsoft.AVS/privateClouds](aliases/Microsoft.AVS/privateClouds.md)
+- [Microsoft.AVS/privateClouds/clusters](aliases/Microsoft.AVS/privateClouds-clusters.md)
+- [Microsoft.AVS/privateClouds/authorizations](aliases/Microsoft.AVS/privateClouds-authorizations.md)
+- [Microsoft.AVS/privateClouds/hcxEnterpriseSites](aliases/Microsoft.AVS/privateClouds-hcxEnterpriseSites.md)
+- [Microsoft.AVS/privateClouds/globalReachConnections](aliases/Microsoft.AVS/privateClouds-globalReachConnections.md)
+- [Microsoft.AVS/privateClouds/addons](aliases/Microsoft.AVS/privateClouds-addons.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles](aliases/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/segments](aliases/Microsoft.AVS/privateClouds-workloadNetworks-segments.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/vmGroups](aliases/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/dnsServices](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/dnsZones](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones.md)
+- [Microsoft.AVS/privateClouds/clusters/datastores](aliases/Microsoft.AVS/privateClouds-clusters-datastores.md)
+
+
 ## Microsoft.AzureArcData
 
 - [Microsoft.AzureArcData/DataControllers](aliases/Microsoft.AzureArcData/DataControllers.md)

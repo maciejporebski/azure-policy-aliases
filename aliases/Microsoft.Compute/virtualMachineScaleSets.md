@@ -293,4 +293,15 @@
 | `properties.virtualMachineProfile.storageProfile.dataDisks[*].deleteOption` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.storageProfile.dataDisks[*].deleteOption` |
 | `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].treatFailureAsDeploymentFailure` |
 | `properties.virtualMachineProfile.applicationProfile.galleryApplications[*].enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.applicationProfile.galleryApplications[*].enableAutomaticUpgrade` |
+| `properties.virtualMachineProfile.osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` |
+| `properties.virtualMachineProfile.osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` |
+| `properties.virtualMachineProfile.storageProfile.diskControllerType` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.storageProfile.diskControllerType` |
+| `properties.virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].properties.disableTcpStateTracking` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].disableTcpStateTracking` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].protectedSettingsFromKeyVault` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault.secretUrl` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].protectedSettingsFromKeyVault.secretUrl` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault.sourceVault` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].protectedSettingsFromKeyVault.sourceVault` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].protectedSettingsFromKeyVault.sourceVault.id` |
+| `properties.priorityMixPolicy` | `Microsoft.Compute/virtualMachineScaleSets/priorityMixPolicy` |
+| `properties.priorityMixPolicy.baseRegularPriorityCount` | `Microsoft.Compute/virtualMachineScaleSets/priorityMixPolicy.baseRegularPriorityCount` |
+| `properties.priorityMixPolicy.regularPriorityPercentageAboveBase` | `Microsoft.Compute/virtualMachineScaleSets/priorityMixPolicy.regularPriorityPercentageAboveBase` |
 

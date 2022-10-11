@@ -82,4 +82,7 @@
 | `properties.copyCompletionError` | `Microsoft.Compute/snapshots/copyCompletionError` |
 | `properties.copyCompletionError.errorCode` | `Microsoft.Compute/snapshots/copyCompletionError.errorCode` |
 | `properties.copyCompletionError.errorMessage` | `Microsoft.Compute/snapshots/copyCompletionError.errorMessage` |
+| `properties.supportedCapabilities.diskControllerTypes` | `Microsoft.Compute/snapshots/supportedCapabilities.diskControllerTypes` |
+| `properties.creationData.performancePlus` | `Microsoft.Compute/snapshots/creationData.performancePlus` |
+| `properties.incrementalSnapshotFamilyId` | `Microsoft.Compute/snapshots/incrementalSnapshotFamilyId` |
 

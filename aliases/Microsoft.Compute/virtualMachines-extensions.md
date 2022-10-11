@@ -27,4 +27,8 @@
 | `properties.forceUpdateTag` | `Microsoft.Compute/virtualMachines/extensions/forceUpdateTag` |
 | `properties.protectedSettings` | `Microsoft.Compute/virtualMachines/extensions/protectedSettings` |
 | `properties.suppressFailures` | `Microsoft.Compute/virtualMachines/extensions/suppressFailures` |
+| `properties.protectedSettingsFromKeyVault` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault` |
+| `properties.protectedSettingsFromKeyVault.secretUrl` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.secretUrl` |
+| `properties.protectedSettingsFromKeyVault.sourceVault` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault` |
+| `properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault.id` |
 
