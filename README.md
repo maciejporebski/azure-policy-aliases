@@ -839,6 +839,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.ManagedIdentity
 
 - [Microsoft.ManagedIdentity/userAssignedIdentities](aliases/Microsoft.ManagedIdentity/userAssignedIdentities.md)
+- [Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials](aliases/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials.md)
 
 
 ## Microsoft.ManagedServices
