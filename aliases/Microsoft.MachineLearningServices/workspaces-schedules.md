@@ -451,4 +451,6 @@
 | `properties.trigger.triggerType` | `Microsoft.MachineLearningServices/workspaces/schedules/trigger.triggerType` |
 | `properties.action.jobDefinition.entry` | `Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Spark.entry.SparkJobScalaEntry` |
 | `properties.action.jobDefinition.entry.className` | `Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.Spark.entry.SparkJobScalaEntry.className` |
+| `properties.trigger.schedule.monthDays` | `Microsoft.MachineLearningServices/workspaces/schedules/trigger.Recurrence.schedule.monthDays` |
+| `properties.trigger.schedule.monthDays[*]` | `Microsoft.MachineLearningServices/workspaces/schedules/trigger.Recurrence.schedule.monthDays[*]` |
 

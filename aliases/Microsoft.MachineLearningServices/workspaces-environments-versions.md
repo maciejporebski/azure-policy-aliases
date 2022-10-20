@@ -43,4 +43,5 @@
 | `properties.inferenceConfig.scoringRoute.path` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.scoringRoute.path` |
 | `properties.inferenceConfig.scoringRoute.port` | `Microsoft.MachineLearningServices/workspaces/environments/versions/inferenceConfig.scoringRoute.port` |
 | `properties.osType` | `Microsoft.MachineLearningServices/workspaces/environments/versions/osType` |
+| `properties.autoRebuild` | `Microsoft.MachineLearningServices/workspaces/environments/versions/autoRebuild` |
 

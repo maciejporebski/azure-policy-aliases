@@ -1054,12 +1054,15 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.OperationalInsights
 
 - [Microsoft.OperationalInsights/workspaces](aliases/Microsoft.OperationalInsights/workspaces.md)
+- [Microsoft.OperationalInsights/querypacks](aliases/Microsoft.OperationalInsights/querypacks.md)
 - [Microsoft.OperationalInsights/workspaces/dataSources](aliases/Microsoft.OperationalInsights/workspaces-dataSources.md)
+- [Microsoft.OperationalInsights/workspaces/tables](aliases/Microsoft.OperationalInsights/workspaces-tables.md)
 - [Microsoft.OperationalInsights/workspaces/storageInsightConfigs](aliases/Microsoft.OperationalInsights/workspaces-storageInsightConfigs.md)
 - [Microsoft.OperationalInsights/workspaces/linkedServices](aliases/Microsoft.OperationalInsights/workspaces-linkedServices.md)
 - [Microsoft.OperationalInsights/clusters](aliases/Microsoft.OperationalInsights/clusters.md)
 - [Microsoft.OperationalInsights/workspaces/dataExports](aliases/Microsoft.OperationalInsights/workspaces-dataExports.md)
 - [Microsoft.OperationalInsights/workspaces/savedSearches](aliases/Microsoft.OperationalInsights/workspaces-savedSearches.md)
+- [Microsoft.OperationalInsights/querypacks/queries](aliases/Microsoft.OperationalInsights/querypacks-queries.md)
 
 
 ## Microsoft.OperationsManagement

@@ -60,4 +60,5 @@
 | `properties.features.enableLogAccessUsingOnlyResourcePermissions` | `Microsoft.OperationalInsights/workspaces/features.enableLogAccessUsingOnlyResourcePermissions` |
 | `properties.features.clusterResourceId` | `Microsoft.OperationalInsights/workspaces/features.clusterResourceId` |
 | `properties.features.disableLocalAuth` | `Microsoft.OperationalInsights/workspaces/features.disableLocalAuth` |
+| `properties.defaultDataCollectionRuleResourceId` | `Microsoft.OperationalInsights/workspaces/defaultDataCollectionRuleResourceId` |
 
