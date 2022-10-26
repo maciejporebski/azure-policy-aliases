@@ -7,4 +7,5 @@
 | `properties.isArchived` | `Microsoft.MachineLearningServices/workspaces/components/isArchived` |
 | `properties.latestVersion` | `Microsoft.MachineLearningServices/workspaces/components/latestVersion` |
 | `properties.nextVersion` | `Microsoft.MachineLearningServices/workspaces/components/nextVersion` |
+| `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/components/provisioningState` |
 

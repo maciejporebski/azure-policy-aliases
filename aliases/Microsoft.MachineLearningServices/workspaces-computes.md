@@ -341,4 +341,10 @@
 | `properties.properties.schedules.computeStartStop[*].cron.schedule.weekDays[*]` | `Microsoft.MachineLearningServices/workspaces/computes/schedules.computeStartStop[*].cron.Recurrence.schedule.weekDays[*]` |
 | `properties.properties.schedules.computeStartStop[*].cron.endTime` | `Microsoft.MachineLearningServices/workspaces/computes/schedules.computeStartStop[*].cron.endTime` |
 | `properties.properties.schedules.computeStartStop[*].cron.triggerType` | `Microsoft.MachineLearningServices/workspaces/computes/schedules.computeStartStop[*].cron.triggerType` |
+| `properties.properties.autologgerSettings` | `Microsoft.MachineLearningServices/workspaces/computes/autologgerSettings` |
+| `properties.properties.autologgerSettings.mlflowAutologger` | `Microsoft.MachineLearningServices/workspaces/computes/autologgerSettings.mlflowAutologger` |
+| `properties.properties.osImageMetadata` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata` |
+| `properties.properties.osImageMetadata.currentImageVersion` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.currentImageVersion` |
+| `properties.properties.osImageMetadata.latestImageVersion` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.latestImageVersion` |
+| `properties.properties.osImageMetadata.isLatestOsImageVersion` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.isLatestOsImageVersion` |
 

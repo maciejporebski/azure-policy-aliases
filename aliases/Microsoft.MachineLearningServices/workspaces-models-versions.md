@@ -12,4 +12,5 @@
 | `properties.jobName` | `Microsoft.MachineLearningServices/workspaces/models/versions/jobName` |
 | `properties.modelType` | `Microsoft.MachineLearningServices/workspaces/models/versions/modelType` |
 | `properties.modelUri` | `Microsoft.MachineLearningServices/workspaces/models/versions/modelUri` |
+| `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/models/versions/provisioningState` |
 

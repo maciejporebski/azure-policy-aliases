@@ -9,4 +9,5 @@
 | `properties.tags` | `Microsoft.MachineLearningServices/workspaces/codes/versions/tags` |
 | `properties.isArchived` | `Microsoft.MachineLearningServices/workspaces/codes/versions/isArchived` |
 | `properties.codeUri` | `Microsoft.MachineLearningServices/workspaces/codes/versions/codeUri` |
+| `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/codes/versions/provisioningState` |
 

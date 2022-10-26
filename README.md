@@ -813,6 +813,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.MachineLearningServices
 
 - [Microsoft.MachineLearningServices/workspaces](aliases/Microsoft.MachineLearningServices/workspaces.md)
+- [Microsoft.MachineLearningServices/registries](aliases/Microsoft.MachineLearningServices/registries.md)
 - [Microsoft.MachineLearningServices/workspaces/onlineEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-onlineEndpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-onlineEndpoints-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces/batchEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints.md)
