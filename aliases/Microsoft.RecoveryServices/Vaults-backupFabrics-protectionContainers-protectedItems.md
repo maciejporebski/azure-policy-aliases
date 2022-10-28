@@ -168,4 +168,5 @@
 | `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/extendedInfo.newestRecoveryPointInArchive` |
 | `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.extendedInfo.newestRecoveryPointInArchive` |
 | `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureIaaSVMProtectedItem.extendedInfo.newestRecoveryPointInArchive` |
+| `properties.softDeleteRetentionPeriod` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/softDeleteRetentionPeriod` |
 

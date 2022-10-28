@@ -24,4 +24,5 @@
 | `properties.providerSpecificDetails.targetNicTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetNicTags` |
 | `properties.providerSpecificDetails.seedDiskTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.seedDiskTags` |
 | `properties.providerSpecificDetails.targetDiskTags` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetDiskTags` |
+| `properties.providerSpecificDetails.testNetworkId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.testNetworkId` |
 

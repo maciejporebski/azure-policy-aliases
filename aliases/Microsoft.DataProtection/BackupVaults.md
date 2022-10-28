@@ -17,4 +17,11 @@
 | `properties.monitoringSettings` | `Microsoft.DataProtection/backupVaults/monitoringSettings` |
 | `properties.monitoringSettings.azureMonitorAlertSettings` | `Microsoft.DataProtection/backupVaults/monitoringSettings.azureMonitorAlertSettings` |
 | `properties.monitoringSettings.azureMonitorAlertSettings.alertsForAllJobFailures` | `Microsoft.DataProtection/backupVaults/monitoringSettings.azureMonitorAlertSettings.alertsForAllJobFailures` |
+| `properties.isVaultProtectedByResourceGuard` | `Microsoft.DataProtection/backupVaults/isVaultProtectedByResourceGuard` |
+| `properties.securitySettings` | `Microsoft.DataProtection/backupVaults/securitySettings` |
+| `properties.securitySettings.softDeleteSettings` | `Microsoft.DataProtection/backupVaults/securitySettings.softDeleteSettings` |
+| `properties.securitySettings.softDeleteSettings.state` | `Microsoft.DataProtection/backupVaults/securitySettings.softDeleteSettings.state` |
+| `properties.securitySettings.softDeleteSettings.retentionDurationInDays` | `Microsoft.DataProtection/backupVaults/securitySettings.softDeleteSettings.retentionDurationInDays` |
+| `properties.securitySettings.immutabilitySettings` | `Microsoft.DataProtection/backupVaults/securitySettings.immutabilitySettings` |
+| `properties.securitySettings.immutabilitySettings.state` | `Microsoft.DataProtection/backupVaults/securitySettings.immutabilitySettings.state` |
 

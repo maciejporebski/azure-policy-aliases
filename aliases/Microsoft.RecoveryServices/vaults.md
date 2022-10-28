@@ -55,4 +55,15 @@
 | `sku.size` | `Microsoft.RecoveryServices/vaults/sku.size` |
 | `sku.capacity` | `Microsoft.RecoveryServices/vaults/sku.capacity` |
 | `properties.backupStorageVersion` | `Microsoft.RecoveryServices/vaults/backupStorageVersion` |
+| `properties.monitoringSettings` | `Microsoft.RecoveryServices/vaults/monitoringSettings` |
+| `properties.monitoringSettings.azureMonitorAlertSettings` | `Microsoft.RecoveryServices/vaults/monitoringSettings.azureMonitorAlertSettings` |
+| `properties.monitoringSettings.azureMonitorAlertSettings.alertsForAllJobFailures` | `Microsoft.RecoveryServices/vaults/monitoringSettings.azureMonitorAlertSettings.alertsForAllJobFailures` |
+| `properties.monitoringSettings.classicAlertSettings` | `Microsoft.RecoveryServices/vaults/monitoringSettings.classicAlertSettings` |
+| `properties.monitoringSettings.classicAlertSettings.alertsForCriticalOperations` | `Microsoft.RecoveryServices/vaults/monitoringSettings.classicAlertSettings.alertsForCriticalOperations` |
+| `properties.redundancySettings` | `Microsoft.RecoveryServices/vaults/redundancySettings` |
+| `properties.redundancySettings.standardTierStorageRedundancy` | `Microsoft.RecoveryServices/vaults/redundancySettings.standardTierStorageRedundancy` |
+| `properties.redundancySettings.crossRegionRestore` | `Microsoft.RecoveryServices/vaults/redundancySettings.crossRegionRestore` |
+| `properties.securitySettings` | `Microsoft.RecoveryServices/vaults/securitySettings` |
+| `properties.securitySettings.immutabilitySettings` | `Microsoft.RecoveryServices/vaults/securitySettings.immutabilitySettings` |
+| `properties.securitySettings.immutabilitySettings.state` | `Microsoft.RecoveryServices/vaults/securitySettings.immutabilitySettings.state` |
 

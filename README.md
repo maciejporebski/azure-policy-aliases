@@ -438,6 +438,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataProtection/BackupVaults](aliases/Microsoft.DataProtection/BackupVaults.md)
 - [Microsoft.DataProtection/backupVaults/backupInstances](aliases/Microsoft.DataProtection/backupVaults-backupInstances.md)
 - [Microsoft.DataProtection/backupVaults/backupPolicies](aliases/Microsoft.DataProtection/backupVaults-backupPolicies.md)
+- [Microsoft.DataProtection/backupVaults/backupResourceGuardProxies](aliases/Microsoft.DataProtection/backupVaults-backupResourceGuardProxies.md)
 
 
 ## Microsoft.DataShare
@@ -1120,6 +1121,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.RecoveryServices/Vaults/backupEncryptionConfigs](aliases/Microsoft.RecoveryServices/Vaults-backupEncryptionConfigs.md)
 - [Microsoft.RecoveryServices/vaults/replicationProtectionIntents](aliases/Microsoft.RecoveryServices/vaults-replicationProtectionIntents.md)
 - [Microsoft.RecoveryServices/vaults/replicationFabrics/replicationRecoveryServicesProviders](aliases/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationRecoveryServicesProviders.md)
+- [Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies](aliases/Microsoft.RecoveryServices/Vaults-backupResourceGuardProxies.md)
+- [Microsoft.RecoveryServices/Vaults/privateEndpointConnections](aliases/Microsoft.RecoveryServices/Vaults-privateEndpointConnections.md)
 
 
 ## Microsoft.Relay
