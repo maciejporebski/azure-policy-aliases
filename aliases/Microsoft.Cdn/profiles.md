@@ -13,4 +13,5 @@
 | `properties.identity.principalId` | `Microsoft.Cdn/profiles/identity.principalId` |
 | `properties.identity.userAssignedIdentities` | `Microsoft.Cdn/profiles/identity.userAssignedIdentities` |
 | `properties.originResponseTimeoutSeconds` | `Microsoft.Cdn/profiles/originResponseTimeoutSeconds` |
+| `properties.extendedProperties` | `Microsoft.Cdn/profiles/extendedProperties` |
 

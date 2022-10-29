@@ -72,4 +72,5 @@
 | `properties.endpointLinks[*].id` | `Microsoft.Cdn/CdnWebApplicationFirewallPolicies/endpointLinks[*].id` |
 | `properties.endpointLinks[*]` | `Microsoft.Cdn/CdnWebApplicationFirewallPolicies/endpointLinks[*]` |
 | `properties.endpointLinks` | `Microsoft.Cdn/CdnWebApplicationFirewallPolicies/endpointLinks` |
+| `properties.extendedProperties` | `Microsoft.Cdn/CdnWebApplicationFirewallPolicies/extendedProperties` |
 

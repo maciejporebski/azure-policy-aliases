@@ -31,4 +31,8 @@
 | `properties.cacheConfiguration` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration` |
 | `properties.cacheConfiguration.queryStringCachingBehavior` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.queryStringCachingBehavior` |
 | `properties.cacheConfiguration.queryParameters` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.queryParameters` |
+| `properties.cacheConfiguration.compressionSettings` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings` |
+| `properties.cacheConfiguration.compressionSettings.contentTypesToCompress` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.contentTypesToCompress` |
+| `properties.cacheConfiguration.compressionSettings.contentTypesToCompress[*]` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.contentTypesToCompress[*]` |
+| `properties.cacheConfiguration.compressionSettings.isCompressionEnabled` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.isCompressionEnabled` |
 

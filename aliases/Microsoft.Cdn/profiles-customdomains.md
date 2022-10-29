@@ -19,4 +19,5 @@
 | `properties.profileName` | `Microsoft.Cdn/profiles/customDomains/profileName` |
 | `properties.preValidatedCustomDomainResourceId` | `Microsoft.Cdn/profiles/customDomains/preValidatedCustomDomainResourceId` |
 | `properties.preValidatedCustomDomainResourceId.id` | `Microsoft.Cdn/profiles/customDomains/preValidatedCustomDomainResourceId.id` |
+| `properties.extendedProperties` | `Microsoft.Cdn/profiles/customDomains/extendedProperties` |
 

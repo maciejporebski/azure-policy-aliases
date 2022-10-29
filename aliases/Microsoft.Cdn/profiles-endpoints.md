@@ -365,4 +365,5 @@
 | `properties.customDomains[*].properties.customHttpsParameters.minimumTlsVersion` | `Microsoft.Cdn/profiles/endpoints/customDomains[*].customHttpsParameters.minimumTlsVersion` |
 | `properties.customDomains[*].properties.validationData` | `Microsoft.Cdn/profiles/endpoints/customDomains[*].validationData` |
 | `properties.customDomains[*].properties.provisioningState` | `Microsoft.Cdn/profiles/endpoints/customDomains[*].provisioningState` |
+| `properties.customDomains[*].name` | `Microsoft.Cdn/profiles/endpoints/customDomains[*].name` |
 
