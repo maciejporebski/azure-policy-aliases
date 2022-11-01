@@ -66,4 +66,7 @@
 | `properties.securitySettings` | `Microsoft.RecoveryServices/vaults/securitySettings` |
 | `properties.securitySettings.immutabilitySettings` | `Microsoft.RecoveryServices/vaults/securitySettings.immutabilitySettings` |
 | `properties.securitySettings.immutabilitySettings.state` | `Microsoft.RecoveryServices/vaults/securitySettings.immutabilitySettings.state` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections[*].groupIds[*]` |
+| `properties.publicNetworkAccess` | `Microsoft.RecoveryServices/vaults/publicNetworkAccess` |
 
