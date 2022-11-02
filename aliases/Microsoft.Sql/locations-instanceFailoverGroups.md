@@ -17,4 +17,5 @@
 | `properties.managedInstancePairs[*].partnerManagedInstanceId` | `Microsoft.Sql/locations/instanceFailoverGroups/managedInstancePairs[*].partnerManagedInstanceId` |
 | `properties.managedInstancePairs[*]` | `Microsoft.Sql/locations/instanceFailoverGroups/managedInstancePairs[*]` |
 | `properties.managedInstancePairs` | `Microsoft.Sql/locations/instanceFailoverGroups/managedInstancePairs` |
+| `properties.secondaryType` | `Microsoft.Sql/locations/instanceFailoverGroups/secondaryType` |
 

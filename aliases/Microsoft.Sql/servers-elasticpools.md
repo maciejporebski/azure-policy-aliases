@@ -22,4 +22,6 @@
 | `properties.databaseDtuMin` | `Microsoft.Sql/servers/elasticpools/databaseDtuMin` |
 | `properties.storageMB` | `Microsoft.Sql/servers/elasticpools/storageMB` |
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/servers/elasticPools/maintenanceConfigurationId` |
+| `properties.highAvailabilityReplicaCount` | `Microsoft.Sql/servers/elasticPools/highAvailabilityReplicaCount` |
+| `properties.minCapacity` | `Microsoft.Sql/servers/elasticPools/minCapacity` |
 

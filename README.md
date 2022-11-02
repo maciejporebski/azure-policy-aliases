@@ -1274,6 +1274,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/databases/dataMaskingPolicies](aliases/Microsoft.Sql/servers-databases-dataMaskingPolicies.md)
 - [Microsoft.Sql/servers/databases/securityAlertPolicies](aliases/Microsoft.Sql/servers-databases-securityAlertPolicies.md)
 - [Microsoft.Sql/servers/securityAlertPolicies](aliases/Microsoft.Sql/servers-securityAlertPolicies.md)
+- [Microsoft.Sql/servers/databases/advancedThreatProtectionSettings](aliases/Microsoft.Sql/servers-databases-advancedThreatProtectionSettings.md)
+- [Microsoft.Sql/servers/advancedThreatProtectionSettings](aliases/Microsoft.Sql/servers-advancedThreatProtectionSettings.md)
+- [Microsoft.Sql/managedInstances/databases/advancedThreatProtectionSettings](aliases/Microsoft.Sql/managedInstances-databases-advancedThreatProtectionSettings.md)
+- [Microsoft.Sql/managedInstances/advancedThreatProtectionSettings](aliases/Microsoft.Sql/managedInstances-advancedThreatProtectionSettings.md)
 - [Microsoft.Sql/servers/databases/auditingSettings](aliases/Microsoft.Sql/servers-databases-auditingSettings.md)
 - [Microsoft.Sql/servers/auditingSettings](aliases/Microsoft.Sql/servers-auditingSettings.md)
 - [Microsoft.Sql/servers/extendedAuditingSettings](aliases/Microsoft.Sql/servers-extendedAuditingSettings.md)
@@ -1292,6 +1296,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/vulnerabilityAssessments](aliases/Microsoft.Sql/servers-vulnerabilityAssessments.md)
 - [Microsoft.Sql/managedInstances/databases/vulnerabilityAssessments](aliases/Microsoft.Sql/managedInstances-databases-vulnerabilityAssessments.md)
 - [Microsoft.Sql/managedInstances/vulnerabilityAssessments](aliases/Microsoft.Sql/managedInstances-vulnerabilityAssessments.md)
+- [Microsoft.Sql/servers/sqlvulnerabilityassessments](aliases/Microsoft.Sql/servers-sqlvulnerabilityassessments.md)
 - [Microsoft.Sql/servers/databases/syncGroups](aliases/Microsoft.Sql/servers-databases-syncGroups.md)
 - [Microsoft.Sql/servers/databases/syncGroups/syncMembers](aliases/Microsoft.Sql/servers-databases-syncGroups-syncMembers.md)
 - [Microsoft.Sql/servers/syncAgents](aliases/Microsoft.Sql/servers-syncAgents.md)
@@ -1333,6 +1338,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/jobAgents/credentials](aliases/Microsoft.Sql/servers-jobAgents-credentials.md)
 - [Microsoft.Sql/servers/jobAgents/targetGroups](aliases/Microsoft.Sql/servers-jobAgents-targetGroups.md)
 - [Microsoft.Sql/servers/outboundFirewallRules](aliases/Microsoft.Sql/servers-outboundFirewallRules.md)
+- [Microsoft.Sql/managedInstances/dtc](aliases/Microsoft.Sql/managedInstances-dtc.md)
+- [Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines](aliases/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines.md)
+- [Microsoft.Sql/servers/ipv6FirewallRules](aliases/Microsoft.Sql/servers-ipv6FirewallRules.md)
+- [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines.md)
 
 
 ## Microsoft.SqlVirtualMachine

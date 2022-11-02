@@ -12,4 +12,5 @@
 | `properties.targetReplicaId` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/targetReplicaId` |
 | `properties.linkState` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/linkState` |
 | `properties.lastHardenedLsn` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/lastHardenedLsn` |
+| `properties.instanceRole` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/instanceRole` |
 

@@ -19,4 +19,8 @@
 | `properties.longTermRetentionBackupResourceId` | `Microsoft.Sql/managedInstances/databases/longTermRetentionBackupResourceId` |
 | `properties.autoCompleteRestore` | `Microsoft.Sql/managedInstances/databases/autoCompleteRestore` |
 | `properties.lastBackupName` | `Microsoft.Sql/managedInstances/databases/lastBackupName` |
+| `properties.storageContainerIdentity` | `Microsoft.Sql/managedInstances/databases/storageContainerIdentity` |
+| `properties.crossSubscriptionSourceDatabaseId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionSourceDatabaseId` |
+| `properties.crossSubscriptionRestorableDroppedDatabaseId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionRestorableDroppedDatabaseId` |
+| `properties.crossSubscriptionTargetManagedInstanceId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionTargetManagedInstanceId` |
 

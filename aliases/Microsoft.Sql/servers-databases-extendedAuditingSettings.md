@@ -24,4 +24,5 @@
 | `properties.storageAccountSubscriptionId` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/storageAccountSubscriptionId` |
 | `properties.isStorageSecondaryKeyInUse` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/isStorageSecondaryKeyInUse` |
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/queueDelayMs` |
+| `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/isManagedIdentityInUse` |
 

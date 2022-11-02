@@ -7,4 +7,5 @@
 | `properties.childResources` | `Microsoft.Sql/virtualClusters/childResources` |
 | `properties.childResources[*]` | `Microsoft.Sql/virtualClusters/childResources[*]` |
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/virtualClusters/maintenanceConfigurationId` |
+| `properties.version` | `Microsoft.Sql/virtualClusters/version` |
 

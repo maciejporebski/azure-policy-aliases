@@ -25,4 +25,5 @@
 | `properties.isAzureMonitorTargetEnabled` | `Microsoft.Sql/servers/extendedAuditingSettings/isAzureMonitorTargetEnabled` |
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/extendedAuditingSettings/queueDelayMs` |
 | `properties.isDevopsAuditEnabled` | `Microsoft.Sql/servers/extendedAuditingSettings/isDevopsAuditEnabled` |
+| `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/extendedAuditingSettings/isManagedIdentityInUse` |
 

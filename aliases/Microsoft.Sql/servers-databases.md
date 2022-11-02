@@ -127,4 +127,6 @@
 | `properties.isInfraEncryptionEnabled` | `Microsoft.Sql/servers/databases/isInfraEncryptionEnabled` |
 | `properties.federatedClientId` | `Microsoft.Sql/servers/databases/federatedClientId` |
 | `properties.primaryDelegatedIdentityClientId` | `Microsoft.Sql/servers/databases/primaryDelegatedIdentityClientId` |
+| `properties.sourceResourceId` | `Microsoft.Sql/servers/databases/sourceResourceId` |
+| `properties.preferredEnclaveType` | `Microsoft.Sql/servers/databases/preferredEnclaveType` |
 

@@ -24,4 +24,5 @@
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/auditingSettings/default.queueDelayMs` |
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/auditingSettings/queueDelayMs` |
 | `properties.isDevopsAuditEnabled` | `Microsoft.Sql/servers/auditingSettings/isDevopsAuditEnabled` |
+| `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/auditingSettings/isManagedIdentityInUse` |
 
