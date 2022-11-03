@@ -10,6 +10,7 @@
 | `properties.enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachineScaleSets/extensions/enableAutomaticUpgrade` |
 | `properties.settings` | `Microsoft.Compute/virtualMachineScaleSets/extensions/settings` |
 | `properties.settings.workspaceId` | `Microsoft.Compute/virtualMachineScaleSets/extensions/settings.workspaceId` |
+| `properties.settings.timestamp` | `Microsoft.Compute/virtualMachineScaleSets/extensions/settings.timestamp` |
 | `properties.forceUpdateTag` | `Microsoft.Compute/virtualMachineScaleSets/extensions/forceUpdateTag` |
 | `properties.protectedSettings` | `Microsoft.Compute/virtualMachineScaleSets/extensions/protectedSettings` |
 | `properties.provisionAfterExtensions[*]` | `Microsoft.Compute/virtualMachineScaleSets/extensions/provisionAfterExtensions[*]` |

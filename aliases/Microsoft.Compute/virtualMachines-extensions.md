@@ -10,6 +10,7 @@
 | `properties.enableAutomaticUpgrade` | `Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade` |
 | `properties.settings` | `Microsoft.Compute/virtualMachines/extensions/settings` |
 | `properties.settings.workspaceId` | `Microsoft.Compute/virtualMachines/extensions/settings.workspaceId` |
+| `properties.settings.timestamp` | `Microsoft.Compute/virtualMachines/extensions/settings.timestamp` |
 | `properties.resources[*].properties.provisioningState` | `Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState` |
 | `properties.resources[*].properties.protectedSettings` | `Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings` |
 | `properties.resources[*].properties.settings` | `Microsoft.Compute/virtualMachines/extensions/resources[*].settings` |
