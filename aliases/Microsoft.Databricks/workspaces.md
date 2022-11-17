@@ -105,4 +105,16 @@
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Databricks/workspaces/privateEndpointConnections[*].provisioningState` |
 | `properties.publicNetworkAccess` | `Microsoft.Databricks/workspaces/publicNetworkAccess` |
 | `properties.requiredNsgRules` | `Microsoft.Databricks/workspaces/requiredNsgRules` |
+| `properties.managedDiskIdentity` | `Microsoft.Databricks/workspaces/managedDiskIdentity` |
+| `properties.managedDiskIdentity.principalId` | `Microsoft.Databricks/workspaces/managedDiskIdentity.principalId` |
+| `properties.managedDiskIdentity.tenantId` | `Microsoft.Databricks/workspaces/managedDiskIdentity.tenantId` |
+| `properties.managedDiskIdentity.type` | `Microsoft.Databricks/workspaces/managedDiskIdentity.type` |
+| `properties.diskEncryptionSetId` | `Microsoft.Databricks/workspaces/diskEncryptionSetId` |
+| `properties.encryption.entities.managedDisk` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk` |
+| `properties.encryption.entities.managedDisk.keySource` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.keySource` |
+| `properties.encryption.entities.managedDisk.keyVaultProperties` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.keyVaultProperties` |
+| `properties.encryption.entities.managedDisk.keyVaultProperties.keyVaultUri` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.keyVaultProperties.keyVaultUri` |
+| `properties.encryption.entities.managedDisk.keyVaultProperties.keyName` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.keyVaultProperties.keyName` |
+| `properties.encryption.entities.managedDisk.keyVaultProperties.keyVersion` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.keyVaultProperties.keyVersion` |
+| `properties.encryption.entities.managedDisk.rotationToLatestKeyVersionEnabled` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.rotationToLatestKeyVersionEnabled` |
 
