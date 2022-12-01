@@ -15,4 +15,5 @@
 | `properties.msixPackageFamilyName` | `Microsoft.DesktopVirtualization/applicationGroups/applications/msixPackageFamilyName` |
 | `properties.msixPackageApplicationId` | `Microsoft.DesktopVirtualization/applicationGroups/applications/msixPackageApplicationId` |
 | `properties.applicationType` | `Microsoft.DesktopVirtualization/applicationGroups/applications/applicationType` |
+| `properties.objectId` | `Microsoft.DesktopVirtualization/applicationGroups/applications/objectId` |
 

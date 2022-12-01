@@ -504,6 +504,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DesktopVirtualization/applicationgroups/applications](aliases/Microsoft.DesktopVirtualization/applicationgroups-applications.md)
 - [Microsoft.DesktopVirtualization/applicationgroups/desktops](aliases/Microsoft.DesktopVirtualization/applicationgroups-desktops.md)
 - [Microsoft.DesktopVirtualization/hostpools](aliases/Microsoft.DesktopVirtualization/hostpools.md)
+- [Microsoft.DesktopVirtualization/hostpools/msixpackages](aliases/Microsoft.DesktopVirtualization/hostpools-msixpackages.md)
 - [Microsoft.DesktopVirtualization/hostpools/sessionhosts](aliases/Microsoft.DesktopVirtualization/hostpools-sessionhosts.md)
 
 
