@@ -39,4 +39,9 @@
 | `properties.childCustomIpPrefixes[*].zones` | `Microsoft.Network/customIpPrefixes/childCustomIpPrefixes[*].zones` |
 | `properties.childCustomIpPrefixes[*].zones[*]` | `Microsoft.Network/customIpPrefixes/childCustomIpPrefixes[*].zones[*]` |
 | `properties.failedReason` | `Microsoft.Network/customIpPrefixes/failedReason` |
+| `properties.noInternetAdvertise` | `Microsoft.Network/customIpPrefixes/noInternetAdvertise` |
+| `properties.asn` | `Microsoft.Network/customIpPrefixes/asn` |
+| `properties.expressRouteAdvertise` | `Microsoft.Network/customIpPrefixes/expressRouteAdvertise` |
+| `properties.geo` | `Microsoft.Network/customIpPrefixes/geo` |
+| `properties.prefixType` | `Microsoft.Network/customIpPrefixes/prefixType` |
 

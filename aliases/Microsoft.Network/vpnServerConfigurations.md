@@ -111,4 +111,21 @@
 | `properties.p2SVpnGateways[*].properties.customDnsServers` | `Microsoft.Network/vpnServerConfigurations/p2SVpnGateways[*].customDnsServers` |
 | `properties.p2SVpnGateways[*].properties.p2SConnectionConfigurations[*].properties.enableInternetSecurity` | `Microsoft.Network/vpnServerConfigurations/p2SVpnGateways[*].p2SConnectionConfigurations[*].enableInternetSecurity` |
 | `properties.p2SVpnGateways[*].properties.isRoutingPreferenceInternet` | `Microsoft.Network/vpnServerConfigurations/p2SVpnGateways[*].isRoutingPreferenceInternet` |
+| `properties.configurationPolicyGroups` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups` |
+| `properties.configurationPolicyGroups[*]` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*]` |
+| `properties.configurationPolicyGroups[*].id` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].id` |
+| `properties.configurationPolicyGroups[*].properties.isDefault` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].isDefault` |
+| `properties.configurationPolicyGroups[*].properties.priority` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].priority` |
+| `properties.configurationPolicyGroups[*].properties.policyMembers` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].policyMembers` |
+| `properties.configurationPolicyGroups[*].properties.policyMembers[*]` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].policyMembers[*]` |
+| `properties.configurationPolicyGroups[*].properties.policyMembers[*].name` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].policyMembers[*].name` |
+| `properties.configurationPolicyGroups[*].properties.policyMembers[*].attributeType` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].policyMembers[*].attributeType` |
+| `properties.configurationPolicyGroups[*].properties.policyMembers[*].attributeValue` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].policyMembers[*].attributeValue` |
+| `properties.configurationPolicyGroups[*].properties.p2SConnectionConfigurations` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].p2SConnectionConfigurations` |
+| `properties.configurationPolicyGroups[*].properties.p2SConnectionConfigurations[*]` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].p2SConnectionConfigurations[*]` |
+| `properties.configurationPolicyGroups[*].properties.p2SConnectionConfigurations[*].id` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].p2SConnectionConfigurations[*].id` |
+| `properties.configurationPolicyGroups[*].properties.provisioningState` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].provisioningState` |
+| `properties.configurationPolicyGroups[*].etag` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].etag` |
+| `properties.configurationPolicyGroups[*].name` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].name` |
+| `properties.configurationPolicyGroups[*].type` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].type` |
 

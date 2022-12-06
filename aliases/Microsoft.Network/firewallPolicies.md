@@ -91,4 +91,14 @@
 | `properties.explicitProxySettings.httpsPort` | `Microsoft.Network/firewallPolicies/explicitProxySettings.httpsPort` |
 | `properties.explicitProxySettings.pacFilePort` | `Microsoft.Network/firewallPolicies/explicitProxySettings.pacFilePort` |
 | `properties.explicitProxySettings.pacFile` | `Microsoft.Network/firewallPolicies/explicitProxySettings.pacFile` |
+| `properties.intrusionDetection.configuration.privateRanges` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.privateRanges` |
+| `properties.intrusionDetection.configuration.privateRanges[*]` | `Microsoft.Network/firewallPolicies/intrusionDetection.configuration.privateRanges[*]` |
+| `properties.snat.autoLearnPrivateRanges` | `Microsoft.Network/firewallPolicies/snat.autoLearnPrivateRanges` |
+| `properties.explicitProxy` | `Microsoft.Network/firewallPolicies/explicitProxy` |
+| `properties.explicitProxy.enableExplicitProxy` | `Microsoft.Network/firewallPolicies/explicitProxy.enableExplicitProxy` |
+| `properties.explicitProxy.httpPort` | `Microsoft.Network/firewallPolicies/explicitProxy.httpPort` |
+| `properties.explicitProxy.httpsPort` | `Microsoft.Network/firewallPolicies/explicitProxy.httpsPort` |
+| `properties.explicitProxy.enablePacFile` | `Microsoft.Network/firewallPolicies/explicitProxy.enablePacFile` |
+| `properties.explicitProxy.pacFilePort` | `Microsoft.Network/firewallPolicies/explicitProxy.pacFilePort` |
+| `properties.explicitProxy.pacFile` | `Microsoft.Network/firewallPolicies/explicitProxy.pacFile` |
 

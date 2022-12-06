@@ -85,4 +85,8 @@
 | `properties.inboundNatRules` | `Microsoft.Network/loadBalancers/backendAddressPools/inboundNatRules` |
 | `properties.inboundNatRules[*]` | `Microsoft.Network/loadBalancers/backendAddressPools/inboundNatRules[*]` |
 | `properties.inboundNatRules[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools/inboundNatRules[*].id` |
+| `properties.loadBalancerBackendAddresses[*].properties.adminState` | `Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses[*].adminState` |
+| `properties.drainPeriodInSeconds` | `Microsoft.Network/loadBalancers/backendAddressPools/drainPeriodInSeconds` |
+| `properties.virtualNetwork` | `Microsoft.Network/loadBalancers/backendAddressPools/virtualNetwork` |
+| `properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools/virtualNetwork.id` |
 

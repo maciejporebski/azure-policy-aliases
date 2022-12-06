@@ -439,4 +439,6 @@
 | `properties.ipConfigurations[*].etag` | `Microsoft.Network/privateEndpoints/ipConfigurations[*].etag` |
 | `properties.customNetworkInterfaceName` | `Microsoft.Network/privateEndpoints/customNetworkInterfaceName` |
 | `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].vnetEncryptionSupported` |
+| `properties.networkInterfaces[*].properties.auxiliaryMode` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].auxiliaryMode` |
+| `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].disableTcpStateTracking` |
 

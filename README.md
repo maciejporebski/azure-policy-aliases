@@ -973,7 +973,16 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
 - [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
 - [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/trafficmanagerprofiles](aliases/Microsoft.Network/trafficmanagerprofiles.md)
+- [Microsoft.Network/trafficmanagerprofiles/azureendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-azureendpoints.md)
+- [Microsoft.Network/trafficmanagerprofiles/externalendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-externalendpoints.md)
+- [Microsoft.Network/trafficmanagerprofiles/nestedendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-nestedendpoints.md)
 - [Microsoft.Network/trafficManagerUserMetricsKeys](aliases/Microsoft.Network/trafficManagerUserMetricsKeys.md)
 - [Microsoft.Network/expressRouteCircuits](aliases/Microsoft.Network/expressRouteCircuits.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
@@ -1001,6 +1010,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
 - [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
+- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
@@ -1034,6 +1045,17 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/virtualHubs/ipConfigurations](aliases/Microsoft.Network/virtualHubs-ipConfigurations.md)
 - [Microsoft.Network/vpnGateways/natRules](aliases/Microsoft.Network/vpnGateways-natRules.md)
 - [Microsoft.Network/virtualHubs/routingIntent](aliases/Microsoft.Network/virtualHubs-routingIntent.md)
+- [Microsoft.Network/expressRoutePorts/authorizations](aliases/Microsoft.Network/expressRoutePorts-authorizations.md)
+- [Microsoft.Network/networkManagers/connectivityConfigurations](aliases/Microsoft.Network/networkManagers-connectivityConfigurations.md)
+- [Microsoft.Network/networkManagers/networkGroups](aliases/Microsoft.Network/networkManagers-networkGroups.md)
+- [Microsoft.Network/networkManagers/scopeConnections](aliases/Microsoft.Network/networkManagers-scopeConnections.md)
+- [Microsoft.Network/networkManagers/securityAdminConfigurations](aliases/Microsoft.Network/networkManagers-securityAdminConfigurations.md)
+- [Microsoft.Network/networkManagers/securityUserConfigurations](aliases/Microsoft.Network/networkManagers-securityUserConfigurations.md)
+- [Microsoft.Network/networkSecurityPerimeters/profiles](aliases/Microsoft.Network/networkSecurityPerimeters-profiles.md)
+- [Microsoft.Network/networkSecurityPerimeters/resourceAssociations](aliases/Microsoft.Network/networkSecurityPerimeters-resourceAssociations.md)
+- [Microsoft.Network/virtualHubs/routeMaps](aliases/Microsoft.Network/virtualHubs-routeMaps.md)
+- [Microsoft.Network/virtualNetworkGateways/natRules](aliases/Microsoft.Network/virtualNetworkGateways-natRules.md)
+- [Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups](aliases/Microsoft.Network/vpnServerConfigurations-configurationPolicyGroups.md)
 
 
 ## Microsoft.NotificationHubs
@@ -1230,6 +1252,14 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ServiceFabric/managedclusters/applicationTypes/versions](aliases/Microsoft.ServiceFabric/managedclusters-applicationTypes-versions.md)
 - [Microsoft.ServiceFabric/managedclusters/applications](aliases/Microsoft.ServiceFabric/managedclusters-applications.md)
 - [Microsoft.ServiceFabric/managedclusters/applications/services](aliases/Microsoft.ServiceFabric/managedclusters-applications-services.md)
+
+
+## Microsoft.ServiceLinker
+
+- [Microsoft.ServiceLinker/linkers](aliases/Microsoft.ServiceLinker/linkers.md)
+- [Microsoft.ServiceLinker/dryruns](aliases/Microsoft.ServiceLinker/dryruns.md)
+- [Microsoft.ServiceLinker/locations/connectors](aliases/Microsoft.ServiceLinker/locations-connectors.md)
+- [Microsoft.ServiceLinker/locations/dryruns](aliases/Microsoft.ServiceLinker/locations-dryruns.md)
 
 
 ## Microsoft.SignalRService

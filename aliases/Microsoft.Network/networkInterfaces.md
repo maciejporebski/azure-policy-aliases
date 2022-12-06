@@ -563,4 +563,7 @@
 | `properties.privateEndpoint.properties.ipConfigurations[*].etag` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipConfigurations[*].etag` |
 | `properties.privateEndpoint.properties.customNetworkInterfaceName` | `Microsoft.Network/networkInterfaces/privateEndpoint.customNetworkInterfaceName` |
 | `properties.vnetEncryptionSupported` | `Microsoft.Network/networkInterfaces/vnetEncryptionSupported` |
+| `properties.auxiliaryMode` | `Microsoft.Network/networkInterfaces/auxiliaryMode` |
+| `properties.networkSecurityGroup.properties.flushConnection` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flushConnection` |
+| `properties.disableTcpStateTracking` | `Microsoft.Network/networkInterfaces/disableTcpStateTracking` |
 

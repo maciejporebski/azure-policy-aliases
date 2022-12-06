@@ -551,4 +551,10 @@
 | `properties.enableVirtualRouterRoutePropogation` | `Microsoft.Network/virtualHubs/enableVirtualRouterRoutePropogation` |
 | `properties.allowBranchToBranchTraffic` | `Microsoft.Network/virtualHubs/allowBranchToBranchTraffic` |
 | `properties.preferredRoutingGateway` | `Microsoft.Network/virtualHubs/preferredRoutingGateway` |
+| `properties.hubRoutingPreference` | `Microsoft.Network/virtualHubs/hubRoutingPreference` |
+| `properties.virtualRouterAutoScaleConfiguration` | `Microsoft.Network/virtualHubs/virtualRouterAutoScaleConfiguration` |
+| `properties.virtualRouterAutoScaleConfiguration.minCapacity` | `Microsoft.Network/virtualHubs/virtualRouterAutoScaleConfiguration.minCapacity` |
+| `properties.routeMaps` | `Microsoft.Network/virtualHubs/routeMaps` |
+| `properties.routeMaps[*]` | `Microsoft.Network/virtualHubs/routeMaps[*]` |
+| `properties.routeMaps[*].id` | `Microsoft.Network/virtualHubs/routeMaps[*].id` |
 

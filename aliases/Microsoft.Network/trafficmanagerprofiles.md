@@ -72,4 +72,5 @@
 | `properties.endpoints[*].properties.minChildEndpointsIPv6` | `Microsoft.Network/trafficmanagerprofiles/endpoints[*].minChildEndpointsIPv6` |
 | `properties.allowedEndpointRecordTypes` | `Microsoft.Network/trafficmanagerprofiles/allowedEndpointRecordTypes` |
 | `properties.allowedEndpointRecordTypes[*]` | `Microsoft.Network/trafficmanagerprofiles/allowedEndpointRecordTypes[*]` |
+| `properties.endpoints[*].properties.alwaysServe` | `Microsoft.Network/trafficmanagerprofiles/endpoints[*].alwaysServe` |
 

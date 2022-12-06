@@ -31,4 +31,6 @@
 | `properties.links[*].properties.macSecConfig.cipher` | `Microsoft.Network/expressRoutePorts/links[*].macSecConfig.cipher` |
 | `properties.links[*].properties.macSecConfig` | `Microsoft.Network/expressRoutePorts/links[*].macSecConfig` |
 | `properties.links[*].properties.macSecConfig.sciState` | `Microsoft.Network/ExpressRoutePorts/links[*].macSecConfig.sciState` |
+| `properties.links[*].properties.coloLocation` | `Microsoft.Network/ExpressRoutePorts/links[*].coloLocation` |
+| `properties.billingType` | `Microsoft.Network/ExpressRoutePorts/billingType` |
 

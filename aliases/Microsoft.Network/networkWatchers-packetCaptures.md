@@ -17,4 +17,10 @@
 | `properties.filters[*].remotePort` | `Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort` |
 | `properties.filters[*]` | `Microsoft.Network/networkWatchers/packetCaptures/filters[*]` |
 | `properties.filters` | `Microsoft.Network/networkWatchers/packetCaptures/filters` |
+| `properties.scope` | `Microsoft.Network/networkWatchers/packetCaptures/scope` |
+| `properties.scope.include` | `Microsoft.Network/networkWatchers/packetCaptures/scope.include` |
+| `properties.scope.include[*]` | `Microsoft.Network/networkWatchers/packetCaptures/scope.include[*]` |
+| `properties.scope.exclude` | `Microsoft.Network/networkWatchers/packetCaptures/scope.exclude` |
+| `properties.scope.exclude[*]` | `Microsoft.Network/networkWatchers/packetCaptures/scope.exclude[*]` |
+| `properties.targetType` | `Microsoft.Network/networkWatchers/packetCaptures/targetType` |
 

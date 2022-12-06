@@ -782,4 +782,5 @@
 | `properties.privateEndpoints[*].properties.ipConfigurations[*].type` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].type` |
 | `properties.privateEndpoints[*].properties.ipConfigurations[*].etag` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipConfigurations[*].etag` |
 | `properties.privateEndpoints[*].properties.customNetworkInterfaceName` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].customNetworkInterfaceName` |
+| `properties.networkSecurityGroup.properties.flushConnection` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.flushConnection` |
 

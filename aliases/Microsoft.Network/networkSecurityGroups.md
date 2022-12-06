@@ -787,4 +787,7 @@
 | `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/networkSecurityGroups/subnets[*].serviceEndpointPolicies[*].kind` |
 | `properties.networkInterfaces[*].properties.workloadType` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].workloadType` |
 | `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].vnetEncryptionSupported` |
+| `properties.networkInterfaces[*].properties.auxiliaryMode` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].auxiliaryMode` |
+| `properties.flushConnection` | `Microsoft.Network/networkSecurityGroups/flushConnection` |
+| `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].disableTcpStateTracking` |
 

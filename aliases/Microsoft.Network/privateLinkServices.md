@@ -1365,4 +1365,6 @@
 | `properties.networkInterfaces[*].properties.workloadType` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].workloadType` |
 | `properties.resourceGuid` | `Microsoft.Network/privateLinkServices/resourceGuid` |
 | `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].vnetEncryptionSupported` |
+| `properties.networkInterfaces[*].properties.auxiliaryMode` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].auxiliaryMode` |
+| `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].disableTcpStateTracking` |
 

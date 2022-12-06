@@ -28,4 +28,12 @@
 | `properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.bgpConnections` |
 | `properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.bgpConnections[*]` |
 | `properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.bgpConnections[*].id` |
+| `properties.enablePrivateLinkFastPath` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/enablePrivateLinkFastPath` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.staticRoutesConfig` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` |
+| `properties.routingConfiguration.inboundRouteMap` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.inboundRouteMap` |
+| `properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.inboundRouteMap.id` |
+| `properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.outboundRouteMap` |
+| `properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.outboundRouteMap.id` |
 

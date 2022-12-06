@@ -1770,4 +1770,22 @@
 | `properties.managedRules.exclusions[*].exclusionManagedRuleSets[*].ruleGroups[*].rules` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exclusions[*].exclusionManagedRuleSets[*].ruleGroups[*].rules` |
 | `properties.managedRules.exclusions[*].exclusionManagedRuleSets[*].ruleGroups[*].rules[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exclusions[*].exclusionManagedRuleSets[*].ruleGroups[*].rules[*]` |
 | `properties.managedRules.exclusions[*].exclusionManagedRuleSets[*].ruleGroups[*].rules[*].ruleId` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exclusions[*].exclusionManagedRuleSets[*].ruleGroups[*].rules[*].ruleId` |
+| `properties.applicationGateways[*].properties.backendSettingsCollection` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].backendSettingsCollection` |
+| `properties.applicationGateways[*].properties.backendSettingsCollection[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].backendSettingsCollection[*]` |
+| `properties.applicationGateways[*].properties.backendSettingsCollection[*].name` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].backendSettingsCollection[*].name` |
+| `properties.applicationGateways[*].properties.backendSettingsCollection[*].etag` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].backendSettingsCollection[*].etag` |
+| `properties.applicationGateways[*].properties.backendSettingsCollection[*].type` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].backendSettingsCollection[*].type` |
+| `properties.applicationGateways[*].properties.listeners` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].listeners` |
+| `properties.applicationGateways[*].properties.listeners[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].listeners[*]` |
+| `properties.applicationGateways[*].properties.listeners[*].name` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].listeners[*].name` |
+| `properties.applicationGateways[*].properties.listeners[*].etag` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].listeners[*].etag` |
+| `properties.applicationGateways[*].properties.listeners[*].type` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].listeners[*].type` |
+| `properties.applicationGateways[*].properties.routingRules` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].routingRules` |
+| `properties.applicationGateways[*].properties.routingRules[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].routingRules[*]` |
+| `properties.applicationGateways[*].properties.routingRules[*].name` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].routingRules[*].name` |
+| `properties.applicationGateways[*].properties.routingRules[*].etag` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].routingRules[*].etag` |
+| `properties.applicationGateways[*].properties.routingRules[*].type` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].routingRules[*].type` |
+| `properties.managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action` |
+| `properties.policySettings.customBlockResponseStatusCode` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode` |
+| `properties.policySettings.customBlockResponseBody` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.customBlockResponseBody` |
 

@@ -199,4 +199,5 @@
 | `properties.rulesEngines[*].properties.rules[*].action.routeConfigurationOverride.customQueryString` | `Microsoft.Network/frontDoors/rulesEngines[*].rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration.customQueryString` |
 | `properties.routingRules[*].properties.routeConfiguration` | `Microsoft.Network/frontDoors/routingRules[*].routeConfiguration.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration` |
 | `properties.rulesEngines[*].properties.rules[*].action.routeConfigurationOverride` | `Microsoft.Network/frontDoors/rulesEngines[*].rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration` |
+| `properties.extendedProperties` | `Microsoft.Network/frontDoors/extendedProperties` |
 

@@ -923,4 +923,9 @@
 | `properties.backendAddressPools[*].properties.inboundNatRules` | `Microsoft.Network/loadBalancers/backendAddressPools[*].inboundNatRules` |
 | `properties.backendAddressPools[*].properties.inboundNatRules[*]` | `Microsoft.Network/loadBalancers/backendAddressPools[*].inboundNatRules[*]` |
 | `properties.backendAddressPools[*].properties.inboundNatRules[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].inboundNatRules[*].id` |
+| `properties.backendAddressPools[*].properties.loadBalancerBackendAddresses[*].properties.adminState` | `Microsoft.Network/loadBalancers/backendAddressPools[*].loadBalancerBackendAddresses[*].adminState` |
+| `properties.backendAddressPools[*].properties.drainPeriodInSeconds` | `Microsoft.Network/loadBalancers/backendAddressPools[*].drainPeriodInSeconds` |
+| `properties.probes[*].properties.probeThreshold` | `Microsoft.Network/loadBalancers/probes[*].probeThreshold` |
+| `properties.backendAddressPools[*].properties.virtualNetwork` | `Microsoft.Network/loadBalancers/backendAddressPools[*].virtualNetwork` |
+| `properties.backendAddressPools[*].properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].virtualNetwork.id` |
 

@@ -149,4 +149,11 @@
 | `properties.enableBgpRouteTranslationForNat` | `Microsoft.Network/vpnGateways/enableBgpRouteTranslationForNat` |
 | `properties.natRules[*].properties.internalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules[*].internalMappings[*].portRange` |
 | `properties.natRules[*].properties.externalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules[*].externalMappings[*].portRange` |
+| `properties.connections[*].properties.routingConfiguration.vnetRoutes.staticRoutesConfig` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes.staticRoutesConfig` |
+| `properties.connections[*].properties.routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` |
+| `properties.connections[*].properties.routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` |
+| `properties.connections[*].properties.routingConfiguration.inboundRouteMap` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.inboundRouteMap` |
+| `properties.connections[*].properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.inboundRouteMap.id` |
+| `properties.connections[*].properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.outboundRouteMap` |
+| `properties.connections[*].properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.outboundRouteMap.id` |
 

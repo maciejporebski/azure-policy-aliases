@@ -541,4 +541,7 @@
 | `properties.publicIPAddress.properties.servicePublicIPAddress.zones[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.zones[*]` |
 | `properties.subnet.properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.serviceEndpointPolicies[*].kind` |
 | `properties.publicIPAddress.properties.deleteOption` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.deleteOption` |
+| `properties.publicIPAddress.properties.ddosSettings.protectionMode` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.ddosSettings.protectionMode` |
+| `properties.publicIPAddress.properties.ddosSettings.ddosProtectionPlan` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.ddosSettings.ddosProtectionPlan` |
+| `properties.publicIPAddress.properties.ddosSettings.ddosProtectionPlan.id` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.ddosSettings.ddosProtectionPlan.id` |
 

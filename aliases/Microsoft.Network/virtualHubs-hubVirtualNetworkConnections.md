@@ -27,4 +27,11 @@
 | `properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.bgpConnections` |
 | `properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.bgpConnections[*]` |
 | `properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.bgpConnections[*].id` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.staticRoutesConfig` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` |
+| `properties.routingConfiguration.inboundRouteMap` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.inboundRouteMap` |
+| `properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.inboundRouteMap.id` |
+| `properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.outboundRouteMap` |
+| `properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.outboundRouteMap.id` |
 

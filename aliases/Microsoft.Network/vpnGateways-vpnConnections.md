@@ -91,4 +91,15 @@
 | `properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.bgpConnections` |
 | `properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.bgpConnections[*]` |
 | `properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.bgpConnections[*].id` |
+| `properties.vpnLinkConnections[*].properties.vpnGatewayCustomBgpAddresses` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnGatewayCustomBgpAddresses` |
+| `properties.vpnLinkConnections[*].properties.vpnGatewayCustomBgpAddresses[*]` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnGatewayCustomBgpAddresses[*]` |
+| `properties.vpnLinkConnections[*].properties.vpnGatewayCustomBgpAddresses[*].ipConfigurationId` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnGatewayCustomBgpAddresses[*].ipConfigurationId` |
+| `properties.vpnLinkConnections[*].properties.vpnGatewayCustomBgpAddresses[*].customBgpIpAddress` | `Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnGatewayCustomBgpAddresses[*].customBgpIpAddress` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.staticRoutesConfig` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` |
+| `properties.routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` |
+| `properties.routingConfiguration.inboundRouteMap` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.inboundRouteMap` |
+| `properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.inboundRouteMap.id` |
+| `properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.outboundRouteMap` |
+| `properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/vpnGateways/vpnConnections/routingConfiguration.outboundRouteMap.id` |
 

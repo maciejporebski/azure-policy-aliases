@@ -39,4 +39,13 @@
 | `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes.bgpConnections` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes.bgpConnections` |
 | `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes.bgpConnections[*]` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes.bgpConnections[*]` |
 | `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes.bgpConnections[*].id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes.bgpConnections[*].id` |
+| `properties.expressRouteConnections[*].properties.enablePrivateLinkFastPath` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].enablePrivateLinkFastPath` |
+| `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes.staticRoutesConfig` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes.staticRoutesConfig` |
+| `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes.staticRoutesConfig.propagateStaticRoutes` |
+| `properties.expressRouteConnections[*].properties.routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.vnetRoutes.staticRoutesConfig.vnetLocalRouteOverrideCriteria` |
+| `properties.expressRouteConnections[*].properties.routingConfiguration.inboundRouteMap` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.inboundRouteMap` |
+| `properties.expressRouteConnections[*].properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.inboundRouteMap.id` |
+| `properties.expressRouteConnections[*].properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.outboundRouteMap` |
+| `properties.expressRouteConnections[*].properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.outboundRouteMap.id` |
+| `properties.allowNonVirtualWanTraffic` | `Microsoft.Network/expressRouteGateways/allowNonVirtualWanTraffic` |
 

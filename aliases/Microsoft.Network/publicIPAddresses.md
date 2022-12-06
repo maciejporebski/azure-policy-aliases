@@ -432,4 +432,7 @@
 | `properties.servicePublicIPAddress.zones` | `Microsoft.Network/publicIPAddresses/servicePublicIPAddress.zones` |
 | `properties.servicePublicIPAddress.zones[*]` | `Microsoft.Network/publicIPAddresses/servicePublicIPAddress.zones[*]` |
 | `properties.deleteOption` | `Microsoft.Network/publicIPAddresses/deleteOption` |
+| `properties.ddosSettings.protectionMode` | `Microsoft.Network/publicIPAddresses/ddosSettings.protectionMode` |
+| `properties.ddosSettings.ddosProtectionPlan` | `Microsoft.Network/publicIPAddresses/ddosSettings.ddosProtectionPlan` |
+| `properties.ddosSettings.ddosProtectionPlan.id` | `Microsoft.Network/publicIPAddresses/ddosSettings.ddosProtectionPlan.id` |
 

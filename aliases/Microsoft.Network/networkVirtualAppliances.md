@@ -36,4 +36,12 @@
 | `properties.inboundSecurityRules[*]` | `Microsoft.Network/networkVirtualAppliances/inboundSecurityRules[*]` |
 | `properties.inboundSecurityRules[*].id` | `Microsoft.Network/networkVirtualAppliances/inboundSecurityRules[*].id` |
 | `properties.sshPublicKey` | `Microsoft.Network/networkVirtualAppliances/sshPublicKey` |
+| `properties.deploymentType` | `Microsoft.Network/networkVirtualAppliances/deploymentType` |
+| `properties.delegation` | `Microsoft.Network/networkVirtualAppliances/delegation` |
+| `properties.delegation.serviceName` | `Microsoft.Network/networkVirtualAppliances/delegation.serviceName` |
+| `properties.delegation.provisioningState` | `Microsoft.Network/networkVirtualAppliances/delegation.provisioningState` |
+| `properties.partnerManagedResource` | `Microsoft.Network/networkVirtualAppliances/partnerManagedResource` |
+| `properties.partnerManagedResource.id` | `Microsoft.Network/networkVirtualAppliances/partnerManagedResource.id` |
+| `properties.partnerManagedResource.internalLoadBalancerId` | `Microsoft.Network/networkVirtualAppliances/partnerManagedResource.internalLoadBalancerId` |
+| `properties.partnerManagedResource.standardLoadBalancerId` | `Microsoft.Network/networkVirtualAppliances/partnerManagedResource.standardLoadBalancerId` |
 
