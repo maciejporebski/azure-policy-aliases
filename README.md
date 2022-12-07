@@ -840,6 +840,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
 
 
+## Microsoft.Maintenance
+
+- [Microsoft.Maintenance/maintenanceConfigurations](aliases/Microsoft.Maintenance/maintenanceConfigurations.md)
+- [Microsoft.Maintenance/configurationAssignments](aliases/Microsoft.Maintenance/configurationAssignments.md)
+
+
 ## Microsoft.ManagedIdentity
 
 - [Microsoft.ManagedIdentity/userAssignedIdentities](aliases/Microsoft.ManagedIdentity/userAssignedIdentities.md)
@@ -1233,9 +1239,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ServiceBus/namespaces/queues](aliases/Microsoft.ServiceBus/namespaces-queues.md)
 - [Microsoft.ServiceBus/namespaces/queues/authorizationrules](aliases/Microsoft.ServiceBus/namespaces-queues-authorizationrules.md)
 - [Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs](aliases/Microsoft.ServiceBus/namespaces-disasterrecoveryconfigs.md)
+- [Microsoft.ServiceBus/namespaces/migrationConfigurations](aliases/Microsoft.ServiceBus/namespaces-migrationConfigurations.md)
 - [Microsoft.ServiceBus/namespaces/ipFilterRules](aliases/Microsoft.ServiceBus/namespaces-ipFilterRules.md)
 - [Microsoft.ServiceBus/namespaces/messagingPlan](aliases/Microsoft.ServiceBus/namespaces-messagingPlan.md)
-- [Microsoft.ServiceBus/namespaces/migrationConfigurations](aliases/Microsoft.ServiceBus/namespaces-migrationConfigurations.md)
 - [Microsoft.ServiceBus/namespaces/virtualNetworkRules](aliases/Microsoft.ServiceBus/namespaces-virtualNetworkRules.md)
 
 
