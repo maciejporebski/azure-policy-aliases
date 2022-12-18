@@ -71,5 +71,4 @@
 | `properties.backend.response.dataMasking.headers[*].value` | `Microsoft.ApiManagement/service/apis/diagnostics/backend.response.dataMasking.headers[*].value` |
 | `properties.backend.response.dataMasking.headers[*].mode` | `Microsoft.ApiManagement/service/apis/diagnostics/backend.response.dataMasking.headers[*].mode` |
 | `properties.operationNameFormat` | `Microsoft.ApiManagement/service/apis/diagnostics/operationNameFormat` |
-| `properties.metrics` | `Microsoft.ApiManagement/service/apis/diagnostics/metrics` |
 

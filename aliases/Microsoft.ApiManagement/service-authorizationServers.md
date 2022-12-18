@@ -30,6 +30,4 @@
 | `properties.resourceOwnerUsername` | `Microsoft.ApiManagement/service/authorizationServers/resourceOwnerUsername` |
 | `properties.resourceOwnerPassword` | `Microsoft.ApiManagement/service/authorizationServers/resourceOwnerPassword` |
 | `properties.tokenBodyParameters[*].value` | `Microsoft.ApiManagement/service/authorizationServers/tokenBodyParameters[*].value` |
-| `properties.useInTestConsole` | `Microsoft.ApiManagement/service/authorizationServers/useInTestConsole` |
-| `properties.useInApiDocumentation` | `Microsoft.ApiManagement/service/authorizationServers/useInApiDocumentation` |
 

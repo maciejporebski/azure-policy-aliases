@@ -71,8 +71,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ApiManagement/service/portalRevisions](aliases/Microsoft.ApiManagement/service-portalRevisions.md)
 - [Microsoft.ApiManagement/service/privateEndpointConnections](aliases/Microsoft.ApiManagement/service-privateEndpointConnections.md)
 - [Microsoft.ApiManagement/service/schemas](aliases/Microsoft.ApiManagement/service-schemas.md)
-- [Microsoft.ApiManagement/service/authorizationProviders](aliases/Microsoft.ApiManagement/service-authorizationProviders.md)
-- [Microsoft.ApiManagement/service/gateways/hostnameConfigurations](aliases/Microsoft.ApiManagement/service-gateways-hostnameConfigurations.md)
 
 
 ## Microsoft.App
