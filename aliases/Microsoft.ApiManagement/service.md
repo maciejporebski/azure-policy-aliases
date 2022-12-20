@@ -125,4 +125,10 @@
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.ApiManagement/service/privateEndpointConnections[*].groupIds[*]` |
 | `properties.platformVersion` | `Microsoft.ApiManagement/service/platformVersion` |
+| `properties.additionalLocations[*].natGatewayState` | `Microsoft.ApiManagement/service/additionalLocations[*].natGatewayState` |
+| `properties.additionalLocations[*].outboundPublicIPAddresses` | `Microsoft.ApiManagement/service/additionalLocations[*].outboundPublicIPAddresses` |
+| `properties.additionalLocations[*].outboundPublicIPAddresses[*]` | `Microsoft.ApiManagement/service/additionalLocations[*].outboundPublicIPAddresses[*]` |
+| `properties.natGatewayState` | `Microsoft.ApiManagement/service/natGatewayState` |
+| `properties.outboundPublicIPAddresses` | `Microsoft.ApiManagement/service/outboundPublicIPAddresses` |
+| `properties.outboundPublicIPAddresses[*]` | `Microsoft.ApiManagement/service/outboundPublicIPAddresses[*]` |
 

@@ -48,4 +48,13 @@
 | `properties.license` | `Microsoft.ApiManagement/service/apis/license` |
 | `properties.license.name` | `Microsoft.ApiManagement/service/apis/license.name` |
 | `properties.license.url` | `Microsoft.ApiManagement/service/apis/license.url` |
+| `properties.authenticationSettings.oAuth2AuthenticationSettings` | `Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2AuthenticationSettings` |
+| `properties.authenticationSettings.oAuth2AuthenticationSettings[*]` | `Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2AuthenticationSettings[*]` |
+| `properties.authenticationSettings.oAuth2AuthenticationSettings[*].authorizationServerId` | `Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2AuthenticationSettings[*].authorizationServerId` |
+| `properties.authenticationSettings.oAuth2AuthenticationSettings[*].scope` | `Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2AuthenticationSettings[*].scope` |
+| `properties.authenticationSettings.openidAuthenticationSettings` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings` |
+| `properties.authenticationSettings.openidAuthenticationSettings[*]` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*]` |
+| `properties.authenticationSettings.openidAuthenticationSettings[*].openidProviderId` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].openidProviderId` |
+| `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` |
+| `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` |
 
