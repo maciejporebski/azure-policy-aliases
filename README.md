@@ -102,6 +102,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AppPlatform/Spring/certificates](aliases/Microsoft.AppPlatform/Spring-certificates.md)
 - [Microsoft.AppPlatform/Spring/configServers](aliases/Microsoft.AppPlatform/Spring-configServers.md)
 - [Microsoft.AppPlatform/Spring/monitoringSettings](aliases/Microsoft.AppPlatform/Spring-monitoringSettings.md)
+- [Microsoft.AppPlatform/Spring/apiPortals](aliases/Microsoft.AppPlatform/Spring-apiPortals.md)
+- [Microsoft.AppPlatform/Spring/applicationAccelerators](aliases/Microsoft.AppPlatform/Spring-applicationAccelerators.md)
+- [Microsoft.AppPlatform/Spring/applicationLiveViews](aliases/Microsoft.AppPlatform/Spring-applicationLiveViews.md)
+- [Microsoft.AppPlatform/Spring/configurationServices](aliases/Microsoft.AppPlatform/Spring-configurationServices.md)
+- [Microsoft.AppPlatform/Spring/devToolPortals](aliases/Microsoft.AppPlatform/Spring-devToolPortals.md)
+- [Microsoft.AppPlatform/Spring/gateways](aliases/Microsoft.AppPlatform/Spring-gateways.md)
+- [Microsoft.AppPlatform/Spring/storages](aliases/Microsoft.AppPlatform/Spring-storages.md)
 
 
 ## Microsoft.Attestation
@@ -497,6 +504,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforPostgreSQL/flexibleServers/databases](aliases/Microsoft.DBforPostgreSQL/flexibleServers-databases.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/firewallRules](aliases/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/migrations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-migrations.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/administrators](aliases/Microsoft.DBforPostgreSQL/flexibleServers-administrators.md)
 
 
 ## Microsoft.DesktopVirtualization

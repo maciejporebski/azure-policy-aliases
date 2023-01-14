@@ -106,4 +106,16 @@
 | `properties.networkProfile.requiredTraffics[*].fqdns` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].fqdns` |
 | `properties.networkProfile.requiredTraffics[*].fqdns[*]` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].fqdns[*]` |
 | `properties.networkProfile.requiredTraffics[*].direction` | `Microsoft.AppPlatform/Spring/networkProfile.requiredTraffics[*].direction` |
+| `properties.powerState` | `Microsoft.AppPlatform/Spring/powerState` |
+| `properties.zoneRedundant` | `Microsoft.AppPlatform/Spring/zoneRedundant` |
+| `properties.fqdn` | `Microsoft.AppPlatform/Spring/fqdn` |
+| `properties.networkProfile.ingressConfig` | `Microsoft.AppPlatform/Spring/networkProfile.ingressConfig` |
+| `properties.networkProfile.ingressConfig.readTimeoutInSeconds` | `Microsoft.AppPlatform/Spring/networkProfile.ingressConfig.readTimeoutInSeconds` |
+| `properties.vnetAddons` | `Microsoft.AppPlatform/Spring/vnetAddons` |
+| `properties.vnetAddons.logStreamPublicEndpoint` | `Microsoft.AppPlatform/Spring/vnetAddons.logStreamPublicEndpoint` |
+| `properties.marketplaceResource` | `Microsoft.AppPlatform/Spring/marketplaceResource` |
+| `properties.marketplaceResource.plan` | `Microsoft.AppPlatform/Spring/marketplaceResource.plan` |
+| `properties.marketplaceResource.publisher` | `Microsoft.AppPlatform/Spring/marketplaceResource.publisher` |
+| `properties.marketplaceResource.product` | `Microsoft.AppPlatform/Spring/marketplaceResource.product` |
+| `properties.networkProfile.outboundType` | `Microsoft.AppPlatform/Spring/networkProfile.outboundType` |
 

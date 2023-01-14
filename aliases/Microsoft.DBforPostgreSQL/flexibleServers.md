@@ -56,4 +56,16 @@
 | `properties.standbyCount` | `Microsoft.DBForPostgreSql/flexibleServers/standbyCount` |
 | `properties.logBackupStorageSku` | `Microsoft.DBForPostgreSql/flexibleServers/logBackupStorageSku` |
 | `properties.earliestRestoreDate` | `Microsoft.DBForPostgreSql/flexibleServers/earliestRestoreDate` |
+| `properties.authConfig` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig` |
+| `properties.authConfig.activeDirectoryAuthEnabled` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig.activeDirectoryAuthEnabled` |
+| `properties.authConfig.passwordAuthEnabled` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig.passwordAuthEnabled` |
+| `properties.authConfig.tenantId` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig.tenantId` |
+| `properties.dataEncryption` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption` |
+| `properties.dataEncryption.primaryKeyURI` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.primaryKeyURI` |
+| `properties.dataEncryption.primaryUserAssignedIdentityId` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.primaryUserAssignedIdentityId` |
+| `properties.dataEncryption.type` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.type` |
+| `properties.replicationRole` | `Microsoft.DBForPostgreSql/flexibleServers/replicationRole` |
+| `properties.replicaCapacity` | `Microsoft.DBForPostgreSql/flexibleServers/replicaCapacity` |
+| `properties.authConfig.activeDirectoryAuth` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig.activeDirectoryAuth` |
+| `properties.authConfig.passwordAuth` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig.passwordAuth` |
 
