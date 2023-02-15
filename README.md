@@ -1391,6 +1391,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines](aliases/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines.md)
 - [Microsoft.Sql/servers/ipv6FirewallRules](aliases/Microsoft.Sql/servers-ipv6FirewallRules.md)
 - [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines.md)
+- [Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules.md)
+- [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules.md)
 
 
 ## Microsoft.SqlVirtualMachine
