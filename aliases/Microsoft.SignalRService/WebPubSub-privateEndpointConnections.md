@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
+| `properties.groupIds` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/groupIds[*]` |
 

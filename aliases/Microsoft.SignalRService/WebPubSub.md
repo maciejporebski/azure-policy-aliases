@@ -85,4 +85,12 @@
 | `properties.liveTraceConfiguration.categories[*]` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.categories[*]` |
 | `properties.liveTraceConfiguration.categories[*].name` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.categories[*].name` |
 | `properties.liveTraceConfiguration.categories[*].enabled` | `Microsoft.SignalRService/webPubSub/liveTraceConfiguration.categories[*].enabled` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections[*].groupIds[*]` |
+| `properties.hostNamePrefix` | `Microsoft.SignalRService/webPubSub/hostNamePrefix` |
+| `properties.resourceLogConfiguration` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration` |
+| `properties.resourceLogConfiguration.categories` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration.categories` |
+| `properties.resourceLogConfiguration.categories[*]` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration.categories[*]` |
+| `properties.resourceLogConfiguration.categories[*].name` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration.categories[*].name` |
+| `properties.resourceLogConfiguration.categories[*].enabled` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration.categories[*].enabled` |
 

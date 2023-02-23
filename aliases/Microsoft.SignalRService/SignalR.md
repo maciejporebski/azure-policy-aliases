@@ -88,4 +88,19 @@
 | `properties.publicNetworkAccess` | `Microsoft.SignalRService/SignalR/publicNetworkAccess` |
 | `properties.disableLocalAuth` | `Microsoft.SignalRService/SignalR/disableLocalAuth` |
 | `properties.disableAadAuth` | `Microsoft.SignalRService/SignalR/disableAadAuth` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.SignalRService/SignalR/privateEndpointConnections[*].groupIds[*]` |
+| `properties.resourceLogConfiguration` | `Microsoft.SignalRService/SignalR/resourceLogConfiguration` |
+| `properties.resourceLogConfiguration.categories` | `Microsoft.SignalRService/SignalR/resourceLogConfiguration.categories` |
+| `properties.resourceLogConfiguration.categories[*]` | `Microsoft.SignalRService/SignalR/resourceLogConfiguration.categories[*]` |
+| `properties.resourceLogConfiguration.categories[*].name` | `Microsoft.SignalRService/SignalR/resourceLogConfiguration.categories[*].name` |
+| `properties.resourceLogConfiguration.categories[*].enabled` | `Microsoft.SignalRService/SignalR/resourceLogConfiguration.categories[*].enabled` |
+| `properties.liveTraceConfiguration` | `Microsoft.SignalRService/SignalR/liveTraceConfiguration` |
+| `properties.liveTraceConfiguration.enabled` | `Microsoft.SignalRService/SignalR/liveTraceConfiguration.enabled` |
+| `properties.liveTraceConfiguration.categories` | `Microsoft.SignalRService/SignalR/liveTraceConfiguration.categories` |
+| `properties.liveTraceConfiguration.categories[*]` | `Microsoft.SignalRService/SignalR/liveTraceConfiguration.categories[*]` |
+| `properties.liveTraceConfiguration.categories[*].name` | `Microsoft.SignalRService/SignalR/liveTraceConfiguration.categories[*].name` |
+| `properties.liveTraceConfiguration.categories[*].enabled` | `Microsoft.SignalRService/SignalR/liveTraceConfiguration.categories[*].enabled` |
+| `properties.serverless` | `Microsoft.SignalRService/SignalR/serverless` |
+| `properties.serverless.connectionTimeoutInSeconds` | `Microsoft.SignalRService/SignalR/serverless.connectionTimeoutInSeconds` |
 

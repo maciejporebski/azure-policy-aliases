@@ -1292,6 +1292,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.SignalRService/SignalR/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources.md)
 - [Microsoft.SignalRService/WebPubSub/privateEndpointConnections](aliases/Microsoft.SignalRService/WebPubSub-privateEndpointConnections.md)
 - [Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources.md)
+- [Microsoft.SignalRService/WebPubSub/hubs](aliases/Microsoft.SignalRService/WebPubSub-hubs.md)
 
 
 ## Microsoft.Singularity
