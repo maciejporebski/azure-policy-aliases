@@ -80,4 +80,5 @@
 | `properties.options[*].restriction.alternateVerificationKeys[*]` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.alternateVerificationKeys[*].#Microsoft-Media-ContentKeyPolicyX509CertificateTokenKey` |
 | `properties.options[*].restriction.alternateVerificationKeys[*]` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.alternateVerificationKeys[*].#Microsoft-Media-ContentKeyPolicyRsaTokenKey` |
 | `properties.options[*].restriction.alternateVerificationKeys[*]` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].restriction.#Microsoft-Media-ContentKeyPolicyTokenRestriction.alternateVerificationKeys[*].#Microsoft-Media-ContentKeyPolicySymmetricTokenKey` |
+| `properties.options[*].configuration.licenses[*].securityLevel` | `Microsoft.Media/mediaServices/contentKeyPolicies/options[*].configuration.#Microsoft-Media-ContentKeyPolicyPlayReadyConfiguration.licenses[*].securityLevel` |
 

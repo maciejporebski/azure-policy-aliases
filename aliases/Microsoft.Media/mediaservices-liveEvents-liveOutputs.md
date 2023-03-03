@@ -13,4 +13,5 @@
 | `properties.lastModified` | `Microsoft.Media/mediaservices/liveEvents/liveOutputs/lastModified` |
 | `properties.provisioningState` | `Microsoft.Media/mediaservices/liveEvents/liveOutputs/provisioningState` |
 | `properties.resourceState` | `Microsoft.Media/mediaservices/liveEvents/liveOutputs/resourceState` |
+| `properties.rewindWindowLength` | `Microsoft.Media/mediaservices/liveEvents/liveOutputs/rewindWindowLength` |
 

@@ -32,4 +32,18 @@
 | `properties.encryption.identity.useSystemAssignedIdentity` | `Microsoft.Media/mediaservices/encryption.identity.useSystemAssignedIdentity` |
 | `properties.encryption.status` | `Microsoft.Media/mediaservices/encryption.status` |
 | `properties.publicNetworkAccess` | `Microsoft.Media/mediaservices/publicNetworkAccess` |
+| `properties.provisioningState` | `Microsoft.Media/mediaservices/provisioningState` |
+| `properties.privateEndpointConnections` | `Microsoft.Media/mediaservices/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Media/mediaservices/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Media/mediaservices/privateEndpointConnections[*].provisioningState` |
+| `properties.minimumTlsVersion` | `Microsoft.Media/mediaservices/minimumTlsVersion` |
 

@@ -111,4 +111,8 @@
 | `properties.noEncryption.enabledProtocols.hls` | `Microsoft.Media/mediaServices/streamingPolicies/noEncryption.enabledProtocols.hls` |
 | `properties.noEncryption.enabledProtocols.smoothStreaming` | `Microsoft.Media/mediaServices/streamingPolicies/noEncryption.enabledProtocols.smoothStreaming` |
 | `properties.envelopeEncryption.customKeyAcquisitionUrlTemplate` | `Microsoft.Media/mediaServices/streamingPolicies/envelopeEncryption.customKeyAcquisitionUrlTemplate` |
+| `properties.commonEncryptionCenc.clearKeyEncryptionConfiguration` | `Microsoft.Media/mediaServices/streamingPolicies/commonEncryptionCenc.clearKeyEncryptionConfiguration` |
+| `properties.commonEncryptionCenc.clearKeyEncryptionConfiguration.customKeysAcquisitionUrlTemplate` | `Microsoft.Media/mediaServices/streamingPolicies/commonEncryptionCenc.clearKeyEncryptionConfiguration.customKeysAcquisitionUrlTemplate` |
+| `properties.commonEncryptionCbcs.clearKeyEncryptionConfiguration` | `Microsoft.Media/mediaServices/streamingPolicies/commonEncryptionCbcs.clearKeyEncryptionConfiguration` |
+| `properties.commonEncryptionCbcs.clearKeyEncryptionConfiguration.customKeysAcquisitionUrlTemplate` | `Microsoft.Media/mediaServices/streamingPolicies/commonEncryptionCbcs.clearKeyEncryptionConfiguration.customKeysAcquisitionUrlTemplate` |
 

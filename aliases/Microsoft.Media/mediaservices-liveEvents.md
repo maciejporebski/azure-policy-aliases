@@ -60,4 +60,7 @@
 | `properties.encoding.keyFrameInterval` | `Microsoft.Media/mediaservices/liveEvents/encoding.keyFrameInterval` |
 | `properties.useStaticHostname` | `Microsoft.Media/mediaservices/liveEvents/useStaticHostname` |
 | `properties.hostnamePrefix` | `Microsoft.Media/mediaservices/liveEvents/hostnamePrefix` |
+| `properties.input.timedMetadataEndpoints` | `Microsoft.Media/mediaservices/liveEvents/input.timedMetadataEndpoints` |
+| `properties.input.timedMetadataEndpoints[*]` | `Microsoft.Media/mediaservices/liveEvents/input.timedMetadataEndpoints[*]` |
+| `properties.input.timedMetadataEndpoints[*].url` | `Microsoft.Media/mediaservices/liveEvents/input.timedMetadataEndpoints[*].url` |
 

@@ -33,4 +33,7 @@
 | `properties.freeTrialEndTime` | `Microsoft.Media/mediaservices/streamingEndpoints/freeTrialEndTime` |
 | `properties.created` | `Microsoft.Media/mediaservices/streamingEndpoints/created` |
 | `properties.lastModified` | `Microsoft.Media/mediaservices/streamingEndpoints/lastModified` |
+| `sku` | `Microsoft.Media/mediaservices/streamingEndpoints/sku` |
+| `sku.name` | `Microsoft.Media/mediaservices/streamingEndpoints/sku.name` |
+| `sku.capacity` | `Microsoft.Media/mediaservices/streamingEndpoints/sku.capacity` |
 
