@@ -506,6 +506,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforPostgreSQL/flexibleServers/firewallRules](aliases/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/migrations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-migrations.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/administrators](aliases/Microsoft.DBforPostgreSQL/flexibleServers-administrators.md)
+- [Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections](aliases/Microsoft.DBforPostgreSQL/serverGroupsv2-privateEndpointConnections.md)
 
 
 ## Microsoft.DesktopVirtualization

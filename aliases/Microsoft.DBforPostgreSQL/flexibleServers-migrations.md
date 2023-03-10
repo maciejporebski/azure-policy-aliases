@@ -45,4 +45,12 @@
 | `properties.migrationWindowStartTimeInUtc` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationWindowStartTimeInUtc` |
 | `properties.startDataMigration` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/startDataMigration` |
 | `properties.triggerCutover` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/triggerCutover` |
+| `properties.sourceDBServerFullyQualifiedDomainName` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceDBServerFullyQualifiedDomainName` |
+| `properties.targetDBServerFullyQualifiedDomainName` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/targetDBServerFullyQualifiedDomainName` |
+| `properties.dBsToTiggerCutoverOn` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dBsToTiggerCutoverOn` |
+| `properties.dBsToTiggerCutoverOn[*]` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dBsToTiggerCutoverOn[*]` |
+| `properties.cancel` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/cancel` |
+| `properties.dBsToCancelMigrationOn` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dBsToCancelMigrationOn` |
+| `properties.dBsToCancelMigrationOn[*]` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dBsToCancelMigrationOn[*]` |
+| `properties.migrationMode` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationMode` |
 
