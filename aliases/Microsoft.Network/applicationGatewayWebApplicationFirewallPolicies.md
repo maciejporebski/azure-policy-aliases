@@ -1788,4 +1788,5 @@
 | `properties.managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action` |
 | `properties.policySettings.customBlockResponseStatusCode` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode` |
 | `properties.policySettings.customBlockResponseBody` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.customBlockResponseBody` |
+| `properties.customRules[*].state` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].state` |
 

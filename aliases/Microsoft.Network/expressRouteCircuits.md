@@ -139,4 +139,5 @@
 | `properties.peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig` | `Microsoft.Network/expressRouteCircuits/peerings[*].connections[*].ipv6CircuitConnectionConfig` |
 | `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/expressRouteCircuits/peerings[*].ipv6PeeringConfig.routeFilter.etag` |
 | `properties.authorizationKey` | `Microsoft.Network/expressRouteCircuits/authorizationKey` |
+| `properties.authorizationStatus` | `Microsoft.Network/expressRouteCircuits/authorizationStatus` |
 

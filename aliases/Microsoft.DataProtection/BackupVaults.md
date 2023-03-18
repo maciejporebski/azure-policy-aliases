@@ -24,4 +24,7 @@
 | `properties.securitySettings.softDeleteSettings.retentionDurationInDays` | `Microsoft.DataProtection/backupVaults/securitySettings.softDeleteSettings.retentionDurationInDays` |
 | `properties.securitySettings.immutabilitySettings` | `Microsoft.DataProtection/backupVaults/securitySettings.immutabilitySettings` |
 | `properties.securitySettings.immutabilitySettings.state` | `Microsoft.DataProtection/backupVaults/securitySettings.immutabilitySettings.state` |
+| `properties.featureSettings` | `Microsoft.DataProtection/backupVaults/featureSettings` |
+| `properties.featureSettings.crossSubscriptionRestoreSettings` | `Microsoft.DataProtection/backupVaults/featureSettings.crossSubscriptionRestoreSettings` |
+| `properties.featureSettings.crossSubscriptionRestoreSettings.state` | `Microsoft.DataProtection/backupVaults/featureSettings.crossSubscriptionRestoreSettings.state` |
 

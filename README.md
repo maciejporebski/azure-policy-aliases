@@ -827,12 +827,12 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.MachineLearningServices
 
-- [Microsoft.MachineLearningServices/workspaces/batchEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints.md)
-- [Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces](aliases/Microsoft.MachineLearningServices/workspaces.md)
 - [Microsoft.MachineLearningServices/registries](aliases/Microsoft.MachineLearningServices/registries.md)
 - [Microsoft.MachineLearningServices/workspaces/onlineEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-onlineEndpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-onlineEndpoints-deployments.md)
+- [Microsoft.MachineLearningServices/workspaces/batchEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints.md)
+- [Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces/computes](aliases/Microsoft.MachineLearningServices/workspaces-computes.md)
 - [Microsoft.MachineLearningServices/workspaces/jobs](aliases/Microsoft.MachineLearningServices/workspaces-jobs.md)
 - [Microsoft.MachineLearningServices/workspaces/codes](aliases/Microsoft.MachineLearningServices/workspaces-codes.md)
@@ -1074,6 +1074,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/virtualHubs/routeMaps](aliases/Microsoft.Network/virtualHubs-routeMaps.md)
 - [Microsoft.Network/virtualNetworkGateways/natRules](aliases/Microsoft.Network/virtualNetworkGateways-natRules.md)
 - [Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups](aliases/Microsoft.Network/vpnServerConfigurations-configurationPolicyGroups.md)
+- [Microsoft.Network/networkManagers/networkGroups/staticMembers](aliases/Microsoft.Network/networkManagers-networkGroups-staticMembers.md)
+- [Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections](aliases/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections.md)
+- [Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections](aliases/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections.md)
+- [Microsoft.Network/networkSecurityPerimeters/links](aliases/Microsoft.Network/networkSecurityPerimeters-links.md)
+- [Microsoft.Network/networkSecurityPerimeters/profiles/accessRules](aliases/Microsoft.Network/networkSecurityPerimeters-profiles-accessRules.md)
 
 
 ## Microsoft.NotificationHubs

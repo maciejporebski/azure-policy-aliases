@@ -128,4 +128,7 @@
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].labelSelectors` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].KubernetesClusterBackupDatasourceParameters.labelSelectors` |
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].labelSelectors[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].KubernetesClusterBackupDatasourceParameters.labelSelectors[*]` |
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].objectType` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].objectType` |
+| `properties.policyInfo.policyParameters.backupDatasourceParametersList[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].BlobBackupDatasourceParameters` |
+| `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].containersList` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].BlobBackupDatasourceParameters.containersList` |
+| `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].containersList[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].BlobBackupDatasourceParameters.containersList[*]` |
 
