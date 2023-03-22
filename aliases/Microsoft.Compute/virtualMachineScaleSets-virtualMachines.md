@@ -151,11 +151,9 @@
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.loadBalancerInboundNatPools` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations[*].ipConfigurations[*].loadBalancerInboundNatPools` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.ipConfigurations[*]` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations[*].ipConfigurations[*]` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.ipConfigurations` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations[*].ipConfigurations` |
-| `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.ipConfigurations[*].id` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations[*].ipConfigurations[*].id` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.enableIPForwarding` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations[*].enableIPForwarding` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*]` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations[*]` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations` |
-| `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].id` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration.networkInterfaceConfigurations[*].id` |
 | `properties.networkProfileConfiguration` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkProfileConfiguration` |
 | `properties.modelDefinitionApplied` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/modelDefinitionApplied` |
 | `properties.protectionPolicy.protectFromScaleIn` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/protectionPolicy.protectFromScaleIn` |
