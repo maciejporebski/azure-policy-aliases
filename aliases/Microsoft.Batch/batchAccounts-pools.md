@@ -221,4 +221,6 @@
 | `properties.mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference` |
 | `properties.mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference.resourceId` | `Microsoft.Batch/batchAccounts/pools/mountConfiguration[*].azureBlobFileSystemConfiguration.identityReference.resourceId` |
 | `properties.networkConfiguration.dynamicVNetAssignmentScope` | `Microsoft.Batch/batchAccounts/pools/networkConfiguration.dynamicVNetAssignmentScope` |
+| `properties.targetNodeCommunicationMode` | `Microsoft.Batch/batchAccounts/pools/targetNodeCommunicationMode` |
+| `properties.currentNodeCommunicationMode` | `Microsoft.Batch/batchAccounts/pools/currentNodeCommunicationMode` |
 

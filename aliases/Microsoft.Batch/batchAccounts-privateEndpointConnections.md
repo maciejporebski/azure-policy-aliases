@@ -11,4 +11,5 @@
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
 | `properties.groupIds` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds[*]` |
+| `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 
