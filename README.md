@@ -1606,4 +1606,17 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/hostingenvironments/configurations](aliases/Microsoft.Web/hostingenvironments-configurations.md)
 
 
+## Microsoft.Workloads
+
+- [Microsoft.Workloads/sapVirtualInstances](aliases/Microsoft.Workloads/sapVirtualInstances.md)
+- [Microsoft.Workloads/sapVirtualInstances/applicationInstances](aliases/Microsoft.Workloads/sapVirtualInstances-applicationInstances.md)
+- [Microsoft.Workloads/sapVirtualInstances/centralInstances](aliases/Microsoft.Workloads/sapVirtualInstances-centralInstances.md)
+- [Microsoft.Workloads/sapVirtualInstances/databaseInstances](aliases/Microsoft.Workloads/sapVirtualInstances-databaseInstances.md)
+- [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
+- [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
+- [Microsoft.Workloads/monitors](aliases/Microsoft.Workloads/monitors.md)
+- [Microsoft.Workloads/monitors/providerInstances](aliases/Microsoft.Workloads/monitors-providerInstances.md)
+- [Microsoft.Workloads/monitors/sapLandscapeMonitor](aliases/Microsoft.Workloads/monitors-sapLandscapeMonitor.md)
+
+
 

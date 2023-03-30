@@ -69,4 +69,7 @@
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections[*].groupIds[*]` |
 | `properties.publicNetworkAccess` | `Microsoft.RecoveryServices/vaults/publicNetworkAccess` |
+| `properties.restoreSettings` | `Microsoft.RecoveryServices/vaults/restoreSettings` |
+| `properties.restoreSettings.crossSubscriptionRestoreSettings` | `Microsoft.RecoveryServices/vaults/restoreSettings.crossSubscriptionRestoreSettings` |
+| `properties.restoreSettings.crossSubscriptionRestoreSettings.crossSubscriptionRestoreState` | `Microsoft.RecoveryServices/vaults/restoreSettings.crossSubscriptionRestoreSettings.crossSubscriptionRestoreState` |
 
