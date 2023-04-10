@@ -1455,28 +1455,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.StorageSync/storageSyncServices/privateEndpointConnections](aliases/Microsoft.StorageSync/storageSyncServices-privateEndpointConnections.md)
 
 
-## Microsoft.StorSimple
-
-- [Microsoft.StorSimple/managers](aliases/Microsoft.StorSimple/managers.md)
-- [Microsoft.StorSimple/managers/accessControlRecords](aliases/Microsoft.StorSimple/managers-accessControlRecords.md)
-- [Microsoft.StorSimple/managers/bandwidthSettings](aliases/Microsoft.StorSimple/managers-bandwidthSettings.md)
-- [Microsoft.StorSimple/managers/devices/alertSettings](aliases/Microsoft.StorSimple/managers-devices-alertSettings.md)
-- [Microsoft.StorSimple/managers/devices/backupPolicies](aliases/Microsoft.StorSimple/managers-devices-backupPolicies.md)
-- [Microsoft.StorSimple/managers/devices/backupPolicies/schedules](aliases/Microsoft.StorSimple/managers-devices-backupPolicies-schedules.md)
-- [Microsoft.StorSimple/managers/devices/backupScheduleGroups](aliases/Microsoft.StorSimple/managers-devices-backupScheduleGroups.md)
-- [Microsoft.StorSimple/managers/devices/chapSettings](aliases/Microsoft.StorSimple/managers-devices-chapSettings.md)
-- [Microsoft.StorSimple/managers/devices/fileservers](aliases/Microsoft.StorSimple/managers-devices-fileservers.md)
-- [Microsoft.StorSimple/managers/devices/fileservers/shares](aliases/Microsoft.StorSimple/managers-devices-fileservers-shares.md)
-- [Microsoft.StorSimple/managers/devices/iscsiservers](aliases/Microsoft.StorSimple/managers-devices-iscsiservers.md)
-- [Microsoft.StorSimple/managers/devices/iscsiservers/disks](aliases/Microsoft.StorSimple/managers-devices-iscsiservers-disks.md)
-- [Microsoft.StorSimple/managers/devices/timeSettings](aliases/Microsoft.StorSimple/managers-devices-timeSettings.md)
-- [Microsoft.StorSimple/managers/devices/volumeContainers](aliases/Microsoft.StorSimple/managers-devices-volumeContainers.md)
-- [Microsoft.StorSimple/managers/devices/volumeContainers/volumes](aliases/Microsoft.StorSimple/managers-devices-volumeContainers-volumes.md)
-- [Microsoft.StorSimple/managers/extendedInformation](aliases/Microsoft.StorSimple/managers-extendedInformation.md)
-- [Microsoft.StorSimple/managers/storageAccountCredentials](aliases/Microsoft.StorSimple/managers-storageAccountCredentials.md)
-- [Microsoft.StorSimple/managers/storageDomains](aliases/Microsoft.StorSimple/managers-storageDomains.md)
-
-
 ## Microsoft.StreamAnalytics
 
 - [Microsoft.StreamAnalytics/streamingjobs](aliases/Microsoft.StreamAnalytics/streamingjobs.md)
