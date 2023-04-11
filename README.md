@@ -309,7 +309,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates.md)
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines.md)
 - [Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems](aliases/Microsoft.ConnectedVMwarevSphere/vcenters-inventoryitems.md)
-- [Microsoft.ConnectedVMwarevSphere/virtualmachines/hybrididentitymetadata](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-hybrididentitymetadata.md)
+- [Microsoft.ConnectedVMwarevSphere/VirtualMachines/HybridIdentityMetadata](aliases/Microsoft.ConnectedVMwarevSphere/VirtualMachines-HybridIdentityMetadata.md)
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-extensions.md)
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents.md)
 - [Microsoft.ConnectedVMwarevSphere/clusters](aliases/Microsoft.ConnectedVMwarevSphere/clusters.md)
