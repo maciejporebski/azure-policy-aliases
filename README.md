@@ -195,6 +195,21 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AzureArcData/DataControllers/ActiveDirectoryConnectors](aliases/Microsoft.AzureArcData/DataControllers-ActiveDirectoryConnectors.md)
 
 
+## Microsoft.AzureStackHCI
+
+- [Microsoft.AzureStackHCI/galleryImages](aliases/Microsoft.AzureStackHCI/galleryImages.md)
+- [Microsoft.AzureStackHCI/networkInterfaces](aliases/Microsoft.AzureStackHCI/networkInterfaces.md)
+- [Microsoft.AzureStackHCI/virtualMachines](aliases/Microsoft.AzureStackHCI/virtualMachines.md)
+- [Microsoft.AzureStackHCI/virtualNetworks](aliases/Microsoft.AzureStackHCI/virtualNetworks.md)
+- [Microsoft.AzureStackHCI/virtualHardDisks](aliases/Microsoft.AzureStackHCI/virtualHardDisks.md)
+- [Microsoft.AzureStackHCI/clusters](aliases/Microsoft.AzureStackHCI/clusters.md)
+- [Microsoft.AzureStackHCI/clusters/arcSettings](aliases/Microsoft.AzureStackHCI/clusters-arcSettings.md)
+- [Microsoft.AzureStackHCI/clusters/arcSettings/extensions](aliases/Microsoft.AzureStackHCI/clusters-arcSettings-extensions.md)
+- [Microsoft.AzureStackHCI/virtualmachines/extensions](aliases/Microsoft.AzureStackHCI/virtualmachines-extensions.md)
+- [Microsoft.AzureStackHCI/marketplaceGalleryImages](aliases/Microsoft.AzureStackHCI/marketplaceGalleryImages.md)
+- [Microsoft.AzureStackHCI/storageContainers](aliases/Microsoft.AzureStackHCI/storageContainers.md)
+
+
 ## Microsoft.Batch
 
 - [Microsoft.Batch/batchAccounts](aliases/Microsoft.Batch/batchAccounts.md)
@@ -493,6 +508,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforMySQL/flexibleServers/configurations](aliases/Microsoft.DBforMySQL/flexibleServers-configurations.md)
 - [Microsoft.DBforMySQL/flexibleServers/databases](aliases/Microsoft.DBforMySQL/flexibleServers-databases.md)
 - [Microsoft.DBforMySQL/flexibleServers/firewallRules](aliases/Microsoft.DBforMySQL/flexibleServers-firewallRules.md)
+- [Microsoft.DBforMySQL/flexibleServers/administrators](aliases/Microsoft.DBforMySQL/flexibleServers-administrators.md)
 
 
 ## Microsoft.DBforPostgreSQL
