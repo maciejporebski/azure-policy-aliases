@@ -83,6 +83,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
 - [Microsoft.App/managedenvironments/daprcomponents](aliases/Microsoft.App/managedenvironments-daprcomponents.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
+- [Microsoft.App/containerapps/sourcecontrols](aliases/Microsoft.App/containerapps-sourcecontrols.md)
 
 
 ## Microsoft.AppConfiguration
@@ -1245,6 +1246,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Security/complianceResults](aliases/Microsoft.Security/complianceResults.md)
 - [Microsoft.Security/policies](aliases/Microsoft.Security/policies.md)
 - [Microsoft.Security/assessments](aliases/Microsoft.Security/assessments.md)
+- [Microsoft.Security/governanceRules](aliases/Microsoft.Security/governanceRules.md)
+- [Microsoft.Security/assessments/governanceAssignments](aliases/Microsoft.Security/assessments-governanceAssignments.md)
 - [Microsoft.Security/assessmentMetadata](aliases/Microsoft.Security/assessmentMetadata.md)
 - [Microsoft.Security/locations/jitNetworkAccessPolicies](aliases/Microsoft.Security/locations-jitNetworkAccessPolicies.md)
 - [Microsoft.Security/locations/alerts](aliases/Microsoft.Security/locations-alerts.md)
@@ -1552,6 +1555,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/staticSites/userProvidedFunctionApps](aliases/Microsoft.Web/staticSites-userProvidedFunctionApps.md)
 - [Microsoft.Web/staticSites/linkedBackends](aliases/Microsoft.Web/staticSites-linkedBackends.md)
 - [Microsoft.Web/staticSites/builds/linkedBackends](aliases/Microsoft.Web/staticSites-builds-linkedBackends.md)
+- [Microsoft.Web/staticSites/databaseConnections](aliases/Microsoft.Web/staticSites-databaseConnections.md)
+- [Microsoft.Web/staticSites/builds/databaseConnections](aliases/Microsoft.Web/staticSites-builds-databaseConnections.md)
 - [Microsoft.Web/staticSites/builds/userProvidedFunctionApps](aliases/Microsoft.Web/staticSites-builds-userProvidedFunctionApps.md)
 - [Microsoft.Web/sites/networkConfig](aliases/Microsoft.Web/sites-networkConfig.md)
 - [Microsoft.Web/sites/slots/networkConfig](aliases/Microsoft.Web/sites-slots-networkConfig.md)

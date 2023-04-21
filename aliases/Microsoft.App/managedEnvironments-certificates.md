@@ -12,4 +12,6 @@
 | `properties.thumbprint` | `Microsoft.App/managedEnvironments/certificates/thumbprint` |
 | `properties.valid` | `Microsoft.App/managedEnvironments/certificates/valid` |
 | `properties.publicKeyHash` | `Microsoft.App/managedEnvironments/certificates/publicKeyHash` |
+| `properties.subjectAlternativeNames` | `Microsoft.App/managedEnvironments/certificates/subjectAlternativeNames` |
+| `properties.subjectAlternativeNames[*]` | `Microsoft.App/managedEnvironments/certificates/subjectAlternativeNames[*]` |
 

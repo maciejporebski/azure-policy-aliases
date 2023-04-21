@@ -530,4 +530,7 @@
 | `properties.httpSettings.forwardProxy.convention` | `Microsoft.Web/sites/slots/config/httpSettings.forwardProxy.convention` |
 | `properties.httpSettings.forwardProxy.customHostHeaderName` | `Microsoft.Web/sites/slots/config/httpSettings.forwardProxy.customHostHeaderName` |
 | `properties.httpSettings.forwardProxy.customProtoHeaderName` | `Microsoft.Web/sites/slots/config/httpSettings.forwardProxy.customProtoHeaderName` |
+| `properties.ipSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/slots/config/ipSecurityRestrictionsDefaultAction` |
+| `properties.scmIpSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/slots/config/scmIpSecurityRestrictionsDefaultAction` |
+| `properties.elasticWebAppScaleLimit` | `Microsoft.Web/sites/slots/config/elasticWebAppScaleLimit` |
 

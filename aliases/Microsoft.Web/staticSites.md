@@ -170,4 +170,15 @@
 | `properties.linkedBackends[*].createdOn` | `Microsoft.Web/staticSites/linkedBackends[*].createdOn` |
 | `properties.linkedBackends[*].provisioningState` | `Microsoft.Web/staticSites/linkedBackends[*].provisioningState` |
 | `properties.publicNetworkAccess` | `Microsoft.Web/staticSites/publicNetworkAccess` |
+| `properties.databaseConnections` | `Microsoft.Web/staticSites/databaseConnections` |
+| `properties.databaseConnections[*]` | `Microsoft.Web/staticSites/databaseConnections[*]` |
+| `properties.databaseConnections[*].resourceId` | `Microsoft.Web/staticSites/databaseConnections[*].resourceId` |
+| `properties.databaseConnections[*].connectionIdentity` | `Microsoft.Web/staticSites/databaseConnections[*].connectionIdentity` |
+| `properties.databaseConnections[*].region` | `Microsoft.Web/staticSites/databaseConnections[*].region` |
+| `properties.databaseConnections[*].configurationFiles` | `Microsoft.Web/staticSites/databaseConnections[*].configurationFiles` |
+| `properties.databaseConnections[*].configurationFiles[*]` | `Microsoft.Web/staticSites/databaseConnections[*].configurationFiles[*]` |
+| `properties.databaseConnections[*].configurationFiles[*].fileName` | `Microsoft.Web/staticSites/databaseConnections[*].configurationFiles[*].fileName` |
+| `properties.databaseConnections[*].configurationFiles[*].contents` | `Microsoft.Web/staticSites/databaseConnections[*].configurationFiles[*].contents` |
+| `properties.databaseConnections[*].configurationFiles[*].type` | `Microsoft.Web/staticSites/databaseConnections[*].configurationFiles[*].type` |
+| `properties.databaseConnections[*].name` | `Microsoft.Web/staticSites/databaseConnections[*].name` |
 

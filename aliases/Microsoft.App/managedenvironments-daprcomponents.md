@@ -17,4 +17,7 @@
 | `properties.metadata[*].secretRef` | `Microsoft.App/managedEnvironments/daprComponents/metadata[*].secretRef` |
 | `properties.scopes` | `Microsoft.App/managedEnvironments/daprComponents/scopes` |
 | `properties.scopes[*]` | `Microsoft.App/managedEnvironments/daprComponents/scopes[*]` |
+| `properties.secretStoreComponent` | `Microsoft.App/managedEnvironments/daprComponents/secretStoreComponent` |
+| `properties.secrets[*].identity` | `Microsoft.App/managedEnvironments/daprComponents/secrets[*].identity` |
+| `properties.secrets[*].keyVaultUrl` | `Microsoft.App/managedEnvironments/daprComponents/secrets[*].keyVaultUrl` |
 

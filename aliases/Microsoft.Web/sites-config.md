@@ -566,4 +566,7 @@
 | `properties.httpSettings.forwardProxy.convention` | `Microsoft.Web/sites/config/httpSettings.forwardProxy.convention` |
 | `properties.httpSettings.forwardProxy.customHostHeaderName` | `Microsoft.Web/sites/config/httpSettings.forwardProxy.customHostHeaderName` |
 | `properties.httpSettings.forwardProxy.customProtoHeaderName` | `Microsoft.Web/sites/config/httpSettings.forwardProxy.customProtoHeaderName` |
+| `properties.ipSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/config/ipSecurityRestrictionsDefaultAction` |
+| `properties.scmIpSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/config/scmIpSecurityRestrictionsDefaultAction` |
+| `properties.elasticWebAppScaleLimit` | `Microsoft.Web/sites/config/elasticWebAppScaleLimit` |
 
