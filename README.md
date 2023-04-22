@@ -1102,6 +1102,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections](aliases/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections.md)
 - [Microsoft.Network/networkSecurityPerimeters/links](aliases/Microsoft.Network/networkSecurityPerimeters-links.md)
 - [Microsoft.Network/networkSecurityPerimeters/profiles/accessRules](aliases/Microsoft.Network/networkSecurityPerimeters-profiles-accessRules.md)
+- [Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections-rules.md)
+- [Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections-rules.md)
 
 
 ## Microsoft.NotificationHubs
