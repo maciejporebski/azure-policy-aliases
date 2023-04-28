@@ -49,4 +49,6 @@
 | `properties.reportedProperties.supportedCapabilities[*]` | `Microsoft.AzureStackHCI/clusters/reportedProperties.supportedCapabilities[*]` |
 | `properties.resourceProviderObjectId` | `Microsoft.AzureStackHCI/clusters/resourceProviderObjectId` |
 | `properties.reportedProperties.nodes[*].lastLicensingTimestamp` | `Microsoft.AzureStackHCI/clusters/reportedProperties.nodes[*].lastLicensingTimestamp` |
+| `properties.reportedProperties.clusterType` | `Microsoft.AzureStackHCI/clusters/reportedProperties.clusterType` |
+| `properties.reportedProperties.manufacturer` | `Microsoft.AzureStackHCI/clusters/reportedProperties.manufacturer` |
 
