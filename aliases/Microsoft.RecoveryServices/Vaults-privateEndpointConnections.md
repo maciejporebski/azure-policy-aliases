@@ -9,4 +9,7 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
+| `properties.groupIds` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/groupIds[*]` |
+| `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 
