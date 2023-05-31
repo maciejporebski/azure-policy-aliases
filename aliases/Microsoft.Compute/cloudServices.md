@@ -60,4 +60,6 @@
 | `properties.allowModelOverride` | `Microsoft.Compute/cloudServices/allowModelOverride` |
 | `properties.networkProfile.loadBalancerConfigurations[*].id` | `Microsoft.Compute/cloudServices/networkProfile.loadBalancerConfigurations[*].id` |
 | `properties.networkProfile.slotType` | `Microsoft.Compute/cloudServices/networkProfile.slotType` |
+| `zones` | `Microsoft.Compute/cloudServices/zones` |
+| `zones[*]` | `Microsoft.Compute/cloudServices/zones[*]` |
 

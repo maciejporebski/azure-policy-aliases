@@ -26,4 +26,11 @@
 | `properties.authenticationMethodLdapProperties.serverCertificates` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/authenticationMethodLdapProperties.serverCertificates` |
 | `properties.authenticationMethodLdapProperties.serverCertificates[*]` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/authenticationMethodLdapProperties.serverCertificates[*]` |
 | `properties.authenticationMethodLdapProperties.serverCertificates[*].pem` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/authenticationMethodLdapProperties.serverCertificates[*].pem` |
+| `properties.authenticationMethodLdapProperties.connectionTimeoutInMs` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/authenticationMethodLdapProperties.connectionTimeoutInMs` |
+| `properties.deallocated` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/deallocated` |
+| `properties.provisionError` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError` |
+| `properties.provisionError.code` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.code` |
+| `properties.provisionError.message` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.message` |
+| `properties.provisionError.target` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.target` |
+| `properties.provisionError.additionalErrorInfo` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.additionalErrorInfo` |
 

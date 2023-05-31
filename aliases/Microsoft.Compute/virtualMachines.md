@@ -253,4 +253,13 @@
 | `properties.osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.enableVMAgentPlatformUpdates` |
 | `properties.osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.enableVMAgentPlatformUpdates` |
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.disableTcpStateTracking` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].disableTcpStateTracking` |
+| `properties.storageProfile.osDisk.managedDisk.securityProfile.diskEncryptionSet` | `Microsoft.Compute/virtualMachines/storageProfile.osDisk.managedDisk.securityProfile.diskEncryptionSet` |
+| `properties.storageProfile.osDisk.managedDisk.securityProfile.diskEncryptionSet.id` | `Microsoft.Compute/virtualMachines/storageProfile.osDisk.managedDisk.securityProfile.diskEncryptionSet.id` |
+| `properties.storageProfile.dataDisks[*].managedDisk.securityProfile.diskEncryptionSet` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].managedDisk.securityProfile.diskEncryptionSet` |
+| `properties.storageProfile.dataDisks[*].managedDisk.securityProfile.diskEncryptionSet.id` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].managedDisk.securityProfile.diskEncryptionSet.id` |
+| `properties.scheduledEventsProfile.osImageNotificationProfile` | `Microsoft.Compute/virtualMachines/scheduledEventsProfile.osImageNotificationProfile` |
+| `properties.scheduledEventsProfile.osImageNotificationProfile.notBeforeTimeout` | `Microsoft.Compute/virtualMachines/scheduledEventsProfile.osImageNotificationProfile.notBeforeTimeout` |
+| `properties.scheduledEventsProfile.osImageNotificationProfile.enable` | `Microsoft.Compute/virtualMachines/scheduledEventsProfile.osImageNotificationProfile.enable` |
+| `properties.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` | `Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` |
+| `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` |
 

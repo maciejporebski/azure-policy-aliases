@@ -32,4 +32,6 @@
 | `properties.protectedSettingsFromKeyVault.secretUrl` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.secretUrl` |
 | `properties.protectedSettingsFromKeyVault.sourceVault` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault` |
 | `properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault.id` |
+| `properties.provisionAfterExtensions` | `Microsoft.Compute/virtualMachines/extensions/provisionAfterExtensions` |
+| `properties.provisionAfterExtensions[*]` | `Microsoft.Compute/virtualMachines/extensions/provisionAfterExtensions[*]` |
 

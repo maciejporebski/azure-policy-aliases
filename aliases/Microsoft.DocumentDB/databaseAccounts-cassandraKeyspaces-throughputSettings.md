@@ -45,4 +45,6 @@
 | `properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled` |
 | `properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` |
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
+| `properties.resource.instantMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/resource.instantMaximumThroughput` |
+| `properties.resource.softAllowedMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/resource.softAllowedMaximumThroughput` |
 

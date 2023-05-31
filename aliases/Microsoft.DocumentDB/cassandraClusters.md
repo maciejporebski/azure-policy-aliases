@@ -30,4 +30,9 @@
 | `properties.seedNodes[*].ipAddress` | `Microsoft.DocumentDB/cassandraClusters/seedNodes[*].ipAddress` |
 | `properties.deallocated` | `Microsoft.DocumentDB/cassandraClusters/deallocated` |
 | `properties.cassandraAuditLoggingEnabled` | `Microsoft.DocumentDB/cassandraClusters/cassandraAuditLoggingEnabled` |
+| `properties.provisionError` | `Microsoft.DocumentDB/cassandraClusters/provisionError` |
+| `properties.provisionError.code` | `Microsoft.DocumentDB/cassandraClusters/provisionError.code` |
+| `properties.provisionError.message` | `Microsoft.DocumentDB/cassandraClusters/provisionError.message` |
+| `properties.provisionError.target` | `Microsoft.DocumentDB/cassandraClusters/provisionError.target` |
+| `properties.provisionError.additionalErrorInfo` | `Microsoft.DocumentDB/cassandraClusters/provisionError.additionalErrorInfo` |
 

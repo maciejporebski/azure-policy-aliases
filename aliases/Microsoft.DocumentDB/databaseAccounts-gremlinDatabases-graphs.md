@@ -48,4 +48,8 @@
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/options.autoscaleSettings` |
 | `properties.resource.partitionKey.systemKey` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.partitionKey.systemKey` |
 | `properties.resource.analyticalStorageTtl` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.analyticalStorageTtl` |
+| `properties.resource.restoreParameters` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.restoreParameters` |
+| `properties.resource.restoreParameters.restoreSource` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.restoreParameters.restoreSource` |
+| `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.restoreParameters.restoreTimestampInUtc` |
+| `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.createMode` |
 

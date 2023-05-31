@@ -45,4 +45,6 @@
 | `properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.isEnabled` |
 | `properties.resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.autoscaleSettings.autoUpgradePolicy.throughputPolicy.incrementPercent` |
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
+| `properties.resource.instantMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.instantMaximumThroughput` |
+| `properties.resource.softAllowedMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.softAllowedMaximumThroughput` |
 

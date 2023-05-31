@@ -8,4 +8,8 @@
 | `properties.options` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/options` |
 | `properties.options.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/options.autoscaleSettings.maxThroughput` |
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/options.autoscaleSettings` |
+| `properties.resource.restoreParameters` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters` |
+| `properties.resource.restoreParameters.restoreSource` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters.restoreSource` |
+| `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters.restoreTimestampInUtc` |
+| `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.createMode` |
 

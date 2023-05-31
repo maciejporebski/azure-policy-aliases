@@ -21,4 +21,14 @@
 | `properties.outputBlobUri` | `Microsoft.Compute/virtualMachines/runCommands/outputBlobUri` |
 | `properties.errorBlobUri` | `Microsoft.Compute/virtualMachines/runCommands/errorBlobUri` |
 | `properties.provisioningState` | `Microsoft.Compute/virtualMachines/runCommands/provisioningState` |
+| `properties.source.scriptUriManagedIdentity` | `Microsoft.Compute/virtualMachines/runCommands/source.scriptUriManagedIdentity` |
+| `properties.source.scriptUriManagedIdentity.clientId` | `Microsoft.Compute/virtualMachines/runCommands/source.scriptUriManagedIdentity.clientId` |
+| `properties.source.scriptUriManagedIdentity.objectId` | `Microsoft.Compute/virtualMachines/runCommands/source.scriptUriManagedIdentity.objectId` |
+| `properties.outputBlobManagedIdentity` | `Microsoft.Compute/virtualMachines/runCommands/outputBlobManagedIdentity` |
+| `properties.outputBlobManagedIdentity.clientId` | `Microsoft.Compute/virtualMachines/runCommands/outputBlobManagedIdentity.clientId` |
+| `properties.outputBlobManagedIdentity.objectId` | `Microsoft.Compute/virtualMachines/runCommands/outputBlobManagedIdentity.objectId` |
+| `properties.errorBlobManagedIdentity` | `Microsoft.Compute/virtualMachines/runCommands/errorBlobManagedIdentity` |
+| `properties.errorBlobManagedIdentity.clientId` | `Microsoft.Compute/virtualMachines/runCommands/errorBlobManagedIdentity.clientId` |
+| `properties.errorBlobManagedIdentity.objectId` | `Microsoft.Compute/virtualMachines/runCommands/errorBlobManagedIdentity.objectId` |
+| `properties.treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachines/runCommands/treatFailureAsDeploymentFailure` |
 

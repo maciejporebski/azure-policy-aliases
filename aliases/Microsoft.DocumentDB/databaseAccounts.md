@@ -132,4 +132,8 @@
 | `properties.keysMetadata.primaryReadonlyMasterKey.generationTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.primaryReadonlyMasterKey.generationTime` |
 | `properties.keysMetadata.secondaryReadonlyMasterKey` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryReadonlyMasterKey` |
 | `properties.keysMetadata.secondaryReadonlyMasterKey.generationTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryReadonlyMasterKey.generationTime` |
+| `properties.enablePartitionMerge` | `Microsoft.DocumentDB/databaseAccounts/enablePartitionMerge` |
+| `properties.minimalTlsVersion` | `Microsoft.DocumentDB/databaseAccounts/minimalTlsVersion` |
+| `properties.restoreParameters.sourceBackupLocation` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.sourceBackupLocation` |
+| `properties.enableBurstCapacity` | `Microsoft.DocumentDB/databaseAccounts/enableBurstCapacity` |
 

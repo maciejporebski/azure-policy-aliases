@@ -206,7 +206,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AzureStackHCI/clusters](aliases/Microsoft.AzureStackHCI/clusters.md)
 - [Microsoft.AzureStackHCI/clusters/arcSettings](aliases/Microsoft.AzureStackHCI/clusters-arcSettings.md)
 - [Microsoft.AzureStackHCI/clusters/arcSettings/extensions](aliases/Microsoft.AzureStackHCI/clusters-arcSettings-extensions.md)
-- [Microsoft.AzureStackHCI/virtualmachines/extensions](aliases/Microsoft.AzureStackHCI/virtualmachines-extensions.md)
+- [Microsoft.AzureStackHCI/virtualMachines/extensions](aliases/Microsoft.AzureStackHCI/virtualMachines-extensions.md)
 - [Microsoft.AzureStackHCI/marketplaceGalleryImages](aliases/Microsoft.AzureStackHCI/marketplaceGalleryImages.md)
 - [Microsoft.AzureStackHCI/storageContainers](aliases/Microsoft.AzureStackHCI/storageContainers.md)
 
@@ -638,6 +638,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-views-throughputSettings.md)
 - [Microsoft.DocumentDB/databaseAccounts/graphs](aliases/Microsoft.DocumentDB/databaseAccounts-graphs.md)
 - [Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys](aliases/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-clientEncryptionKeys.md)
+- [Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-mongodbRoleDefinitions.md)
+- [Microsoft.DocumentDB/databaseAccounts/mongodbUserDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-mongodbUserDefinitions.md)
 
 
 ## Microsoft.EdgeOrder

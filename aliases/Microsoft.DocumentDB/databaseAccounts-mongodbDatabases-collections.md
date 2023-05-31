@@ -18,4 +18,8 @@
 | `properties.resource.analyticalStorageTtl` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.analyticalStorageTtl` |
 | `properties.options.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/options.autoscaleSettings.maxThroughput` |
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/options.autoscaleSettings` |
+| `properties.resource.restoreParameters` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.restoreParameters` |
+| `properties.resource.restoreParameters.restoreSource` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.restoreParameters.restoreSource` |
+| `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.restoreParameters.restoreTimestampInUtc` |
+| `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/resource.createMode` |
 

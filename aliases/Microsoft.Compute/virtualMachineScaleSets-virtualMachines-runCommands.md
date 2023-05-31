@@ -21,4 +21,14 @@
 | `properties.outputBlobUri` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/outputBlobUri` |
 | `properties.errorBlobUri` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/errorBlobUri` |
 | `properties.provisioningState` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/provisioningState` |
+| `properties.source.scriptUriManagedIdentity` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.scriptUriManagedIdentity` |
+| `properties.source.scriptUriManagedIdentity.clientId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.scriptUriManagedIdentity.clientId` |
+| `properties.source.scriptUriManagedIdentity.objectId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.scriptUriManagedIdentity.objectId` |
+| `properties.outputBlobManagedIdentity` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/outputBlobManagedIdentity` |
+| `properties.outputBlobManagedIdentity.clientId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/outputBlobManagedIdentity.clientId` |
+| `properties.outputBlobManagedIdentity.objectId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/outputBlobManagedIdentity.objectId` |
+| `properties.errorBlobManagedIdentity` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/errorBlobManagedIdentity` |
+| `properties.errorBlobManagedIdentity.clientId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/errorBlobManagedIdentity.clientId` |
+| `properties.errorBlobManagedIdentity.objectId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/errorBlobManagedIdentity.objectId` |
+| `properties.treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/treatFailureAsDeploymentFailure` |
 

@@ -56,4 +56,8 @@
 | `properties.resource.clientEncryptionPolicy.includedPaths[*].encryptionType` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths[*].encryptionType` |
 | `properties.resource.clientEncryptionPolicy.includedPaths[*].encryptionAlgorithm` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.includedPaths[*].encryptionAlgorithm` |
 | `properties.resource.clientEncryptionPolicy.policyFormatVersion` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.clientEncryptionPolicy.policyFormatVersion` |
+| `properties.resource.restoreParameters` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.restoreParameters` |
+| `properties.resource.restoreParameters.restoreSource` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.restoreParameters.restoreSource` |
+| `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.restoreParameters.restoreTimestampInUtc` |
+| `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.createMode` |
 
