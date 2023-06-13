@@ -29,4 +29,14 @@
 | `properties.last.quota.unit` | `Microsoft.CognitiveServices/accounts/commitmentPlans/last.quota.unit` |
 | `properties.last.startDate` | `Microsoft.CognitiveServices/accounts/commitmentPlans/last.startDate` |
 | `properties.last.endDate` | `Microsoft.CognitiveServices/accounts/commitmentPlans/last.endDate` |
+| `sku` | `Microsoft.CognitiveServices/accounts/commitmentPlans/sku` |
+| `sku.name` | `Microsoft.CognitiveServices/accounts/commitmentPlans/sku.name` |
+| `sku.tier` | `Microsoft.CognitiveServices/accounts/commitmentPlans/sku.tier` |
+| `sku.size` | `Microsoft.CognitiveServices/accounts/commitmentPlans/sku.size` |
+| `sku.family` | `Microsoft.CognitiveServices/accounts/commitmentPlans/sku.family` |
+| `sku.capacity` | `Microsoft.CognitiveServices/accounts/commitmentPlans/sku.capacity` |
+| `properties.provisioningState` | `Microsoft.CognitiveServices/accounts/commitmentPlans/provisioningState` |
+| `properties.commitmentPlanGuid` | `Microsoft.CognitiveServices/accounts/commitmentPlans/commitmentPlanGuid` |
+| `properties.provisioningIssues` | `Microsoft.CognitiveServices/accounts/commitmentPlans/provisioningIssues` |
+| `properties.provisioningIssues[*]` | `Microsoft.CognitiveServices/accounts/commitmentPlans/provisioningIssues[*]` |
 

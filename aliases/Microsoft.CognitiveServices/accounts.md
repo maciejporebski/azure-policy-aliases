@@ -117,4 +117,19 @@
 | `properties.dynamicThrottlingEnabled` | `Microsoft.CognitiveServices/accounts/dynamicThrottlingEnabled` |
 | `properties.deletionDate` | `Microsoft.CognitiveServices/accounts/deletionDate` |
 | `properties.scheduledPurgeDate` | `Microsoft.CognitiveServices/accounts/scheduledPurgeDate` |
+| `properties.locations` | `Microsoft.CognitiveServices/accounts/locations` |
+| `properties.locations.routingMethod` | `Microsoft.CognitiveServices/accounts/locations.routingMethod` |
+| `properties.locations.regions` | `Microsoft.CognitiveServices/accounts/locations.regions` |
+| `properties.locations.regions[*]` | `Microsoft.CognitiveServices/accounts/locations.regions[*]` |
+| `properties.locations.regions[*].name` | `Microsoft.CognitiveServices/accounts/locations.regions[*].name` |
+| `properties.locations.regions[*].value` | `Microsoft.CognitiveServices/accounts/locations.regions[*].value` |
+| `properties.locations.regions[*].customsubdomain` | `Microsoft.CognitiveServices/accounts/locations.regions[*].customsubdomain` |
+| `properties.commitmentPlanAssociations` | `Microsoft.CognitiveServices/accounts/commitmentPlanAssociations` |
+| `properties.commitmentPlanAssociations[*]` | `Microsoft.CognitiveServices/accounts/commitmentPlanAssociations[*]` |
+| `properties.commitmentPlanAssociations[*].commitmentPlanId` | `Microsoft.CognitiveServices/accounts/commitmentPlanAssociations[*].commitmentPlanId` |
+| `properties.commitmentPlanAssociations[*].commitmentPlanLocation` | `Microsoft.CognitiveServices/accounts/commitmentPlanAssociations[*].commitmentPlanLocation` |
+| `properties.abusePenalty` | `Microsoft.CognitiveServices/accounts/abusePenalty` |
+| `properties.abusePenalty.action` | `Microsoft.CognitiveServices/accounts/abusePenalty.action` |
+| `properties.abusePenalty.rateLimitPercentage` | `Microsoft.CognitiveServices/accounts/abusePenalty.rateLimitPercentage` |
+| `properties.abusePenalty.expiration` | `Microsoft.CognitiveServices/accounts/abusePenalty.expiration` |
 

@@ -72,4 +72,5 @@
 | `properties.restoreSettings` | `Microsoft.RecoveryServices/vaults/restoreSettings` |
 | `properties.restoreSettings.crossSubscriptionRestoreSettings` | `Microsoft.RecoveryServices/vaults/restoreSettings.crossSubscriptionRestoreSettings` |
 | `properties.restoreSettings.crossSubscriptionRestoreSettings.crossSubscriptionRestoreState` | `Microsoft.RecoveryServices/vaults/restoreSettings.crossSubscriptionRestoreSettings.crossSubscriptionRestoreState` |
+| `properties.secureScore` | `Microsoft.RecoveryServices/vaults/secureScore` |
 
