@@ -32,4 +32,23 @@
 | `properties.activeDirectoryInformation` | `Microsoft.AzureArcData/sqlManagedInstances/activeDirectoryInformation` |
 | `properties.activeDirectoryInformation.keytabInformation` | `Microsoft.AzureArcData/sqlManagedInstances/activeDirectoryInformation.keytabInformation` |
 | `properties.activeDirectoryInformation.keytabInformation.keytab` | `Microsoft.AzureArcData/sqlManagedInstances/activeDirectoryInformation.keytabInformation.keytab` |
+| `properties.k8sRaw.spec.security` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security` |
+| `properties.k8sRaw.spec.security.adminLoginSecret` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.adminLoginSecret` |
+| `properties.k8sRaw.spec.security.serviceCertificateSecret` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.serviceCertificateSecret` |
+| `properties.k8sRaw.spec.security.activeDirectory` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory` |
+| `properties.k8sRaw.spec.security.activeDirectory.connector` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory.connector` |
+| `properties.k8sRaw.spec.security.activeDirectory.connector.name` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory.connector.name` |
+| `properties.k8sRaw.spec.security.activeDirectory.connector.namespace` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory.connector.namespace` |
+| `properties.k8sRaw.spec.security.activeDirectory.accountName` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory.accountName` |
+| `properties.k8sRaw.spec.security.activeDirectory.keytabSecret` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory.keytabSecret` |
+| `properties.k8sRaw.spec.security.activeDirectory.encryptionTypes` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory.encryptionTypes` |
+| `properties.k8sRaw.spec.security.activeDirectory.encryptionTypes[*]` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.activeDirectory.encryptionTypes[*]` |
+| `properties.k8sRaw.spec.security.transparentDataEncryption` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption` |
+| `properties.k8sRaw.spec.security.transparentDataEncryption.mode` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption.mode` |
+| `properties.k8sRaw.spec.security.transparentDataEncryption.protectorSecret` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption.protectorSecret` |
+| `properties.k8sRaw.spec.settings` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings` |
+| `properties.k8sRaw.spec.settings.network` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings.network` |
+| `properties.k8sRaw.spec.settings.network.forceencryption` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings.network.forceencryption` |
+| `properties.k8sRaw.spec.settings.network.tlsciphers` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings.network.tlsciphers` |
+| `properties.k8sRaw.spec.settings.network.tlsprotocols` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings.network.tlsprotocols` |
 

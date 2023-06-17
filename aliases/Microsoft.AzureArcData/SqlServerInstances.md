@@ -20,4 +20,5 @@
 | `properties.azureDefenderStatusLastUpdated` | `Microsoft.AzureArcData/sqlServerInstances/azureDefenderStatusLastUpdated` |
 | `properties.azureDefenderStatus` | `Microsoft.AzureArcData/sqlServerInstances/azureDefenderStatus` |
 | `properties.hostType` | `Microsoft.AzureArcData/sqlServerInstances/hostType` |
+| `properties.cores` | `Microsoft.AzureArcData/sqlServerInstances/cores` |
 
