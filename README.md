@@ -273,11 +273,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Cdn/profiles/securitypolicies](aliases/Microsoft.Cdn/profiles-securitypolicies.md)
 
 
-## Microsoft.Codespaces
-
-- [Microsoft.Codespaces/plans](aliases/Microsoft.Codespaces/plans.md)
-
-
 ## Microsoft.CognitiveServices
 
 - [Microsoft.CognitiveServices/accounts](aliases/Microsoft.CognitiveServices/accounts.md)
