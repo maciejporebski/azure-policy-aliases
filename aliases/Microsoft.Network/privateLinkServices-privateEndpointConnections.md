@@ -86,4 +86,5 @@
 | `properties.privateEndpoint.properties.ipConfigurations[*].type` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.ipConfigurations[*].type` |
 | `properties.privateEndpoint.properties.ipConfigurations[*].etag` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.ipConfigurations[*].etag` |
 | `properties.privateEndpoint.properties.customNetworkInterfaceName` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.customNetworkInterfaceName` |
+| `properties.privateEndpointLocation` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpointLocation` |
 

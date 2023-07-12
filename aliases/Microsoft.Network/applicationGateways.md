@@ -1881,4 +1881,5 @@
 | `properties.routingRules[*].etag` | `Microsoft.Network/applicationGateways/routingRules[*].etag` |
 | `properties.routingRules[*].type` | `Microsoft.Network/applicationGateways/routingRules[*].type` |
 | `properties.sslProfiles[*].properties.clientAuthConfiguration.verifyClientRevocation` | `Microsoft.Network/applicationGateways/sslProfiles[*].clientAuthConfiguration.verifyClientRevocation` |
+| `properties.defaultPredefinedSslPolicy` | `Microsoft.Network/applicationGateways/defaultPredefinedSslPolicy` |
 

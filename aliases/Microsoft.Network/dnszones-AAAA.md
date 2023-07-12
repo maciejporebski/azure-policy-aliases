@@ -49,4 +49,25 @@
 | `properties.caaRecords[*].value` | `Microsoft.Network/dnszones/AAAA/caaRecords[*].value` |
 | `properties.TXTRecords[*].value` | `Microsoft.Network/dnszones/AAAA/TXTRecords[*].value` |
 | `properties.TXTRecords[*].value[*]` | `Microsoft.Network/dnszones/AAAA/TXTRecords[*].value[*]` |
+| `properties.DSRecords` | `Microsoft.Network/dnszones/AAAA/DSRecords` |
+| `properties.DSRecords[*]` | `Microsoft.Network/dnszones/AAAA/DSRecords[*]` |
+| `properties.DSRecords[*].keyTag` | `Microsoft.Network/dnszones/AAAA/DSRecords[*].keyTag` |
+| `properties.DSRecords[*].algorithm` | `Microsoft.Network/dnszones/AAAA/DSRecords[*].algorithm` |
+| `properties.DSRecords[*].digest` | `Microsoft.Network/dnszones/AAAA/DSRecords[*].digest` |
+| `properties.DSRecords[*].digest.algorithmType` | `Microsoft.Network/dnszones/AAAA/DSRecords[*].digest.algorithmType` |
+| `properties.DSRecords[*].digest.value` | `Microsoft.Network/dnszones/AAAA/DSRecords[*].digest.value` |
+| `properties.TLSARecords` | `Microsoft.Network/dnszones/AAAA/TLSARecords` |
+| `properties.TLSARecords[*]` | `Microsoft.Network/dnszones/AAAA/TLSARecords[*]` |
+| `properties.TLSARecords[*].usage` | `Microsoft.Network/dnszones/AAAA/TLSARecords[*].usage` |
+| `properties.TLSARecords[*].selector` | `Microsoft.Network/dnszones/AAAA/TLSARecords[*].selector` |
+| `properties.TLSARecords[*].matchingType` | `Microsoft.Network/dnszones/AAAA/TLSARecords[*].matchingType` |
+| `properties.TLSARecords[*].certAssociationData` | `Microsoft.Network/dnszones/AAAA/TLSARecords[*].certAssociationData` |
+| `properties.NAPTRRecords` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords` |
+| `properties.NAPTRRecords[*]` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords[*]` |
+| `properties.NAPTRRecords[*].order` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].order` |
+| `properties.NAPTRRecords[*].preference` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].preference` |
+| `properties.NAPTRRecords[*].flags` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].flags` |
+| `properties.NAPTRRecords[*].services` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].services` |
+| `properties.NAPTRRecords[*].regexp` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].regexp` |
+| `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnszones/AAAA/NAPTRRecords[*].replacement` |
 

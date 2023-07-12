@@ -790,4 +790,5 @@
 | `properties.networkInterfaces[*].properties.auxiliaryMode` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].auxiliaryMode` |
 | `properties.flushConnection` | `Microsoft.Network/networkSecurityGroups/flushConnection` |
 | `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].disableTcpStateTracking` |
+| `properties.networkInterfaces[*].properties.auxiliarySku` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].auxiliarySku` |
 

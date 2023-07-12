@@ -1789,4 +1789,23 @@
 | `properties.policySettings.customBlockResponseStatusCode` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode` |
 | `properties.policySettings.customBlockResponseBody` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.customBlockResponseBody` |
 | `properties.customRules[*].state` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].state` |
+| `properties.policySettings.requestBodyInspectLimitInKB` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.requestBodyInspectLimitInKB` |
+| `properties.policySettings.requestBodyEnforcement` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.requestBodyEnforcement` |
+| `properties.policySettings.fileUploadEnforcement` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.fileUploadEnforcement` |
+| `properties.policySettings.logScrubbing` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing` |
+| `properties.policySettings.logScrubbing.state` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing.state` |
+| `properties.policySettings.logScrubbing.scrubbingRules` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*]` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].matchVariable` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].matchVariable` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].selectorMatchOperator` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].selectorMatchOperator` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].selector` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].selector` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].state` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].state` |
+| `properties.customRules[*].rateLimitDuration` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].rateLimitDuration` |
+| `properties.customRules[*].rateLimitThreshold` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].rateLimitThreshold` |
+| `properties.customRules[*].groupByUserSession` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].groupByUserSession` |
+| `properties.customRules[*].groupByUserSession[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].groupByUserSession[*]` |
+| `properties.customRules[*].groupByUserSession[*].groupByVariables` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].groupByUserSession[*].groupByVariables` |
+| `properties.customRules[*].groupByUserSession[*].groupByVariables[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].groupByUserSession[*].groupByVariables[*]` |
+| `properties.customRules[*].groupByUserSession[*].groupByVariables[*].variableName` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].groupByUserSession[*].groupByVariables[*].variableName` |
+| `properties.applicationGateways[*].properties.defaultPredefinedSslPolicy` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].defaultPredefinedSslPolicy` |
 

@@ -317,4 +317,6 @@
 | `properties.virtualNetworkGateway2.properties.allowVirtualWanTraffic` | `Microsoft.Network/connections/virtualNetworkGateway2.allowVirtualWanTraffic` |
 | `properties.virtualNetworkGateway2.properties.allowRemoteVnetTraffic` | `Microsoft.Network/connections/virtualNetworkGateway2.allowRemoteVnetTraffic` |
 | `properties.enablePrivateLinkFastPath` | `Microsoft.Network/connections/enablePrivateLinkFastPath` |
+| `properties.virtualNetworkGateway1.properties.adminState` | `Microsoft.Network/connections/virtualNetworkGateway1.adminState` |
+| `properties.virtualNetworkGateway2.properties.adminState` | `Microsoft.Network/connections/virtualNetworkGateway2.adminState` |
 

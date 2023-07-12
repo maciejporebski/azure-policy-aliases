@@ -44,4 +44,12 @@
 | `properties.partnerManagedResource.id` | `Microsoft.Network/networkVirtualAppliances/partnerManagedResource.id` |
 | `properties.partnerManagedResource.internalLoadBalancerId` | `Microsoft.Network/networkVirtualAppliances/partnerManagedResource.internalLoadBalancerId` |
 | `properties.partnerManagedResource.standardLoadBalancerId` | `Microsoft.Network/networkVirtualAppliances/partnerManagedResource.standardLoadBalancerId` |
+| `properties.virtualApplianceNics[*].instanceName` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceNics[*].instanceName` |
+| `properties.additionalNics` | `Microsoft.Network/networkVirtualAppliances/additionalNics` |
+| `properties.additionalNics[*]` | `Microsoft.Network/networkVirtualAppliances/additionalNics[*]` |
+| `properties.additionalNics[*].name` | `Microsoft.Network/networkVirtualAppliances/additionalNics[*].name` |
+| `properties.additionalNics[*].hasPublicIp` | `Microsoft.Network/networkVirtualAppliances/additionalNics[*].hasPublicIp` |
+| `properties.virtualApplianceConnections` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceConnections` |
+| `properties.virtualApplianceConnections[*]` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceConnections[*]` |
+| `properties.virtualApplianceConnections[*].id` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceConnections[*].id` |
 

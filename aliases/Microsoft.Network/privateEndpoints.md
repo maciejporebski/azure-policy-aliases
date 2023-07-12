@@ -441,4 +441,5 @@
 | `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].vnetEncryptionSupported` |
 | `properties.networkInterfaces[*].properties.auxiliaryMode` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].auxiliaryMode` |
 | `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].disableTcpStateTracking` |
+| `properties.networkInterfaces[*].properties.auxiliarySku` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].auxiliarySku` |
 

@@ -18,4 +18,5 @@
 | `properties.appliesToGroups[*].groupConnectivity` | `Microsoft.Network/networkManagers/connectivityConfigurations/appliesToGroups[*].groupConnectivity` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/connectivityConfigurations/provisioningState` |
 | `properties.deleteExistingPeering` | `Microsoft.Network/networkManagers/connectivityConfigurations/deleteExistingPeering` |
+| `properties.resourceGuid` | `Microsoft.Network/networkManagers/connectivityConfigurations/resourceGuid` |
 

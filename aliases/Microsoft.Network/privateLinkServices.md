@@ -1367,4 +1367,6 @@
 | `properties.networkInterfaces[*].properties.vnetEncryptionSupported` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].vnetEncryptionSupported` |
 | `properties.networkInterfaces[*].properties.auxiliaryMode` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].auxiliaryMode` |
 | `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].disableTcpStateTracking` |
+| `properties.networkInterfaces[*].properties.auxiliarySku` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].auxiliarySku` |
+| `properties.privateEndpointConnections[*].properties.privateEndpointLocation` | `Microsoft.Network/privateLinkServices/privateEndpointConnections[*].privateEndpointLocation` |
 

@@ -544,4 +544,5 @@
 | `properties.publicIPAddress.properties.ddosSettings.protectionMode` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.ddosSettings.protectionMode` |
 | `properties.publicIPAddress.properties.ddosSettings.ddosProtectionPlan` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.ddosSettings.ddosProtectionPlan` |
 | `properties.publicIPAddress.properties.ddosSettings.ddosProtectionPlan.id` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.ddosSettings.ddosProtectionPlan.id` |
+| `properties.publicIPAddress.properties.dnsSettings.domainNameLabelScope` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.dnsSettings.domainNameLabelScope` |
 

@@ -566,4 +566,5 @@
 | `properties.auxiliaryMode` | `Microsoft.Network/networkInterfaces/auxiliaryMode` |
 | `properties.networkSecurityGroup.properties.flushConnection` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flushConnection` |
 | `properties.disableTcpStateTracking` | `Microsoft.Network/networkInterfaces/disableTcpStateTracking` |
+| `properties.auxiliarySku` | `Microsoft.Network/networkInterfaces/auxiliarySku` |
 

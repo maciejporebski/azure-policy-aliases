@@ -49,4 +49,25 @@
 | `properties.caaRecords[*].value` | `Microsoft.Network/dnszones/MX/caaRecords[*].value` |
 | `properties.TXTRecords[*].value` | `Microsoft.Network/dnszones/MX/TXTRecords[*].value` |
 | `properties.TXTRecords[*].value[*]` | `Microsoft.Network/dnszones/MX/TXTRecords[*].value[*]` |
+| `properties.DSRecords` | `Microsoft.Network/dnszones/MX/DSRecords` |
+| `properties.DSRecords[*]` | `Microsoft.Network/dnszones/MX/DSRecords[*]` |
+| `properties.DSRecords[*].keyTag` | `Microsoft.Network/dnszones/MX/DSRecords[*].keyTag` |
+| `properties.DSRecords[*].algorithm` | `Microsoft.Network/dnszones/MX/DSRecords[*].algorithm` |
+| `properties.DSRecords[*].digest` | `Microsoft.Network/dnszones/MX/DSRecords[*].digest` |
+| `properties.DSRecords[*].digest.algorithmType` | `Microsoft.Network/dnszones/MX/DSRecords[*].digest.algorithmType` |
+| `properties.DSRecords[*].digest.value` | `Microsoft.Network/dnszones/MX/DSRecords[*].digest.value` |
+| `properties.TLSARecords` | `Microsoft.Network/dnszones/MX/TLSARecords` |
+| `properties.TLSARecords[*]` | `Microsoft.Network/dnszones/MX/TLSARecords[*]` |
+| `properties.TLSARecords[*].usage` | `Microsoft.Network/dnszones/MX/TLSARecords[*].usage` |
+| `properties.TLSARecords[*].selector` | `Microsoft.Network/dnszones/MX/TLSARecords[*].selector` |
+| `properties.TLSARecords[*].matchingType` | `Microsoft.Network/dnszones/MX/TLSARecords[*].matchingType` |
+| `properties.TLSARecords[*].certAssociationData` | `Microsoft.Network/dnszones/MX/TLSARecords[*].certAssociationData` |
+| `properties.NAPTRRecords` | `Microsoft.Network/dnszones/MX/NAPTRRecords` |
+| `properties.NAPTRRecords[*]` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*]` |
+| `properties.NAPTRRecords[*].order` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*].order` |
+| `properties.NAPTRRecords[*].preference` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*].preference` |
+| `properties.NAPTRRecords[*].flags` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*].flags` |
+| `properties.NAPTRRecords[*].services` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*].services` |
+| `properties.NAPTRRecords[*].regexp` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*].regexp` |
+| `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*].replacement` |
 

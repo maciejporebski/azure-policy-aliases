@@ -435,4 +435,5 @@
 | `properties.ddosSettings.protectionMode` | `Microsoft.Network/publicIPAddresses/ddosSettings.protectionMode` |
 | `properties.ddosSettings.ddosProtectionPlan` | `Microsoft.Network/publicIPAddresses/ddosSettings.ddosProtectionPlan` |
 | `properties.ddosSettings.ddosProtectionPlan.id` | `Microsoft.Network/publicIPAddresses/ddosSettings.ddosProtectionPlan.id` |
+| `properties.dnsSettings.domainNameLabelScope` | `Microsoft.Network/publicIPAddresses/dnsSettings.domainNameLabelScope` |
 

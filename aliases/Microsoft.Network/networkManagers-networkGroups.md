@@ -10,4 +10,5 @@
 | `properties.groupMembers[*].resourceId` | `Microsoft.Network/networkManagers/networkGroups/groupMembers[*].resourceId` |
 | `properties.conditionalMembership` | `Microsoft.Network/networkManagers/networkGroups/conditionalMembership` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/networkGroups/provisioningState` |
+| `properties.resourceGuid` | `Microsoft.Network/networkManagers/networkGroups/resourceGuid` |
 

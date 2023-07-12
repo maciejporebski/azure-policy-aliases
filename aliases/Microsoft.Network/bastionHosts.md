@@ -24,4 +24,5 @@
 | `properties.enableIpConnect` | `Microsoft.Network/bastionHosts/enableIpConnect` |
 | `properties.enableShareableLink` | `Microsoft.Network/bastionHosts/enableShareableLink` |
 | `properties.enableTunneling` | `Microsoft.Network/bastionHosts/enableTunneling` |
+| `properties.enableKerberos` | `Microsoft.Network/bastionHosts/enableKerberos` |
 

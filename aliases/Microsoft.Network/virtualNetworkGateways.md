@@ -145,4 +145,5 @@
 | `properties.virtualNetworkGatewayPolicyGroups[*].etag` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkGatewayPolicyGroups[*].etag` |
 | `properties.allowVirtualWanTraffic` | `Microsoft.Network/virtualnetworkgateways/allowVirtualWanTraffic` |
 | `properties.allowRemoteVnetTraffic` | `Microsoft.Network/virtualnetworkgateways/allowRemoteVnetTraffic` |
+| `properties.adminState` | `Microsoft.Network/virtualnetworkgateways/adminState` |
 

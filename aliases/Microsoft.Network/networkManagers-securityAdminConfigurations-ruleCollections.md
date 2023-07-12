@@ -8,4 +8,5 @@
 | `properties.appliesToGroups[*]` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/appliesToGroups[*]` |
 | `properties.appliesToGroups[*].networkGroupId` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/appliesToGroups[*].networkGroupId` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/provisioningState` |
+| `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/resourceGuid` |
 

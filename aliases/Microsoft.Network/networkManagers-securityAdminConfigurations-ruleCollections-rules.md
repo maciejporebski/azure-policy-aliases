@@ -41,4 +41,6 @@
 | `properties.direction` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.direction` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.provisioningState` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.provisioningState` |
+| `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.resourceGuid` |
+| `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.resourceGuid` |
 
