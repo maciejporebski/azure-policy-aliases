@@ -169,4 +169,25 @@
 | `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.extendedInfo.newestRecoveryPointInArchive` |
 | `properties.extendedInfo.newestRecoveryPointInArchive` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureIaaSVMProtectedItem.extendedInfo.newestRecoveryPointInArchive` |
 | `properties.softDeleteRetentionPeriod` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/softDeleteRetentionPeriod` |
+| `properties.softDeleteRetentionPeriodInDays` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/softDeleteRetentionPeriodInDays` |
+| `properties.nodesList` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList` |
+| `properties.nodesList` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList` |
+| `properties.nodesList[*]` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*]` |
+| `properties.nodesList[*]` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*]` |
+| `properties.nodesList[*].nodeName` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].nodeName` |
+| `properties.nodesList[*].nodeName` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].nodeName` |
+| `properties.nodesList[*].status` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].status` |
+| `properties.nodesList[*].status` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].status` |
+| `properties.nodesList[*].errorDetail` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].errorDetail` |
+| `properties.nodesList[*].errorDetail` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].errorDetail` |
+| `properties.nodesList[*].errorDetail.code` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].errorDetail.code` |
+| `properties.nodesList[*].errorDetail.code` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].errorDetail.code` |
+| `properties.nodesList[*].errorDetail.message` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].errorDetail.message` |
+| `properties.nodesList[*].errorDetail.message` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].errorDetail.message` |
+| `properties.nodesList[*].errorDetail.recommendations` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].errorDetail.recommendations` |
+| `properties.nodesList[*].errorDetail.recommendations` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].errorDetail.recommendations` |
+| `properties.nodesList[*].errorDetail.recommendations[*]` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].errorDetail.recommendations[*]` |
+| `properties.nodesList[*].errorDetail.recommendations[*]` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].errorDetail.recommendations[*]` |
+| `properties.nodesList[*].sourceResourceId` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].sourceResourceId` |
+| `properties.nodesList[*].sourceResourceId` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].sourceResourceId` |
 

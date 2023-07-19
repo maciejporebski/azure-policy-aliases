@@ -73,4 +73,8 @@
 | `properties.restoreSettings.crossSubscriptionRestoreSettings` | `Microsoft.RecoveryServices/vaults/restoreSettings.crossSubscriptionRestoreSettings` |
 | `properties.restoreSettings.crossSubscriptionRestoreSettings.crossSubscriptionRestoreState` | `Microsoft.RecoveryServices/vaults/restoreSettings.crossSubscriptionRestoreSettings.crossSubscriptionRestoreState` |
 | `properties.secureScore` | `Microsoft.RecoveryServices/vaults/secureScore` |
+| `properties.securitySettings.softDeleteSettings` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings` |
+| `properties.securitySettings.softDeleteSettings.softDeleteState` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings.softDeleteState` |
+| `properties.securitySettings.softDeleteSettings.softDeleteRetentionPeriodInDays` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings.softDeleteRetentionPeriodInDays` |
+| `properties.securitySettings.multiUserAuthorization` | `Microsoft.RecoveryServices/vaults/securitySettings.multiUserAuthorization` |
 

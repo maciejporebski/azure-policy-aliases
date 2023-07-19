@@ -134,4 +134,6 @@
 | `properties.operationType` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/AzureWorkloadContainer.operationType` |
 | `properties.acquireStorageAccountLock` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/StorageContainer.acquireStorageAccountLock` |
 | `properties.protectableObjectType` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectableObjectType` |
+| `properties.extendedInfo.nodesList[*].sourceResourceId` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/AzureWorkloadContainer.extendedInfo.nodesList[*].sourceResourceId` |
+| `properties.extendedInfo.nodesList[*].sourceResourceId` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/extendedInfo.nodesList[*].sourceResourceId` |
 
