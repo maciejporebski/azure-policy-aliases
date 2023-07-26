@@ -6,6 +6,10 @@ on:
   push:
     branches: [ master ]
 
+permissions:
+      id-token: write
+      contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
