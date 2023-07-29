@@ -248,6 +248,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Cache/Redis/firewallrules](aliases/Microsoft.Cache/Redis-firewallrules.md)
 - [Microsoft.Cache/redis/linkedservers](aliases/Microsoft.Cache/redis-linkedservers.md)
 - [Microsoft.Cache/redis/patchSchedules](aliases/Microsoft.Cache/redis-patchSchedules.md)
+- [Microsoft.Cache/redis/accessPolicies](aliases/Microsoft.Cache/redis-accessPolicies.md)
+- [Microsoft.Cache/redis/accessPolicyAssignments](aliases/Microsoft.Cache/redis-accessPolicyAssignments.md)
 
 
 ## Microsoft.Capacity
@@ -745,6 +747,7 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/alertrules](aliases/microsoft.insights/alertrules.md)
 - [microsoft.insights/autoscalesettings](aliases/microsoft.insights/autoscalesettings.md)
 - [microsoft.insights/diagnosticSettings](aliases/microsoft.insights/diagnosticSettings.md)
+- [microsoft.insights/tenantactiongroups](aliases/microsoft.insights/tenantactiongroups.md)
 - [microsoft.insights/actiongroups](aliases/microsoft.insights/actiongroups.md)
 - [microsoft.insights/activityLogAlerts](aliases/microsoft.insights/activityLogAlerts.md)
 - [microsoft.insights/workbooks](aliases/microsoft.insights/workbooks.md)

@@ -126,4 +126,9 @@
 | `properties.actions.actionGroups` | `Microsoft.Insights/scheduledQueryRules/actions.actionGroups` |
 | `properties.actions.actionGroups[*]` | `Microsoft.Insights/scheduledQueryRules/actions.actionGroups[*]` |
 | `properties.actions.customProperties` | `Microsoft.Insights/scheduledQueryRules/actions.customProperties` |
+| `properties.publicNetworkAccess` | `Microsoft.Insights/scheduledQueryRules/publicNetworkAccess` |
+| `properties.ruleResolveConfiguration` | `Microsoft.Insights/scheduledQueryRules/ruleResolveConfiguration` |
+| `properties.ruleResolveConfiguration.autoResolved` | `Microsoft.Insights/scheduledQueryRules/ruleResolveConfiguration.autoResolved` |
+| `properties.ruleResolveConfiguration.timeToResolve` | `Microsoft.Insights/scheduledQueryRules/ruleResolveConfiguration.timeToResolve` |
+| `properties.actions.actionProperties` | `Microsoft.Insights/scheduledQueryRules/actions.actionProperties` |
 

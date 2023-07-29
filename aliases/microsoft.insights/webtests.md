@@ -43,4 +43,5 @@
 | `properties.ValidationRules.SSLCertRemainingLifetimeCheck` | `Microsoft.Insights/webtests/ValidationRules.SSLCertRemainingLifetimeCheck` |
 | `properties.ValidationRules.ExpectedHttpStatusCode` | `Microsoft.Insights/webtests/ValidationRules.ExpectedHttpStatusCode` |
 | `properties.ValidationRules.IgnoreHttpsStatusCode` | `Microsoft.Insights/webtests/ValidationRules.IgnoreHttpsStatusCode` |
+| `properties.ValidationRules.IgnoreHttpStatusCode` | `Microsoft.Insights/webtests/ValidationRules.IgnoreHttpStatusCode` |
 

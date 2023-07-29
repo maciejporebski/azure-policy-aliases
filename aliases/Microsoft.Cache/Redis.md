@@ -45,4 +45,5 @@
 | `properties.privateEndpointConnections[*]` | `Microsoft.Cache/Redis/privateEndpointConnections[*]` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.Cache/Redis/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Cache/Redis/privateEndpointConnections[*].provisioningState` |
+| `properties.redisConfiguration.authnotrequired` | `Microsoft.Cache/Redis/redisConfiguration.authnotrequired` |
 

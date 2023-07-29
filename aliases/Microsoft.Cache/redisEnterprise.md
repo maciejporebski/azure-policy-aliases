@@ -24,4 +24,10 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].provisioningState` |
+| `properties.encryption` | `Microsoft.Cache/redisEnterprise/encryption` |
+| `properties.encryption.customerManagedKeyEncryption` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
 

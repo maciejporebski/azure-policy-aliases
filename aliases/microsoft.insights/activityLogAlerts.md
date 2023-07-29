@@ -27,4 +27,6 @@
 | `properties.condition.allOf[*].anyOf[*].equals` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*].equals` |
 | `properties.condition.allOf[*].anyOf[*].containsAny` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*].containsAny` |
 | `properties.condition.allOf[*].anyOf[*].containsAny[*]` | `microsoft.insights/activityLogAlerts/condition.allOf[*].anyOf[*].containsAny[*]` |
+| `properties.tenantScope` | `microsoft.insights/activityLogAlerts/tenantScope` |
+| `properties.actions.actionGroups[*].actionProperties` | `microsoft.insights/activityLogAlerts/actions.actionGroups[*].actionProperties` |
 
