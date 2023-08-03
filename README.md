@@ -17,6 +17,8 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.AlertsManagement/smartDetectorAlertRules](aliases/Microsoft.AlertsManagement/smartDetectorAlertRules.md)
 - [Microsoft.AlertsManagement/actionRules](aliases/Microsoft.AlertsManagement/actionRules.md)
+- [Microsoft.AlertsManagement/prometheusRuleGroups](aliases/Microsoft.AlertsManagement/prometheusRuleGroups.md)
+- [Microsoft.AlertsManagement/tenantActivityLogAlerts](aliases/Microsoft.AlertsManagement/tenantActivityLogAlerts.md)
 
 
 ## Microsoft.AnalysisServices
@@ -366,12 +368,14 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerService/containerServices](aliases/Microsoft.ContainerService/containerServices.md)
 - [Microsoft.ContainerService/fleets](aliases/Microsoft.ContainerService/fleets.md)
 - [Microsoft.ContainerService/fleets/members](aliases/Microsoft.ContainerService/fleets-members.md)
+- [Microsoft.ContainerService/fleets/updateRuns](aliases/Microsoft.ContainerService/fleets-updateRuns.md)
 - [Microsoft.ContainerService/managedClusters](aliases/Microsoft.ContainerService/managedClusters.md)
 - [Microsoft.ContainerService/managedclustersnapshots](aliases/Microsoft.ContainerService/managedclustersnapshots.md)
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
 - [Microsoft.ContainerService/managedClusters/privateEndpointConnections](aliases/Microsoft.ContainerService/managedClusters-privateEndpointConnections.md)
 - [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
+- [Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings](aliases/Microsoft.ContainerService/managedClusters-trustedAccessRoleBindings.md)
 
 
 ## Microsoft.CustomProviders

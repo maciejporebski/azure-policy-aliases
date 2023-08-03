@@ -97,4 +97,19 @@
 | `properties.hostGroupID` | `Microsoft.ContainerService/managedClusters/agentPools/hostGroupID` |
 | `properties.currentOrchestratorVersion` | `Microsoft.ContainerService/managedClusters/agentPools/currentOrchestratorVersion` |
 | `properties.enableCustomCATrust` | `Microsoft.ContainerService/managedClusters/agentPools/enableCustomCATrust` |
+| `properties.windowsProfile` | `Microsoft.ContainerService/managedClusters/agentPools/windowsProfile` |
+| `properties.windowsProfile.disableOutboundNat` | `Microsoft.ContainerService/managedClusters/agentPools/windowsProfile.disableOutboundNat` |
+| `properties.networkProfile` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile` |
+| `properties.networkProfile.nodePublicIPTags` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.nodePublicIPTags` |
+| `properties.networkProfile.nodePublicIPTags[*]` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.nodePublicIPTags[*]` |
+| `properties.networkProfile.nodePublicIPTags[*].ipTagType` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.nodePublicIPTags[*].ipTagType` |
+| `properties.networkProfile.nodePublicIPTags[*].tag` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.nodePublicIPTags[*].tag` |
+| `properties.networkProfile.allowedHostPorts` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.allowedHostPorts` |
+| `properties.networkProfile.allowedHostPorts[*]` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.allowedHostPorts[*]` |
+| `properties.networkProfile.allowedHostPorts[*].portStart` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.allowedHostPorts[*].portStart` |
+| `properties.networkProfile.allowedHostPorts[*].portEnd` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.allowedHostPorts[*].portEnd` |
+| `properties.networkProfile.allowedHostPorts[*].protocol` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.allowedHostPorts[*].protocol` |
+| `properties.networkProfile.applicationSecurityGroups` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.applicationSecurityGroups` |
+| `properties.networkProfile.applicationSecurityGroups[*]` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.applicationSecurityGroups[*]` |
+| `properties.upgradeSettings.drainTimeoutInMinutes` | `Microsoft.ContainerService/managedClusters/agentPools/upgradeSettings.drainTimeoutInMinutes` |
 

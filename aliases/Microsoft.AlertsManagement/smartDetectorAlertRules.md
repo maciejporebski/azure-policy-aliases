@@ -24,4 +24,13 @@
 | `properties.actionGroups` | `Microsoft.AlertsManagement/smartDetectorAlertRules/actionGroups` |
 | `properties.throttling.duration` | `Microsoft.AlertsManagement/smartDetectorAlertRules/throttling.duration` |
 | `properties.throttling` | `Microsoft.AlertsManagement/smartDetectorAlertRules/throttling` |
+| `properties.detector.parameterDefinitions` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions` |
+| `properties.detector.parameterDefinitions[*]` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions[*]` |
+| `properties.detector.parameterDefinitions[*].name` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions[*].name` |
+| `properties.detector.parameterDefinitions[*].displayName` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions[*].displayName` |
+| `properties.detector.parameterDefinitions[*].description` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions[*].description` |
+| `properties.detector.parameterDefinitions[*].type` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions[*].type` |
+| `properties.detector.parameterDefinitions[*].isMandatory` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions[*].isMandatory` |
+| `properties.detector.supportedCadences` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.supportedCadences` |
+| `properties.detector.supportedCadences[*]` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.supportedCadences[*]` |
 
