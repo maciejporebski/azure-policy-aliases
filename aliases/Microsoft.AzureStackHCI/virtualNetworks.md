@@ -39,4 +39,8 @@
 | `properties.status.provisioningStatus` | `Microsoft.AzureStackHCI/virtualnetworks/status.provisioningStatus` |
 | `properties.status.provisioningStatus.operationId` | `Microsoft.AzureStackHCI/virtualnetworks/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.status` | `Microsoft.AzureStackHCI/virtualnetworks/status.provisioningStatus.status` |
+| `properties.dhcpOptions` | `Microsoft.AzureStackHCI/virtualnetworks/dhcpOptions` |
+| `properties.dhcpOptions.dnsServers` | `Microsoft.AzureStackHCI/virtualnetworks/dhcpOptions.dnsServers` |
+| `properties.dhcpOptions.dnsServers[*]` | `Microsoft.AzureStackHCI/virtualnetworks/dhcpOptions.dnsServers[*]` |
+| `properties.vmSwitchName` | `Microsoft.AzureStackHCI/virtualnetworks/vmSwitchName` |
 

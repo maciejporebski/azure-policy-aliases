@@ -18,4 +18,5 @@
 | `properties.status.provisioningStatus` | `Microsoft.AzureStackHCI/virtualharddisks/status.provisioningStatus` |
 | `properties.status.provisioningStatus.operationId` | `Microsoft.AzureStackHCI/virtualharddisks/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.status` | `Microsoft.AzureStackHCI/virtualharddisks/status.provisioningStatus.status` |
+| `properties.diskSizeGB` | `Microsoft.AzureStackHCI/virtualharddisks/diskSizeGB` |
 

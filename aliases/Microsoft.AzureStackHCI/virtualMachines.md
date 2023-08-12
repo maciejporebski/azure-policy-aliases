@@ -82,4 +82,10 @@
 | `properties.guestAgentProfile.errorDetails[*].additionalInfo[*]` | `Microsoft.AzureStackHCI/virtualmachines/guestAgentProfile.errorDetails[*].additionalInfo[*]` |
 | `properties.guestAgentProfile.errorDetails[*].additionalInfo[*].type` | `Microsoft.AzureStackHCI/virtualmachines/guestAgentProfile.errorDetails[*].additionalInfo[*].type` |
 | `properties.vmId` | `Microsoft.AzureStackHCI/virtualmachines/vmId` |
+| `properties.hardwareProfile.memoryMB` | `Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.memoryMB` |
+| `properties.hardwareProfile.dynamicMemoryConfig.maximumMemoryMB` | `Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.dynamicMemoryConfig.maximumMemoryMB` |
+| `properties.hardwareProfile.dynamicMemoryConfig.minimumMemoryMB` | `Microsoft.AzureStackHCI/virtualmachines/hardwareProfile.dynamicMemoryConfig.minimumMemoryMB` |
+| `properties.storageProfile.dataDisks[*].id` | `Microsoft.AzureStackHCI/virtualmachines/storageProfile.dataDisks[*].id` |
+| `properties.storageProfile.imageReference.id` | `Microsoft.AzureStackHCI/virtualmachines/storageProfile.imageReference.id` |
+| `properties.storageProfile.vmConfigStoragePathId` | `Microsoft.AzureStackHCI/virtualmachines/storageProfile.vmConfigStoragePathId` |
 
