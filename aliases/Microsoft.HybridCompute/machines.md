@@ -96,4 +96,22 @@
 | `properties.serviceStatuses.guestConfigurationService` | `Microsoft.HybridCompute/machines/serviceStatuses.guestConfigurationService` |
 | `properties.serviceStatuses.guestConfigurationService.status` | `Microsoft.HybridCompute/machines/serviceStatuses.guestConfigurationService.status` |
 | `properties.serviceStatuses.guestConfigurationService.startupType` | `Microsoft.HybridCompute/machines/serviceStatuses.guestConfigurationService.startupType` |
+| `properties.agentConfiguration.configMode` | `Microsoft.HybridCompute/machines/agentConfiguration.configMode` |
+| `properties.agentUpgrade` | `Microsoft.HybridCompute/machines/agentUpgrade` |
+| `properties.agentUpgrade.desiredVersion` | `Microsoft.HybridCompute/machines/agentUpgrade.desiredVersion` |
+| `properties.agentUpgrade.correlationId` | `Microsoft.HybridCompute/machines/agentUpgrade.correlationId` |
+| `properties.agentUpgrade.enableAutomaticUpgrade` | `Microsoft.HybridCompute/machines/agentUpgrade.enableAutomaticUpgrade` |
+| `properties.agentUpgrade.lastAttemptTimestamp` | `Microsoft.HybridCompute/machines/agentUpgrade.lastAttemptTimestamp` |
+| `properties.agentUpgrade.lastAttemptStatus` | `Microsoft.HybridCompute/machines/agentUpgrade.lastAttemptStatus` |
+| `properties.agentUpgrade.lastAttemptMessage` | `Microsoft.HybridCompute/machines/agentUpgrade.lastAttemptMessage` |
+| `properties.agentUpgrade.lastAttemptDesiredVersion` | `Microsoft.HybridCompute/machines/agentUpgrade.lastAttemptDesiredVersion` |
+| `properties.networkProfile` | `Microsoft.HybridCompute/machines/networkProfile` |
+| `properties.networkProfile.networkInterfaces` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces` |
+| `properties.networkProfile.networkInterfaces[*]` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*]` |
+| `properties.networkProfile.networkInterfaces[*].ipAddresses` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].ipAddresses` |
+| `properties.networkProfile.networkInterfaces[*].ipAddresses[*]` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].ipAddresses[*]` |
+| `properties.networkProfile.networkInterfaces[*].ipAddresses[*].address` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].ipAddresses[*].address` |
+| `properties.networkProfile.networkInterfaces[*].ipAddresses[*].ipAddressVersion` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].ipAddresses[*].ipAddressVersion` |
+| `properties.networkProfile.networkInterfaces[*].ipAddresses[*].subnet` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].ipAddresses[*].subnet` |
+| `properties.networkProfile.networkInterfaces[*].ipAddresses[*].subnet.addressPrefix` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].ipAddresses[*].subnet.addressPrefix` |
 
