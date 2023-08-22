@@ -11,4 +11,6 @@
 | `properties.isReadOnly` | `Microsoft.DBForMySql/flexibleServers/configurations/isReadOnly` |
 | `properties.isConfigPendingRestart` | `Microsoft.DBForMySql/flexibleServers/configurations/isConfigPendingRestart` |
 | `properties.isDynamicConfig` | `Microsoft.DBForMySql/flexibleServers/configurations/isDynamicConfig` |
+| `properties.currentValue` | `Microsoft.DBforMySQL/flexibleServers/configurations/currentValue` |
+| `properties.documentationLink` | `Microsoft.DBforMySQL/flexibleServers/configurations/documentationLink` |
 

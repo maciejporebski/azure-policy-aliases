@@ -65,4 +65,5 @@
 | `properties.dataEncryption.geoBackupKeyURI` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.geoBackupKeyUri` |
 | `properties.dataEncryption.type` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.type` |
 | `properties.storage.autoIoScaling` | `Microsoft.DBforMySQL/flexibleServers/storage.autoIoScaling` |
+| `properties.storage.logOnDisk` | `Microsoft.DBforMySQL/flexibleServers/storage.logOnDisk` |
 

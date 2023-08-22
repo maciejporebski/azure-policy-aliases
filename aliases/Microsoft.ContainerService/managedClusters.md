@@ -389,4 +389,17 @@
 | `properties.networkProfile.monitoring` | `Microsoft.ContainerService/managedClusters/networkProfile.monitoring` |
 | `properties.networkProfile.monitoring.enabled` | `Microsoft.ContainerService/managedClusters/networkProfile.monitoring.enabled` |
 | `properties.agentPoolProfiles[*].upgradeSettings.drainTimeoutInMinutes` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].upgradeSettings.drainTimeoutInMinutes` |
+| `properties.agentPoolProfiles[*].securityProfile` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].securityProfile` |
+| `properties.agentPoolProfiles[*].securityProfile.sshAccess` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].securityProfile.sshAccess` |
+| `properties.securityProfile.imageIntegrity` | `Microsoft.ContainerService/managedClusters/securityProfile.imageIntegrity` |
+| `properties.securityProfile.imageIntegrity.enabled` | `Microsoft.ContainerService/managedClusters/securityProfile.imageIntegrity.enabled` |
+| `properties.serviceMeshProfile.istio.certificateAuthority` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority` |
+| `properties.serviceMeshProfile.istio.certificateAuthority.plugin` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin` |
+| `properties.serviceMeshProfile.istio.certificateAuthority.plugin.keyVaultId` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.keyVaultId` |
+| `properties.serviceMeshProfile.istio.certificateAuthority.plugin.certObjectName` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.certObjectName` |
+| `properties.serviceMeshProfile.istio.certificateAuthority.plugin.keyObjectName` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.keyObjectName` |
+| `properties.serviceMeshProfile.istio.certificateAuthority.plugin.rootCertObjectName` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.rootCertObjectName` |
+| `properties.serviceMeshProfile.istio.certificateAuthority.plugin.certChainObjectName` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.certificateAuthority.plugin.certChainObjectName` |
+| `properties.serviceMeshProfile.istio.revisions` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.revisions` |
+| `properties.serviceMeshProfile.istio.revisions[*]` | `Microsoft.ContainerService/managedClusters/serviceMeshProfile.istio.revisions[*]` |
 

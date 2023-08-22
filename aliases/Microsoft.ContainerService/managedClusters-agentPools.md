@@ -112,4 +112,6 @@
 | `properties.networkProfile.applicationSecurityGroups` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.applicationSecurityGroups` |
 | `properties.networkProfile.applicationSecurityGroups[*]` | `Microsoft.ContainerService/managedClusters/agentPools/networkProfile.applicationSecurityGroups[*]` |
 | `properties.upgradeSettings.drainTimeoutInMinutes` | `Microsoft.ContainerService/managedClusters/agentPools/upgradeSettings.drainTimeoutInMinutes` |
+| `properties.securityProfile` | `Microsoft.ContainerService/managedClusters/agentPools/securityProfile` |
+| `properties.securityProfile.sshAccess` | `Microsoft.ContainerService/managedClusters/agentPools/securityProfile.sshAccess` |
 
