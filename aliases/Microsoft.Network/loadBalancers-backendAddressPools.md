@@ -89,4 +89,5 @@
 | `properties.drainPeriodInSeconds` | `Microsoft.Network/loadBalancers/backendAddressPools/drainPeriodInSeconds` |
 | `properties.virtualNetwork` | `Microsoft.Network/loadBalancers/backendAddressPools/virtualNetwork` |
 | `properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools/virtualNetwork.id` |
+| `properties.syncMode` | `Microsoft.Network/loadBalancers/backendAddressPools/syncMode` |
 

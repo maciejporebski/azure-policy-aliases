@@ -928,4 +928,5 @@
 | `properties.probes[*].properties.probeThreshold` | `Microsoft.Network/loadBalancers/probes[*].probeThreshold` |
 | `properties.backendAddressPools[*].properties.virtualNetwork` | `Microsoft.Network/loadBalancers/backendAddressPools[*].virtualNetwork` |
 | `properties.backendAddressPools[*].properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].virtualNetwork.id` |
+| `properties.backendAddressPools[*].properties.syncMode` | `Microsoft.Network/loadBalancers/backendAddressPools[*].syncMode` |
 
