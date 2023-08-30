@@ -652,6 +652,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EdgeOrder/orderItems](aliases/Microsoft.EdgeOrder/orderItems.md)
 
 
+## Microsoft.ElasticSan
+
+- [Microsoft.ElasticSan/elasticSans](aliases/Microsoft.ElasticSan/elasticSans.md)
+- [Microsoft.ElasticSan/elasticSans/volumeGroups](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups.md)
+- [Microsoft.ElasticSan/elasticSans/volumeGroups/volumes](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups-volumes.md)
+
+
 ## Microsoft.EventGrid
 
 - [Microsoft.EventGrid/eventSubscriptions](aliases/Microsoft.EventGrid/eventSubscriptions.md)
