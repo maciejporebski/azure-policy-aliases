@@ -24,4 +24,10 @@
 | `properties.availabilityGroupConfiguration.replicas[*].commit` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].commit` |
 | `properties.availabilityGroupConfiguration.replicas[*].failover` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].failover` |
 | `properties.availabilityGroupConfiguration.replicas[*].readableSecondary` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/availabilityGroupConfiguration.replicas[*].readableSecondary` |
+| `properties.multiSubnetIpConfigurations` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations` |
+| `properties.multiSubnetIpConfigurations[*]` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*]` |
+| `properties.multiSubnetIpConfigurations[*].privateIpAddress` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*].privateIpAddress` |
+| `properties.multiSubnetIpConfigurations[*].privateIpAddress.ipAddress` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*].privateIpAddress.ipAddress` |
+| `properties.multiSubnetIpConfigurations[*].privateIpAddress.subnetResourceId` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*].privateIpAddress.subnetResourceId` |
+| `properties.multiSubnetIpConfigurations[*].sqlVirtualMachineInstance` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*].sqlVirtualMachineInstance` |
 

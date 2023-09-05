@@ -17,4 +17,6 @@
 | `properties.wsfcDomainProfile.storageAccountUrl` | `Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.storageAccountUrl` |
 | `properties.wsfcDomainProfile.storageAccountPrimaryKey` | `Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile.storageAccountPrimaryKey` |
 | `properties.wsfcDomainProfile` | `Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile` |
+| `properties.wsfcDomainProfile.clusterSubnetType` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/wsfcDomainProfile.clusterSubnetType` |
+| `properties.wsfcDomainProfile.isSqlServiceAccountGmsa` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/wsfcDomainProfile.isSqlServiceAccountGmsa` |
 

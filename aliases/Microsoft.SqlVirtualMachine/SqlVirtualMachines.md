@@ -90,4 +90,26 @@
 | `properties.assessmentSettings.schedule.monthlyOccurrence` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/assessmentSettings.schedule.monthlyOccurrence` |
 | `properties.assessmentSettings.schedule.dayOfWeek` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/assessmentSettings.schedule.dayOfWeek` |
 | `properties.assessmentSettings.schedule.startTime` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/assessmentSettings.schedule.startTime` |
+| `properties.wsfcStaticIp` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/wsfcStaticIp` |
+| `properties.serverConfigurationsManagementSettings.sqlInstanceSettings.isLpimEnabled` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/serverConfigurationsManagementSettings.sqlInstanceSettings.isLpimEnabled` |
+| `properties.serverConfigurationsManagementSettings.sqlInstanceSettings.isIfiEnabled` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/serverConfigurationsManagementSettings.sqlInstanceSettings.isIfiEnabled` |
+| `properties.storageConfigurationSettings.sqlTempDbSettings.persistFolder` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/storageConfigurationSettings.sqlTempDbSettings.persistFolder` |
+| `properties.storageConfigurationSettings.sqlTempDbSettings.persistFolderPath` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/storageConfigurationSettings.sqlTempDbSettings.persistFolderPath` |
+| `properties.leastPrivilegeMode` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/leastPrivilegeMode` |
+| `properties.enableAutomaticUpgrade` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/enableAutomaticUpgrade` |
+| `properties.serverConfigurationsManagementSettings.azureAdAuthenticationSettings` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/serverConfigurationsManagementSettings.azureAdAuthenticationSettings` |
+| `properties.serverConfigurationsManagementSettings.azureAdAuthenticationSettings.clientId` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/serverConfigurationsManagementSettings.azureAdAuthenticationSettings.clientId` |
+| `properties.troubleshootingStatus` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus` |
+| `properties.troubleshootingStatus.rootCause` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.rootCause` |
+| `properties.troubleshootingStatus.lastTriggerTimeUtc` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.lastTriggerTimeUtc` |
+| `properties.troubleshootingStatus.startTimeUtc` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.startTimeUtc` |
+| `properties.troubleshootingStatus.endTimeUtc` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.endTimeUtc` |
+| `properties.troubleshootingStatus.troubleshootingScenario` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.troubleshootingScenario` |
+| `properties.troubleshootingStatus.properties.unhealthyReplicaInfo` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.unhealthyReplicaInfo` |
+| `properties.troubleshootingStatus.properties.unhealthyReplicaInfo.availabilityGroupName` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.unhealthyReplicaInfo.availabilityGroupName` |
+| `properties.autoPatchingSettings.additionalVmPatch` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/autoPatchingSettings.additionalVmPatch` |
+| `properties.storageConfigurationSettings.sqlDataSettings.useStoragePool` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/storageConfigurationSettings.sqlDataSettings.useStoragePool` |
+| `properties.storageConfigurationSettings.sqlLogSettings.useStoragePool` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/storageConfigurationSettings.sqlLogSettings.useStoragePool` |
+| `properties.storageConfigurationSettings.sqlTempDbSettings.useStoragePool` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/storageConfigurationSettings.sqlTempDbSettings.useStoragePool` |
+| `properties.storageConfigurationSettings.enableStorageConfigBlade` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/storageConfigurationSettings.enableStorageConfigBlade` |
 
