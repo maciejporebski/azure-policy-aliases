@@ -950,12 +950,9 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Migrate
 
-- [Microsoft.Migrate/projects](aliases/Microsoft.Migrate/projects.md)
 - [Microsoft.Migrate/migrateprojects](aliases/Microsoft.Migrate/migrateprojects.md)
 - [Microsoft.Migrate/assessmentProjects](aliases/Microsoft.Migrate/assessmentProjects.md)
 - [Microsoft.Migrate/moveCollections](aliases/Microsoft.Migrate/moveCollections.md)
-- [Microsoft.Migrate/projects/groups](aliases/Microsoft.Migrate/projects-groups.md)
-- [Microsoft.Migrate/projects/groups/assessments](aliases/Microsoft.Migrate/projects-groups-assessments.md)
 - [Microsoft.Migrate/assessmentprojects/groups](aliases/Microsoft.Migrate/assessmentprojects-groups.md)
 - [Microsoft.Migrate/assessmentprojects/groups/assessments](aliases/Microsoft.Migrate/assessmentprojects-groups-assessments.md)
 - [Microsoft.Migrate/assessmentprojects/hypervcollectors](aliases/Microsoft.Migrate/assessmentprojects-hypervcollectors.md)
