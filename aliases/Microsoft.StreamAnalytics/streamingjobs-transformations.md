@@ -6,4 +6,5 @@
 | `properties.query` | `Microsoft.StreamAnalytics/streamingjobs/transformations/query` |
 | `properties.etag` | `Microsoft.StreamAnalytics/streamingjobs/transformations/etag` |
 | `properties.validStreamingUnits` | `Microsoft.StreamAnalytics/streamingjobs/transformations/validStreamingUnits` |
+| `properties.validStreamingUnits[*]` | `Microsoft.StreamAnalytics/streamingjobs/transformations/validStreamingUnits[*]` |
 

@@ -1498,6 +1498,8 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.StreamAnalytics
 
 - [Microsoft.StreamAnalytics/streamingjobs](aliases/Microsoft.StreamAnalytics/streamingjobs.md)
+- [Microsoft.StreamAnalytics/clusters](aliases/Microsoft.StreamAnalytics/clusters.md)
+- [Microsoft.StreamAnalytics/clusters/privateEndpoints](aliases/Microsoft.StreamAnalytics/clusters-privateEndpoints.md)
 - [Microsoft.StreamAnalytics/streamingjobs/functions](aliases/Microsoft.StreamAnalytics/streamingjobs-functions.md)
 - [Microsoft.StreamAnalytics/streamingjobs/inputs](aliases/Microsoft.StreamAnalytics/streamingjobs-inputs.md)
 - [Microsoft.StreamAnalytics/streamingjobs/outputs](aliases/Microsoft.StreamAnalytics/streamingjobs-outputs.md)

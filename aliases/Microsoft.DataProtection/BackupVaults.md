@@ -27,4 +27,7 @@
 | `properties.featureSettings` | `Microsoft.DataProtection/backupVaults/featureSettings` |
 | `properties.featureSettings.crossSubscriptionRestoreSettings` | `Microsoft.DataProtection/backupVaults/featureSettings.crossSubscriptionRestoreSettings` |
 | `properties.featureSettings.crossSubscriptionRestoreSettings.state` | `Microsoft.DataProtection/backupVaults/featureSettings.crossSubscriptionRestoreSettings.state` |
+| `properties.featureSettings.crossRegionRestoreSettings` | `Microsoft.DataProtection/backupVaults/featureSettings.crossRegionRestoreSettings` |
+| `properties.featureSettings.crossRegionRestoreSettings.state` | `Microsoft.DataProtection/backupVaults/featureSettings.crossRegionRestoreSettings.state` |
+| `properties.secureScore` | `Microsoft.DataProtection/backupVaults/secureScore` |
 
