@@ -19,4 +19,12 @@
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].groupIds[*]` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections[*].provisioningState` |
+| `properties.sku` | `Microsoft.DeviceUpdate/accounts/sku` |
+| `properties.locations` | `Microsoft.DeviceUpdate/accounts/locations` |
+| `properties.locations[*]` | `Microsoft.DeviceUpdate/accounts/locations[*]` |
+| `properties.locations[*].name` | `Microsoft.DeviceUpdate/accounts/locations[*].name` |
+| `properties.locations[*].role` | `Microsoft.DeviceUpdate/accounts/locations[*].role` |
+| `properties.encryption` | `Microsoft.DeviceUpdate/accounts/encryption` |
+| `properties.encryption.keyVaultKeyUri` | `Microsoft.DeviceUpdate/accounts/encryption.keyVaultKeyUri` |
+| `properties.encryption.userAssignedIdentity` | `Microsoft.DeviceUpdate/accounts/encryption.userAssignedIdentity` |
 
