@@ -262,4 +262,7 @@
 | `properties.scheduledEventsProfile.osImageNotificationProfile.enable` | `Microsoft.Compute/virtualMachines/scheduledEventsProfile.osImageNotificationProfile.enable` |
 | `properties.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` | `Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` |
 | `properties.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` | `Microsoft.Compute/virtualMachines/osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` |
+| `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.publicIPAddressConfiguration.properties.dnsSettings.domainNameLabelScope` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].publicIPAddressConfiguration.dnsSettings.domainNameLabelScope` |
+| `properties.networkProfile.networkInterfaceConfigurations[*].properties.auxiliaryMode` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].auxiliaryMode` |
+| `properties.networkProfile.networkInterfaceConfigurations[*].properties.auxiliarySku` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].auxiliarySku` |
 

@@ -101,4 +101,6 @@
 | `properties.creationData.performancePlus` | `Microsoft.Compute/disks/creationData.performancePlus` |
 | `properties.burstingEnabledTime` | `Microsoft.Compute/disks/burstingEnabledTime` |
 | `properties.optimizedForFrequentAttach` | `Microsoft.Compute/disks/optimizedForFrequentAttach` |
+| `properties.creationData.elasticSanResourceId` | `Microsoft.Compute/disks/creationData.elasticSanResourceId` |
+| `properties.LastOwnershipUpdateTime` | `Microsoft.Compute/disks/LastOwnershipUpdateTime` |
 

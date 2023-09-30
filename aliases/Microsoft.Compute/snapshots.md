@@ -85,4 +85,5 @@
 | `properties.supportedCapabilities.diskControllerTypes` | `Microsoft.Compute/snapshots/supportedCapabilities.diskControllerTypes` |
 | `properties.creationData.performancePlus` | `Microsoft.Compute/snapshots/creationData.performancePlus` |
 | `properties.incrementalSnapshotFamilyId` | `Microsoft.Compute/snapshots/incrementalSnapshotFamilyId` |
+| `properties.creationData.elasticSanResourceId` | `Microsoft.Compute/snapshots/creationData.elasticSanResourceId` |
 
