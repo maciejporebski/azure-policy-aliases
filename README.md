@@ -747,6 +747,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.HybridCompute/privateLinkScopes](aliases/Microsoft.HybridCompute/privateLinkScopes.md)
 - [Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections](aliases/Microsoft.HybridCompute/privateLinkScopes-privateEndpointConnections.md)
 - [Microsoft.HybridCompute/machines/runcommands](aliases/Microsoft.HybridCompute/machines-runcommands.md)
+- [Microsoft.HybridCompute/machines/licenseProfiles](aliases/Microsoft.HybridCompute/machines-licenseProfiles.md)
+- [Microsoft.HybridCompute/licenses](aliases/Microsoft.HybridCompute/licenses.md)
 
 
 ## microsoft.insights
