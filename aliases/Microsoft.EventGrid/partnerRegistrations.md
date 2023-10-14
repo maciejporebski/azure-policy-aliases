@@ -16,4 +16,5 @@
 | `properties.visibilityState` | `Microsoft.EventGrid/partnerRegistrations/visibilityState` |
 | `properties.authorizedAzureSubscriptionIds[*]` | `Microsoft.EventGrid/partnerRegistrations/authorizedAzureSubscriptionIds[*]` |
 | `properties.authorizedAzureSubscriptionIds` | `Microsoft.EventGrid/partnerRegistrations/authorizedAzureSubscriptionIds` |
+| `properties.partnerRegistrationImmutableId` | `Microsoft.EventGrid/partnerRegistrations/partnerRegistrationImmutableId` |
 

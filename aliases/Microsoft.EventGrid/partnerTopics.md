@@ -42,4 +42,9 @@
 | `properties.provisioningState` | `Microsoft.EventGrid/partnerTopics/provisioningState` |
 | `properties.activationState` | `Microsoft.EventGrid/partnerTopics/activationState` |
 | `properties.partnerTopicFriendlyDescription` | `Microsoft.EventGrid/partnerTopics/partnerTopicFriendlyDescription` |
+| `properties.partnerRegistrationImmutableId` | `Microsoft.EventGrid/partnerTopics/partnerRegistrationImmutableId` |
+| `properties.eventTypeInfo` | `Microsoft.EventGrid/partnerTopics/eventTypeInfo` |
+| `properties.eventTypeInfo.kind` | `Microsoft.EventGrid/partnerTopics/eventTypeInfo.kind` |
+| `properties.eventTypeInfo.inlineEventTypes` | `Microsoft.EventGrid/partnerTopics/eventTypeInfo.inlineEventTypes` |
+| `properties.messageForActivation` | `Microsoft.EventGrid/partnerTopics/messageForActivation` |
 

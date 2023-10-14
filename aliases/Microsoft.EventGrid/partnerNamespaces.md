@@ -25,4 +25,6 @@
 | `properties.inboundIpRules[*].ipMask` | `Microsoft.EventGrid/partnerNamespaces/inboundIpRules[*].ipMask` |
 | `properties.inboundIpRules[*].action` | `Microsoft.EventGrid/partnerNamespaces/inboundIpRules[*].action` |
 | `properties.disableLocalAuth` | `Microsoft.EventGrid/partnerNamespaces/disableLocalAuth` |
+| `properties.partnerTopicRoutingMode` | `Microsoft.EventGrid/partnerNamespaces/partnerTopicRoutingMode` |
+| `properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/partnerNamespaces/minimumTlsVersionAllowed` |
 

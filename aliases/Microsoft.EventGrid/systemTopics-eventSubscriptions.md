@@ -244,4 +244,10 @@
 | `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].type` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.deliveryAttributeMappings[*].type` |
 | `properties.deliveryWithResourceIdentity.destination.properties.queueMessageTimeToLiveInSeconds` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.StorageQueue.queueMessageTimeToLiveInSeconds` |
 | `properties.filter.enableAdvancedFilteringOnArrays` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/filter.enableAdvancedFilteringOnArrays` |
+| `properties.destination` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.PartnerDestination` |
+| `properties.destination.properties.resourceId` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.PartnerDestination.resourceId` |
+| `properties.deliveryWithResourceIdentity.destination` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.PartnerDestination` |
+| `properties.deliveryWithResourceIdentity.destination.properties.resourceId` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.PartnerDestination.resourceId` |
+| `properties.destination.properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/destination.WebHook.minimumTlsVersionAllowed` |
+| `properties.deliveryWithResourceIdentity.destination.properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/systemTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.minimumTlsVersionAllowed` |
 

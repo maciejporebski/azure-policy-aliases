@@ -246,4 +246,10 @@
 | `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].type` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.ServiceBusQueue.deliveryAttributeMappings[*].type` |
 | `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].type` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.HybridConnection.deliveryAttributeMappings[*].type` |
 | `properties.deliveryWithResourceIdentity.destination.properties.deliveryAttributeMappings[*].type` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.EventHub.deliveryAttributeMappings[*].type` |
+| `properties.destination` | `Microsoft.EventGrid/eventSubscriptions/destination.PartnerDestination` |
+| `properties.destination.properties.resourceId` | `Microsoft.EventGrid/eventSubscriptions/destination.PartnerDestination.resourceId` |
+| `properties.deliveryWithResourceIdentity.destination` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.PartnerDestination` |
+| `properties.deliveryWithResourceIdentity.destination.properties.resourceId` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.PartnerDestination.resourceId` |
+| `properties.destination.properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/eventSubscriptions/destination.WebHook.minimumTlsVersionAllowed` |
+| `properties.deliveryWithResourceIdentity.destination.properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.minimumTlsVersionAllowed` |
 

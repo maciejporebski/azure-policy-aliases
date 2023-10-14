@@ -46,4 +46,9 @@
 | `properties.inputSchemaMapping.properties.dataVersion.sourceField` | `Microsoft.EventGrid/topics/inputSchemaMapping.Json.dataVersion.sourceField` |
 | `properties.inputSchemaMapping.properties.dataVersion.defaultValue` | `Microsoft.EventGrid/topics/inputSchemaMapping.Json.dataVersion.defaultValue` |
 | `properties.disableLocalAuth` | `Microsoft.EventGrid/topics/disableLocalAuth` |
+| `properties.dataResidencyBoundary` | `Microsoft.EventGrid/topics/dataResidencyBoundary` |
+| `properties.eventTypeInfo` | `Microsoft.EventGrid/topics/eventTypeInfo` |
+| `properties.eventTypeInfo.kind` | `Microsoft.EventGrid/topics/eventTypeInfo.kind` |
+| `properties.eventTypeInfo.inlineEventTypes` | `Microsoft.EventGrid/topics/eventTypeInfo.inlineEventTypes` |
+| `properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/topics/minimumTlsVersionAllowed` |
 

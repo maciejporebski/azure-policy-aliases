@@ -48,4 +48,9 @@
 | `properties.disableLocalAuth` | `Microsoft.EventGrid/domains/disableLocalAuth` |
 | `properties.autoCreateTopicWithFirstSubscription` | `Microsoft.EventGrid/domains/autoCreateTopicWithFirstSubscription` |
 | `properties.autoDeleteTopicWithLastSubscription` | `Microsoft.EventGrid/domains/autoDeleteTopicWithLastSubscription` |
+| `properties.dataResidencyBoundary` | `Microsoft.EventGrid/domains/dataResidencyBoundary` |
+| `properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/domains/minimumTlsVersionAllowed` |
+| `properties.eventTypeInfo` | `Microsoft.EventGrid/domains/eventTypeInfo` |
+| `properties.eventTypeInfo.kind` | `Microsoft.EventGrid/domains/eventTypeInfo.kind` |
+| `properties.eventTypeInfo.inlineEventTypes` | `Microsoft.EventGrid/domains/eventTypeInfo.inlineEventTypes` |
 
