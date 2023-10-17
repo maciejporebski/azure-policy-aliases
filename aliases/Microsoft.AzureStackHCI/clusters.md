@@ -51,4 +51,11 @@
 | `properties.reportedProperties.nodes[*].lastLicensingTimestamp` | `Microsoft.AzureStackHCI/clusters/reportedProperties.nodes[*].lastLicensingTimestamp` |
 | `properties.reportedProperties.clusterType` | `Microsoft.AzureStackHCI/clusters/reportedProperties.clusterType` |
 | `properties.reportedProperties.manufacturer` | `Microsoft.AzureStackHCI/clusters/reportedProperties.manufacturer` |
+| `properties.reportedProperties.nodes[*].oemActivation` | `Microsoft.AzureStackHCI/clusters/reportedProperties.nodes[*].oemActivation` |
+| `properties.reportedProperties.oemActivation` | `Microsoft.AzureStackHCI/clusters/reportedProperties.oemActivation` |
+| `properties.connectivityStatus` | `Microsoft.AzureStackHCI/clusters/connectivityStatus` |
+| `properties.isolatedVmAttestationConfiguration` | `Microsoft.AzureStackHCI/clusters/isolatedVmAttestationConfiguration` |
+| `properties.isolatedVmAttestationConfiguration.attestationResourceId` | `Microsoft.AzureStackHCI/clusters/isolatedVmAttestationConfiguration.attestationResourceId` |
+| `properties.isolatedVmAttestationConfiguration.relyingPartyServiceEndpoint` | `Microsoft.AzureStackHCI/clusters/isolatedVmAttestationConfiguration.relyingPartyServiceEndpoint` |
+| `properties.isolatedVmAttestationConfiguration.attestationServiceEndpoint` | `Microsoft.AzureStackHCI/clusters/isolatedVmAttestationConfiguration.attestationServiceEndpoint` |
 

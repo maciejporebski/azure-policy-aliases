@@ -27,4 +27,5 @@
 | `properties.status.downloadStatus` | `Microsoft.AzureStackHCI/galleryimages/status.downloadStatus` |
 | `properties.status.downloadStatus.downloadSizeInMB` | `Microsoft.AzureStackHCI/galleryimages/status.downloadStatus.downloadSizeInMB` |
 | `properties.status.progressPercentage` | `Microsoft.AzureStackHCI/galleryimages/status.progressPercentage` |
+| `properties.containerId` | `Microsoft.AzureStackHCI/galleryimages/containerId` |
 
