@@ -13,4 +13,8 @@
 | `properties.storageTarget.targetPortalPort` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/storageTarget.targetPortalPort` |
 | `properties.storageTarget.provisioningState` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/storageTarget.provisioningState` |
 | `properties.storageTarget.status` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/storageTarget.status` |
+| `properties.creationData.sourceId` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/creationData.sourceId` |
+| `properties.managedBy` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/managedBy` |
+| `properties.managedBy.resourceId` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/managedBy.resourceId` |
+| `properties.provisioningState` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/provisioningState` |
 

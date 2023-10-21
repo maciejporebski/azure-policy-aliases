@@ -29,4 +29,5 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.ElasticSan/elasticSans/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.ElasticSan/elasticSans/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.ElasticSan/elasticSans/privateEndpointConnections[*].groupIds[*]` |
+| `properties.publicNetworkAccess` | `Microsoft.ElasticSan/elasticSans/publicNetworkAccess` |
 
