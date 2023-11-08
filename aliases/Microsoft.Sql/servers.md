@@ -37,4 +37,6 @@
 | `properties.restrictOutboundNetworkAccess` | `Microsoft.Sql/servers/restrictOutboundNetworkAccess` |
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.Sql/servers/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.Sql/servers/privateEndpointConnections[*].groupIds[*]` |
+| `properties.externalGovernanceStatus` | `Microsoft.Sql/servers/externalGovernanceStatus` |
+| `properties.isIPv6Enabled` | `Microsoft.Sql/servers/isIPv6Enabled` |
 

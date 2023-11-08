@@ -68,4 +68,11 @@
 | `properties.replicaCapacity` | `Microsoft.DBForPostgreSql/flexibleServers/replicaCapacity` |
 | `properties.authConfig.activeDirectoryAuth` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig.activeDirectoryAuth` |
 | `properties.authConfig.passwordAuth` | `Microsoft.DBForPostgreSql/flexibleServers/authConfig.passwordAuth` |
+| `properties.storage.autoGrow` | `Microsoft.DBForPostgreSql/flexibleServers/storage.autoGrow` |
+| `properties.storage.tier` | `Microsoft.DBForPostgreSql/flexibleServers/storage.tier` |
+| `properties.storage.iops` | `Microsoft.DBForPostgreSql/flexibleServers/storage.iops` |
+| `properties.dataEncryption.geoBackupKeyURI` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.geoBackupKeyURI` |
+| `properties.dataEncryption.geoBackupUserAssignedIdentityId` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.geoBackupUserAssignedIdentityId` |
+| `properties.dataEncryption.primaryEncryptionKeyStatus` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.primaryEncryptionKeyStatus` |
+| `properties.dataEncryption.geoBackupEncryptionKeyStatus` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.geoBackupEncryptionKeyStatus` |
 

@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.BotService/botServices/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.BotService/botServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.BotService/botServices/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.BotService/botServices/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.BotService/botServices/privateEndpointConnections/groupIds[*]` |
 

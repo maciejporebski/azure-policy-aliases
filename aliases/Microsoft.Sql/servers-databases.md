@@ -129,4 +129,12 @@
 | `properties.primaryDelegatedIdentityClientId` | `Microsoft.Sql/servers/databases/primaryDelegatedIdentityClientId` |
 | `properties.sourceResourceId` | `Microsoft.Sql/servers/databases/sourceResourceId` |
 | `properties.preferredEnclaveType` | `Microsoft.Sql/servers/databases/preferredEnclaveType` |
+| `properties.keys` | `Microsoft.Sql/servers/databases/keys` |
+| `properties.encryptionProtector` | `Microsoft.Sql/servers/databases/encryptionProtector` |
+| `properties.manualCutover` | `Microsoft.Sql/servers/databases/manualCutover` |
+| `properties.performCutover` | `Microsoft.Sql/servers/databases/performCutover` |
+| `properties.availabilityZone` | `Microsoft.Sql/servers/databases/availabilityZone` |
+| `properties.useFreeLimit` | `Microsoft.Sql/servers/databases/useFreeLimit` |
+| `properties.freeLimitExhaustionBehavior` | `Microsoft.Sql/servers/databases/freeLimitExhaustionBehavior` |
+| `properties.encryptionProtectorAutoRotation` | `Microsoft.Sql/servers/databases/encryptionProtectorAutoRotation` |
 

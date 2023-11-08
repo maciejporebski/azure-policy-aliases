@@ -53,4 +53,9 @@
 | `properties.dBsToCancelMigrationOn` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dBsToCancelMigrationOn` |
 | `properties.dBsToCancelMigrationOn[*]` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dBsToCancelMigrationOn[*]` |
 | `properties.migrationMode` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationMode` |
+| `properties.secretParameters.sourceServerUsername` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.sourceServerUsername` |
+| `properties.secretParameters.targetServerUsername` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/secretParameters.targetServerUsername` |
+| `properties.migrationWindowEndTimeInUtc` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationWindowEndTimeInUtc` |
+| `properties.dbsToTriggerCutoverOn` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dbsToTriggerCutoverOn` |
+| `properties.dbsToTriggerCutoverOn[*]` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/dbsToTriggerCutoverOn[*]` |
 

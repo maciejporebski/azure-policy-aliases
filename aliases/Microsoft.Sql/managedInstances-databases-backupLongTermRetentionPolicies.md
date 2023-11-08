@@ -10,4 +10,5 @@
 | `properties.monthlyRetention` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/monthlyRetention` |
 | `properties.yearlyRetention` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/yearlyRetention` |
 | `properties.weekOfYear` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/weekOfYear` |
+| `properties.backupStorageAccessTier` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/backupStorageAccessTier` |
 

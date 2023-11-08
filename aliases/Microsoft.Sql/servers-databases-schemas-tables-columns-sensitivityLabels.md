@@ -18,4 +18,5 @@
 | `properties.schemaName` | `Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/schemaName` |
 | `properties.tableName` | `Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/tableName` |
 | `properties.columnName` | `Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/columnName` |
+| `properties.clientClassificationSource` | `Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/clientClassificationSource` |
 

@@ -23,4 +23,5 @@
 | `properties.crossSubscriptionSourceDatabaseId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionSourceDatabaseId` |
 | `properties.crossSubscriptionRestorableDroppedDatabaseId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionRestorableDroppedDatabaseId` |
 | `properties.crossSubscriptionTargetManagedInstanceId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionTargetManagedInstanceId` |
+| `properties.isLedgerOn` | `Microsoft.Sql/managedInstances/databases/isLedgerOn` |
 

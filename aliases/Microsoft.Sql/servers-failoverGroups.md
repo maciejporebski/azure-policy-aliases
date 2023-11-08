@@ -16,4 +16,6 @@
 | `properties.partnerServers` | `Microsoft.Sql/servers/failoverGroups/partnerServers` |
 | `properties.databases[*]` | `Microsoft.Sql/servers/failoverGroups/databases[*]` |
 | `properties.databases` | `Microsoft.Sql/servers/failoverGroups/databases` |
+| `properties.readOnlyEndpoint.targetServer` | `Microsoft.Sql/servers/failoverGroups/readOnlyEndpoint.targetServer` |
+| `properties.secondaryType` | `Microsoft.Sql/servers/failoverGroups/secondaryType` |
 

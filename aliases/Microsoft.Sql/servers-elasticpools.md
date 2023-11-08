@@ -24,4 +24,8 @@
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/servers/elasticPools/maintenanceConfigurationId` |
 | `properties.highAvailabilityReplicaCount` | `Microsoft.Sql/servers/elasticPools/highAvailabilityReplicaCount` |
 | `properties.minCapacity` | `Microsoft.Sql/servers/elasticPools/minCapacity` |
+| `properties.preferredEnclaveType` | `Microsoft.Sql/servers/elasticPools/preferredEnclaveType` |
+| `properties.availabilityZone` | `Microsoft.Sql/servers/elasticPools/availabilityZone` |
+| `properties.perDatabaseSettings.autoPauseDelay` | `Microsoft.Sql/servers/elasticPools/perDatabaseSettings.autoPauseDelay` |
+| `properties.autoPauseDelay` | `Microsoft.Sql/servers/elasticPools/autoPauseDelay` |
 

@@ -14,4 +14,5 @@
 | `properties.weekOfYear` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/default.weekOfYear` |
 | `properties.state` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/Default.state` |
 | `properties.recoveryServicesBackupPolicyResourceId` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/Default.recoveryServicesBackupPolicyResourceId` |
+| `properties.makeBackupsImmutable` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/makeBackupsImmutable` |
 

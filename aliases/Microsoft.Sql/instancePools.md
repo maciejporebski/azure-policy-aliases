@@ -11,4 +11,6 @@
 | `properties.subnetId` | `Microsoft.Sql/instancePools/subnetId` |
 | `properties.vCores` | `Microsoft.Sql/instancePools/vCores` |
 | `properties.licenseType` | `Microsoft.Sql/instancePools/licenseType` |
+| `properties.dnsZone` | `Microsoft.Sql/instancePools/dnsZone` |
+| `properties.maintenanceConfigurationId` | `Microsoft.Sql/instancePools/maintenanceConfigurationId` |
 

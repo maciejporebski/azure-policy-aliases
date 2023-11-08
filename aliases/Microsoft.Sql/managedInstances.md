@@ -57,4 +57,15 @@
 | `properties.servicePrincipal.clientId` | `Microsoft.Sql/managedInstances/servicePrincipal.clientId` |
 | `properties.servicePrincipal.tenantId` | `Microsoft.Sql/managedInstances/servicePrincipal.tenantId` |
 | `properties.servicePrincipal.type` | `Microsoft.Sql/managedInstances/servicePrincipal.type` |
+| `properties.virtualClusterId` | `Microsoft.Sql/managedInstances/virtualClusterId` |
+| `properties.isGeneralPurposeV2` | `Microsoft.Sql/managedInstances/isGeneralPurposeV2` |
+| `properties.hybridSecondaryUsage` | `Microsoft.Sql/managedInstances/hybridSecondaryUsage` |
+| `properties.hybridSecondaryUsageDetected` | `Microsoft.Sql/managedInstances/hybridSecondaryUsageDetected` |
+| `properties.storageIOps` | `Microsoft.Sql/managedInstances/storageIOps` |
+| `properties.storageThroughputMBps` | `Microsoft.Sql/managedInstances/storageThroughputMBps` |
+| `properties.externalGovernanceStatus` | `Microsoft.Sql/managedInstances/externalGovernanceStatus` |
+| `properties.pricingModel` | `Microsoft.Sql/managedInstances/pricingModel` |
+| `properties.createTime` | `Microsoft.Sql/managedInstances/createTime` |
+| `properties.authenticationMetadata` | `Microsoft.Sql/managedInstances/authenticationMetadata` |
+| `properties.databaseFormat` | `Microsoft.Sql/managedInstances/databaseFormat` |
 

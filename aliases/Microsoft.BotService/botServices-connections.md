@@ -18,4 +18,6 @@
 | `zones` | `Microsoft.BotService/botServices/Connections/zones` |
 | `zones[*]` | `Microsoft.BotService/botServices/Connections/zones[*]` |
 | `properties.provisioningState` | `Microsoft.BotService/botServices/Connections/provisioningState` |
+| `properties.id` | `Microsoft.BotService/botServices/Connections/id` |
+| `properties.name` | `Microsoft.BotService/botServices/Connections/name` |
 
