@@ -59,4 +59,6 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].provisioningState` |
+| `properties.appAttachPackageReferences` | `Microsoft.DesktopVirtualization/hostPools/appAttachPackageReferences` |
+| `properties.appAttachPackageReferences[*]` | `Microsoft.DesktopVirtualization/hostPools/appAttachPackageReferences[*]` |
 

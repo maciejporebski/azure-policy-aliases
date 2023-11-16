@@ -250,4 +250,18 @@
 | `properties.deadLetterWithResourceIdentity.deadLetterDestination.endpointType` | `Microsoft.EventGrid/topics/eventSubscriptions/deadLetterWithResourceIdentity.deadLetterDestination.endpointType` |
 | `properties.destination.properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.WebHook.minimumTlsVersionAllowed` |
 | `properties.deliveryWithResourceIdentity.destination.properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.WebHook.minimumTlsVersionAllowed` |
+| `properties.destination` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.NamespaceTopic` |
+| `properties.destination` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.MonitorAlert` |
+| `properties.destination.properties.resourceId` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.NamespaceTopic.resourceId` |
+| `properties.deliveryWithResourceIdentity.destination` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.NamespaceTopic` |
+| `properties.deliveryWithResourceIdentity.destination` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert` |
+| `properties.deliveryWithResourceIdentity.destination.properties.resourceId` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.NamespaceTopic.resourceId` |
+| `properties.destination.properties.severity` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.MonitorAlert.severity` |
+| `properties.destination.properties.description` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.MonitorAlert.description` |
+| `properties.destination.properties.actionGroups` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.MonitorAlert.actionGroups` |
+| `properties.destination.properties.actionGroups[*]` | `Microsoft.EventGrid/topics/eventSubscriptions/destination.MonitorAlert.actionGroups[*]` |
+| `properties.deliveryWithResourceIdentity.destination.properties.severity` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.severity` |
+| `properties.deliveryWithResourceIdentity.destination.properties.description` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.description` |
+| `properties.deliveryWithResourceIdentity.destination.properties.actionGroups` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.actionGroups` |
+| `properties.deliveryWithResourceIdentity.destination.properties.actionGroups[*]` | `Microsoft.EventGrid/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.actionGroups[*]` |
 

@@ -538,6 +538,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforPostgreSQL/flexibleServers/migrations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-migrations.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/administrators](aliases/Microsoft.DBforPostgreSQL/flexibleServers-administrators.md)
 - [Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections](aliases/Microsoft.DBforPostgreSQL/serverGroupsv2-privateEndpointConnections.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings](aliases/Microsoft.DBforPostgreSQL/flexibleServers-advancedThreatProtectionSettings.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections](aliases/Microsoft.DBforPostgreSQL/flexibleServers-privateEndpointConnections.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints](aliases/Microsoft.DBforPostgreSQL/flexibleServers-virtualendpoints.md)
 
 
 ## Microsoft.DesktopVirtualization
@@ -549,6 +552,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DesktopVirtualization/hostpools](aliases/Microsoft.DesktopVirtualization/hostpools.md)
 - [Microsoft.DesktopVirtualization/hostpools/msixpackages](aliases/Microsoft.DesktopVirtualization/hostpools-msixpackages.md)
 - [Microsoft.DesktopVirtualization/hostpools/sessionhosts](aliases/Microsoft.DesktopVirtualization/hostpools-sessionhosts.md)
+- [Microsoft.DesktopVirtualization/scalingplans](aliases/Microsoft.DesktopVirtualization/scalingplans.md)
+- [Microsoft.DesktopVirtualization/appattachpackages](aliases/Microsoft.DesktopVirtualization/appattachpackages.md)
+- [Microsoft.DesktopVirtualization/hostpools/privateendpointconnections](aliases/Microsoft.DesktopVirtualization/hostpools-privateendpointconnections.md)
+- [Microsoft.DesktopVirtualization/scalingplans/personalSchedules](aliases/Microsoft.DesktopVirtualization/scalingplans-personalSchedules.md)
+- [Microsoft.DesktopVirtualization/scalingplans/pooledSchedules](aliases/Microsoft.DesktopVirtualization/scalingplans-pooledSchedules.md)
+- [Microsoft.DesktopVirtualization/workspaces/privateendpointconnections](aliases/Microsoft.DesktopVirtualization/workspaces-privateendpointconnections.md)
 
 
 ## Microsoft.Devices

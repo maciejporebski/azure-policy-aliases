@@ -569,4 +569,5 @@
 | `properties.ipSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/config/ipSecurityRestrictionsDefaultAction` |
 | `properties.scmIpSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/config/scmIpSecurityRestrictionsDefaultAction` |
 | `properties.elasticWebAppScaleLimit` | `Microsoft.Web/sites/config/elasticWebAppScaleLimit` |
+| `properties.minTlsCipherSuite` | `Microsoft.Web/sites/config/minTlsCipherSuite` |
 

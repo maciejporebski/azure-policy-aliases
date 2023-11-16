@@ -75,4 +75,26 @@
 | `properties.dataEncryption.geoBackupUserAssignedIdentityId` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.geoBackupUserAssignedIdentityId` |
 | `properties.dataEncryption.primaryEncryptionKeyStatus` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.primaryEncryptionKeyStatus` |
 | `properties.dataEncryption.geoBackupEncryptionKeyStatus` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.geoBackupEncryptionKeyStatus` |
+| `properties.storage.throughput` | `Microsoft.DBForPostgreSql/flexibleServers/storage.throughput` |
+| `properties.storage.type` | `Microsoft.DBForPostgreSql/flexibleServers/storage.type` |
+| `properties.replica` | `Microsoft.DBForPostgreSql/flexibleServers/replica` |
+| `properties.replica.role` | `Microsoft.DBForPostgreSql/flexibleServers/replica.role` |
+| `properties.replica.capacity` | `Microsoft.DBForPostgreSql/flexibleServers/replica.capacity` |
+| `properties.replica.replicationState` | `Microsoft.DBForPostgreSql/flexibleServers/replica.replicationState` |
+| `properties.replica.promoteMode` | `Microsoft.DBForPostgreSql/flexibleServers/replica.promoteMode` |
+| `properties.replica.promoteOption` | `Microsoft.DBForPostgreSql/flexibleServers/replica.promoteOption` |
+| `properties.privateEndpointConnections` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].groupIds[*]` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].provisioningState` |
 

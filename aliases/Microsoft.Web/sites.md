@@ -323,4 +323,17 @@
 | `properties.siteConfig.scmIpSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/siteConfig.scmIpSecurityRestrictionsDefaultAction` |
 | `properties.siteConfig.elasticWebAppScaleLimit` | `Microsoft.Web/sites/siteConfig.elasticWebAppScaleLimit` |
 | `properties.managedEnvironmentId` | `Microsoft.Web/sites/managedEnvironmentId` |
+| `properties.siteConfig.minTlsCipherSuite` | `Microsoft.Web/sites/siteConfig.minTlsCipherSuite` |
+| `properties.daprConfig` | `Microsoft.Web/sites/daprConfig` |
+| `properties.daprConfig.enabled` | `Microsoft.Web/sites/daprConfig.enabled` |
+| `properties.daprConfig.appId` | `Microsoft.Web/sites/daprConfig.appId` |
+| `properties.daprConfig.appPort` | `Microsoft.Web/sites/daprConfig.appPort` |
+| `properties.daprConfig.httpReadBufferSize` | `Microsoft.Web/sites/daprConfig.httpReadBufferSize` |
+| `properties.daprConfig.httpMaxRequestSize` | `Microsoft.Web/sites/daprConfig.httpMaxRequestSize` |
+| `properties.daprConfig.logLevel` | `Microsoft.Web/sites/daprConfig.logLevel` |
+| `properties.daprConfig.enableApiLogging` | `Microsoft.Web/sites/daprConfig.enableApiLogging` |
+| `properties.workloadProfileName` | `Microsoft.Web/sites/workloadProfileName` |
+| `properties.resourceConfig` | `Microsoft.Web/sites/resourceConfig` |
+| `properties.resourceConfig.cpu` | `Microsoft.Web/sites/resourceConfig.cpu` |
+| `properties.resourceConfig.memory` | `Microsoft.Web/sites/resourceConfig.memory` |
 

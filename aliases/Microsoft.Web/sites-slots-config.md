@@ -533,4 +533,5 @@
 | `properties.ipSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/slots/config/ipSecurityRestrictionsDefaultAction` |
 | `properties.scmIpSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/slots/config/scmIpSecurityRestrictionsDefaultAction` |
 | `properties.elasticWebAppScaleLimit` | `Microsoft.Web/sites/slots/config/elasticWebAppScaleLimit` |
+| `properties.minTlsCipherSuite` | `Microsoft.Web/sites/slots/config/minTlsCipherSuite` |
 

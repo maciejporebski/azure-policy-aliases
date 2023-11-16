@@ -19,4 +19,5 @@
 | `properties.migrationRequest.operation` | `Microsoft.DesktopVirtualization/applicationGroups/migrationRequest.operation` |
 | `properties.migrationRequest.migrationPath` | `Microsoft.DesktopVirtualization/applicationGroups/migrationRequest.migrationPath` |
 | `properties.cloudPcResource` | `Microsoft.DesktopVirtualization/applicationGroups/cloudPcResource` |
+| `properties.showInFeed` | `Microsoft.DesktopVirtualization/applicationGroups/showInFeed` |
 
