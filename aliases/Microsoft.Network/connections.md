@@ -319,4 +319,12 @@
 | `properties.enablePrivateLinkFastPath` | `Microsoft.Network/connections/enablePrivateLinkFastPath` |
 | `properties.virtualNetworkGateway1.properties.adminState` | `Microsoft.Network/connections/virtualNetworkGateway1.adminState` |
 | `properties.virtualNetworkGateway2.properties.adminState` | `Microsoft.Network/connections/virtualNetworkGateway2.adminState` |
+| `properties.virtualNetworkGateway1.properties.autoScaleConfiguration` | `Microsoft.Network/connections/virtualNetworkGateway1.autoScaleConfiguration` |
+| `properties.virtualNetworkGateway1.properties.autoScaleConfiguration.bounds` | `Microsoft.Network/connections/virtualNetworkGateway1.autoScaleConfiguration.bounds` |
+| `properties.virtualNetworkGateway1.properties.autoScaleConfiguration.bounds.min` | `Microsoft.Network/connections/virtualNetworkGateway1.autoScaleConfiguration.bounds.min` |
+| `properties.virtualNetworkGateway1.properties.autoScaleConfiguration.bounds.max` | `Microsoft.Network/connections/virtualNetworkGateway1.autoScaleConfiguration.bounds.max` |
+| `properties.virtualNetworkGateway2.properties.autoScaleConfiguration` | `Microsoft.Network/connections/virtualNetworkGateway2.autoScaleConfiguration` |
+| `properties.virtualNetworkGateway2.properties.autoScaleConfiguration.bounds` | `Microsoft.Network/connections/virtualNetworkGateway2.autoScaleConfiguration.bounds` |
+| `properties.virtualNetworkGateway2.properties.autoScaleConfiguration.bounds.min` | `Microsoft.Network/connections/virtualNetworkGateway2.autoScaleConfiguration.bounds.min` |
+| `properties.virtualNetworkGateway2.properties.autoScaleConfiguration.bounds.max` | `Microsoft.Network/connections/virtualNetworkGateway2.autoScaleConfiguration.bounds.max` |
 

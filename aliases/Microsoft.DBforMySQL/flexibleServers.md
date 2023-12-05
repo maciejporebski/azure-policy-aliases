@@ -66,4 +66,23 @@
 | `properties.dataEncryption.type` | `Microsoft.DBForMySql/flexibleServers/dataEncryption.type` |
 | `properties.storage.autoIoScaling` | `Microsoft.DBforMySQL/flexibleServers/storage.autoIoScaling` |
 | `properties.storage.logOnDisk` | `Microsoft.DBforMySQL/flexibleServers/storage.logOnDisk` |
+| `properties.privateEndpointConnections` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*]` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].name` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].name` |
+| `properties.privateEndpointConnections[*].type` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].type` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].groupIds[*]` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].privateEndpoint` |
+| `properties.privateEndpointConnections[*].properties.privateEndpoint.id` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].privateEndpoint.id` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.status` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].provisioningState` |
+| `properties.importSourceProperties` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties` |
+| `properties.importSourceProperties.storageType` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageType` |
+| `properties.importSourceProperties.storageUrl` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageUrl` |
+| `properties.importSourceProperties.sasToken` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.sasToken` |
+| `properties.importSourceProperties.dataDirPath` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.dataDirPath` |
 

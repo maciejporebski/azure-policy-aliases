@@ -1882,4 +1882,6 @@
 | `properties.routingRules[*].type` | `Microsoft.Network/applicationGateways/routingRules[*].type` |
 | `properties.sslProfiles[*].properties.clientAuthConfiguration.verifyClientRevocation` | `Microsoft.Network/applicationGateways/sslProfiles[*].clientAuthConfiguration.verifyClientRevocation` |
 | `properties.defaultPredefinedSslPolicy` | `Microsoft.Network/applicationGateways/defaultPredefinedSslPolicy` |
+| `properties.listeners[*].properties.hostNames` | `Microsoft.Network/applicationGateways/listeners[*].hostNames` |
+| `properties.listeners[*].properties.hostNames[*]` | `Microsoft.Network/applicationGateways/listeners[*].hostNames[*]` |
 

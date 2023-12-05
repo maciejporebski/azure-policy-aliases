@@ -146,4 +146,8 @@
 | `properties.allowVirtualWanTraffic` | `Microsoft.Network/virtualnetworkgateways/allowVirtualWanTraffic` |
 | `properties.allowRemoteVnetTraffic` | `Microsoft.Network/virtualnetworkgateways/allowRemoteVnetTraffic` |
 | `properties.adminState` | `Microsoft.Network/virtualnetworkgateways/adminState` |
+| `properties.autoScaleConfiguration` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration` |
+| `properties.autoScaleConfiguration.bounds` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds` |
+| `properties.autoScaleConfiguration.bounds.min` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds.min` |
+| `properties.autoScaleConfiguration.bounds.max` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds.max` |
 

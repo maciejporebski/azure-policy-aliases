@@ -25,4 +25,10 @@
 | `properties.enableShareableLink` | `Microsoft.Network/bastionHosts/enableShareableLink` |
 | `properties.enableTunneling` | `Microsoft.Network/bastionHosts/enableTunneling` |
 | `properties.enableKerberos` | `Microsoft.Network/bastionHosts/enableKerberos` |
+| `properties.virtualNetwork` | `Microsoft.Network/bastionHosts/virtualNetwork` |
+| `properties.virtualNetwork.id` | `Microsoft.Network/bastionHosts/virtualNetwork.id` |
+| `properties.networkAcls` | `Microsoft.Network/bastionHosts/networkAcls` |
+| `properties.networkAcls.ipRules` | `Microsoft.Network/bastionHosts/networkAcls.ipRules` |
+| `properties.networkAcls.ipRules[*]` | `Microsoft.Network/bastionHosts/networkAcls.ipRules[*]` |
+| `properties.networkAcls.ipRules[*].addressPrefix` | `Microsoft.Network/bastionHosts/networkAcls.ipRules[*].addressPrefix` |
 

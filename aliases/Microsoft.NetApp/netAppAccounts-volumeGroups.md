@@ -100,4 +100,23 @@
 | `properties.volumes[*].properties.placementRules[*].value` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].placementRules[*].value` |
 | `properties.volumes[*].properties.maximumNumberOfFiles` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].maximumNumberOfFiles` |
 | `properties.volumes[*].properties.enableSubvolumes` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].enableSubvolumes` |
+| `properties.volumes[*].properties.encrypted` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].encrypted` |
+| `properties.volumes[*].properties.keyVaultPrivateEndpointResourceId` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].keyVaultPrivateEndpointResourceId` |
+| `properties.volumes[*].properties.deleteBaseSnapshot` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].deleteBaseSnapshot` |
+| `properties.volumes[*].properties.smbAccessBasedEnumeration` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].smbAccessBasedEnumeration` |
+| `properties.volumes[*].properties.smbNonBrowsable` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].smbNonBrowsable` |
+| `properties.volumes[*].properties.dataProtection.volumeRelocation` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].dataProtection.volumeRelocation` |
+| `properties.volumes[*].properties.dataProtection.volumeRelocation.relocationRequested` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].dataProtection.volumeRelocation.relocationRequested` |
+| `properties.volumes[*].properties.dataProtection.volumeRelocation.readyToBeFinalized` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].dataProtection.volumeRelocation.readyToBeFinalized` |
+| `properties.volumes[*].properties.fileAccessLogs` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].fileAccessLogs` |
+| `properties.volumes[*].properties.dataStoreResourceId` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].dataStoreResourceId` |
+| `properties.volumes[*].properties.dataStoreResourceId[*]` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].dataStoreResourceId[*]` |
+| `properties.volumes[*].properties.provisionedAvailabilityZone` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].provisionedAvailabilityZone` |
+| `properties.volumes[*].properties.isLargeVolume` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].isLargeVolume` |
+| `properties.volumes[*].properties.actualThroughputMibps` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].actualThroughputMibps` |
+| `properties.volumes[*].properties.originatingResourceId` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].originatingResourceId` |
+| `properties.volumes[*].properties.dataProtection.backup.backupVaultId` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].dataProtection.backup.backupVaultId` |
+| `properties.volumes[*].zones` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].zones` |
+| `properties.volumes[*].zones[*]` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].zones[*]` |
+| `properties.volumes[*].properties.coolAccessRetrievalPolicy` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].coolAccessRetrievalPolicy` |
 

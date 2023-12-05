@@ -791,4 +791,5 @@
 | `properties.flushConnection` | `Microsoft.Network/networkSecurityGroups/flushConnection` |
 | `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].disableTcpStateTracking` |
 | `properties.networkInterfaces[*].properties.auxiliarySku` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].auxiliarySku` |
+| `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/networkSecurityGroups/subnets[*].defaultOutboundAccess` |
 

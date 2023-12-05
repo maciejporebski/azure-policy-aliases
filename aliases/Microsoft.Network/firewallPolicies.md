@@ -101,4 +101,6 @@
 | `properties.explicitProxy.enablePacFile` | `Microsoft.Network/firewallPolicies/explicitProxy.enablePacFile` |
 | `properties.explicitProxy.pacFilePort` | `Microsoft.Network/firewallPolicies/explicitProxy.pacFilePort` |
 | `properties.explicitProxy.pacFile` | `Microsoft.Network/firewallPolicies/explicitProxy.pacFile` |
+| `properties.size` | `Microsoft.Network/firewallPolicies/size` |
+| `properties.intrusionDetection.profile` | `Microsoft.Network/firewallPolicies/intrusionDetection.profile` |
 

@@ -434,4 +434,5 @@
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].etag` |
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].type` |
 | `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/routeTables/subnets[*].serviceEndpointPolicies[*].kind` |
+| `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/routeTables/subnets[*].defaultOutboundAccess` |
 

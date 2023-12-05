@@ -442,4 +442,5 @@
 | `properties.networkInterfaces[*].properties.auxiliaryMode` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].auxiliaryMode` |
 | `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].disableTcpStateTracking` |
 | `properties.networkInterfaces[*].properties.auxiliarySku` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].auxiliarySku` |
+| `properties.subnet.properties.defaultOutboundAccess` | `Microsoft.Network/privateEndpoints/subnet.defaultOutboundAccess` |
 

@@ -20,4 +20,6 @@
 | `properties.emailAddresses[*]` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/emailAddresses[*]` |
 | `properties.phoneNumbers` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/phoneNumbers` |
 | `properties.phoneNumbers[*]` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/phoneNumbers[*]` |
+| `properties.serviceTags` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/serviceTags` |
+| `properties.serviceTags[*]` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/serviceTags[*]` |
 

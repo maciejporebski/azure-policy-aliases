@@ -351,4 +351,5 @@
 | `properties.serviceAlias` | `Microsoft.Network/serviceEndpointPolicies/serviceAlias` |
 | `properties.contextualServiceEndpointPolicies` | `Microsoft.Network/serviceEndpointPolicies/contextualServiceEndpointPolicies` |
 | `properties.contextualServiceEndpointPolicies[*]` | `Microsoft.Network/serviceEndpointPolicies/contextualServiceEndpointPolicies[*]` |
+| `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].defaultOutboundAccess` |
 

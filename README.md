@@ -92,6 +92,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
 - [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
+- [Microsoft.AppConfiguration/configurationStores/replicas](aliases/Microsoft.AppConfiguration/configurationStores-replicas.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
@@ -258,6 +259,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -518,6 +520,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforMySQL/flexibleServers/firewallRules](aliases/Microsoft.DBforMySQL/flexibleServers-firewallRules.md)
 - [Microsoft.DBforMySQL/flexibleServers/administrators](aliases/Microsoft.DBforMySQL/flexibleServers-administrators.md)
 - [Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections](aliases/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections.md)
+- [Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings](aliases/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings.md)
 
 
 ## Microsoft.DBforPostgreSQL
@@ -1002,6 +1005,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
+- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
 
 
 ## Microsoft.Network
@@ -1040,6 +1044,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
@@ -1050,12 +1060,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
 - [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
 - [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)
@@ -1067,6 +1071,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/dnszones/SOA](aliases/Microsoft.Network/dnszones-SOA.md)
 - [Microsoft.Network/dnszones/NS](aliases/Microsoft.Network/dnszones-NS.md)
 - [Microsoft.Network/dnszones/CAA](aliases/Microsoft.Network/dnszones-CAA.md)
+- [Microsoft.Network/dnszones/DS](aliases/Microsoft.Network/dnszones-DS.md)
+- [Microsoft.Network/dnszones/TLSA](aliases/Microsoft.Network/dnszones-TLSA.md)
 - [Microsoft.Network/virtualNetworks](aliases/Microsoft.Network/virtualNetworks.md)
 - [Microsoft.Network/natGateways](aliases/Microsoft.Network/natGateways.md)
 - [Microsoft.Network/publicIPAddresses](aliases/Microsoft.Network/publicIPAddresses.md)

@@ -96,4 +96,23 @@
 | `properties.placementRules[*].value` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/placementRules[*].value` |
 | `properties.maximumNumberOfFiles` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/maximumNumberOfFiles` |
 | `properties.enableSubvolumes` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/enableSubvolumes` |
+| `zones` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/zones` |
+| `zones[*]` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/zones[*]` |
+| `properties.encrypted` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/encrypted` |
+| `properties.keyVaultPrivateEndpointResourceId` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/keyVaultPrivateEndpointResourceId` |
+| `properties.deleteBaseSnapshot` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/deleteBaseSnapshot` |
+| `properties.smbAccessBasedEnumeration` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/smbAccessBasedEnumeration` |
+| `properties.smbNonBrowsable` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/smbNonBrowsable` |
+| `properties.dataProtection.volumeRelocation` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/dataProtection.volumeRelocation` |
+| `properties.dataProtection.volumeRelocation.relocationRequested` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/dataProtection.volumeRelocation.relocationRequested` |
+| `properties.dataProtection.volumeRelocation.readyToBeFinalized` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/dataProtection.volumeRelocation.readyToBeFinalized` |
+| `properties.fileAccessLogs` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/fileAccessLogs` |
+| `properties.dataStoreResourceId` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/dataStoreResourceId` |
+| `properties.dataStoreResourceId[*]` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/dataStoreResourceId[*]` |
+| `properties.provisionedAvailabilityZone` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/provisionedAvailabilityZone` |
+| `properties.isLargeVolume` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/isLargeVolume` |
+| `properties.actualThroughputMibps` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/actualThroughputMibps` |
+| `properties.originatingResourceId` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/originatingResourceId` |
+| `properties.dataProtection.backup.backupVaultId` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/dataProtection.backup.backupVaultId` |
+| `properties.coolAccessRetrievalPolicy` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/coolAccessRetrievalPolicy` |
 

@@ -52,4 +52,7 @@
 | `properties.virtualApplianceConnections` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceConnections` |
 | `properties.virtualApplianceConnections[*]` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceConnections[*]` |
 | `properties.virtualApplianceConnections[*].id` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceConnections[*].id` |
+| `properties.internetIngressPublicIps` | `Microsoft.Network/networkVirtualAppliances/internetIngressPublicIps` |
+| `properties.internetIngressPublicIps[*]` | `Microsoft.Network/networkVirtualAppliances/internetIngressPublicIps[*]` |
+| `properties.internetIngressPublicIps[*].id` | `Microsoft.Network/networkVirtualAppliances/internetIngressPublicIps[*].id` |
 

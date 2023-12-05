@@ -131,4 +131,5 @@
 | `properties.ruleCollections[*].rules[*].httpHeadersToInsert[*].headerName` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups/ruleCollections[*].FirewallPolicyNatRuleCollection.rules[*].ApplicationRule.httpHeadersToInsert[*].headerName` |
 | `properties.ruleCollections[*].rules[*].httpHeadersToInsert[*].headerValue` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups/ruleCollections[*].FirewallPolicyFilterRuleCollection.rules[*].ApplicationRule.httpHeadersToInsert[*].headerValue` |
 | `properties.ruleCollections[*].rules[*].httpHeadersToInsert[*].headerValue` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups/ruleCollections[*].FirewallPolicyNatRuleCollection.rules[*].ApplicationRule.httpHeadersToInsert[*].headerValue` |
+| `properties.size` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups/size` |
 

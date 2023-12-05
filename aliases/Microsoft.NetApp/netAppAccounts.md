@@ -35,4 +35,15 @@
 | `properties.activeDirectories[*].ldapSearchScope.userDN` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSearchScope.userDN` |
 | `properties.activeDirectories[*].ldapSearchScope.groupDN` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSearchScope.groupDN` |
 | `properties.activeDirectories[*].ldapSearchScope.groupMembershipFilter` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].ldapSearchScope.groupMembershipFilter` |
+| `properties.encryption.keyVaultProperties` | `Microsoft.NetApp/netAppAccounts/encryption.keyVaultProperties` |
+| `properties.encryption.keyVaultProperties.keyVaultId` | `Microsoft.NetApp/netAppAccounts/encryption.keyVaultProperties.keyVaultId` |
+| `properties.encryption.keyVaultProperties.keyVaultUri` | `Microsoft.NetApp/netAppAccounts/encryption.keyVaultProperties.keyVaultUri` |
+| `properties.encryption.keyVaultProperties.keyName` | `Microsoft.NetApp/netAppAccounts/encryption.keyVaultProperties.keyName` |
+| `properties.encryption.keyVaultProperties.keyVaultResourceId` | `Microsoft.NetApp/netAppAccounts/encryption.keyVaultProperties.keyVaultResourceId` |
+| `properties.encryption.keyVaultProperties.status` | `Microsoft.NetApp/netAppAccounts/encryption.keyVaultProperties.status` |
+| `properties.encryption.identity` | `Microsoft.NetApp/netAppAccounts/encryption.identity` |
+| `properties.encryption.identity.principalId` | `Microsoft.NetApp/netAppAccounts/encryption.identity.principalId` |
+| `properties.encryption.identity.userAssignedIdentity` | `Microsoft.NetApp/netAppAccounts/encryption.identity.userAssignedIdentity` |
+| `properties.disableShowmount` | `Microsoft.NetApp/netAppAccounts/disableShowmount` |
+| `properties.activeDirectories[*].preferredServersForLdapClient` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].preferredServersForLdapClient` |
 

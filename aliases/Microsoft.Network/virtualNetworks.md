@@ -839,4 +839,5 @@
 | `properties.flowLogs[*].properties.flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.trafficAnalyticsInterval` | `Microsoft.Network/virtualnetworks/flowLogs[*].flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.trafficAnalyticsInterval` |
 | `properties.flowLogs[*].properties.provisioningState` | `Microsoft.Network/virtualnetworks/flowLogs[*].provisioningState` |
 | `properties.flowLogs[*].etag` | `Microsoft.Network/virtualnetworks/flowLogs[*].etag` |
+| `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/virtualnetworks/subnets[*].defaultOutboundAccess` |
 
