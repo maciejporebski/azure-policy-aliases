@@ -563,6 +563,21 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DesktopVirtualization/workspaces/privateendpointconnections](aliases/Microsoft.DesktopVirtualization/workspaces-privateendpointconnections.md)
 
 
+## Microsoft.DevCenter
+
+- [Microsoft.DevCenter/devcenters](aliases/Microsoft.DevCenter/devcenters.md)
+- [Microsoft.DevCenter/devcenters/catalogs](aliases/Microsoft.DevCenter/devcenters-catalogs.md)
+- [Microsoft.DevCenter/devcenters/attachednetworks](aliases/Microsoft.DevCenter/devcenters-attachednetworks.md)
+- [Microsoft.DevCenter/devcenters/devboxdefinitions](aliases/Microsoft.DevCenter/devcenters-devboxdefinitions.md)
+- [Microsoft.DevCenter/devcenters/environmentTypes](aliases/Microsoft.DevCenter/devcenters-environmentTypes.md)
+- [Microsoft.DevCenter/devcenters/galleries](aliases/Microsoft.DevCenter/devcenters-galleries.md)
+- [Microsoft.DevCenter/networkconnections](aliases/Microsoft.DevCenter/networkconnections.md)
+- [Microsoft.DevCenter/projects](aliases/Microsoft.DevCenter/projects.md)
+- [Microsoft.DevCenter/projects/environmentTypes](aliases/Microsoft.DevCenter/projects-environmentTypes.md)
+- [Microsoft.DevCenter/projects/pools](aliases/Microsoft.DevCenter/projects-pools.md)
+- [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
+
+
 ## Microsoft.Devices
 
 - [Microsoft.Devices/IotHubs](aliases/Microsoft.Devices/IotHubs.md)
