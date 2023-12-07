@@ -259,7 +259,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -561,21 +560,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DesktopVirtualization/scalingplans/personalSchedules](aliases/Microsoft.DesktopVirtualization/scalingplans-personalSchedules.md)
 - [Microsoft.DesktopVirtualization/scalingplans/pooledSchedules](aliases/Microsoft.DesktopVirtualization/scalingplans-pooledSchedules.md)
 - [Microsoft.DesktopVirtualization/workspaces/privateendpointconnections](aliases/Microsoft.DesktopVirtualization/workspaces-privateendpointconnections.md)
-
-
-## Microsoft.DevCenter
-
-- [Microsoft.DevCenter/devcenters](aliases/Microsoft.DevCenter/devcenters.md)
-- [Microsoft.DevCenter/devcenters/catalogs](aliases/Microsoft.DevCenter/devcenters-catalogs.md)
-- [Microsoft.DevCenter/devcenters/attachednetworks](aliases/Microsoft.DevCenter/devcenters-attachednetworks.md)
-- [Microsoft.DevCenter/devcenters/devboxdefinitions](aliases/Microsoft.DevCenter/devcenters-devboxdefinitions.md)
-- [Microsoft.DevCenter/devcenters/environmentTypes](aliases/Microsoft.DevCenter/devcenters-environmentTypes.md)
-- [Microsoft.DevCenter/devcenters/galleries](aliases/Microsoft.DevCenter/devcenters-galleries.md)
-- [Microsoft.DevCenter/networkconnections](aliases/Microsoft.DevCenter/networkconnections.md)
-- [Microsoft.DevCenter/projects](aliases/Microsoft.DevCenter/projects.md)
-- [Microsoft.DevCenter/projects/environmentTypes](aliases/Microsoft.DevCenter/projects-environmentTypes.md)
-- [Microsoft.DevCenter/projects/pools](aliases/Microsoft.DevCenter/projects-pools.md)
-- [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
 
 
 ## Microsoft.Devices
@@ -1059,12 +1043,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
@@ -1075,6 +1053,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
 - [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
 - [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)
