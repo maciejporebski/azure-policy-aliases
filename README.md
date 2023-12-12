@@ -170,18 +170,18 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.AVS
 
 - [Microsoft.AVS/privateClouds](aliases/Microsoft.AVS/privateClouds.md)
-- [Microsoft.AVS/privateClouds/clusters](aliases/Microsoft.AVS/privateClouds-clusters.md)
-- [Microsoft.AVS/privateClouds/authorizations](aliases/Microsoft.AVS/privateClouds-authorizations.md)
-- [Microsoft.AVS/privateClouds/hcxEnterpriseSites](aliases/Microsoft.AVS/privateClouds-hcxEnterpriseSites.md)
-- [Microsoft.AVS/privateClouds/globalReachConnections](aliases/Microsoft.AVS/privateClouds-globalReachConnections.md)
 - [Microsoft.AVS/privateClouds/addons](aliases/Microsoft.AVS/privateClouds-addons.md)
+- [Microsoft.AVS/privateClouds/authorizations](aliases/Microsoft.AVS/privateClouds-authorizations.md)
+- [Microsoft.AVS/privateClouds/clusters](aliases/Microsoft.AVS/privateClouds-clusters.md)
+- [Microsoft.AVS/privateClouds/clusters/datastores](aliases/Microsoft.AVS/privateClouds-clusters-datastores.md)
+- [Microsoft.AVS/privateClouds/globalReachConnections](aliases/Microsoft.AVS/privateClouds-globalReachConnections.md)
+- [Microsoft.AVS/privateClouds/hcxEnterpriseSites](aliases/Microsoft.AVS/privateClouds-hcxEnterpriseSites.md)
 - [Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dhcpConfigurations.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/dnsServices](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices.md)
+- [Microsoft.AVS/privateClouds/workloadNetworks/dnsZones](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones.md)
 - [Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles](aliases/Microsoft.AVS/privateClouds-workloadNetworks-portMirroringProfiles.md)
 - [Microsoft.AVS/privateClouds/workloadNetworks/segments](aliases/Microsoft.AVS/privateClouds-workloadNetworks-segments.md)
 - [Microsoft.AVS/privateClouds/workloadNetworks/vmGroups](aliases/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups.md)
-- [Microsoft.AVS/privateClouds/workloadNetworks/dnsServices](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dnsServices.md)
-- [Microsoft.AVS/privateClouds/workloadNetworks/dnsZones](aliases/Microsoft.AVS/privateClouds-workloadNetworks-dnsZones.md)
-- [Microsoft.AVS/privateClouds/clusters/datastores](aliases/Microsoft.AVS/privateClouds-clusters-datastores.md)
 
 
 ## Microsoft.AzureActiveDirectory
@@ -259,6 +259,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1058,6 +1059,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
@@ -1068,12 +1075,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
 - [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
 - [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)
