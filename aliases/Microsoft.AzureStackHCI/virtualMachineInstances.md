@@ -95,4 +95,11 @@
 | `properties.guestAgentInstallStatus.errorDetails[*].additionalInfo[*].type` | `Microsoft.AzureStackHCI/virtualMachineInstances/guestAgentInstallStatus.errorDetails[*].additionalInfo[*].type` |
 | `properties.vmId` | `Microsoft.AzureStackHCI/virtualMachineInstances/vmId` |
 | `properties.resourceUid` | `Microsoft.AzureStackHCI/virtualMachineInstances/resourceUid` |
+| `properties.httpProxyConfig` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig` |
+| `properties.httpProxyConfig.httpProxy` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig.httpProxy` |
+| `properties.httpProxyConfig.httpsProxy` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig.httpsProxy` |
+| `properties.httpProxyConfig.noProxy` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig.noProxy` |
+| `properties.httpProxyConfig.noProxy[*]` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig.noProxy[*]` |
+| `properties.httpProxyConfig.trustedCa` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig.trustedCa` |
+| `properties.instanceView.vmAgent.vmConfigAgentVersion` | `Microsoft.AzureStackHCI/virtualMachineInstances/instanceView.vmAgent.vmConfigAgentVersion` |
 
