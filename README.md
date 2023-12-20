@@ -218,7 +218,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AzureStackHCI/clusters/deploymentSettings](aliases/Microsoft.AzureStackHCI/clusters-deploymentSettings.md)
 - [Microsoft.AzureStackHCI/edgeDevices](aliases/Microsoft.AzureStackHCI/edgeDevices.md)
 - [Microsoft.AzureStackHCI/logicalNetworks](aliases/Microsoft.AzureStackHCI/logicalNetworks.md)
-- [Microsoft.AzureStackHCI/Clusters/SecuritySettings](aliases/Microsoft.AzureStackHCI/Clusters-SecuritySettings.md)
+- [Microsoft.AzureStackHCI/clusters/securitySettings](aliases/Microsoft.AzureStackHCI/clusters-securitySettings.md)
 
 
 ## Microsoft.Batch
