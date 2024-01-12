@@ -40,4 +40,24 @@
 | `properties.properties.serviceFabricCluster.clientCertificateId` | `Microsoft.ApiManagement/service/backends/serviceFabricCluster.clientCertificateId` |
 | `properties.credentials.certificateIds` | `Microsoft.ApiManagement/service/backends/credentials.certificateIds` |
 | `properties.credentials.certificateIds[*]` | `Microsoft.ApiManagement/service/backends/credentials.certificateIds[*]` |
+| `properties.circuitBreaker` | `Microsoft.ApiManagement/service/backends/circuitBreaker` |
+| `properties.circuitBreaker.rules` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules` |
+| `properties.circuitBreaker.rules[*]` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*]` |
+| `properties.circuitBreaker.rules[*].name` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].name` |
+| `properties.circuitBreaker.rules[*].failureCondition` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition` |
+| `properties.circuitBreaker.rules[*].failureCondition.count` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.count` |
+| `properties.circuitBreaker.rules[*].failureCondition.percentage` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.percentage` |
+| `properties.circuitBreaker.rules[*].failureCondition.interval` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.interval` |
+| `properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges` |
+| `properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges[*]` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges[*]` |
+| `properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].min` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].min` |
+| `properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].max` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges[*].max` |
+| `properties.circuitBreaker.rules[*].failureCondition.errorReasons` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.errorReasons` |
+| `properties.circuitBreaker.rules[*].failureCondition.errorReasons[*]` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].failureCondition.errorReasons[*]` |
+| `properties.circuitBreaker.rules[*].tripDuration` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].tripDuration` |
+| `properties.pool` | `Microsoft.ApiManagement/service/backends/pool` |
+| `properties.pool.services` | `Microsoft.ApiManagement/service/backends/pool.services` |
+| `properties.pool.services[*]` | `Microsoft.ApiManagement/service/backends/pool.services[*]` |
+| `properties.pool.services[*].id` | `Microsoft.ApiManagement/service/backends/pool.services[*].id` |
+| `properties.type` | `Microsoft.ApiManagement/service/backends/type` |
 

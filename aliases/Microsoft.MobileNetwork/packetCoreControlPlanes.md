@@ -1,0 +1,62 @@
+# Microsoft.MobileNetwork/packetCoreControlPlanes
+
+| Default Path | Alias |
+|---|---|
+| `properties.provisioningState` | `Microsoft.MobileNetwork/packetCoreControlPlanes/provisioningState` |
+| `properties.mobileNetwork` | `Microsoft.MobileNetwork/packetCoreControlPlanes/mobileNetwork` |
+| `properties.mobileNetwork.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/mobileNetwork.id` |
+| `properties.customLocation` | `Microsoft.MobileNetwork/packetCoreControlPlanes/customLocation` |
+| `properties.customLocation.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/customLocation.id` |
+| `properties.coreNetworkTechnology` | `Microsoft.MobileNetwork/packetCoreControlPlanes/coreNetworkTechnology` |
+| `properties.version` | `Microsoft.MobileNetwork/packetCoreControlPlanes/version` |
+| `properties.controlPlaneAccessInterface` | `Microsoft.MobileNetwork/packetCoreControlPlanes/controlPlaneAccessInterface` |
+| `properties.controlPlaneAccessInterface.name` | `Microsoft.MobileNetwork/packetCoreControlPlanes/controlPlaneAccessInterface.name` |
+| `properties.controlPlaneAccessInterface.ipv4Address` | `Microsoft.MobileNetwork/packetCoreControlPlanes/controlPlaneAccessInterface.ipv4Address` |
+| `properties.controlPlaneAccessInterface.ipv4Subnet` | `Microsoft.MobileNetwork/packetCoreControlPlanes/controlPlaneAccessInterface.ipv4Subnet` |
+| `properties.controlPlaneAccessInterface.ipv4Gateway` | `Microsoft.MobileNetwork/packetCoreControlPlanes/controlPlaneAccessInterface.ipv4Gateway` |
+| `properties.platform` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform` |
+| `properties.platform.type` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.type` |
+| `properties.platform.azureStackEdgeDevice` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.azureStackEdgeDevice` |
+| `properties.platform.azureStackEdgeDevice.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.azureStackEdgeDevice.id` |
+| `properties.platform.connectedCluster` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.connectedCluster` |
+| `properties.platform.connectedCluster.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.connectedCluster.id` |
+| `properties.platform.customLocation` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.customLocation` |
+| `properties.platform.customLocation.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.customLocation.id` |
+| `properties.sku` | `Microsoft.MobileNetwork/packetCoreControlPlanes/sku` |
+| `properties.localDiagnosticsAccess` | `Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess` |
+| `properties.localDiagnosticsAccess.httpsServerCertificate` | `Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.httpsServerCertificate` |
+| `properties.localDiagnosticsAccess.httpsServerCertificate.certificateUrl` | `Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.httpsServerCertificate.certificateUrl` |
+| `properties.installation` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation` |
+| `properties.installation.state` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation.state` |
+| `properties.installation.operation` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation.operation` |
+| `properties.installation.operation.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation.operation.id` |
+| `properties.sites` | `Microsoft.MobileNetwork/packetCoreControlPlanes/sites` |
+| `properties.sites[*]` | `Microsoft.MobileNetwork/packetCoreControlPlanes/sites[*]` |
+| `properties.sites[*].id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/sites[*].id` |
+| `properties.platform.azureStackEdgeDevices` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.azureStackEdgeDevices` |
+| `properties.platform.azureStackEdgeDevices[*]` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.azureStackEdgeDevices[*]` |
+| `properties.platform.azureStackEdgeDevices[*].id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.azureStackEdgeDevices[*].id` |
+| `properties.platform.azureStackHciCluster` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.azureStackHciCluster` |
+| `properties.platform.azureStackHciCluster.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/platform.azureStackHciCluster.id` |
+| `properties.rollbackVersion` | `Microsoft.MobileNetwork/packetCoreControlPlanes/rollbackVersion` |
+| `properties.ueMtu` | `Microsoft.MobileNetwork/packetCoreControlPlanes/ueMtu` |
+| `properties.localDiagnosticsAccess.authenticationType` | `Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.authenticationType` |
+| `properties.localDiagnosticsAccess.httpsServerCertificate.provisioning` | `Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.httpsServerCertificate.provisioning` |
+| `properties.localDiagnosticsAccess.httpsServerCertificate.provisioning.state` | `Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.httpsServerCertificate.provisioning.state` |
+| `properties.localDiagnosticsAccess.httpsServerCertificate.provisioning.reason` | `Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.httpsServerCertificate.provisioning.reason` |
+| `properties.installation.desiredState` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation.desiredState` |
+| `properties.installation.reinstallRequired` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation.reinstallRequired` |
+| `properties.installation.reasons` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation.reasons` |
+| `properties.installation.reasons[*]` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installation.reasons[*]` |
+| `properties.installedVersion` | `Microsoft.MobileNetwork/packetCoreControlPlanes/installedVersion` |
+| `properties.diagnosticsUpload` | `Microsoft.MobileNetwork/packetCoreControlPlanes/diagnosticsUpload` |
+| `properties.diagnosticsUpload.storageAccountContainerUrl` | `Microsoft.MobileNetwork/packetCoreControlPlanes/diagnosticsUpload.storageAccountContainerUrl` |
+| `properties.controlPlaneAccessVirtualIpv4Addresses` | `Microsoft.MobileNetwork/packetCoreControlPlanes/controlPlaneAccessVirtualIpv4Addresses` |
+| `properties.controlPlaneAccessVirtualIpv4Addresses[*]` | `Microsoft.MobileNetwork/packetCoreControlPlanes/controlPlaneAccessVirtualIpv4Addresses[*]` |
+| `properties.eventHub` | `Microsoft.MobileNetwork/packetCoreControlPlanes/eventHub` |
+| `properties.eventHub.id` | `Microsoft.MobileNetwork/packetCoreControlPlanes/eventHub.id` |
+| `properties.eventHub.reportingInterval` | `Microsoft.MobileNetwork/packetCoreControlPlanes/eventHub.reportingInterval` |
+| `properties.signaling` | `Microsoft.MobileNetwork/packetCoreControlPlanes/signaling` |
+| `properties.signaling.nasReroute` | `Microsoft.MobileNetwork/packetCoreControlPlanes/signaling.nasReroute` |
+| `properties.signaling.nasReroute.macroMmeGroupId` | `Microsoft.MobileNetwork/packetCoreControlPlanes/signaling.nasReroute.macroMmeGroupId` |
+

@@ -131,4 +131,8 @@
 | `properties.natGatewayState` | `Microsoft.ApiManagement/service/natGatewayState` |
 | `properties.outboundPublicIPAddresses` | `Microsoft.ApiManagement/service/outboundPublicIPAddresses` |
 | `properties.outboundPublicIPAddresses[*]` | `Microsoft.ApiManagement/service/outboundPublicIPAddresses[*]` |
+| `properties.configurationApi` | `Microsoft.ApiManagement/service/configurationApi` |
+| `properties.configurationApi.legacyApi` | `Microsoft.ApiManagement/service/configurationApi.legacyApi` |
+| `properties.legacyPortalStatus` | `Microsoft.ApiManagement/service/legacyPortalStatus` |
+| `properties.developerPortalStatus` | `Microsoft.ApiManagement/service/developerPortalStatus` |
 
