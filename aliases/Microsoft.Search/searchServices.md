@@ -63,6 +63,4 @@
 | `properties.authOptions.aadOrApiKey.aadAuthFailureMode` | `Microsoft.Search/searchServices/authOptions.aadOrApiKey.aadAuthFailureMode` |
 | `properties.semanticSearch` | `Microsoft.Search/searchServices/semanticSearch` |
 | `properties.eTag` | `Microsoft.Search/searchServices/eTag` |
-| `properties.privateEndpointConnections[*].properties.groupId` | `Microsoft.Search/searchServices/privateEndpointConnections[*].groupId` |
-| `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Search/searchServices/privateEndpointConnections[*].provisioningState` |
 

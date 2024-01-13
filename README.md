@@ -75,16 +75,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ApiManagement/service/schemas](aliases/Microsoft.ApiManagement/service-schemas.md)
 - [Microsoft.ApiManagement/service/authorizationProviders](aliases/Microsoft.ApiManagement/service-authorizationProviders.md)
 - [Microsoft.ApiManagement/service/gateways/hostnameConfigurations](aliases/Microsoft.ApiManagement/service-gateways-hostnameConfigurations.md)
-- [Microsoft.ApiManagement/service/apis/resolvers](aliases/Microsoft.ApiManagement/service-apis-resolvers.md)
-- [Microsoft.ApiManagement/service/authorizationProviders/authorizations](aliases/Microsoft.ApiManagement/service-authorizationProviders-authorizations.md)
-- [Microsoft.ApiManagement/service/documentations](aliases/Microsoft.ApiManagement/service-documentations.md)
-- [Microsoft.ApiManagement/service/policyRestrictions](aliases/Microsoft.ApiManagement/service-policyRestrictions.md)
-- [Microsoft.ApiManagement/service/products/apiLinks](aliases/Microsoft.ApiManagement/service-products-apiLinks.md)
-- [Microsoft.ApiManagement/service/products/groupLinks](aliases/Microsoft.ApiManagement/service-products-groupLinks.md)
-- [Microsoft.ApiManagement/service/tags/apiLinks](aliases/Microsoft.ApiManagement/service-tags-apiLinks.md)
-- [Microsoft.ApiManagement/service/tags/operationLinks](aliases/Microsoft.ApiManagement/service-tags-operationLinks.md)
-- [Microsoft.ApiManagement/service/tags/productLinks](aliases/Microsoft.ApiManagement/service-tags-productLinks.md)
-- [Microsoft.ApiManagement/service/workspaces](aliases/Microsoft.ApiManagement/service-workspaces.md)
 
 
 ## Microsoft.App
@@ -273,7 +263,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -300,9 +289,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/privateEndpointConnections](aliases/Microsoft.CognitiveServices/accounts-privateEndpointConnections.md)
 - [Microsoft.CognitiveServices/accounts/commitmentplans](aliases/Microsoft.CognitiveServices/accounts-commitmentplans.md)
 - [Microsoft.CognitiveServices/accounts/deployments](aliases/Microsoft.CognitiveServices/accounts-deployments.md)
-- [Microsoft.CognitiveServices/accounts/encryptionScopes](aliases/Microsoft.CognitiveServices/accounts-encryptionScopes.md)
-- [Microsoft.CognitiveServices/accounts/raiBlocklists](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists.md)
-- [Microsoft.CognitiveServices/accounts/raiPolicies](aliases/Microsoft.CognitiveServices/accounts-raiPolicies.md)
 
 
 ## Microsoft.Compute
@@ -645,7 +631,6 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.DocumentDB/databaseAccounts](aliases/Microsoft.DocumentDB/databaseAccounts.md)
 - [Microsoft.DocumentDB/cassandraClusters](aliases/Microsoft.DocumentDB/cassandraClusters.md)
-- [Microsoft.DocumentDB/mongoClusters](aliases/Microsoft.DocumentDB/mongoClusters.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables-throughputSettings.md)
@@ -693,8 +678,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys](aliases/Microsoft.DocumentDB/databaseAccounts-sqlDatabases-clientEncryptionKeys.md)
 - [Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-mongodbRoleDefinitions.md)
 - [Microsoft.DocumentDB/databaseAccounts/mongodbUserDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-mongodbUserDefinitions.md)
-- [Microsoft.DocumentDB/databaseAccounts/dataTransferJobs](aliases/Microsoft.DocumentDB/databaseAccounts-dataTransferJobs.md)
-- [Microsoft.DocumentDB/mongoClusters/firewallRules](aliases/Microsoft.DocumentDB/mongoClusters-firewallRules.md)
 
 
 ## Microsoft.EdgeOrder
@@ -1096,12 +1079,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
@@ -1112,6 +1089,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
 - [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
 - [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)

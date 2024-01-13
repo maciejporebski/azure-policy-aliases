@@ -136,7 +136,4 @@
 | `properties.minimalTlsVersion` | `Microsoft.DocumentDB/databaseAccounts/minimalTlsVersion` |
 | `properties.restoreParameters.sourceBackupLocation` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.sourceBackupLocation` |
 | `properties.enableBurstCapacity` | `Microsoft.DocumentDB/databaseAccounts/enableBurstCapacity` |
-| `properties.customerManagedKeyStatus` | `Microsoft.DocumentDB/databaseAccounts/customerManagedKeyStatus` |
-| `properties.enablePriorityBasedExecution` | `Microsoft.DocumentDB/databaseAccounts/enablePriorityBasedExecution` |
-| `properties.defaultPriorityLevel` | `Microsoft.DocumentDB/databaseAccounts/defaultPriorityLevel` |
 
