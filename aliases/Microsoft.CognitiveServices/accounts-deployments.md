@@ -60,4 +60,9 @@
 | `properties.rateLimits[*].matchPatterns[*].path` | `Microsoft.CognitiveServices/accounts/deployments/rateLimits[*].matchPatterns[*].path` |
 | `properties.rateLimits[*].matchPatterns[*].method` | `Microsoft.CognitiveServices/accounts/deployments/rateLimits[*].matchPatterns[*].method` |
 | `properties.versionUpgradeOption` | `Microsoft.CognitiveServices/accounts/deployments/versionUpgradeOption` |
+| `properties.dynamicThrottlingEnabled` | `Microsoft.CognitiveServices/accounts/deployments/dynamicThrottlingEnabled` |
+| `properties.currentCapacity` | `Microsoft.CognitiveServices/accounts/deployments/currentCapacity` |
+| `properties.capacitySettings` | `Microsoft.CognitiveServices/accounts/deployments/capacitySettings` |
+| `properties.capacitySettings.designatedCapacity` | `Microsoft.CognitiveServices/accounts/deployments/capacitySettings.designatedCapacity` |
+| `properties.capacitySettings.priority` | `Microsoft.CognitiveServices/accounts/deployments/capacitySettings.priority` |
 

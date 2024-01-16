@@ -132,4 +132,8 @@
 | `properties.abusePenalty.action` | `Microsoft.CognitiveServices/accounts/abusePenalty.action` |
 | `properties.abusePenalty.rateLimitPercentage` | `Microsoft.CognitiveServices/accounts/abusePenalty.rateLimitPercentage` |
 | `properties.abusePenalty.expiration` | `Microsoft.CognitiveServices/accounts/abusePenalty.expiration` |
+| `properties.networkAcls.bypass` | `Microsoft.CognitiveServices/accounts/networkAcls.bypass` |
+| `properties.amlWorkspace` | `Microsoft.CognitiveServices/accounts/amlWorkspace` |
+| `properties.amlWorkspace.resourceId` | `Microsoft.CognitiveServices/accounts/amlWorkspace.resourceId` |
+| `properties.amlWorkspace.identityClientId` | `Microsoft.CognitiveServices/accounts/amlWorkspace.identityClientId` |
 

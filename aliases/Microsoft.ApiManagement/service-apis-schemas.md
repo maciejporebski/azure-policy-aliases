@@ -6,4 +6,5 @@
 | `properties.document` | `Microsoft.ApiManagement/service/apis/schemas/document` |
 | `properties.document.value` | `Microsoft.ApiManagement/service/apis/schemas/document.value` |
 | `properties.document.definitions` | `Microsoft.ApiManagement/service/apis/schemas/document.definitions` |
+| `properties.provisioningState` | `Microsoft.ApiManagement/service/apis/schemas/provisioningState` |
 

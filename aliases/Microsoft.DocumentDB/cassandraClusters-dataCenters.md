@@ -33,4 +33,5 @@
 | `properties.provisionError.message` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.message` |
 | `properties.provisionError.target` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.target` |
 | `properties.provisionError.additionalErrorInfo` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.additionalErrorInfo` |
+| `properties.privateEndpointIpAddress` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/privateEndpointIpAddress` |
 

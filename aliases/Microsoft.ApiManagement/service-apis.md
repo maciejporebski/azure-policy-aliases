@@ -57,4 +57,5 @@
 | `properties.authenticationSettings.openidAuthenticationSettings[*].openidProviderId` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].openidProviderId` |
 | `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` |
 | `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` |
+| `properties.provisioningState` | `Microsoft.ApiManagement/service/apis/provisioningState` |
 

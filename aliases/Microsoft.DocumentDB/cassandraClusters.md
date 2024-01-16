@@ -35,4 +35,18 @@
 | `properties.provisionError.message` | `Microsoft.DocumentDB/cassandraClusters/provisionError.message` |
 | `properties.provisionError.target` | `Microsoft.DocumentDB/cassandraClusters/provisionError.target` |
 | `properties.provisionError.additionalErrorInfo` | `Microsoft.DocumentDB/cassandraClusters/provisionError.additionalErrorInfo` |
+| `properties.clusterType` | `Microsoft.DocumentDB/cassandraClusters/clusterType` |
+| `properties.extensions` | `Microsoft.DocumentDB/cassandraClusters/extensions` |
+| `properties.extensions[*]` | `Microsoft.DocumentDB/cassandraClusters/extensions[*]` |
+| `properties.backupSchedules` | `Microsoft.DocumentDB/cassandraClusters/backupSchedules` |
+| `properties.backupSchedules[*]` | `Microsoft.DocumentDB/cassandraClusters/backupSchedules[*]` |
+| `properties.backupSchedules[*].scheduleName` | `Microsoft.DocumentDB/cassandraClusters/backupSchedules[*].scheduleName` |
+| `properties.backupSchedules[*].cronExpression` | `Microsoft.DocumentDB/cassandraClusters/backupSchedules[*].cronExpression` |
+| `properties.backupSchedules[*].retentionInHours` | `Microsoft.DocumentDB/cassandraClusters/backupSchedules[*].retentionInHours` |
+| `properties.autoReplicate` | `Microsoft.DocumentDB/cassandraClusters/autoReplicate` |
+| `properties.externalDataCenters` | `Microsoft.DocumentDB/cassandraClusters/externalDataCenters` |
+| `properties.externalDataCenters[*]` | `Microsoft.DocumentDB/cassandraClusters/externalDataCenters[*]` |
+| `properties.scheduledEventStrategy` | `Microsoft.DocumentDB/cassandraClusters/scheduledEventStrategy` |
+| `properties.azureConnectionMethod` | `Microsoft.DocumentDB/cassandraClusters/azureConnectionMethod` |
+| `properties.privateLinkResourceId` | `Microsoft.DocumentDB/cassandraClusters/privateLinkResourceId` |
 

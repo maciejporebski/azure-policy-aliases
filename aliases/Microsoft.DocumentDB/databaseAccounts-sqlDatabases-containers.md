@@ -60,4 +60,12 @@
 | `properties.resource.restoreParameters.restoreSource` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.restoreParameters.restoreSource` |
 | `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.restoreParameters.restoreTimestampInUtc` |
 | `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.createMode` |
+| `properties.resource.materializedViewDefinition` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViewDefinition` |
+| `properties.resource.materializedViewDefinition.sourceCollectionRid` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViewDefinition.sourceCollectionRid` |
+| `properties.resource.materializedViewDefinition.sourceCollectionId` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViewDefinition.sourceCollectionId` |
+| `properties.resource.materializedViewDefinition.definition` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViewDefinition.definition` |
+| `properties.resource.computedProperties` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties` |
+| `properties.resource.computedProperties[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*]` |
+| `properties.resource.computedProperties[*].name` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*].name` |
+| `properties.resource.computedProperties[*].query` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*].query` |
 

@@ -13,4 +13,6 @@
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
 | `properties.resource.minimumThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.minimumThroughput` |
 | `properties.resource.offerReplacePending` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.offerReplacePending` |
+| `properties.resource.instantMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.instantMaximumThroughput` |
+| `properties.resource.softAllowedMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/resource.softAllowedMaximumThroughput` |
 
