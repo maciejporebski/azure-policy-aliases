@@ -49,4 +49,5 @@
 | `properties.importConfiguration.integrationDataStore` | `Microsoft.HealthcareApis/services/importConfiguration.integrationDataStore` |
 | `properties.importConfiguration.initialImportMode` | `Microsoft.HealthcareApis/services/importConfiguration.initialImportMode` |
 | `properties.importConfiguration.enabled` | `Microsoft.HealthcareApis/services/importConfiguration.enabled` |
+| `properties.cosmosDbConfiguration.crossTenantCmkApplicationId` | `Microsoft.HealthcareApis/services/cosmosDbConfiguration.crossTenantCmkApplicationId` |
 

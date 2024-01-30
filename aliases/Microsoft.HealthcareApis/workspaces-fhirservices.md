@@ -50,4 +50,9 @@
 | `properties.importConfiguration.integrationDataStore` | `Microsoft.HealthcareApis/workspaces/fhirservices/importConfiguration.integrationDataStore` |
 | `properties.importConfiguration.initialImportMode` | `Microsoft.HealthcareApis/workspaces/fhirservices/importConfiguration.initialImportMode` |
 | `properties.importConfiguration.enabled` | `Microsoft.HealthcareApis/workspaces/fhirservices/importConfiguration.enabled` |
+| `properties.implementationGuidesConfiguration` | `Microsoft.HealthcareApis/workspaces/fhirservices/implementationGuidesConfiguration` |
+| `properties.implementationGuidesConfiguration.usCoreMissingData` | `Microsoft.HealthcareApis/workspaces/fhirservices/implementationGuidesConfiguration.usCoreMissingData` |
+| `properties.encryption` | `Microsoft.HealthcareApis/workspaces/fhirservices/encryption` |
+| `properties.encryption.customerManagedKeyEncryption` | `Microsoft.HealthcareApis/workspaces/fhirservices/encryption.customerManagedKeyEncryption` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.HealthcareApis/workspaces/fhirservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
 

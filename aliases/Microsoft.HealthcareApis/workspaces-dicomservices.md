@@ -30,4 +30,8 @@
 | `properties.corsConfiguration.methods[*]` | `Microsoft.HealthcareApis/workspaces/dicomservices/corsConfiguration.methods[*]` |
 | `properties.corsConfiguration.maxAge` | `Microsoft.HealthcareApis/workspaces/dicomservices/corsConfiguration.maxAge` |
 | `properties.corsConfiguration.allowCredentials` | `Microsoft.HealthcareApis/workspaces/dicomservices/corsConfiguration.allowCredentials` |
+| `properties.eventState` | `Microsoft.HealthcareApis/workspaces/dicomservices/eventState` |
+| `properties.encryption` | `Microsoft.HealthcareApis/workspaces/dicomservices/encryption` |
+| `properties.encryption.customerManagedKeyEncryption` | `Microsoft.HealthcareApis/workspaces/dicomservices/encryption.customerManagedKeyEncryption` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.HealthcareApis/workspaces/dicomservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
 

@@ -28,4 +28,6 @@
 | `properties.policy.rules[*].definition.filters.excludePrefix` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.excludePrefix` |
 | `properties.policy.rules[*].definition.filters.excludePrefix[*]` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.excludePrefix[*]` |
 | `properties.policy.rules[*].definition.filters.includeDeleted` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.includeDeleted` |
+| `properties.policy.rules[*].definition.filters.creationTime` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.creationTime` |
+| `properties.policy.rules[*].definition.filters.creationTime.lastNDays` | `Microsoft.Storage/storageAccounts/inventoryPolicies/policy.rules[*].definition.filters.creationTime.lastNDays` |
 
