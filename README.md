@@ -1531,6 +1531,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules.md)
 - [Microsoft.Sql/managedInstances/serverConfigurationOptions](aliases/Microsoft.Sql/managedInstances-serverConfigurationOptions.md)
 - [Microsoft.Sql/servers/databases/replicationLinks](aliases/Microsoft.Sql/servers-databases-replicationLinks.md)
+- [Microsoft.Sql/servers/networkSecurityPerimeterConfigurations](aliases/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.SqlVirtualMachine
