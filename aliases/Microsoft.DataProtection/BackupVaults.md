@@ -30,4 +30,14 @@
 | `properties.featureSettings.crossRegionRestoreSettings` | `Microsoft.DataProtection/backupVaults/featureSettings.crossRegionRestoreSettings` |
 | `properties.featureSettings.crossRegionRestoreSettings.state` | `Microsoft.DataProtection/backupVaults/featureSettings.crossRegionRestoreSettings.state` |
 | `properties.secureScore` | `Microsoft.DataProtection/backupVaults/secureScore` |
+| `properties.securitySettings.encryptionSettings` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings` |
+| `properties.securitySettings.encryptionSettings.state` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.state` |
+| `properties.securitySettings.encryptionSettings.keyVaultProperties` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.keyVaultProperties` |
+| `properties.securitySettings.encryptionSettings.keyVaultProperties.keyUri` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.keyVaultProperties.keyUri` |
+| `properties.securitySettings.encryptionSettings.kekIdentity` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.kekIdentity` |
+| `properties.securitySettings.encryptionSettings.kekIdentity.identityType` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.kekIdentity.identityType` |
+| `properties.securitySettings.encryptionSettings.kekIdentity.identityId` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.kekIdentity.identityId` |
+| `properties.securitySettings.encryptionSettings.infrastructureEncryption` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.infrastructureEncryption` |
+| `properties.replicatedRegions` | `Microsoft.DataProtection/backupVaults/replicatedRegions` |
+| `properties.replicatedRegions[*]` | `Microsoft.DataProtection/backupVaults/replicatedRegions[*]` |
 
