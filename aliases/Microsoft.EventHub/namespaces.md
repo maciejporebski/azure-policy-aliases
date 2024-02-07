@@ -92,4 +92,11 @@
 | `properties.alternateName` | `Microsoft.EventHub/namespaces/alternateName` |
 | `properties.minimumTlsVersion` | `Microsoft.EventHub/namespaces/minimumTlsVersion` |
 | `properties.publicNetworkAccess` | `Microsoft.EventHub/namespaces/publicNetworkAccess` |
+| `properties.geoDataReplication` | `Microsoft.EventHub/namespaces/geoDataReplication` |
+| `properties.geoDataReplication.maxReplicationLagDurationInSeconds` | `Microsoft.EventHub/namespaces/geoDataReplication.maxReplicationLagDurationInSeconds` |
+| `properties.geoDataReplication.locations` | `Microsoft.EventHub/namespaces/geoDataReplication.locations` |
+| `properties.geoDataReplication.locations[*]` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*]` |
+| `properties.geoDataReplication.locations[*].locationName` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].locationName` |
+| `properties.geoDataReplication.locations[*].roleType` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].roleType` |
+| `properties.geoDataReplication.locations[*].clusterArmId` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].clusterArmId` |
 

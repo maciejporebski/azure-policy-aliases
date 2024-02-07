@@ -23,4 +23,11 @@
 | `properties.captureDescription.destination.properties.dataLakeSubscriptionId` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.dataLakeSubscriptionId` |
 | `properties.captureDescription.destination.properties.dataLakeAccountName` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.dataLakeAccountName` |
 | `properties.captureDescription.destination.properties.dataLakeFolderPath` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.dataLakeFolderPath` |
+| `properties.retentionDescription` | `Microsoft.EventHub/namespaces/eventhubs/retentionDescription` |
+| `properties.retentionDescription.cleanupPolicy` | `Microsoft.EventHub/namespaces/eventhubs/retentionDescription.cleanupPolicy` |
+| `properties.retentionDescription.retentionTimeInHours` | `Microsoft.EventHub/namespaces/eventhubs/retentionDescription.retentionTimeInHours` |
+| `properties.retentionDescription.tombstoneRetentionTimeInHours` | `Microsoft.EventHub/namespaces/eventhubs/retentionDescription.tombstoneRetentionTimeInHours` |
+| `properties.captureDescription.destination.identity` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity` |
+| `properties.captureDescription.destination.identity.type` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity.type` |
+| `properties.captureDescription.destination.identity.userAssignedIdentity` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity.userAssignedIdentity` |
 

@@ -12,4 +12,8 @@
 | `properties.createdAt` | `Microsoft.EventHub/clusters/createdAt` |
 | `properties.updatedAt` | `Microsoft.EventHub/clusters/updatedAt` |
 | `properties.supportsScaling` | `Microsoft.EventHub/clusters/supportsScaling` |
+| `properties.provisioningState` | `Microsoft.EventHub/clusters/provisioningState` |
+| `properties.upgradePreferences` | `Microsoft.EventHub/clusters/upgradePreferences` |
+| `properties.upgradePreferences.startDayOfWeek` | `Microsoft.EventHub/clusters/upgradePreferences.startDayOfWeek` |
+| `properties.upgradePreferences.startHourOfDay` | `Microsoft.EventHub/clusters/upgradePreferences.startHourOfDay` |
 

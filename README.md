@@ -254,6 +254,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.BotService/botServices/channels](aliases/Microsoft.BotService/botServices-channels.md)
 - [Microsoft.BotService/botServices/connections](aliases/Microsoft.BotService/botServices-connections.md)
 - [Microsoft.BotService/botServices/privateEndpointConnections](aliases/Microsoft.BotService/botServices-privateEndpointConnections.md)
+- [Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations](aliases/Microsoft.BotService/botServices-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.Cache
@@ -273,6 +274,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -747,6 +749,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.EventHub/namespaces/authorizationrules](aliases/Microsoft.EventHub/namespaces-authorizationrules.md)
 - [Microsoft.EventHub/namespaces/networkrulesets](aliases/Microsoft.EventHub/namespaces-networkrulesets.md)
 - [Microsoft.EventHub/namespaces/privateEndpointConnections](aliases/Microsoft.EventHub/namespaces-privateEndpointConnections.md)
+- [Microsoft.EventHub/namespaces/networkSecurityPerimeterConfigurations](aliases/Microsoft.EventHub/namespaces-networkSecurityPerimeterConfigurations.md)
 - [Microsoft.EventHub/namespaces/eventhubs](aliases/Microsoft.EventHub/namespaces-eventhubs.md)
 - [Microsoft.EventHub/namespaces/eventhubs/authorizationrules](aliases/Microsoft.EventHub/namespaces-eventhubs-authorizationrules.md)
 - [Microsoft.EventHub/namespaces/eventhubs/consumergroups](aliases/Microsoft.EventHub/namespaces-eventhubs-consumergroups.md)
@@ -1060,6 +1063,9 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Network
 
+- [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
+- [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
+- [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
 - [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
 - [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
 - [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
@@ -1094,9 +1100,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
 - [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
-- [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
-- [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
-- [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
