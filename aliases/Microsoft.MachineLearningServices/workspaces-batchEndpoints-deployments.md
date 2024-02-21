@@ -48,4 +48,24 @@
 | `sku.size` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.size` |
 | `sku.family` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.family` |
 | `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/sku.capacity` |
+| `properties.deploymentConfiguration` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent` |
+| `properties.deploymentConfiguration` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration` |
+| `properties.deploymentConfiguration.componentId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.OutputPath` |
+| `properties.deploymentConfiguration.componentId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.Id` |
+| `properties.deploymentConfiguration.componentId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.DataPath` |
+| `properties.deploymentConfiguration.componentId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId` |
+| `properties.deploymentConfiguration.componentId.jobId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.OutputPath.jobId` |
+| `properties.deploymentConfiguration.componentId.path` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.OutputPath.path` |
+| `properties.deploymentConfiguration.componentId.path` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.DataPath.path` |
+| `properties.deploymentConfiguration.componentId.assetId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.Id.assetId` |
+| `properties.deploymentConfiguration.componentId.assetId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.assetId` |
+| `properties.deploymentConfiguration.componentId.datastoreId` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.DataPath.datastoreId` |
+| `properties.deploymentConfiguration.componentId.referenceType` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.componentId.referenceType` |
+| `properties.deploymentConfiguration.description` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.description` |
+| `properties.deploymentConfiguration.settings` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.settings` |
+| `properties.deploymentConfiguration.tags` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.PipelineComponent.tags` |
+| `properties.deploymentConfiguration.deploymentConfigurationType` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/deploymentConfiguration.deploymentConfigurationType` |
+| `properties.resources.locations` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.locations` |
+| `properties.resources.locations[*]` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.locations[*]` |
+| `properties.resources.maxInstanceCount` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.maxInstanceCount` |
 

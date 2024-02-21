@@ -45,4 +45,11 @@
 | `properties.osType` | `Microsoft.MachineLearningServices/workspaces/environments/versions/osType` |
 | `properties.autoRebuild` | `Microsoft.MachineLearningServices/workspaces/environments/versions/autoRebuild` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/environments/versions/provisioningState` |
+| `properties.stage` | `Microsoft.MachineLearningServices/workspaces/environments/versions/stage` |
+| `properties.autoDeleteSetting` | `Microsoft.MachineLearningServices/workspaces/environments/versions/autoDeleteSetting` |
+| `properties.autoDeleteSetting.condition` | `Microsoft.MachineLearningServices/workspaces/environments/versions/autoDeleteSetting.condition` |
+| `properties.autoDeleteSetting.value` | `Microsoft.MachineLearningServices/workspaces/environments/versions/autoDeleteSetting.value` |
+| `properties.intellectualProperty` | `Microsoft.MachineLearningServices/workspaces/environments/versions/intellectualProperty` |
+| `properties.intellectualProperty.protectionLevel` | `Microsoft.MachineLearningServices/workspaces/environments/versions/intellectualProperty.protectionLevel` |
+| `properties.intellectualProperty.publisher` | `Microsoft.MachineLearningServices/workspaces/environments/versions/intellectualProperty.publisher` |
 

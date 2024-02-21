@@ -10,4 +10,7 @@
 | `properties.isArchived` | `Microsoft.MachineLearningServices/workspaces/codes/versions/isArchived` |
 | `properties.codeUri` | `Microsoft.MachineLearningServices/workspaces/codes/versions/codeUri` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/codes/versions/provisioningState` |
+| `properties.autoDeleteSetting` | `Microsoft.MachineLearningServices/workspaces/codes/versions/autoDeleteSetting` |
+| `properties.autoDeleteSetting.condition` | `Microsoft.MachineLearningServices/workspaces/codes/versions/autoDeleteSetting.condition` |
+| `properties.autoDeleteSetting.value` | `Microsoft.MachineLearningServices/workspaces/codes/versions/autoDeleteSetting.value` |
 

@@ -347,4 +347,20 @@
 | `properties.properties.osImageMetadata.currentImageVersion` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.currentImageVersion` |
 | `properties.properties.osImageMetadata.latestImageVersion` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.latestImageVersion` |
 | `properties.properties.osImageMetadata.isLatestOsImageVersion` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.isLatestOsImageVersion` |
+| `properties.properties.customServices[*].image.version` | `Microsoft.MachineLearningServices/workspaces/computes/customServices[*].image.version` |
+| `properties.properties.customServices[*].kernel` | `Microsoft.MachineLearningServices/workspaces/computes/customServices[*].kernel` |
+| `properties.properties.customServices[*].kernel.argv` | `Microsoft.MachineLearningServices/workspaces/computes/customServices[*].kernel.argv` |
+| `properties.properties.customServices[*].kernel.argv[*]` | `Microsoft.MachineLearningServices/workspaces/computes/customServices[*].kernel.argv[*]` |
+| `properties.properties.customServices[*].kernel.displayName` | `Microsoft.MachineLearningServices/workspaces/computes/customServices[*].kernel.displayName` |
+| `properties.properties.customServices[*].kernel.language` | `Microsoft.MachineLearningServices/workspaces/computes/customServices[*].kernel.language` |
+| `properties.properties.osImageMetadata.osPatchingStatus` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus` |
+| `properties.properties.osImageMetadata.osPatchingStatus.patchStatus` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus.patchStatus` |
+| `properties.properties.osImageMetadata.osPatchingStatus.latestPatchTime` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus.latestPatchTime` |
+| `properties.properties.osImageMetadata.osPatchingStatus.rebootPending` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus.rebootPending` |
+| `properties.properties.osImageMetadata.osPatchingStatus.scheduledRebootTime` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus.scheduledRebootTime` |
+| `properties.properties.enableOSPatching` | `Microsoft.MachineLearningServices/workspaces/computes/enableOSPatching` |
+| `properties.properties.enableRootAccess` | `Microsoft.MachineLearningServices/workspaces/computes/enableRootAccess` |
+| `properties.properties.enableSSO` | `Microsoft.MachineLearningServices/workspaces/computes/enableSSO` |
+| `properties.properties.releaseQuotaOnStop` | `Microsoft.MachineLearningServices/workspaces/computes/releaseQuotaOnStop` |
+| `properties.properties.dataMounts[*].mountMode` | `Microsoft.MachineLearningServices/workspaces/computes/dataMounts[*].mountMode` |
 

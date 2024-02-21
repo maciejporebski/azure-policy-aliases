@@ -737,4 +737,13 @@
 | `properties.datastoreType` | `Microsoft.MachineLearningServices/workspaces/datastores/datastoreType` |
 | `properties.resourceGroup` | `Microsoft.MachineLearningServices/workspaces/datastores/resourceGroup` |
 | `properties.subscriptionId` | `Microsoft.MachineLearningServices/workspaces/datastores/subscriptionId` |
+| `properties.endpoint` | `Microsoft.MachineLearningServices/workspaces/datastores/OneLake.endpoint` |
+| `properties.serviceDataAccessAuthIdentity` | `Microsoft.MachineLearningServices/workspaces/datastores/OneLake.serviceDataAccessAuthIdentity` |
+| `properties.artifact` | `Microsoft.MachineLearningServices/workspaces/datastores/OneLake.artifact` |
+| `properties.artifact.artifactName` | `Microsoft.MachineLearningServices/workspaces/datastores/OneLake.artifact.artifactName` |
+| `properties.artifact.artifactType` | `Microsoft.MachineLearningServices/workspaces/datastores/OneLake.artifact.artifactType` |
+| `properties.oneLakeWorkspaceName` | `Microsoft.MachineLearningServices/workspaces/datastores/OneLake.oneLakeWorkspaceName` |
+| `properties.intellectualProperty` | `Microsoft.MachineLearningServices/workspaces/datastores/intellectualProperty` |
+| `properties.intellectualProperty.protectionLevel` | `Microsoft.MachineLearningServices/workspaces/datastores/intellectualProperty.protectionLevel` |
+| `properties.intellectualProperty.publisher` | `Microsoft.MachineLearningServices/workspaces/datastores/intellectualProperty.publisher` |
 

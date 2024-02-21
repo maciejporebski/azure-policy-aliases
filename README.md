@@ -274,6 +274,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -954,6 +955,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearningServices/workspaces/models/versions](aliases/Microsoft.MachineLearningServices/workspaces-models-versions.md)
 - [Microsoft.MachineLearningServices/workspaces/linkedServices](aliases/Microsoft.MachineLearningServices/workspaces-linkedServices.md)
 - [Microsoft.MachineLearningServices/workspaces/schedules](aliases/Microsoft.MachineLearningServices/workspaces-schedules.md)
+- [Microsoft.MachineLearningServices/workspaces/featuresets](aliases/Microsoft.MachineLearningServices/workspaces-featuresets.md)
+- [Microsoft.MachineLearningServices/workspaces/serverlessEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-serverlessEndpoints.md)
+- [Microsoft.MachineLearningServices/workspaces/featurestoreEntities](aliases/Microsoft.MachineLearningServices/workspaces-featurestoreEntities.md)
+- [Microsoft.MachineLearningServices/workspaces/endpoints](aliases/Microsoft.MachineLearningServices/workspaces-endpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
 

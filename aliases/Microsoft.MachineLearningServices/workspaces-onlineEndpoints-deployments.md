@@ -84,4 +84,10 @@
 | `sku.size` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/sku.size` |
 | `sku.family` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/sku.family` |
 | `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/sku.capacity` |
+| `properties.dataCollector` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector` |
+| `properties.dataCollector.collections` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.collections` |
+| `properties.dataCollector.requestLogging` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.requestLogging` |
+| `properties.dataCollector.requestLogging.captureHeaders` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.requestLogging.captureHeaders` |
+| `properties.dataCollector.requestLogging.captureHeaders[*]` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.requestLogging.captureHeaders[*]` |
+| `properties.dataCollector.rollingRate` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.rollingRate` |
 
