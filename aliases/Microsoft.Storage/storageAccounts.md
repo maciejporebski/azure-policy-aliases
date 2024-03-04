@@ -138,4 +138,17 @@
 | `properties.allowedCopyScope` | `Microsoft.Storage/storageAccounts/allowedCopyScope` |
 | `properties.encryption.keyvaultproperties.currentVersionedKeyExpirationTimestamp` | `Microsoft.Storage/storageAccounts/encryption.keyvaultproperties.currentVersionedKeyExpirationTimestamp` |
 | `properties.dnsEndpointType` | `Microsoft.Storage/storageAccounts/dnsEndpointType` |
+| `properties.primaryEndpoints.dfs` | `Microsoft.Storage/storageAccounts/primaryEndpoints.dfs` |
+| `properties.primaryEndpoints.microsoftEndpoints` | `Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints` |
+| `properties.primaryEndpoints.microsoftEndpoints.blob` | `Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.blob` |
+| `properties.primaryEndpoints.microsoftEndpoints.queue` | `Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.queue` |
+| `properties.primaryEndpoints.microsoftEndpoints.table` | `Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.table` |
+| `properties.primaryEndpoints.microsoftEndpoints.file` | `Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.file` |
+| `properties.primaryEndpoints.microsoftEndpoints.web` | `Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.web` |
+| `properties.primaryEndpoints.microsoftEndpoints.dfs` | `Microsoft.Storage/storageAccounts/primaryEndpoints.microsoftEndpoints.dfs` |
+| `properties.primaryEndpoints.internetEndpoints` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints` |
+| `properties.primaryEndpoints.internetEndpoints.blob` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.blob` |
+| `properties.primaryEndpoints.internetEndpoints.file` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.file` |
+| `properties.primaryEndpoints.internetEndpoints.web` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.web` |
+| `properties.primaryEndpoints.internetEndpoints.dfs` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.dfs` |
 
