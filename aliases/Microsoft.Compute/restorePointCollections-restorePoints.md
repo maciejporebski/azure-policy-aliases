@@ -147,4 +147,11 @@
 | `properties.sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.windowsConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` |
 | `properties.sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.osProfile.linuxConfiguration.patchSettings.automaticByPlatformSettings.bypassPlatformSafetyChecksOnUserSchedule` |
 | `properties.sourceMetadata.hyperVGeneration` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.hyperVGeneration` |
+| `properties.sourceMetadata.storageProfile.diskControllerType` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.storageProfile.diskControllerType` |
+| `properties.sourceMetadata.securityProfile.encryptionIdentity` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.encryptionIdentity` |
+| `properties.sourceMetadata.securityProfile.encryptionIdentity.userAssignedIdentityResourceId` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.encryptionIdentity.userAssignedIdentityResourceId` |
+| `properties.sourceMetadata.securityProfile.proxyAgentSettings` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.proxyAgentSettings` |
+| `properties.sourceMetadata.securityProfile.proxyAgentSettings.enabled` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.proxyAgentSettings.enabled` |
+| `properties.sourceMetadata.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.proxyAgentSettings.mode` |
+| `properties.sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` |
 

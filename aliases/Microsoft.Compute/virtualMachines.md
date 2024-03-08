@@ -265,4 +265,11 @@
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.publicIPAddressConfiguration.properties.dnsSettings.domainNameLabelScope` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].publicIPAddressConfiguration.dnsSettings.domainNameLabelScope` |
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.auxiliaryMode` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].auxiliaryMode` |
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.auxiliarySku` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].auxiliarySku` |
+| `properties.securityProfile.encryptionIdentity` | `Microsoft.Compute/virtualMachines/securityProfile.encryptionIdentity` |
+| `properties.securityProfile.encryptionIdentity.userAssignedIdentityResourceId` | `Microsoft.Compute/virtualMachines/securityProfile.encryptionIdentity.userAssignedIdentityResourceId` |
+| `properties.securityProfile.proxyAgentSettings` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings` |
+| `properties.securityProfile.proxyAgentSettings.enabled` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.enabled` |
+| `properties.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.mode` |
+| `properties.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.keyIncarnationId` |
+| `managedBy` | `Microsoft.Compute/virtualMachines/managedBy` |
 

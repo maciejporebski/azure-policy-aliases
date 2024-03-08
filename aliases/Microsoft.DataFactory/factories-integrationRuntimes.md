@@ -142,4 +142,16 @@
 | `properties.typeProperties.ssisProperties.credential.referenceName` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.ssisProperties.credential.referenceName` |
 | `properties.typeProperties.customerVirtualNetwork` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork` |
 | `properties.typeProperties.customerVirtualNetwork.subnetId` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.customerVirtualNetwork.subnetId` |
+| `properties.typeProperties.selfContainedInteractiveAuthoringEnabled` | `Microsoft.DataFactory/factories/integrationRuntimes/SelfHosted.typeProperties.selfContainedInteractiveAuthoringEnabled` |
+| `properties.typeProperties.computeProperties.dataFlowProperties.customProperties` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.customProperties` |
+| `properties.typeProperties.computeProperties.dataFlowProperties.customProperties[*]` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.customProperties[*]` |
+| `properties.typeProperties.computeProperties.dataFlowProperties.customProperties[*].name` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.customProperties[*].name` |
+| `properties.typeProperties.computeProperties.dataFlowProperties.customProperties[*].value` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.dataFlowProperties.customProperties[*].value` |
+| `properties.typeProperties.computeProperties.copyComputeScaleProperties` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.copyComputeScaleProperties` |
+| `properties.typeProperties.computeProperties.copyComputeScaleProperties.dataIntegrationUnit` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.copyComputeScaleProperties.dataIntegrationUnit` |
+| `properties.typeProperties.computeProperties.copyComputeScaleProperties.timeToLive` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.copyComputeScaleProperties.timeToLive` |
+| `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties` |
+| `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.timeToLive` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.timeToLive` |
+| `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfPipelineNodes` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfPipelineNodes` |
+| `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfExternalNodes` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfExternalNodes` |
 

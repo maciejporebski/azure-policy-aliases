@@ -86,4 +86,5 @@
 | `properties.creationData.performancePlus` | `Microsoft.Compute/snapshots/creationData.performancePlus` |
 | `properties.incrementalSnapshotFamilyId` | `Microsoft.Compute/snapshots/incrementalSnapshotFamilyId` |
 | `properties.creationData.elasticSanResourceId` | `Microsoft.Compute/snapshots/creationData.elasticSanResourceId` |
+| `properties.creationData.provisionedBandwidthCopySpeed` | `Microsoft.Compute/snapshots/creationData.provisionedBandwidthCopySpeed` |
 

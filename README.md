@@ -274,6 +274,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -303,6 +304,16 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/deployments](aliases/Microsoft.CognitiveServices/accounts-deployments.md)
 - [Microsoft.CognitiveServices/accounts/raiBlocklists](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists.md)
 - [Microsoft.CognitiveServices/accounts/raiPolicies](aliases/Microsoft.CognitiveServices/accounts-raiPolicies.md)
+
+
+## Microsoft.Communication
+
+- [Microsoft.Communication/CommunicationServices](aliases/Microsoft.Communication/CommunicationServices.md)
+- [Microsoft.Communication/EmailServices](aliases/Microsoft.Communication/EmailServices.md)
+- [Microsoft.Communication/EmailServices/Domains](aliases/Microsoft.Communication/EmailServices-Domains.md)
+- [Microsoft.Communication/EmailServices/Domains/SenderUsernames](aliases/Microsoft.Communication/EmailServices-Domains-SenderUsernames.md)
+- [Microsoft.Communication/EmailServices/Domains/SuppressionLists](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists.md)
+- [Microsoft.Communication/EmailServices/Domains/SuppressionLists/SuppressionListAddresses](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists-SuppressionListAddresses.md)
 
 
 ## Microsoft.Compute

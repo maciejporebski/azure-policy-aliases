@@ -282,4 +282,10 @@
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.auxiliaryMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].auxiliaryMode` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].properties.auxiliarySku` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].auxiliarySku` |
 | `properties.timeCreated` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/timeCreated` |
+| `properties.securityProfile.encryptionIdentity` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.encryptionIdentity` |
+| `properties.securityProfile.encryptionIdentity.userAssignedIdentityResourceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.encryptionIdentity.userAssignedIdentityResourceId` |
+| `properties.securityProfile.proxyAgentSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings` |
+| `properties.securityProfile.proxyAgentSettings.enabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.enabled` |
+| `properties.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.mode` |
+| `properties.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.keyIncarnationId` |
 

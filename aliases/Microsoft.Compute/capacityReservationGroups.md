@@ -10,4 +10,8 @@
 | `properties.virtualMachinesAssociated[*].id` | `Microsoft.Compute/capacityReservationGroups/virtualMachinesAssociated[*].id` |
 | `zones` | `Microsoft.Compute/capacityReservationGroups/zones` |
 | `zones[*]` | `Microsoft.Compute/capacityReservationGroups/zones[*]` |
+| `properties.sharingProfile` | `Microsoft.Compute/capacityReservationGroups/sharingProfile` |
+| `properties.sharingProfile.subscriptionIds` | `Microsoft.Compute/capacityReservationGroups/sharingProfile.subscriptionIds` |
+| `properties.sharingProfile.subscriptionIds[*]` | `Microsoft.Compute/capacityReservationGroups/sharingProfile.subscriptionIds[*]` |
+| `properties.sharingProfile.subscriptionIds[*].id` | `Microsoft.Compute/capacityReservationGroups/sharingProfile.subscriptionIds[*].id` |
 

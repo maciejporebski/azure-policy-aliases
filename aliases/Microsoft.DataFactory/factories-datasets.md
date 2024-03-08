@@ -260,4 +260,14 @@
 | `properties.typeProperties.location.type` | `Microsoft.DataFactory/factories/datasets/DelimitedText.typeProperties.location.type` |
 | `properties.typeProperties.location.type` | `Microsoft.DataFactory/factories/datasets/Parquet.typeProperties.location.type` |
 | `properties.typeProperties.location.type` | `Microsoft.DataFactory/factories/datasets/Excel.typeProperties.location.type` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/ServiceNowV2Object.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/WarehouseTable.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/SalesforceServiceCloudV2Object.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/SalesforceV2Object.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/LakeHouseTable.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/SnowflakeV2Table.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/GoogleBigQueryV2Object.typeProperties` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/PostgreSqlV2Table.typeProperties` |
+| `properties.typeProperties.additionalHeaders` | `Microsoft.DataFactory/factories/datasets/RestResource.typeProperties.additionalHeaders` |
+| `properties.typeProperties.paginationRules` | `Microsoft.DataFactory/factories/datasets/RestResource.typeProperties.paginationRules` |
 

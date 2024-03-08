@@ -103,4 +103,5 @@
 | `properties.optimizedForFrequentAttach` | `Microsoft.Compute/disks/optimizedForFrequentAttach` |
 | `properties.creationData.elasticSanResourceId` | `Microsoft.Compute/disks/creationData.elasticSanResourceId` |
 | `properties.LastOwnershipUpdateTime` | `Microsoft.Compute/disks/LastOwnershipUpdateTime` |
+| `properties.creationData.provisionedBandwidthCopySpeed` | `Microsoft.Compute/disks/creationData.provisionedBandwidthCopySpeed` |
 

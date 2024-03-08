@@ -344,4 +344,17 @@
 | `properties.virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.publicIPAddressConfiguration.properties.dnsSettings.domainNameLabelScope` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].publicIPAddressConfiguration.dnsSettings.domainNameLabelScope` |
 | `properties.virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].properties.auxiliaryMode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].auxiliaryMode` |
 | `properties.virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].properties.auxiliarySku` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].auxiliarySku` |
+| `properties.upgradePolicy.automaticOSUpgradePolicy.osRollingUpgradeDeferral` | `Microsoft.Compute/virtualMachineScaleSets/upgradePolicy.automaticOSUpgradePolicy.osRollingUpgradeDeferral` |
+| `properties.virtualMachineProfile.securityProfile.encryptionIdentity` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.encryptionIdentity` |
+| `properties.virtualMachineProfile.securityProfile.encryptionIdentity.userAssignedIdentityResourceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.encryptionIdentity.userAssignedIdentityResourceId` |
+| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings` |
+| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.enabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.enabled` |
+| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.mode` |
+| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.keyIncarnationId` |
+| `properties.virtualMachineProfile.timeCreated` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.timeCreated` |
+| `properties.resiliencyPolicy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy` |
+| `properties.resiliencyPolicy.resilientVMCreationPolicy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.resilientVMCreationPolicy` |
+| `properties.resiliencyPolicy.resilientVMCreationPolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.resilientVMCreationPolicy.enabled` |
+| `properties.resiliencyPolicy.resilientVMDeletionPolicy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.resilientVMDeletionPolicy` |
+| `properties.resiliencyPolicy.resilientVMDeletionPolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.resilientVMDeletionPolicy.enabled` |
 
