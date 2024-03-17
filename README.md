@@ -274,6 +274,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1367,6 +1368,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Security/serverVulnerabilityAssessmentsSettings](aliases/Microsoft.Security/serverVulnerabilityAssessmentsSettings.md)
 - [Microsoft.Security/automations](aliases/Microsoft.Security/automations.md)
 - [Microsoft.Security/defenderForStorageSettings](aliases/Microsoft.Security/defenderForStorageSettings.md)
+- [Microsoft.Security/securityConnectors](aliases/Microsoft.Security/securityConnectors.md)
+- [Microsoft.Security/securityConnectors/devops](aliases/Microsoft.Security/securityConnectors-devops.md)
 - [Microsoft.Security/standards](aliases/Microsoft.Security/standards.md)
 - [Microsoft.Security/assignments](aliases/Microsoft.Security/assignments.md)
 

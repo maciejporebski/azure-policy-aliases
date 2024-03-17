@@ -31,4 +31,5 @@
 | `properties.actions[*]` | `Microsoft.Security/automations/actions[*].Workspace` |
 | `properties.actions[*]` | `Microsoft.Security/automations/actions[*].EventHub` |
 | `properties.actions[*]` | `Microsoft.Security/automations/actions[*].LogicApp` |
+| `properties.actions[*].isTrustedServiceEnabled` | `Microsoft.Security/automations/actions[*].EventHub.isTrustedServiceEnabled` |
 
