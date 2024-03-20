@@ -16,4 +16,5 @@
 | `properties.sensitiveDataDiscovery.operationStatus.code` | `Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.operationStatus.code` |
 | `properties.sensitiveDataDiscovery.operationStatus.message` | `Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.operationStatus.message` |
 | `properties.overrideSubscriptionLevelSettings` | `Microsoft.Security/defenderForStorageSettings/overrideSubscriptionLevelSettings` |
+| `properties.malwareScanning.scanResultsEventGridTopicResourceId` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.scanResultsEventGridTopicResourceId` |
 

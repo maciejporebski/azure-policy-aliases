@@ -17,4 +17,8 @@
 | `properties.extensions[*].operationStatus` | `Microsoft.Security/pricings/extensions[*].operationStatus` |
 | `properties.extensions[*].operationStatus.code` | `Microsoft.Security/pricings/extensions[*].operationStatus.code` |
 | `properties.extensions[*].operationStatus.message` | `Microsoft.Security/pricings/extensions[*].operationStatus.message` |
+| `properties.enforce` | `Microsoft.Security/pricings/enforce` |
+| `properties.inherited` | `Microsoft.Security/pricings/inherited` |
+| `properties.inheritedFrom` | `Microsoft.Security/pricings/inheritedFrom` |
+| `properties.resourcesCoverageStatus` | `Microsoft.Security/pricings/resourcesCoverageStatus` |
 
