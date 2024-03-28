@@ -26,4 +26,5 @@
 | `properties.description` | `Microsoft.Automation/automationAccounts/runbooks/description` |
 | `properties.publishContentLink.contentHash.value` | `Microsoft.Automation/automationAccounts/runbooks/publishContentLink.contentHash.value` |
 | `properties.draft.draftContentLink.contentHash.value` | `Microsoft.Automation/automationAccounts/runbooks/draft.draftContentLink.contentHash.value` |
+| `properties.runtimeEnvironment` | `Microsoft.Automation/automationAccounts/runbooks/runtimeEnvironment` |
 
