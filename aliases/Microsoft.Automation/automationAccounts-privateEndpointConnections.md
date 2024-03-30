@@ -8,4 +8,6 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
+| `properties.groupIds` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/groupIds[*]` |
 

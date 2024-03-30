@@ -77,4 +77,5 @@
 | `properties.securitySettings.softDeleteSettings.softDeleteState` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings.softDeleteState` |
 | `properties.securitySettings.softDeleteSettings.softDeleteRetentionPeriodInDays` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings.softDeleteRetentionPeriodInDays` |
 | `properties.securitySettings.multiUserAuthorization` | `Microsoft.RecoveryServices/vaults/securitySettings.multiUserAuthorization` |
+| `properties.securitySettings.softDeleteSettings.enhancedSecurityState` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings.enhancedSecurityState` |
 

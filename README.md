@@ -162,6 +162,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Automation/automationAccounts/softwareUpdateConfigurations](aliases/Microsoft.Automation/automationAccounts-softwareUpdateConfigurations.md)
 - [Microsoft.Automation/automationAccounts/jobs](aliases/Microsoft.Automation/automationAccounts-jobs.md)
 - [Microsoft.Automation/automationAccounts/privateEndpointConnections](aliases/Microsoft.Automation/automationAccounts-privateEndpointConnections.md)
+- [Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups](aliases/Microsoft.Automation/automationAccounts-hybridRunbookWorkerGroups.md)
+- [Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups/hybridRunbookWorkers](aliases/Microsoft.Automation/automationAccounts-hybridRunbookWorkerGroups-hybridRunbookWorkers.md)
 - [Microsoft.Automation/automationAccounts/variables](aliases/Microsoft.Automation/automationAccounts-variables.md)
 - [Microsoft.Automation/automationAccounts/certificates](aliases/Microsoft.Automation/automationAccounts-certificates.md)
 - [Microsoft.Automation/automationAccounts/compilationjobs](aliases/Microsoft.Automation/automationAccounts-compilationjobs.md)
