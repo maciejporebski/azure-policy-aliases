@@ -45,5 +45,4 @@
 | `properties.databases[*].partnerAuthCertValidity.expiryDate` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].partnerAuthCertValidity.expiryDate` |
 | `properties.databases[*].instanceSendReplicationLagSeconds` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].instanceSendReplicationLagSeconds` |
 | `properties.databases[*].instanceRedoReplicationLagSeconds` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].instanceRedoReplicationLagSeconds` |
-| `properties.databases[*].seedingProgress` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].seedingProgress` |
 

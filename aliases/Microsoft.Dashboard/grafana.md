@@ -32,19 +32,4 @@
 | `properties.grafanaIntegrations.azureMonitorWorkspaceIntegrations` | `Microsoft.Dashboard/grafana/grafanaIntegrations.azureMonitorWorkspaceIntegrations` |
 | `properties.grafanaIntegrations.azureMonitorWorkspaceIntegrations[*]` | `Microsoft.Dashboard/grafana/grafanaIntegrations.azureMonitorWorkspaceIntegrations[*]` |
 | `properties.grafanaIntegrations.azureMonitorWorkspaceIntegrations[*].azureMonitorWorkspaceResourceId` | `Microsoft.Dashboard/grafana/grafanaIntegrations.azureMonitorWorkspaceIntegrations[*].azureMonitorWorkspaceResourceId` |
-| `properties.enterpriseConfigurations` | `Microsoft.Dashboard/grafana/enterpriseConfigurations` |
-| `properties.enterpriseConfigurations.marketplacePlanId` | `Microsoft.Dashboard/grafana/enterpriseConfigurations.marketplacePlanId` |
-| `properties.enterpriseConfigurations.marketplaceAutoRenew` | `Microsoft.Dashboard/grafana/enterpriseConfigurations.marketplaceAutoRenew` |
-| `properties.grafanaConfigurations` | `Microsoft.Dashboard/grafana/grafanaConfigurations` |
-| `properties.grafanaConfigurations.smtp` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp` |
-| `properties.grafanaConfigurations.smtp.enabled` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.enabled` |
-| `properties.grafanaConfigurations.smtp.host` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.host` |
-| `properties.grafanaConfigurations.smtp.user` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.user` |
-| `properties.grafanaConfigurations.smtp.password` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.password` |
-| `properties.grafanaConfigurations.smtp.fromAddress` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.fromAddress` |
-| `properties.grafanaConfigurations.smtp.fromName` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.fromName` |
-| `properties.grafanaConfigurations.smtp.startTLSPolicy` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.startTLSPolicy` |
-| `properties.grafanaConfigurations.smtp.skipVerify` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.skipVerify` |
-| `properties.grafanaPlugins` | `Microsoft.Dashboard/grafana/grafanaPlugins` |
-| `properties.grafanaMajorVersion` | `Microsoft.Dashboard/grafana/grafanaMajorVersion` |
 

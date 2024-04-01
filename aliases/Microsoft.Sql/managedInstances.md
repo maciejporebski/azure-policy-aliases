@@ -68,5 +68,4 @@
 | `properties.createTime` | `Microsoft.Sql/managedInstances/createTime` |
 | `properties.authenticationMetadata` | `Microsoft.Sql/managedInstances/authenticationMetadata` |
 | `properties.databaseFormat` | `Microsoft.Sql/managedInstances/databaseFormat` |
-| `properties.totalMemoryMB` | `Microsoft.Sql/managedInstances/totalMemoryMB` |
 
