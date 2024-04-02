@@ -419,6 +419,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.Dashboard/grafana](aliases/Microsoft.Dashboard/grafana.md)
 - [Microsoft.Dashboard/grafana/privateEndpointConnections](aliases/Microsoft.Dashboard/grafana-privateEndpointConnections.md)
+- [Microsoft.Dashboard/grafana/managedPrivateEndpoints](aliases/Microsoft.Dashboard/grafana-managedPrivateEndpoints.md)
 
 
 ## Microsoft.DataBox
