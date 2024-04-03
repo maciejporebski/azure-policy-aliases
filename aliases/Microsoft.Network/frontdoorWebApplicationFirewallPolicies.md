@@ -85,4 +85,16 @@
 | `sku.name` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/sku.name` |
 | `properties.managedRules.ruleSets[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].AzureManagedRuleSet` |
 | `properties.extendedProperties` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/extendedProperties` |
+| `properties.policySettings.javascriptChallengeExpirationInMinutes` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.javascriptChallengeExpirationInMinutes` |
+| `properties.policySettings.logScrubbing` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing` |
+| `properties.policySettings.logScrubbing.state` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing.state` |
+| `properties.policySettings.logScrubbing.scrubbingRules` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*]` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].matchVariable` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].matchVariable` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].selectorMatchOperator` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].selectorMatchOperator` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].selector` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].selector` |
+| `properties.policySettings.logScrubbing.scrubbingRules[*].state` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.logScrubbing.scrubbingRules[*].state` |
+| `properties.customRules.rules[*].groupBy` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy` |
+| `properties.customRules.rules[*].groupBy[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy[*]` |
+| `properties.customRules.rules[*].groupBy[*].variableName` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy[*].variableName` |
 

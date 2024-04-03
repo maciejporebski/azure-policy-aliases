@@ -70,4 +70,6 @@
 | `properties.NAPTRRecords[*].services` | `Microsoft.Network/dnsZones/TLSA/NAPTRRecords[*].services` |
 | `properties.NAPTRRecords[*].regexp` | `Microsoft.Network/dnsZones/TLSA/NAPTRRecords[*].regexp` |
 | `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnsZones/TLSA/NAPTRRecords[*].replacement` |
+| `properties.trafficManagementProfile` | `Microsoft.Network/dnsZones/TLSA/trafficManagementProfile` |
+| `properties.trafficManagementProfile.id` | `Microsoft.Network/dnsZones/TLSA/trafficManagementProfile.id` |
 

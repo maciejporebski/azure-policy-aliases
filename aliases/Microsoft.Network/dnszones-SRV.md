@@ -70,4 +70,6 @@
 | `properties.NAPTRRecords[*].services` | `Microsoft.Network/dnszones/SRV/NAPTRRecords[*].services` |
 | `properties.NAPTRRecords[*].regexp` | `Microsoft.Network/dnszones/SRV/NAPTRRecords[*].regexp` |
 | `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnszones/SRV/NAPTRRecords[*].replacement` |
+| `properties.trafficManagementProfile` | `Microsoft.Network/dnszones/SRV/trafficManagementProfile` |
+| `properties.trafficManagementProfile.id` | `Microsoft.Network/dnszones/SRV/trafficManagementProfile.id` |
 

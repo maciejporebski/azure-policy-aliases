@@ -31,4 +31,6 @@
 | `properties.networkAcls.ipRules` | `Microsoft.Network/bastionHosts/networkAcls.ipRules` |
 | `properties.networkAcls.ipRules[*]` | `Microsoft.Network/bastionHosts/networkAcls.ipRules[*]` |
 | `properties.networkAcls.ipRules[*].addressPrefix` | `Microsoft.Network/bastionHosts/networkAcls.ipRules[*].addressPrefix` |
+| `zones` | `Microsoft.Network/bastionHosts/zones` |
+| `zones[*]` | `Microsoft.Network/bastionHosts/zones[*]` |
 
