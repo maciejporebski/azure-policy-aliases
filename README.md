@@ -845,7 +845,6 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/workbooktemplates](aliases/microsoft.insights/workbooktemplates.md)
 - [microsoft.insights/guestDiagnosticSettings](aliases/microsoft.insights/guestDiagnosticSettings.md)
 - [microsoft.insights/guestDiagnosticSettingsAssociation](aliases/microsoft.insights/guestDiagnosticSettingsAssociation.md)
-- [microsoft.insights/myWorkbooks](aliases/microsoft.insights/myWorkbooks.md)
 - [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
 - [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
 - [microsoft.insights/dataCollectionEndpoints](aliases/microsoft.insights/dataCollectionEndpoints.md)
