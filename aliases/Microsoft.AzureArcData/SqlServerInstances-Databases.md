@@ -23,4 +23,14 @@
 | `properties.backupInformation.lastFullBackup` | `Microsoft.AzureArcData/sqlServerInstances/databases/backupInformation.lastFullBackup` |
 | `properties.backupInformation.lastLogBackup` | `Microsoft.AzureArcData/sqlServerInstances/databases/backupInformation.lastLogBackup` |
 | `properties.provisioningState` | `Microsoft.AzureArcData/sqlServerInstances/databases/provisioningState` |
+| `properties.backupPolicy` | `Microsoft.AzureArcData/sqlServerInstances/databases/backupPolicy` |
+| `properties.backupPolicy.retentionPeriodDays` | `Microsoft.AzureArcData/sqlServerInstances/databases/backupPolicy.retentionPeriodDays` |
+| `properties.backupPolicy.fullBackupDays` | `Microsoft.AzureArcData/sqlServerInstances/databases/backupPolicy.fullBackupDays` |
+| `properties.backupPolicy.differentialBackupHours` | `Microsoft.AzureArcData/sqlServerInstances/databases/backupPolicy.differentialBackupHours` |
+| `properties.backupPolicy.transactionLogBackupMinutes` | `Microsoft.AzureArcData/sqlServerInstances/databases/backupPolicy.transactionLogBackupMinutes` |
+| `properties.earliestRestoreDate` | `Microsoft.AzureArcData/sqlServerInstances/databases/earliestRestoreDate` |
+| `properties.createMode` | `Microsoft.AzureArcData/sqlServerInstances/databases/createMode` |
+| `properties.sourceDatabaseId` | `Microsoft.AzureArcData/sqlServerInstances/databases/sourceDatabaseId` |
+| `properties.restorePointInTime` | `Microsoft.AzureArcData/sqlServerInstances/databases/restorePointInTime` |
+| `properties.lastDatabaseUploadTime` | `Microsoft.AzureArcData/sqlServerInstances/databases/lastDatabaseUploadTime` |
 

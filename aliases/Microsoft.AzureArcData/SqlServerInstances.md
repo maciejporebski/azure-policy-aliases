@@ -21,4 +21,22 @@
 | `properties.azureDefenderStatus` | `Microsoft.AzureArcData/sqlServerInstances/azureDefenderStatus` |
 | `properties.hostType` | `Microsoft.AzureArcData/sqlServerInstances/hostType` |
 | `properties.cores` | `Microsoft.AzureArcData/sqlServerInstances/cores` |
+| `properties.lastInventoryUploadTime` | `Microsoft.AzureArcData/sqlServerInstances/lastInventoryUploadTime` |
+| `properties.lastUsageUploadTime` | `Microsoft.AzureArcData/sqlServerInstances/lastUsageUploadTime` |
+| `properties.alwaysOnRole` | `Microsoft.AzureArcData/sqlServerInstances/alwaysOnRole` |
+| `properties.failoverCluster` | `Microsoft.AzureArcData/sqlServerInstances/failoverCluster` |
+| `properties.failoverCluster.id` | `Microsoft.AzureArcData/sqlServerInstances/failoverCluster.id` |
+| `properties.failoverCluster.networkName` | `Microsoft.AzureArcData/sqlServerInstances/failoverCluster.networkName` |
+| `properties.failoverCluster.sqlInstanceIds` | `Microsoft.AzureArcData/sqlServerInstances/failoverCluster.sqlInstanceIds` |
+| `properties.failoverCluster.sqlInstanceIds[*]` | `Microsoft.AzureArcData/sqlServerInstances/failoverCluster.sqlInstanceIds[*]` |
+| `properties.failoverCluster.hostNames` | `Microsoft.AzureArcData/sqlServerInstances/failoverCluster.hostNames` |
+| `properties.failoverCluster.hostNames[*]` | `Microsoft.AzureArcData/sqlServerInstances/failoverCluster.hostNames[*]` |
+| `properties.backupPolicy` | `Microsoft.AzureArcData/sqlServerInstances/backupPolicy` |
+| `properties.backupPolicy.retentionPeriodDays` | `Microsoft.AzureArcData/sqlServerInstances/backupPolicy.retentionPeriodDays` |
+| `properties.backupPolicy.fullBackupDays` | `Microsoft.AzureArcData/sqlServerInstances/backupPolicy.fullBackupDays` |
+| `properties.backupPolicy.differentialBackupHours` | `Microsoft.AzureArcData/sqlServerInstances/backupPolicy.differentialBackupHours` |
+| `properties.backupPolicy.transactionLogBackupMinutes` | `Microsoft.AzureArcData/sqlServerInstances/backupPolicy.transactionLogBackupMinutes` |
+| `properties.upgradeLockedUntil` | `Microsoft.AzureArcData/sqlServerInstances/upgradeLockedUntil` |
+| `properties.monitoring` | `Microsoft.AzureArcData/sqlServerInstances/monitoring` |
+| `properties.monitoring.enabled` | `Microsoft.AzureArcData/sqlServerInstances/monitoring.enabled` |
 
