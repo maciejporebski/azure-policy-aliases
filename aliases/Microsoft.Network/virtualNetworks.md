@@ -840,4 +840,22 @@
 | `properties.flowLogs[*].properties.provisioningState` | `Microsoft.Network/virtualnetworks/flowLogs[*].provisioningState` |
 | `properties.flowLogs[*].etag` | `Microsoft.Network/virtualnetworks/flowLogs[*].etag` |
 | `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/virtualnetworks/subnets[*].defaultOutboundAccess` |
+| `properties.subnets[*].properties.sharingScope` | `Microsoft.Network/virtualnetworks/subnets[*].sharingScope` |
+| `properties.virtualNetworkPeerings[*].properties.localAddressSpace` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localAddressSpace` |
+| `properties.virtualNetworkPeerings[*].properties.localAddressSpace.addressPrefixes` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localAddressSpace.addressPrefixes` |
+| `properties.virtualNetworkPeerings[*].properties.localAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localAddressSpace.addressPrefixes[*]` |
+| `properties.virtualNetworkPeerings[*].properties.localVirtualNetworkAddressSpace` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localVirtualNetworkAddressSpace` |
+| `properties.virtualNetworkPeerings[*].properties.localVirtualNetworkAddressSpace.addressPrefixes` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localVirtualNetworkAddressSpace.addressPrefixes` |
+| `properties.virtualNetworkPeerings[*].properties.localVirtualNetworkAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localVirtualNetworkAddressSpace.addressPrefixes[*]` |
+| `properties.virtualNetworkPeerings[*].properties.peerCompleteVnets` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].peerCompleteVnets` |
+| `properties.virtualNetworkPeerings[*].properties.enableOnlyIPv6Peering` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].enableOnlyIPv6Peering` |
+| `properties.virtualNetworkPeerings[*].properties.localSubnetNames` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localSubnetNames` |
+| `properties.virtualNetworkPeerings[*].properties.localSubnetNames[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localSubnetNames[*]` |
+| `properties.virtualNetworkPeerings[*].properties.remoteSubnetNames` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteSubnetNames` |
+| `properties.virtualNetworkPeerings[*].properties.remoteSubnetNames[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteSubnetNames[*]` |
+| `properties.flowLogs[*].identity` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity` |
+| `properties.flowLogs[*].identity.principalId` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity.principalId` |
+| `properties.flowLogs[*].identity.tenantId` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity.tenantId` |
+| `properties.flowLogs[*].identity.type` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity.type` |
+| `properties.flowLogs[*].identity.userAssignedIdentities` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity.userAssignedIdentities` |
 
