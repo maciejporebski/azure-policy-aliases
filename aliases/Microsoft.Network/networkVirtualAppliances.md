@@ -55,13 +55,4 @@
 | `properties.internetIngressPublicIps` | `Microsoft.Network/networkVirtualAppliances/internetIngressPublicIps` |
 | `properties.internetIngressPublicIps[*]` | `Microsoft.Network/networkVirtualAppliances/internetIngressPublicIps[*]` |
 | `properties.internetIngressPublicIps[*].id` | `Microsoft.Network/networkVirtualAppliances/internetIngressPublicIps[*].id` |
-| `properties.virtualApplianceNics[*].nicType` | `Microsoft.Network/networkVirtualAppliances/virtualApplianceNics[*].nicType` |
-| `properties.networkProfile` | `Microsoft.Network/networkVirtualAppliances/networkProfile` |
-| `properties.networkProfile.networkInterfaceConfigurations` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations` |
-| `properties.networkProfile.networkInterfaceConfigurations[*]` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*]` |
-| `properties.networkProfile.networkInterfaceConfigurations[*].type` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].type` |
-| `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].ipConfigurations` |
-| `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*]` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*]` |
-| `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].name` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].name` |
-| `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.primary` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].primary` |
 
