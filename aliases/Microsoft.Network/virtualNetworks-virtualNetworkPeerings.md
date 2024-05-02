@@ -26,16 +26,4 @@
 | `properties.remoteVirtualNetworkEncryption` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkEncryption` |
 | `properties.remoteVirtualNetworkEncryption.enabled` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkEncryption.enabled` |
 | `properties.remoteVirtualNetworkEncryption.enforcement` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkEncryption.enforcement` |
-| `properties.localAddressSpace` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localAddressSpace` |
-| `properties.localAddressSpace.addressPrefixes` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localAddressSpace.addressPrefixes` |
-| `properties.localAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localAddressSpace.addressPrefixes[*]` |
-| `properties.localVirtualNetworkAddressSpace` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localVirtualNetworkAddressSpace` |
-| `properties.localVirtualNetworkAddressSpace.addressPrefixes` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localVirtualNetworkAddressSpace.addressPrefixes` |
-| `properties.localVirtualNetworkAddressSpace.addressPrefixes[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localVirtualNetworkAddressSpace.addressPrefixes[*]` |
-| `properties.peerCompleteVnets` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peerCompleteVnets` |
-| `properties.enableOnlyIPv6Peering` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/enableOnlyIPv6Peering` |
-| `properties.localSubnetNames` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localSubnetNames` |
-| `properties.localSubnetNames[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/localSubnetNames[*]` |
-| `properties.remoteSubnetNames` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteSubnetNames` |
-| `properties.remoteSubnetNames[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteSubnetNames[*]` |
 

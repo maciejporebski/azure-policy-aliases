@@ -40,4 +40,11 @@
 | `properties.installPatches.tasks.postTasks[*].parameters` | `Microsoft.Maintenance/maintenanceConfigurations/installPatches.tasks.postTasks[*].parameters` |
 | `properties.installPatches.tasks.postTasks[*].source` | `Microsoft.Maintenance/maintenanceConfigurations/installPatches.tasks.postTasks[*].source` |
 | `properties.installPatches.tasks.postTasks[*].taskScope` | `Microsoft.Maintenance/maintenanceConfigurations/installPatches.tasks.postTasks[*].taskScope` |
+| `properties.overrides` | `Microsoft.Maintenance/maintenanceConfigurations/overrides` |
+| `properties.overrides.overrides` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides` |
+| `properties.overrides.overrides[*]` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*]` |
+| `properties.overrides.overrides[*].startDateTime` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*].startDateTime` |
+| `properties.overrides.overrides[*].endDateTime` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*].endDateTime` |
+| `properties.overrides.overrides[*].timeZone` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*].timeZone` |
+| `properties.overrides.overrides[*].overrideProperties` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*].overrideProperties` |
 
