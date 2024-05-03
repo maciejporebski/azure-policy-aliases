@@ -1399,6 +1399,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.SecurityInsights/threatintelligence/indicators](aliases/Microsoft.SecurityInsights/threatintelligence-indicators.md)
 
 
+## Microsoft.SerialConsole
+
+- [Microsoft.SerialConsole/consoleServices](aliases/Microsoft.SerialConsole/consoleServices.md)
+
+
 ## Microsoft.ServiceBus
 
 - [Microsoft.ServiceBus/namespaces](aliases/Microsoft.ServiceBus/namespaces.md)
