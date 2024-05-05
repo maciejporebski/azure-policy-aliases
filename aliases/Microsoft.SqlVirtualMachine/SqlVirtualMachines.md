@@ -44,4 +44,9 @@
 | `properties.troubleshootingStatus.troubleshootingScenario` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.troubleshootingScenario` |
 | `properties.troubleshootingStatus.properties.unhealthyReplicaInfo` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.unhealthyReplicaInfo` |
 | `properties.troubleshootingStatus.properties.unhealthyReplicaInfo.availabilityGroupName` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshootingStatus.unhealthyReplicaInfo.availabilityGroupName` |
+| `properties.additionalVmPatch` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/additionalVmPatch` |
+| `properties.virtualMachineIdentitySettings` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/virtualMachineIdentitySettings` |
+| `properties.virtualMachineIdentitySettings.type` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/virtualMachineIdentitySettings.type` |
+| `properties.virtualMachineIdentitySettings.resourceId` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/virtualMachineIdentitySettings.resourceId` |
+| `properties.osType` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/osType` |
 

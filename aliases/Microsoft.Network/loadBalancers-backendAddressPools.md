@@ -90,4 +90,5 @@
 | `properties.virtualNetwork` | `Microsoft.Network/loadBalancers/backendAddressPools/virtualNetwork` |
 | `properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools/virtualNetwork.id` |
 | `properties.syncMode` | `Microsoft.Network/loadBalancers/backendAddressPools/syncMode` |
+| `properties.backendIPConfigurations[*].properties.privateIPAddressPrefixLength` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].privateIPAddressPrefixLength` |
 
