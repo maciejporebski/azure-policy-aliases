@@ -20,4 +20,5 @@
 | `properties.excludePrivateKey` | `Microsoft.AppPlatform/Spring/certificates/KeyVaultCertificate.excludePrivateKey` |
 | `properties.type` | `Microsoft.AppPlatform/Spring/certificates/type` |
 | `properties.provisioningState` | `Microsoft.AppPlatform/Spring/certificates/provisioningState` |
+| `properties.autoSync` | `Microsoft.AppPlatform/Spring/certificates/KeyVaultCertificate.autoSync` |
 

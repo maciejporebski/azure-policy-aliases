@@ -27,4 +27,5 @@
 | `sku.name` | `Microsoft.AppPlatform/Spring/apiPortals/sku.name` |
 | `sku.tier` | `Microsoft.AppPlatform/Spring/apiPortals/sku.tier` |
 | `sku.capacity` | `Microsoft.AppPlatform/Spring/apiPortals/sku.capacity` |
+| `properties.apiTryOutEnabledState` | `Microsoft.AppPlatform/Spring/apiPortals/apiTryOutEnabledState` |
 

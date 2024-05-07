@@ -45,4 +45,11 @@
 | `properties.ingressSettings.clientAuth` | `Microsoft.AppPlatform/Spring/apps/ingressSettings.clientAuth` |
 | `properties.ingressSettings.clientAuth.certificates` | `Microsoft.AppPlatform/Spring/apps/ingressSettings.clientAuth.certificates` |
 | `properties.ingressSettings.clientAuth.certificates[*]` | `Microsoft.AppPlatform/Spring/apps/ingressSettings.clientAuth.certificates[*]` |
+| `properties.customPersistentDisks[*].customPersistentDiskProperties.enableSubPath` | `Microsoft.AppPlatform/Spring/apps/customPersistentDisks[*].customPersistentDiskProperties.enableSubPath` |
+| `properties.secrets` | `Microsoft.AppPlatform/Spring/apps/secrets` |
+| `properties.secrets[*]` | `Microsoft.AppPlatform/Spring/apps/secrets[*]` |
+| `properties.secrets[*].name` | `Microsoft.AppPlatform/Spring/apps/secrets[*].name` |
+| `properties.secrets[*].value` | `Microsoft.AppPlatform/Spring/apps/secrets[*].value` |
+| `properties.workloadProfileName` | `Microsoft.AppPlatform/Spring/apps/workloadProfileName` |
+| `properties.testEndpointAuthState` | `Microsoft.AppPlatform/Spring/apps/testEndpointAuthState` |
 

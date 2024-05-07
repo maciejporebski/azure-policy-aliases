@@ -26,4 +26,15 @@
 | `properties.features.applicationLiveView` | `Microsoft.AppPlatform/Spring/DevToolPortals/features.applicationLiveView` |
 | `properties.features.applicationLiveView.state` | `Microsoft.AppPlatform/Spring/DevToolPortals/features.applicationLiveView.state` |
 | `properties.features.applicationLiveView.route` | `Microsoft.AppPlatform/Spring/DevToolPortals/features.applicationLiveView.route` |
+| `properties.components` | `Microsoft.AppPlatform/Spring/DevToolPortals/components` |
+| `properties.components[*]` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*]` |
+| `properties.components[*].name` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].name` |
+| `properties.components[*].resourceRequests` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].resourceRequests` |
+| `properties.components[*].resourceRequests.cpu` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].resourceRequests.cpu` |
+| `properties.components[*].resourceRequests.memory` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].resourceRequests.memory` |
+| `properties.components[*].resourceRequests.instanceCount` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].resourceRequests.instanceCount` |
+| `properties.components[*].instances` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].instances` |
+| `properties.components[*].instances[*]` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].instances[*]` |
+| `properties.components[*].instances[*].name` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].instances[*].name` |
+| `properties.components[*].instances[*].status` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].instances[*].status` |
 

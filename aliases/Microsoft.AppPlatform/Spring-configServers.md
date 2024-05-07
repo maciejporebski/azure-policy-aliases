@@ -33,4 +33,13 @@
 | `properties.configServer.gitProperty.hostKeyAlgorithm` | `Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.hostKeyAlgorithm` |
 | `properties.configServer.gitProperty.privateKey` | `Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.privateKey` |
 | `properties.configServer.gitProperty.strictHostKeyChecking` | `Microsoft.AppPlatform/Spring/configServers/configServer.gitProperty.strictHostKeyChecking` |
+| `properties.enabledState` | `Microsoft.AppPlatform/Spring/configServers/enabledState` |
+| `properties.resourceRequests` | `Microsoft.AppPlatform/Spring/configServers/resourceRequests` |
+| `properties.resourceRequests.cpu` | `Microsoft.AppPlatform/Spring/configServers/resourceRequests.cpu` |
+| `properties.resourceRequests.memory` | `Microsoft.AppPlatform/Spring/configServers/resourceRequests.memory` |
+| `properties.resourceRequests.instanceCount` | `Microsoft.AppPlatform/Spring/configServers/resourceRequests.instanceCount` |
+| `properties.instances` | `Microsoft.AppPlatform/Spring/configServers/instances` |
+| `properties.instances[*]` | `Microsoft.AppPlatform/Spring/configServers/instances[*]` |
+| `properties.instances[*].name` | `Microsoft.AppPlatform/Spring/configServers/instances[*].name` |
+| `properties.instances[*].status` | `Microsoft.AppPlatform/Spring/configServers/instances[*].status` |
 

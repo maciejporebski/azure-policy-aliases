@@ -118,4 +118,15 @@
 | `properties.marketplaceResource.publisher` | `Microsoft.AppPlatform/Spring/marketplaceResource.publisher` |
 | `properties.marketplaceResource.product` | `Microsoft.AppPlatform/Spring/marketplaceResource.product` |
 | `properties.networkProfile.outboundType` | `Microsoft.AppPlatform/Spring/networkProfile.outboundType` |
+| `properties.managedEnvironmentId` | `Microsoft.AppPlatform/Spring/managedEnvironmentId` |
+| `properties.infraResourceGroup` | `Microsoft.AppPlatform/Spring/infraResourceGroup` |
+| `properties.vnetAddons.dataPlanePublicEndpoint` | `Microsoft.AppPlatform/Spring/vnetAddons.dataPlanePublicEndpoint` |
+| `properties.maintenanceScheduleConfiguration` | `Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly` |
+| `properties.maintenanceScheduleConfiguration` | `Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration` |
+| `properties.maintenanceScheduleConfiguration.hour` | `Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly.hour` |
+| `properties.maintenanceScheduleConfiguration.duration` | `Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly.duration` |
+| `properties.maintenanceScheduleConfiguration.day` | `Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.Weekly.day` |
+| `properties.maintenanceScheduleConfiguration.frequency` | `Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.frequency` |
+| `properties.vnetAddons.privateStorageAccess` | `Microsoft.AppPlatform/Spring/vnetAddons.privateStorageAccess` |
+| `properties.vnetAddons.privateDnsZoneId` | `Microsoft.AppPlatform/Spring/vnetAddons.privateDnsZoneId` |
 

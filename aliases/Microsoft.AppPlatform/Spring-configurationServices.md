@@ -28,4 +28,8 @@
 | `properties.settings.gitProperty.repositories[*].hostKeyAlgorithm` | `Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].hostKeyAlgorithm` |
 | `properties.settings.gitProperty.repositories[*].privateKey` | `Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].privateKey` |
 | `properties.settings.gitProperty.repositories[*].strictHostKeyChecking` | `Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].strictHostKeyChecking` |
+| `properties.generation` | `Microsoft.AppPlatform/Spring/configurationServices/generation` |
+| `properties.settings.gitProperty.repositories[*].gitImplementation` | `Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].gitImplementation` |
+| `properties.settings.gitProperty.repositories[*].caCertResourceId` | `Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].caCertResourceId` |
+| `properties.settings.refreshIntervalInSeconds` | `Microsoft.AppPlatform/Spring/configurationServices/settings.refreshIntervalInSeconds` |
 

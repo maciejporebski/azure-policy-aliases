@@ -53,4 +53,22 @@
 | `properties.apmTypes[*]` | `Microsoft.AppPlatform/Spring/gateways/apmTypes[*]` |
 | `properties.environmentVariables` | `Microsoft.AppPlatform/Spring/gateways/environmentVariables` |
 | `properties.environmentVariables.secrets` | `Microsoft.AppPlatform/Spring/gateways/environmentVariables.secrets` |
+| `properties.clientAuth` | `Microsoft.AppPlatform/Spring/gateways/clientAuth` |
+| `properties.clientAuth.certificates` | `Microsoft.AppPlatform/Spring/gateways/clientAuth.certificates` |
+| `properties.clientAuth.certificates[*]` | `Microsoft.AppPlatform/Spring/gateways/clientAuth.certificates[*]` |
+| `properties.clientAuth.certificateVerification` | `Microsoft.AppPlatform/Spring/gateways/clientAuth.certificateVerification` |
+| `properties.corsProperties.allowedOriginPatterns` | `Microsoft.AppPlatform/Spring/gateways/corsProperties.allowedOriginPatterns` |
+| `properties.corsProperties.allowedOriginPatterns[*]` | `Microsoft.AppPlatform/Spring/gateways/corsProperties.allowedOriginPatterns[*]` |
+| `properties.addonConfigs` | `Microsoft.AppPlatform/Spring/gateways/addonConfigs` |
+| `properties.apms` | `Microsoft.AppPlatform/Spring/gateways/apms` |
+| `properties.apms[*]` | `Microsoft.AppPlatform/Spring/gateways/apms[*]` |
+| `properties.apms[*].resourceId` | `Microsoft.AppPlatform/Spring/gateways/apms[*].resourceId` |
+| `properties.responseCacheProperties` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerInstance` |
+| `properties.responseCacheProperties` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerRoute` |
+| `properties.responseCacheProperties` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties` |
+| `properties.responseCacheProperties.size` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerInstance.size` |
+| `properties.responseCacheProperties.size` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerRoute.size` |
+| `properties.responseCacheProperties.timeToLive` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerInstance.timeToLive` |
+| `properties.responseCacheProperties.timeToLive` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerRoute.timeToLive` |
+| `properties.responseCacheProperties.responseCacheType` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.responseCacheType` |
 
