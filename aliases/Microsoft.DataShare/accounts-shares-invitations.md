@@ -12,4 +12,5 @@
 | `properties.targetObjectId` | `Microsoft.DataShare/accounts/shares/invitations/targetObjectId` |
 | `properties.userEmail` | `Microsoft.DataShare/accounts/shares/invitations/userEmail` |
 | `properties.userName` | `Microsoft.DataShare/accounts/shares/invitations/userName` |
+| `properties.expirationDate` | `Microsoft.DataShare/accounts/shares/invitations/expirationDate` |
 

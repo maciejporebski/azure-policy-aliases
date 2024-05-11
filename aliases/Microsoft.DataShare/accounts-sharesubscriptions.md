@@ -19,4 +19,5 @@
 | `properties.userEmail` | `Microsoft.DataShare/accounts/sharesubscriptions/userEmail` |
 | `properties.userName` | `Microsoft.DataShare/accounts/sharesubscriptions/userName` |
 | `properties.sourceShareLocation` | `Microsoft.DataShare/accounts/sharesubscriptions/sourceShareLocation` |
+| `properties.expirationDate` | `Microsoft.DataShare/accounts/shareSubscriptions/expirationDate` |
 

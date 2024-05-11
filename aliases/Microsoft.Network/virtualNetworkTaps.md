@@ -912,4 +912,5 @@
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.gatewayLoadBalancer.id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.gatewayLoadBalancer.id` |
 | `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.gatewayLoadBalancer` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.gatewayLoadBalancer` |
 | `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.gatewayLoadBalancer.id` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.gatewayLoadBalancer.id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.privateIPAddressPrefixLength` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.privateIPAddressPrefixLength` |
 
