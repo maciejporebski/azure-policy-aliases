@@ -1884,13 +1884,4 @@
 | `properties.defaultPredefinedSslPolicy` | `Microsoft.Network/applicationGateways/defaultPredefinedSslPolicy` |
 | `properties.listeners[*].properties.hostNames` | `Microsoft.Network/applicationGateways/listeners[*].hostNames` |
 | `properties.listeners[*].properties.hostNames[*]` | `Microsoft.Network/applicationGateways/listeners[*].hostNames[*]` |
-| `properties.sku.family` | `Microsoft.Network/applicationGateways/sku.family` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher.pattern` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher.pattern` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher.ignoreCase` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher.ignoreCase` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher.negate` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.requestHeaderConfigurations[*].headerValueMatcher.negate` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.pattern` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.pattern` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.ignoreCase` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.ignoreCase` |
-| `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.negate` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.negate` |
 

@@ -24,6 +24,4 @@
 | `properties.geoReplication.linkedDatabases[*]` | `Microsoft.Cache/redisEnterprise/databases/geoReplication.linkedDatabases[*]` |
 | `properties.geoReplication.linkedDatabases[*].id` | `Microsoft.Cache/redisEnterprise/databases/geoReplication.linkedDatabases[*].id` |
 | `properties.geoReplication.linkedDatabases[*].state` | `Microsoft.Cache/redisEnterprise/databases/geoReplication.linkedDatabases[*].state` |
-| `properties.redisVersion` | `Microsoft.Cache/redisEnterprise/databases/redisVersion` |
-| `properties.deferUpgrade` | `Microsoft.Cache/redisEnterprise/databases/deferUpgrade` |
 
