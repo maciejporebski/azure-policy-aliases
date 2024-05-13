@@ -792,4 +792,10 @@
 | `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].disableTcpStateTracking` |
 | `properties.networkInterfaces[*].properties.auxiliarySku` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].auxiliarySku` |
 | `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/networkSecurityGroups/subnets[*].defaultOutboundAccess` |
+| `properties.subnets[*].properties.sharingScope` | `Microsoft.Network/networkSecurityGroups/subnets[*].sharingScope` |
+| `properties.flowLogs[*].identity` | `Microsoft.Network/networkSecurityGroups/flowLogs[*].identity` |
+| `properties.flowLogs[*].identity.principalId` | `Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.principalId` |
+| `properties.flowLogs[*].identity.tenantId` | `Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.tenantId` |
+| `properties.flowLogs[*].identity.type` | `Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.type` |
+| `properties.flowLogs[*].identity.userAssignedIdentities` | `Microsoft.Network/networkSecurityGroups/flowLogs[*].identity.userAssignedIdentities` |
 
