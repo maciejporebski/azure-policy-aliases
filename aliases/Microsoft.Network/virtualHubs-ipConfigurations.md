@@ -546,5 +546,4 @@
 | `properties.publicIPAddress.properties.ddosSettings.ddosProtectionPlan.id` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.ddosSettings.ddosProtectionPlan.id` |
 | `properties.publicIPAddress.properties.dnsSettings.domainNameLabelScope` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.dnsSettings.domainNameLabelScope` |
 | `properties.subnet.properties.defaultOutboundAccess` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.defaultOutboundAccess` |
-| `properties.subnet.properties.sharingScope` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.sharingScope` |
 
