@@ -352,5 +352,4 @@
 | `properties.contextualServiceEndpointPolicies` | `Microsoft.Network/serviceEndpointPolicies/contextualServiceEndpointPolicies` |
 | `properties.contextualServiceEndpointPolicies[*]` | `Microsoft.Network/serviceEndpointPolicies/contextualServiceEndpointPolicies[*]` |
 | `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].defaultOutboundAccess` |
-| `properties.subnets[*].properties.sharingScope` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].sharingScope` |
 

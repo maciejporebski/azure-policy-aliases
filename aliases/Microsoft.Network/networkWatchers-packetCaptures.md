@@ -23,10 +23,4 @@
 | `properties.scope.exclude` | `Microsoft.Network/networkWatchers/packetCaptures/scope.exclude` |
 | `properties.scope.exclude[*]` | `Microsoft.Network/networkWatchers/packetCaptures/scope.exclude[*]` |
 | `properties.targetType` | `Microsoft.Network/networkWatchers/packetCaptures/targetType` |
-| `properties.storageLocation.localPath` | `Microsoft.Network/networkWatchers/packetCaptures/storageLocation.localPath` |
-| `properties.continuousCapture` | `Microsoft.Network/networkWatchers/packetCaptures/continuousCapture` |
-| `properties.captureSettings` | `Microsoft.Network/networkWatchers/packetCaptures/captureSettings` |
-| `properties.captureSettings.fileCount` | `Microsoft.Network/networkWatchers/packetCaptures/captureSettings.fileCount` |
-| `properties.captureSettings.fileSizeInBytes` | `Microsoft.Network/networkWatchers/packetCaptures/captureSettings.fileSizeInBytes` |
-| `properties.captureSettings.sessionTimeLimitInSeconds` | `Microsoft.Network/networkWatchers/packetCaptures/captureSettings.sessionTimeLimitInSeconds` |
 
