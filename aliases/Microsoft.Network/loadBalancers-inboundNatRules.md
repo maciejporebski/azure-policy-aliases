@@ -500,4 +500,5 @@
 | `properties.frontendPortRangeEnd` | `Microsoft.Network/loadBalancers/inboundNatRules/frontendPortRangeEnd` |
 | `properties.backendAddressPool` | `Microsoft.Network/loadBalancers/inboundNatRules/backendAddressPool` |
 | `properties.backendAddressPool.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendAddressPool.id` |
+| `properties.backendIPConfiguration.properties.privateIPAddressPrefixLength` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateIPAddressPrefixLength` |
 
