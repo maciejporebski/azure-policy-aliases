@@ -91,7 +91,12 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.App/managedEnvironments](aliases/Microsoft.App/managedEnvironments.md)
 - [Microsoft.App/managedEnvironments/certificates](aliases/Microsoft.App/managedEnvironments-certificates.md)
+- [Microsoft.App/managedEnvironments/managedCertificates](aliases/Microsoft.App/managedEnvironments-managedCertificates.md)
 - [Microsoft.App/containerApps](aliases/Microsoft.App/containerApps.md)
+- [Microsoft.App/jobs](aliases/Microsoft.App/jobs.md)
+- [Microsoft.App/builders](aliases/Microsoft.App/builders.md)
+- [Microsoft.App/managedEnvironments/dotNetComponents](aliases/Microsoft.App/managedEnvironments-dotNetComponents.md)
+- [Microsoft.App/managedEnvironments/javaComponents](aliases/Microsoft.App/managedEnvironments-javaComponents.md)
 - [Microsoft.App/managedEnvironments/daprComponents](aliases/Microsoft.App/managedEnvironments-daprComponents.md)
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
@@ -274,6 +279,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1134,6 +1140,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/dnszones/CAA](aliases/Microsoft.Network/dnszones-CAA.md)
 - [Microsoft.Network/dnszones/DS](aliases/Microsoft.Network/dnszones-DS.md)
 - [Microsoft.Network/dnszones/TLSA](aliases/Microsoft.Network/dnszones-TLSA.md)
+- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
+- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
+- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
+- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
@@ -1144,10 +1154,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
 - [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
 - [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
-- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
-- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
-- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
-- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
 - [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
 - [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)

@@ -20,4 +20,11 @@
 | `properties.secretStoreComponent` | `Microsoft.App/managedEnvironments/daprComponents/secretStoreComponent` |
 | `properties.secrets[*].identity` | `Microsoft.App/managedEnvironments/daprComponents/secrets[*].identity` |
 | `properties.secrets[*].keyVaultUrl` | `Microsoft.App/managedEnvironments/daprComponents/secrets[*].keyVaultUrl` |
+| `properties.serviceComponentBind` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind` |
+| `properties.serviceComponentBind[*]` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*]` |
+| `properties.serviceComponentBind[*].name` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].name` |
+| `properties.serviceComponentBind[*].serviceId` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].serviceId` |
+| `properties.serviceComponentBind[*].metadata` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata` |
+| `properties.serviceComponentBind[*].metadata.name` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata.name` |
+| `properties.serviceComponentBind[*].metadata.value` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata.value` |
 

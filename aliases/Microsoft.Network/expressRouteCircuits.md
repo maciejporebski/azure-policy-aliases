@@ -140,4 +140,5 @@
 | `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/expressRouteCircuits/peerings[*].ipv6PeeringConfig.routeFilter.etag` |
 | `properties.authorizationKey` | `Microsoft.Network/expressRouteCircuits/authorizationKey` |
 | `properties.authorizationStatus` | `Microsoft.Network/expressRouteCircuits/authorizationStatus` |
+| `properties.enableDirectPortRateLimit` | `Microsoft.Network/expressRouteCircuits/enableDirectPortRateLimit` |
 

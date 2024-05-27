@@ -22,4 +22,10 @@
 | `properties.githubActionConfiguration.runtimeVersion` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.runtimeVersion` |
 | `properties.githubActionConfiguration.contextPath` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.contextPath` |
 | `properties.githubActionConfiguration.image` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.image` |
+| `properties.githubActionConfiguration.azureCredentials.kind` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.azureCredentials.kind` |
+| `properties.githubActionConfiguration.githubPersonalAccessToken` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.githubPersonalAccessToken` |
+| `properties.githubActionConfiguration.buildEnvironmentVariables` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.buildEnvironmentVariables` |
+| `properties.githubActionConfiguration.buildEnvironmentVariables[*]` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.buildEnvironmentVariables[*]` |
+| `properties.githubActionConfiguration.buildEnvironmentVariables[*].name` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.buildEnvironmentVariables[*].name` |
+| `properties.githubActionConfiguration.buildEnvironmentVariables[*].value` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.buildEnvironmentVariables[*].value` |
 
