@@ -91,7 +91,12 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.App/managedEnvironments](aliases/Microsoft.App/managedEnvironments.md)
 - [Microsoft.App/managedEnvironments/certificates](aliases/Microsoft.App/managedEnvironments-certificates.md)
+- [Microsoft.App/managedEnvironments/managedCertificates](aliases/Microsoft.App/managedEnvironments-managedCertificates.md)
 - [Microsoft.App/containerApps](aliases/Microsoft.App/containerApps.md)
+- [Microsoft.App/jobs](aliases/Microsoft.App/jobs.md)
+- [Microsoft.App/builders](aliases/Microsoft.App/builders.md)
+- [Microsoft.App/managedEnvironments/dotNetComponents](aliases/Microsoft.App/managedEnvironments-dotNetComponents.md)
+- [Microsoft.App/managedEnvironments/javaComponents](aliases/Microsoft.App/managedEnvironments-javaComponents.md)
 - [Microsoft.App/managedEnvironments/daprComponents](aliases/Microsoft.App/managedEnvironments-daprComponents.md)
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)

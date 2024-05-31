@@ -107,4 +107,12 @@
 | `properties.httpSettings.forwardProxy.convention` | `Microsoft.App/containerApps/authConfigs/httpSettings.forwardProxy.convention` |
 | `properties.httpSettings.forwardProxy.customHostHeaderName` | `Microsoft.App/containerApps/authConfigs/httpSettings.forwardProxy.customHostHeaderName` |
 | `properties.httpSettings.forwardProxy.customProtoHeaderName` | `Microsoft.App/containerApps/authConfigs/httpSettings.forwardProxy.customProtoHeaderName` |
+| `properties.login.tokenStore` | `Microsoft.App/containerApps/authConfigs/login.tokenStore` |
+| `properties.login.tokenStore.enabled` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.enabled` |
+| `properties.login.tokenStore.tokenRefreshExtensionHours` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.tokenRefreshExtensionHours` |
+| `properties.login.tokenStore.azureBlobStorage` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage` |
+| `properties.login.tokenStore.azureBlobStorage.sasUrlSettingName` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage.sasUrlSettingName` |
+| `properties.encryptionSettings` | `Microsoft.App/containerApps/authConfigs/encryptionSettings` |
+| `properties.encryptionSettings.containerAppAuthEncryptionSecretName` | `Microsoft.App/containerApps/authConfigs/encryptionSettings.containerAppAuthEncryptionSecretName` |
+| `properties.encryptionSettings.containerAppAuthSigningSecretName` | `Microsoft.App/containerApps/authConfigs/encryptionSettings.containerAppAuthSigningSecretName` |
 

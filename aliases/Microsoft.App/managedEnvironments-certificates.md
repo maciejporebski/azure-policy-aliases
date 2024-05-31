@@ -14,4 +14,8 @@
 | `properties.publicKeyHash` | `Microsoft.App/managedEnvironments/certificates/publicKeyHash` |
 | `properties.subjectAlternativeNames` | `Microsoft.App/managedEnvironments/certificates/subjectAlternativeNames` |
 | `properties.subjectAlternativeNames[*]` | `Microsoft.App/managedEnvironments/certificates/subjectAlternativeNames[*]` |
+| `properties.certificateType` | `Microsoft.App/managedEnvironments/certificates/certificateType` |
+| `properties.certificateKeyVaultProperties` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties` |
+| `properties.certificateKeyVaultProperties.identity` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties.identity` |
+| `properties.certificateKeyVaultProperties.keyVaultUrl` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties.keyVaultUrl` |
 

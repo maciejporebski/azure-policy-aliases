@@ -183,4 +183,22 @@
 | `properties.template.volumes[*].secrets[*]` | `Microsoft.App/containerApps/template.volumes[*].secrets[*]` |
 | `properties.template.volumes[*].secrets[*].secretRef` | `Microsoft.App/containerApps/template.volumes[*].secrets[*].secretRef` |
 | `properties.template.volumes[*].secrets[*].path` | `Microsoft.App/containerApps/template.volumes[*].secrets[*].path` |
+| `properties.configuration.service` | `Microsoft.App/containerApps/configuration.service` |
+| `properties.configuration.service.type` | `Microsoft.App/containerApps/configuration.service.type` |
+| `properties.template.terminationGracePeriodSeconds` | `Microsoft.App/containerApps/template.terminationGracePeriodSeconds` |
+| `properties.template.initContainers[*].volumeMounts[*].subPath` | `Microsoft.App/containerApps/template.initContainers[*].volumeMounts[*].subPath` |
+| `properties.template.containers[*].volumeMounts[*].subPath` | `Microsoft.App/containerApps/template.containers[*].volumeMounts[*].subPath` |
+| `properties.template.volumes[*].mountOptions` | `Microsoft.App/containerApps/template.volumes[*].mountOptions` |
+| `properties.template.serviceBinds` | `Microsoft.App/containerApps/template.serviceBinds` |
+| `properties.template.serviceBinds[*]` | `Microsoft.App/containerApps/template.serviceBinds[*]` |
+| `properties.template.serviceBinds[*].serviceId` | `Microsoft.App/containerApps/template.serviceBinds[*].serviceId` |
+| `properties.template.serviceBinds[*].name` | `Microsoft.App/containerApps/template.serviceBinds[*].name` |
+| `properties.configuration.ingress.additionalPortMappings` | `Microsoft.App/containerApps/configuration.ingress.additionalPortMappings` |
+| `properties.configuration.ingress.additionalPortMappings[*]` | `Microsoft.App/containerApps/configuration.ingress.additionalPortMappings[*]` |
+| `properties.configuration.ingress.additionalPortMappings[*].external` | `Microsoft.App/containerApps/configuration.ingress.additionalPortMappings[*].external` |
+| `properties.configuration.ingress.additionalPortMappings[*].targetPort` | `Microsoft.App/containerApps/configuration.ingress.additionalPortMappings[*].targetPort` |
+| `properties.configuration.ingress.additionalPortMappings[*].exposedPort` | `Microsoft.App/containerApps/configuration.ingress.additionalPortMappings[*].exposedPort` |
+| `properties.template.serviceBinds[*].clientType` | `Microsoft.App/containerApps/template.serviceBinds[*].clientType` |
+| `properties.template.serviceBinds[*].customizedKeys` | `Microsoft.App/containerApps/template.serviceBinds[*].customizedKeys` |
+| `properties.configuration.ingress.targetPortHttpScheme` | `Microsoft.App/containerApps/configuration.ingress.targetPortHttpScheme` |
 
