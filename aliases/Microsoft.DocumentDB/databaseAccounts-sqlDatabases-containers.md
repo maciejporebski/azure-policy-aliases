@@ -68,4 +68,5 @@
 | `properties.resource.computedProperties[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*]` |
 | `properties.resource.computedProperties[*].name` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*].name` |
 | `properties.resource.computedProperties[*].query` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*].query` |
+| `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.restoreParameters.restoreWithTtlDisabled` |
 

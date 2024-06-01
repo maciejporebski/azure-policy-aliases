@@ -20,4 +20,7 @@
 | `properties.nodeGroupSpecs[*].enableHa` | `Microsoft.DocumentDB/mongoClusters/nodeGroupSpecs[*].enableHa` |
 | `properties.nodeGroupSpecs[*].kind` | `Microsoft.DocumentDB/mongoClusters/nodeGroupSpecs[*].kind` |
 | `properties.nodeGroupSpecs[*].nodeCount` | `Microsoft.DocumentDB/mongoClusters/nodeGroupSpecs[*].nodeCount` |
+| `properties.publicNetworkAccess` | `Microsoft.DocumentDB/mongoClusters/publicNetworkAccess` |
+| `properties.privateEndpointConnections` | `Microsoft.DocumentDB/mongoClusters/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.DocumentDB/mongoClusters/privateEndpointConnections[*]` |
 

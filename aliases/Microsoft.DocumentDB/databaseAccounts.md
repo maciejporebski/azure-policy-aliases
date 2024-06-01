@@ -139,4 +139,6 @@
 | `properties.customerManagedKeyStatus` | `Microsoft.DocumentDB/databaseAccounts/customerManagedKeyStatus` |
 | `properties.enablePriorityBasedExecution` | `Microsoft.DocumentDB/databaseAccounts/enablePriorityBasedExecution` |
 | `properties.defaultPriorityLevel` | `Microsoft.DocumentDB/databaseAccounts/defaultPriorityLevel` |
+| `properties.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.restoreWithTtlDisabled` |
+| `properties.enablePerRegionPerPartitionAutoscale` | `Microsoft.DocumentDB/databaseAccounts/enablePerRegionPerPartitionAutoscale` |
 

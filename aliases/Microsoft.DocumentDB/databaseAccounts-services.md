@@ -14,4 +14,5 @@
 | `properties.instanceCount` | `Microsoft.DocumentDB/databaseAccounts/services/instanceCount` |
 | `properties.serviceType` | `Microsoft.DocumentDB/databaseAccounts/services/serviceType` |
 | `properties.status` | `Microsoft.DocumentDB/databaseAccounts/services/status` |
+| `properties.dedicatedGatewayType` | `Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGateway.dedicatedGatewayType` |
 

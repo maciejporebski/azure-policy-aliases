@@ -12,4 +12,5 @@
 | `properties.resource.restoreParameters.restoreSource` | `Microsoft.DocumentDB/databaseAccounts/tables/resource.restoreParameters.restoreSource` |
 | `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/tables/resource.restoreParameters.restoreTimestampInUtc` |
 | `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/tables/resource.createMode` |
+| `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/tables/resource.restoreParameters.restoreWithTtlDisabled` |
 

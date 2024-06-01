@@ -567,5 +567,4 @@
 | `properties.networkSecurityGroup.properties.flushConnection` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flushConnection` |
 | `properties.disableTcpStateTracking` | `Microsoft.Network/networkInterfaces/disableTcpStateTracking` |
 | `properties.auxiliarySku` | `Microsoft.Network/networkInterfaces/auxiliarySku` |
-| `properties.ipConfigurations[*].properties.privateIPAddressPrefixLength` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].privateIPAddressPrefixLength` |
 

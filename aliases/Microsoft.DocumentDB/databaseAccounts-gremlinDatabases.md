@@ -12,4 +12,5 @@
 | `properties.resource.restoreParameters.restoreSource` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters.restoreSource` |
 | `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters.restoreTimestampInUtc` |
 | `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.createMode` |
+| `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters.restoreWithTtlDisabled` |
 
