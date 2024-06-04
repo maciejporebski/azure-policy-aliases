@@ -614,6 +614,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DevCenter/projects/environmentTypes](aliases/Microsoft.DevCenter/projects-environmentTypes.md)
 - [Microsoft.DevCenter/projects/pools](aliases/Microsoft.DevCenter/projects-pools.md)
 - [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
+- [Microsoft.DevCenter/projects/catalogs](aliases/Microsoft.DevCenter/projects-catalogs.md)
 
 
 ## Microsoft.Devices

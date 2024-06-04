@@ -74,4 +74,7 @@
 | `properties.endpoints[*].scope.exclude[*].address` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].scope.exclude[*].address` |
 | `properties.endpoints[*].coverageLevel` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].coverageLevel` |
 | `properties.testConfigurations[*].tcpConfiguration.destinationPortBehavior` | `Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.destinationPortBehavior` |
+| `properties.endpoints[*].locationDetails` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].locationDetails` |
+| `properties.endpoints[*].locationDetails.region` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].locationDetails.region` |
+| `properties.endpoints[*].subscriptionId` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].subscriptionId` |
 

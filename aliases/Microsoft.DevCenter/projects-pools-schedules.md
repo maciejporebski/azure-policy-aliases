@@ -8,4 +8,6 @@
 | `properties.timeZone` | `Microsoft.DevCenter/projects/pools/schedules/timeZone` |
 | `properties.state` | `Microsoft.DevCenter/projects/pools/schedules/state` |
 | `properties.provisioningState` | `Microsoft.DevCenter/projects/pools/schedules/provisioningState` |
+| `properties.tags` | `Microsoft.DevCenter/projects/pools/schedules/tags` |
+| `properties.location` | `Microsoft.DevCenter/projects/pools/schedules/location` |
 

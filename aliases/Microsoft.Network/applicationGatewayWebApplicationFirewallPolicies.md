@@ -1808,4 +1808,6 @@
 | `properties.customRules[*].groupByUserSession[*].groupByVariables[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].groupByUserSession[*].groupByVariables[*]` |
 | `properties.customRules[*].groupByUserSession[*].groupByVariables[*].variableName` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/customRules[*].groupByUserSession[*].groupByVariables[*].variableName` |
 | `properties.applicationGateways[*].properties.defaultPredefinedSslPolicy` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].defaultPredefinedSslPolicy` |
+| `properties.policySettings.jsChallengeCookieExpirationInMins` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.jsChallengeCookieExpirationInMins` |
+| `properties.applicationGateways[*].properties.sku.family` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].sku.family` |
 

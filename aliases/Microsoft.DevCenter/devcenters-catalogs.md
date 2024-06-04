@@ -25,4 +25,7 @@
 | `properties.connectionState` | `Microsoft.DevCenter/devcenters/catalogs/connectionState` |
 | `properties.lastConnectionTime` | `Microsoft.DevCenter/devcenters/catalogs/lastConnectionTime` |
 | `properties.syncType` | `Microsoft.DevCenter/devcenters/catalogs/syncType` |
+| `properties.tags` | `Microsoft.DevCenter/devcenters/catalogs/tags` |
+| `properties.lastSyncStats.syncedCatalogItemTypes` | `Microsoft.DevCenter/devcenters/catalogs/lastSyncStats.syncedCatalogItemTypes` |
+| `properties.lastSyncStats.syncedCatalogItemTypes[*]` | `Microsoft.DevCenter/devcenters/catalogs/lastSyncStats.syncedCatalogItemTypes[*]` |
 

@@ -8,4 +8,7 @@
 | `properties.devCenterUri` | `Microsoft.DevCenter/projects/devCenterUri` |
 | `properties.maxDevBoxesPerUser` | `Microsoft.DevCenter/projects/maxDevBoxesPerUser` |
 | `properties.displayName` | `Microsoft.DevCenter/projects/displayName` |
+| `properties.catalogSettings` | `Microsoft.DevCenter/projects/catalogSettings` |
+| `properties.catalogSettings.catalogItemSyncTypes` | `Microsoft.DevCenter/projects/catalogSettings.catalogItemSyncTypes` |
+| `properties.catalogSettings.catalogItemSyncTypes[*]` | `Microsoft.DevCenter/projects/catalogSettings.catalogItemSyncTypes[*]` |
 
