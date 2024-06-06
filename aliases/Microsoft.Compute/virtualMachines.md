@@ -272,4 +272,14 @@
 | `properties.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.mode` |
 | `properties.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.keyIncarnationId` |
 | `managedBy` | `Microsoft.Compute/virtualMachines/managedBy` |
+| `properties.scheduledEventsPolicy` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy` |
+| `properties.scheduledEventsPolicy.userInitiatedRedeploy` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.userInitiatedRedeploy` |
+| `properties.scheduledEventsPolicy.userInitiatedRedeploy.automaticallyApprove` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.userInitiatedRedeploy.automaticallyApprove` |
+| `properties.scheduledEventsPolicy.userInitiatedReboot` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.userInitiatedReboot` |
+| `properties.scheduledEventsPolicy.userInitiatedReboot.automaticallyApprove` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.userInitiatedReboot.automaticallyApprove` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` |
+| `properties.storageProfile.dataDisks[*].sourceResource` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].sourceResource` |
+| `properties.storageProfile.dataDisks[*].sourceResource.id` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].sourceResource.id` |
 

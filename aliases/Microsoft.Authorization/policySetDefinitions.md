@@ -21,4 +21,7 @@
 | `properties.policyDefinitionGroups[*].additionalMetadataId` | `Microsoft.Authorization/policySetDefinitions/policyDefinitionGroups[*].additionalMetadataId` |
 | `properties.policyDefinitionGroups[*]` | `Microsoft.Authorization/policySetDefinitions/policyDefinitionGroups[*]` |
 | `properties.policyDefinitionGroups` | `Microsoft.Authorization/policySetDefinitions/policyDefinitionGroups` |
+| `properties.version` | `Microsoft.Authorization/policySetDefinitions/version` |
+| `properties.versions` | `Microsoft.Authorization/policySetDefinitions/versions` |
+| `properties.versions[*]` | `Microsoft.Authorization/policySetDefinitions/versions[*]` |
 

@@ -117,4 +117,14 @@
 | `properties.policyProperties.scope.id` | `Microsoft.Authorization/roleManagementPolicies/policyProperties.scope.id` |
 | `properties.policyProperties.scope.displayName` | `Microsoft.Authorization/roleManagementPolicies/policyProperties.scope.displayName` |
 | `properties.policyProperties.scope.type` | `Microsoft.Authorization/roleManagementPolicies/policyProperties.scope.type` |
+| `properties.rules[*]` | `Microsoft.Authorization/roleManagementPolicies/rules[*].RoleManagementPolicyNotificationRule` |
+| `properties.rules[*]` | `Microsoft.Authorization/roleManagementPolicies/rules[*].RoleManagementPolicyExpirationRule` |
+| `properties.rules[*]` | `Microsoft.Authorization/roleManagementPolicies/rules[*].RoleManagementPolicyEnablementRule` |
+| `properties.rules[*]` | `Microsoft.Authorization/roleManagementPolicies/rules[*].RoleManagementPolicyAuthenticationContextRule` |
+| `properties.rules[*]` | `Microsoft.Authorization/roleManagementPolicies/rules[*].RoleManagementPolicyApprovalRule` |
+| `properties.effectiveRules[*]` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyNotificationRule` |
+| `properties.effectiveRules[*]` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyExpirationRule` |
+| `properties.effectiveRules[*]` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyEnablementRule` |
+| `properties.effectiveRules[*]` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyAuthenticationContextRule` |
+| `properties.effectiveRules[*]` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyApprovalRule` |
 

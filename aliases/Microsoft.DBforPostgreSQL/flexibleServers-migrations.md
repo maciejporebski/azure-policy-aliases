@@ -87,4 +87,6 @@
 | `properties.migrationOption` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationOption` |
 | `properties.sourceType` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/sourceType` |
 | `properties.sslMode` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/sslMode` |
+| `properties.migrationInstanceResourceId` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationInstanceResourceId` |
+| `properties.migrateRoles` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrateRoles` |
 

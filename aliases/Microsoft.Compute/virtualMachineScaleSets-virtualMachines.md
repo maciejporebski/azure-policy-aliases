@@ -288,4 +288,6 @@
 | `properties.securityProfile.proxyAgentSettings.enabled` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.enabled` |
 | `properties.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.mode` |
 | `properties.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.keyIncarnationId` |
+| `properties.storageProfile.dataDisks[*].sourceResource` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].sourceResource` |
+| `properties.storageProfile.dataDisks[*].sourceResource.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].sourceResource.id` |
 

@@ -46,4 +46,5 @@
 | `properties.group` | `Microsoft.MachineLearningServices/workspaces/connections/group` |
 | `properties.sharedUserList` | `Microsoft.MachineLearningServices/workspaces/connections/sharedUserList` |
 | `properties.sharedUserList[*]` | `Microsoft.MachineLearningServices/workspaces/connections/sharedUserList[*]` |
+| `properties.metadata` | `Microsoft.MachineLearningServices/workspaces/connections/metadata` |
 

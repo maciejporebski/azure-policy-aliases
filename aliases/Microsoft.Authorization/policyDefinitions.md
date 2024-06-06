@@ -9,4 +9,7 @@
 | `properties.mode` | `Microsoft.Authorization/policyDefinitions/mode` |
 | `properties.metadata` | `Microsoft.Authorization/policyDefinitions/metadata` |
 | `properties.parameters` | `Microsoft.Authorization/policyDefinitions/parameters` |
+| `properties.version` | `Microsoft.Authorization/policydefinitions/version` |
+| `properties.versions` | `Microsoft.Authorization/policydefinitions/versions` |
+| `properties.versions[*]` | `Microsoft.Authorization/policydefinitions/versions[*]` |
 

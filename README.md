@@ -108,6 +108,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
 - [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
 - [Microsoft.AppConfiguration/configurationStores/replicas](aliases/Microsoft.AppConfiguration/configurationStores-replicas.md)
+- [Microsoft.AppConfiguration/configurationStores/snapshots](aliases/Microsoft.AppConfiguration/configurationStores-snapshots.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
@@ -983,6 +984,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearningServices/workspaces/schedules](aliases/Microsoft.MachineLearningServices/workspaces-schedules.md)
 - [Microsoft.MachineLearningServices/workspaces/featuresets](aliases/Microsoft.MachineLearningServices/workspaces-featuresets.md)
 - [Microsoft.MachineLearningServices/workspaces/serverlessEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-serverlessEndpoints.md)
+- [Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions](aliases/Microsoft.MachineLearningServices/workspaces-marketplaceSubscriptions.md)
 - [Microsoft.MachineLearningServices/workspaces/featurestoreEntities](aliases/Microsoft.MachineLearningServices/workspaces-featurestoreEntities.md)
 - [Microsoft.MachineLearningServices/workspaces/endpoints](aliases/Microsoft.MachineLearningServices/workspaces-endpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
@@ -1349,6 +1351,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Resources/deploymentScripts](aliases/Microsoft.Resources/deploymentScripts.md)
 - [Microsoft.Resources/templateSpecs](aliases/Microsoft.Resources/templateSpecs.md)
 - [Microsoft.Resources/templateSpecs/versions](aliases/Microsoft.Resources/templateSpecs-versions.md)
+- [Microsoft.Resources/deploymentStacks](aliases/Microsoft.Resources/deploymentStacks.md)
 - [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
 - [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
 - [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)

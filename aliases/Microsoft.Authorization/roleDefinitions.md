@@ -19,4 +19,10 @@
 | `properties.permissions[*].dataActions` | `Microsoft.Authorization/roleDefinitions/permissions[*].dataActions` |
 | `properties.permissions[*].notDataActions[*]` | `Microsoft.Authorization/roleDefinitions/permissions[*].notDataActions[*]` |
 | `properties.permissions[*].notDataActions` | `Microsoft.Authorization/roleDefinitions/permissions[*].notDataActions` |
+| `properties.createdOn` | `Microsoft.Authorization/roleDefinitions/createdOn` |
+| `properties.updatedOn` | `Microsoft.Authorization/roleDefinitions/updatedOn` |
+| `properties.createdBy` | `Microsoft.Authorization/roleDefinitions/createdBy` |
+| `properties.updatedBy` | `Microsoft.Authorization/roleDefinitions/updatedBy` |
+| `properties.permissions[*].condition` | `Microsoft.Authorization/roleDefinitions/permissions[*].condition` |
+| `properties.permissions[*].conditionVersion` | `Microsoft.Authorization/roleDefinitions/permissions[*].conditionVersion` |
 

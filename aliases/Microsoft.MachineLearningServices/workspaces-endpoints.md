@@ -8,4 +8,5 @@
 | `properties.failureReason` | `Microsoft.MachineLearningServices/workspaces/endpoints/failureReason` |
 | `properties.name` | `Microsoft.MachineLearningServices/workspaces/endpoints/name` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/endpoints/provisioningState` |
+| `properties.shouldCreateAiServicesEndpoint` | `Microsoft.MachineLearningServices/workspaces/endpoints/shouldCreateAiServicesEndpoint` |
 

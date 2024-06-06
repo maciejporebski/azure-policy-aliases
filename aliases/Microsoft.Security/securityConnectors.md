@@ -226,4 +226,26 @@
 | `properties.offerings[*].mdcContainersAgentlessDiscoveryK8s.cloudRoleArn` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.mdcContainersAgentlessDiscoveryK8s.cloudRoleArn` |
 | `properties.environmentData.scanInterval` | `Microsoft.Security/securityConnectors/environmentData.GcpProject.scanInterval` |
 | `properties.environmentData.scanInterval` | `Microsoft.Security/securityConnectors/environmentData.AwsAccount.scanInterval` |
+| `properties.offerings[*].vmScanners` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.vmScanners` |
+| `properties.offerings[*].vmScanners` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.vmScanners` |
+| `properties.offerings[*].vmScanners.enabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.vmScanners.enabled` |
+| `properties.offerings[*].vmScanners.enabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.vmScanners.enabled` |
+| `properties.offerings[*].vmScanners.configuration` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.vmScanners.configuration` |
+| `properties.offerings[*].vmScanners.configuration` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.vmScanners.configuration` |
+| `properties.offerings[*].vmScanners.configuration.scanningMode` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.vmScanners.configuration.scanningMode` |
+| `properties.offerings[*].vmScanners.configuration.scanningMode` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.vmScanners.configuration.scanningMode` |
+| `properties.offerings[*].vmScanners.configuration.exclusionTags` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.vmScanners.configuration.exclusionTags` |
+| `properties.offerings[*].vmScanners.configuration.exclusionTags` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.vmScanners.configuration.exclusionTags` |
+| `properties.offerings[*].vmScanners.cloudRoleArn` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.vmScanners.cloudRoleArn` |
+| `properties.offerings[*].vmScanners.cloudRoleArn` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForServersAws.vmScanners.cloudRoleArn` |
+| `properties.offerings[*].vmScanners.cloudRoleArn` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.vmScanners.cloudRoleArn` |
+| `properties.offerings[*].enableAuditLogsAutoProvisioning` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.enableAuditLogsAutoProvisioning` |
+| `properties.offerings[*].enableAuditLogsAutoProvisioning` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.enableAuditLogsAutoProvisioning` |
+| `properties.offerings[*].enableDefenderAgentAutoProvisioning` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.enableDefenderAgentAutoProvisioning` |
+| `properties.offerings[*].enableDefenderAgentAutoProvisioning` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.enableDefenderAgentAutoProvisioning` |
+| `properties.offerings[*].enablePolicyAgentAutoProvisioning` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.enablePolicyAgentAutoProvisioning` |
+| `properties.offerings[*].enablePolicyAgentAutoProvisioning` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.enablePolicyAgentAutoProvisioning` |
+| `properties.offerings[*].kubernetesDataCollection` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.kubernetesDataCollection` |
+| `properties.offerings[*].kubernetesDataCollection.cloudRoleArn` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.kubernetesDataCollection.cloudRoleArn` |
+| `properties.offerings[*].dataCollectionExternalId` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.dataCollectionExternalId` |
 

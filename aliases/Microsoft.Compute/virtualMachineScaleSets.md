@@ -357,4 +357,12 @@
 | `properties.resiliencyPolicy.resilientVMCreationPolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.resilientVMCreationPolicy.enabled` |
 | `properties.resiliencyPolicy.resilientVMDeletionPolicy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.resilientVMDeletionPolicy` |
 | `properties.resiliencyPolicy.resilientVMDeletionPolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.resilientVMDeletionPolicy.enabled` |
+| `properties.scheduledEventsPolicy` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy` |
+| `properties.scheduledEventsPolicy.userInitiatedRedeploy` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.userInitiatedRedeploy` |
+| `properties.scheduledEventsPolicy.userInitiatedRedeploy.automaticallyApprove` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.userInitiatedRedeploy.automaticallyApprove` |
+| `properties.scheduledEventsPolicy.userInitiatedReboot` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.userInitiatedReboot` |
+| `properties.scheduledEventsPolicy.userInitiatedReboot.automaticallyApprove` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.userInitiatedReboot.automaticallyApprove` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` |
 

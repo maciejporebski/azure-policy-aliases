@@ -9,4 +9,5 @@
 | `properties.tenantName` | `Microsoft.Synapse/workspaces/kustoPools/databases/principalAssignments/tenantName` |
 | `properties.principalName` | `Microsoft.Synapse/workspaces/kustoPools/databases/principalAssignments/principalName` |
 | `properties.provisioningState` | `Microsoft.Synapse/workspaces/kustoPools/databases/principalAssignments/provisioningState` |
+| `properties.aadObjectId` | `Microsoft.Synapse/workspaces/kustoPools/databases/principalAssignments/aadObjectId` |
 

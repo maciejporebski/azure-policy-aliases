@@ -28,4 +28,12 @@
 | `properties.softDeleteRetentionInDays` | `Microsoft.AppConfiguration/configurationStores/softDeleteRetentionInDays` |
 | `properties.enablePurgeProtection` | `Microsoft.AppConfiguration/configurationStores/enablePurgeProtection` |
 | `properties.createMode` | `Microsoft.AppConfiguration/configurationStores/createMode` |
+| `properties.dataPlaneProxy` | `Microsoft.AppConfiguration/configurationStores/dataPlaneProxy` |
+| `properties.dataPlaneProxy.authenticationMode` | `Microsoft.AppConfiguration/configurationStores/dataPlaneProxy.authenticationMode` |
+| `properties.dataPlaneProxy.privateLinkDelegation` | `Microsoft.AppConfiguration/configurationStores/dataPlaneProxy.privateLinkDelegation` |
+| `properties.telemetry` | `Microsoft.AppConfiguration/configurationStores/telemetry` |
+| `properties.telemetry.resourceId` | `Microsoft.AppConfiguration/configurationStores/telemetry.resourceId` |
+| `properties.experimentation` | `Microsoft.AppConfiguration/configurationStores/experimentation` |
+| `properties.experimentation.resourceId` | `Microsoft.AppConfiguration/configurationStores/experimentation.resourceId` |
+| `properties.experimentation.dataPlaneEndpoint` | `Microsoft.AppConfiguration/configurationStores/experimentation.dataPlaneEndpoint` |
 
