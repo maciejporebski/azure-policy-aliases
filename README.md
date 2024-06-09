@@ -1123,6 +1123,10 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Network
 
+- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
+- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
+- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
+- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
@@ -1179,10 +1183,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
 - [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
 - [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
-- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
-- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
-- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
-- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
 - [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
 - [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
