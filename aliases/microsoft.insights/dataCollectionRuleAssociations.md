@@ -9,4 +9,5 @@
 | `properties.metadata` | `Microsoft.Insights/dataCollectionRuleAssociations/metadata` |
 | `properties.metadata.provisionedBy` | `Microsoft.Insights/dataCollectionRuleAssociations/metadata.provisionedBy` |
 | `properties.metadata.provisionedByResourceId` | `Microsoft.Insights/dataCollectionRuleAssociations/metadata.provisionedByResourceId` |
+| `properties.metadata.provisionedByImmutableId` | `Microsoft.Insights/dataCollectionRuleAssociations/metadata.provisionedByImmutableId` |
 

@@ -76,4 +76,12 @@
 | `properties.eventHubReceivers[*].useCommonAlertSchema` | `microsoft.insights/actionGroups/eventHubReceivers[*].useCommonAlertSchema` |
 | `properties.eventHubReceivers[*].tenantId` | `microsoft.insights/actionGroups/eventHubReceivers[*].tenantId` |
 | `properties.eventHubReceivers[*].subscriptionId` | `microsoft.insights/actionGroups/eventHubReceivers[*].subscriptionId` |
+| `properties.incidentReceivers` | `Microsoft.Insights/actionGroups/incidentReceivers` |
+| `properties.incidentReceivers[*]` | `Microsoft.Insights/actionGroups/incidentReceivers[*]` |
+| `properties.incidentReceivers[*].name` | `Microsoft.Insights/actionGroups/incidentReceivers[*].name` |
+| `properties.incidentReceivers[*].connection` | `Microsoft.Insights/actionGroups/incidentReceivers[*].connection` |
+| `properties.incidentReceivers[*].connection.name` | `Microsoft.Insights/actionGroups/incidentReceivers[*].connection.name` |
+| `properties.incidentReceivers[*].connection.id` | `Microsoft.Insights/actionGroups/incidentReceivers[*].connection.id` |
+| `properties.incidentReceivers[*].incidentManagementService` | `Microsoft.Insights/actionGroups/incidentReceivers[*].incidentManagementService` |
+| `properties.incidentReceivers[*].mappings` | `Microsoft.Insights/actionGroups/incidentReceivers[*].mappings` |
 
