@@ -23,6 +23,4 @@
 | `properties.modelSettings` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/modelSettings` |
 | `properties.modelSettings.modelId` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/modelSettings.modelId` |
 | `properties.endpointState` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/endpointState` |
-| `properties.contentSafety` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/contentSafety` |
-| `properties.contentSafety.contentSafetyStatus` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/contentSafety.contentSafetyStatus` |
 
