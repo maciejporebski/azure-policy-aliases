@@ -1011,6 +1011,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearningServices/workspaces/endpoints](aliases/Microsoft.MachineLearningServices/workspaces-endpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
+- [Microsoft.MachineLearningServices/workspaces/connections/deployments](aliases/Microsoft.MachineLearningServices/workspaces-connections-deployments.md)
+- [Microsoft.MachineLearningServices/workspaces/endpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-endpoints-deployments.md)
+- [Microsoft.MachineLearningServices/workspaces/outboundRules](aliases/Microsoft.MachineLearningServices/workspaces-outboundRules.md)
 
 
 ## Microsoft.Maintenance
@@ -1123,6 +1126,9 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Network
 
+- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
+- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
+- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/virtualNetworkGateways](aliases/Microsoft.Network/virtualNetworkGateways.md)
 - [Microsoft.Network/localNetworkGateways](aliases/Microsoft.Network/localNetworkGateways.md)
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
@@ -1147,9 +1153,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/trafficmanagerprofiles/externalendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-externalendpoints.md)
 - [Microsoft.Network/trafficmanagerprofiles/nestedendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-nestedendpoints.md)
 - [Microsoft.Network/trafficManagerUserMetricsKeys](aliases/Microsoft.Network/trafficManagerUserMetricsKeys.md)
-- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
-- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
-- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)
