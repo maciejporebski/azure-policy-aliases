@@ -117,4 +117,22 @@
 | `properties.encryption.entities.managedDisk.keyVaultProperties.keyName` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.keyVaultProperties.keyName` |
 | `properties.encryption.entities.managedDisk.keyVaultProperties.keyVersion` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.keyVaultProperties.keyVersion` |
 | `properties.encryption.entities.managedDisk.rotationToLatestKeyVersionEnabled` | `Microsoft.Databricks/workspaces/encryption.entities.managedDisk.rotationToLatestKeyVersionEnabled` |
+| `properties.enhancedSecurityCompliance` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance` |
+| `properties.enhancedSecurityCompliance.automaticClusterUpdate` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.automaticClusterUpdate` |
+| `properties.enhancedSecurityCompliance.automaticClusterUpdate.value` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.automaticClusterUpdate.value` |
+| `properties.enhancedSecurityCompliance.complianceSecurityProfile` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.complianceSecurityProfile` |
+| `properties.enhancedSecurityCompliance.complianceSecurityProfile.complianceStandards` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.complianceSecurityProfile.complianceStandards` |
+| `properties.enhancedSecurityCompliance.complianceSecurityProfile.complianceStandards[*]` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.complianceSecurityProfile.complianceStandards[*]` |
+| `properties.enhancedSecurityCompliance.complianceSecurityProfile.value` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.complianceSecurityProfile.value` |
+| `properties.enhancedSecurityCompliance.enhancedSecurityMonitoring` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.enhancedSecurityMonitoring` |
+| `properties.enhancedSecurityCompliance.enhancedSecurityMonitoring.value` | `Microsoft.Databricks/workspaces/enhancedSecurityCompliance.enhancedSecurityMonitoring.value` |
+| `properties.defaultCatalog` | `Microsoft.Databricks/workspaces/defaultCatalog` |
+| `properties.defaultCatalog.initialType` | `Microsoft.Databricks/workspaces/defaultCatalog.initialType` |
+| `properties.defaultCatalog.initialName` | `Microsoft.Databricks/workspaces/defaultCatalog.initialName` |
+| `properties.isUcEnabled` | `Microsoft.Databricks/workspaces/isUcEnabled` |
+| `properties.accessConnector` | `Microsoft.Databricks/workspaces/accessConnector` |
+| `properties.accessConnector.id` | `Microsoft.Databricks/workspaces/accessConnector.id` |
+| `properties.accessConnector.identityType` | `Microsoft.Databricks/workspaces/accessConnector.identityType` |
+| `properties.accessConnector.userAssignedIdentityId` | `Microsoft.Databricks/workspaces/accessConnector.userAssignedIdentityId` |
+| `properties.defaultStorageFirewall` | `Microsoft.Databricks/workspaces/defaultStorageFirewall` |
 

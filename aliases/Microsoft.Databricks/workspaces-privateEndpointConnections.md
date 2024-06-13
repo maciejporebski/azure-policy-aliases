@@ -9,4 +9,7 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
 | `properties.provisioningState` | `Microsoft.Databricks/workspaces/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.Databricks/workspaces/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.Databricks/workspaces/privateEndpointConnections/groupIds[*]` |
+| `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 
