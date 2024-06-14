@@ -23,8 +23,8 @@
 | `properties.gatewayDetails.gatewayObjectId` | `Microsoft.AnalysisServices/servers/gatewayDetails.gatewayObjectId` |
 | `properties.gatewayDetails.dmtsClusterUri` | `Microsoft.AnalysisServices/servers/gatewayDetails.dmtsClusterUri` |
 | `properties.gatewayDetails` | `Microsoft.AnalysisServices/servers/gatewayDetails` |
-| `properties.sku.name` | `Microsoft.AnalysisServices/servers/sku.name` |
-| `properties.sku.tier` | `Microsoft.AnalysisServices/servers/sku.tier` |
-| `properties.sku.capacity` | `Microsoft.AnalysisServices/servers/sku.capacity` |
-| `properties.sku` | `Microsoft.AnalysisServices/servers/sku` |
+| `sku.name` | `Microsoft.AnalysisServices/servers/sku.name` |
+| `sku.tier` | `Microsoft.AnalysisServices/servers/sku.tier` |
+| `sku.capacity` | `Microsoft.AnalysisServices/servers/sku.capacity` |
+| `sku` | `Microsoft.AnalysisServices/servers/sku` |
 

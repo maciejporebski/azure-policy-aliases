@@ -302,7 +302,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1127,6 +1126,10 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Network
 
+- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
+- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
+- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
+- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
@@ -1173,10 +1176,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/dnszones/CAA](aliases/Microsoft.Network/dnszones-CAA.md)
 - [Microsoft.Network/dnszones/DS](aliases/Microsoft.Network/dnszones-DS.md)
 - [Microsoft.Network/dnszones/TLSA](aliases/Microsoft.Network/dnszones-TLSA.md)
-- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
-- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
-- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
-- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
