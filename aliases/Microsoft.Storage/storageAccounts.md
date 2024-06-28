@@ -151,5 +151,4 @@
 | `properties.primaryEndpoints.internetEndpoints.file` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.file` |
 | `properties.primaryEndpoints.internetEndpoints.web` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.web` |
 | `properties.primaryEndpoints.internetEndpoints.dfs` | `Microsoft.Storage/storageAccounts/primaryEndpoints.internetEndpoints.dfs` |
-| `properties.enableExtendedGroups` | `Microsoft.Storage/storageAccounts/enableExtendedGroups` |
 
