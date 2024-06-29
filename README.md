@@ -302,6 +302,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1618,6 +1619,7 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Storage
 
+- [Microsoft.Storage/storageAccounts/storageTaskAssignments](aliases/Microsoft.Storage/storageAccounts-storageTaskAssignments.md)
 - [Microsoft.Storage/storageAccounts/encryptionScopes](aliases/Microsoft.Storage/storageAccounts-encryptionScopes.md)
 - [Microsoft.Storage/storageAccounts](aliases/Microsoft.Storage/storageAccounts.md)
 - [Microsoft.Storage/storageAccounts/blobServices](aliases/Microsoft.Storage/storageAccounts-blobServices.md)
@@ -1633,6 +1635,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Storage/storageAccounts/tableServices/tables](aliases/Microsoft.Storage/storageAccounts-tableServices-tables.md)
 - [Microsoft.Storage/storageAccounts/inventoryPolicies](aliases/Microsoft.Storage/storageAccounts-inventoryPolicies.md)
 - [Microsoft.Storage/storageAccounts/localusers](aliases/Microsoft.Storage/storageAccounts-localusers.md)
+- [Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations](aliases/Microsoft.Storage/storageAccounts-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.StorageCache
