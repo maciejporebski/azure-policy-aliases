@@ -302,7 +302,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1127,6 +1126,12 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Network
 
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
@@ -1158,12 +1163,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/trafficmanagerprofiles/externalendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-externalendpoints.md)
 - [Microsoft.Network/trafficmanagerprofiles/nestedendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-nestedendpoints.md)
 - [Microsoft.Network/trafficManagerUserMetricsKeys](aliases/Microsoft.Network/trafficManagerUserMetricsKeys.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)
