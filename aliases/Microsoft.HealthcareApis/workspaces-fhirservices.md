@@ -55,4 +55,13 @@
 | `properties.encryption` | `Microsoft.HealthcareApis/workspaces/fhirservices/encryption` |
 | `properties.encryption.customerManagedKeyEncryption` | `Microsoft.HealthcareApis/workspaces/fhirservices/encryption.customerManagedKeyEncryption` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.HealthcareApis/workspaces/fhirservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
+| `properties.authenticationConfiguration.smartIdentityProviders` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*]` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*]` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*].authority` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].authority` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*].applications` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*]` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*]` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*].clientId` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*].clientId` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*].audience` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*].audience` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions` |
+| `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions[*]` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions[*]` |
 

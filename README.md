@@ -745,6 +745,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts/mongodbUserDefinitions](aliases/Microsoft.DocumentDB/databaseAccounts-mongodbUserDefinitions.md)
 - [Microsoft.DocumentDB/databaseAccounts/dataTransferJobs](aliases/Microsoft.DocumentDB/databaseAccounts-dataTransferJobs.md)
 - [Microsoft.DocumentDB/mongoClusters/firewallRules](aliases/Microsoft.DocumentDB/mongoClusters-firewallRules.md)
+- [Microsoft.DocumentDB/mongoClusters/privateEndpointConnections](aliases/Microsoft.DocumentDB/mongoClusters-privateEndpointConnections.md)
 
 
 ## Microsoft.EdgeOrder

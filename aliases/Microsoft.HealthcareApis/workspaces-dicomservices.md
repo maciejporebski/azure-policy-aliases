@@ -34,4 +34,8 @@
 | `properties.encryption` | `Microsoft.HealthcareApis/workspaces/dicomservices/encryption` |
 | `properties.encryption.customerManagedKeyEncryption` | `Microsoft.HealthcareApis/workspaces/dicomservices/encryption.customerManagedKeyEncryption` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.HealthcareApis/workspaces/dicomservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
+| `properties.storageConfiguration` | `Microsoft.HealthcareApis/workspaces/dicomservices/storageConfiguration` |
+| `properties.storageConfiguration.storageResourceId` | `Microsoft.HealthcareApis/workspaces/dicomservices/storageConfiguration.storageResourceId` |
+| `properties.storageConfiguration.fileSystemName` | `Microsoft.HealthcareApis/workspaces/dicomservices/storageConfiguration.fileSystemName` |
+| `properties.enableDataPartitions` | `Microsoft.HealthcareApis/workspaces/dicomservices/enableDataPartitions` |
 
