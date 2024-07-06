@@ -47,4 +47,6 @@
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Cache/Redis/privateEndpointConnections[*].provisioningState` |
 | `properties.redisConfiguration.authnotrequired` | `Microsoft.Cache/Redis/redisConfiguration.authnotrequired` |
 | `properties.updateChannel` | `Microsoft.Cache/Redis/updateChannel` |
+| `properties.disableAccessKeyAuthentication` | `Microsoft.Cache/Redis/disableAccessKeyAuthentication` |
+| `properties.zonalAllocationPolicy` | `Microsoft.Cache/Redis/zonalAllocationPolicy` |
 
