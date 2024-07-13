@@ -365,4 +365,5 @@
 | `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` |
 | `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` |
 | `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` |
+| `properties.virtualMachineProfile.securityPostureReference.isOverridable` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityPostureReference.isOverridable` |
 

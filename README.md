@@ -115,6 +115,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.App/managedEnvironments/certificates](aliases/Microsoft.App/managedEnvironments-certificates.md)
 - [Microsoft.App/managedEnvironments/managedCertificates](aliases/Microsoft.App/managedEnvironments-managedCertificates.md)
 - [Microsoft.App/containerApps](aliases/Microsoft.App/containerApps.md)
+- [Microsoft.App/sessionPools](aliases/Microsoft.App/sessionPools.md)
 - [Microsoft.App/jobs](aliases/Microsoft.App/jobs.md)
 - [Microsoft.App/builders](aliases/Microsoft.App/builders.md)
 - [Microsoft.App/managedEnvironments/dotNetComponents](aliases/Microsoft.App/managedEnvironments-dotNetComponents.md)
@@ -123,6 +124,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
 - [Microsoft.App/containerapps/sourcecontrols](aliases/Microsoft.App/containerapps-sourcecontrols.md)
+- [Microsoft.App/managedenvironments/daprcomponents/resiliencypolicies](aliases/Microsoft.App/managedenvironments-daprcomponents-resiliencypolicies.md)
+- [Microsoft.App/managedenvironments/privateendpointconnections](aliases/Microsoft.App/managedenvironments-privateendpointconnections.md)
 
 
 ## Microsoft.AppConfiguration
@@ -302,6 +305,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -816,6 +820,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ExtendedLocation/customLocations/resourceSyncRules](aliases/Microsoft.ExtendedLocation/customLocations-resourceSyncRules.md)
 
 
+## Microsoft.Fabric
+
+- [Microsoft.Fabric/capacities](aliases/Microsoft.Fabric/capacities.md)
+
+
 ## Microsoft.Features
 
 - [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
@@ -1261,6 +1270,27 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkSecurityPerimeters/profiles/accessRules](aliases/Microsoft.Network/networkSecurityPerimeters-profiles-accessRules.md)
 - [Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections-rules.md)
 - [Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections-rules.md)
+
+
+## Microsoft.NetworkCloud
+
+- [Microsoft.NetworkCloud/clusterManagers](aliases/Microsoft.NetworkCloud/clusterManagers.md)
+- [Microsoft.NetworkCloud/racks](aliases/Microsoft.NetworkCloud/racks.md)
+- [Microsoft.NetworkCloud/clusters](aliases/Microsoft.NetworkCloud/clusters.md)
+- [Microsoft.NetworkCloud/bareMetalMachines](aliases/Microsoft.NetworkCloud/bareMetalMachines.md)
+- [Microsoft.NetworkCloud/virtualMachines](aliases/Microsoft.NetworkCloud/virtualMachines.md)
+- [Microsoft.NetworkCloud/cloudServicesNetworks](aliases/Microsoft.NetworkCloud/cloudServicesNetworks.md)
+- [Microsoft.NetworkCloud/l2Networks](aliases/Microsoft.NetworkCloud/l2Networks.md)
+- [Microsoft.NetworkCloud/storageAppliances](aliases/Microsoft.NetworkCloud/storageAppliances.md)
+- [Microsoft.NetworkCloud/trunkedNetworks](aliases/Microsoft.NetworkCloud/trunkedNetworks.md)
+- [Microsoft.NetworkCloud/l3Networks](aliases/Microsoft.NetworkCloud/l3Networks.md)
+- [Microsoft.NetworkCloud/clusters/metricsConfigurations](aliases/Microsoft.NetworkCloud/clusters-metricsConfigurations.md)
+- [Microsoft.NetworkCloud/virtualMachines/consoles](aliases/Microsoft.NetworkCloud/virtualMachines-consoles.md)
+- [Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets](aliases/Microsoft.NetworkCloud/clusters-bareMetalMachineKeySets.md)
+- [Microsoft.NetworkCloud/clusters/bmcKeySets](aliases/Microsoft.NetworkCloud/clusters-bmcKeySets.md)
+- [Microsoft.NetworkCloud/volumes](aliases/Microsoft.NetworkCloud/volumes.md)
+- [Microsoft.NetworkCloud/kubernetesClusters](aliases/Microsoft.NetworkCloud/kubernetesClusters.md)
+- [Microsoft.NetworkCloud/kubernetesClusters/agentPools](aliases/Microsoft.NetworkCloud/kubernetesClusters-agentPools.md)
 
 
 ## Microsoft.NotificationHubs

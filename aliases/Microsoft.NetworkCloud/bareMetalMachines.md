@@ -1,0 +1,64 @@
+# Microsoft.NetworkCloud/bareMetalMachines
+
+| Default Path | Alias |
+|---|---|
+| `properties.associatedResourceIds` | `Microsoft.NetworkCloud/bareMetalMachines/associatedResourceIds` |
+| `properties.associatedResourceIds[*]` | `Microsoft.NetworkCloud/bareMetalMachines/associatedResourceIds[*]` |
+| `properties.bmcConnectionString` | `Microsoft.NetworkCloud/bareMetalMachines/bmcConnectionString` |
+| `properties.bmcCredentials` | `Microsoft.NetworkCloud/bareMetalMachines/bmcCredentials` |
+| `properties.bmcCredentials.password` | `Microsoft.NetworkCloud/bareMetalMachines/bmcCredentials.password` |
+| `properties.bmcCredentials.username` | `Microsoft.NetworkCloud/bareMetalMachines/bmcCredentials.username` |
+| `properties.bmcMacAddress` | `Microsoft.NetworkCloud/bareMetalMachines/bmcMacAddress` |
+| `properties.bootMacAddress` | `Microsoft.NetworkCloud/bareMetalMachines/bootMacAddress` |
+| `properties.clusterId` | `Microsoft.NetworkCloud/bareMetalMachines/clusterId` |
+| `properties.cordonStatus` | `Microsoft.NetworkCloud/bareMetalMachines/cordonStatus` |
+| `properties.detailedStatus` | `Microsoft.NetworkCloud/bareMetalMachines/detailedStatus` |
+| `properties.detailedStatusMessage` | `Microsoft.NetworkCloud/bareMetalMachines/detailedStatusMessage` |
+| `properties.hardwareInventory` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory` |
+| `properties.hardwareInventory.additionalHostInformation` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.additionalHostInformation` |
+| `properties.hardwareInventory.interfaces` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.interfaces` |
+| `properties.hardwareInventory.interfaces[*]` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.interfaces[*]` |
+| `properties.hardwareInventory.interfaces[*].linkStatus` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.interfaces[*].linkStatus` |
+| `properties.hardwareInventory.interfaces[*].macAddress` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.interfaces[*].macAddress` |
+| `properties.hardwareInventory.interfaces[*].name` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.interfaces[*].name` |
+| `properties.hardwareInventory.interfaces[*].networkInterfaceId` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.interfaces[*].networkInterfaceId` |
+| `properties.hardwareInventory.nics` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics` |
+| `properties.hardwareInventory.nics[*]` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*]` |
+| `properties.hardwareInventory.nics[*].lldpNeighbor` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*].lldpNeighbor` |
+| `properties.hardwareInventory.nics[*].lldpNeighbor.portDescription` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*].lldpNeighbor.portDescription` |
+| `properties.hardwareInventory.nics[*].lldpNeighbor.portName` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*].lldpNeighbor.portName` |
+| `properties.hardwareInventory.nics[*].lldpNeighbor.systemDescription` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*].lldpNeighbor.systemDescription` |
+| `properties.hardwareInventory.nics[*].lldpNeighbor.systemName` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*].lldpNeighbor.systemName` |
+| `properties.hardwareInventory.nics[*].macAddress` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*].macAddress` |
+| `properties.hardwareInventory.nics[*].name` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareInventory.nics[*].name` |
+| `properties.hardwareValidationStatus` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareValidationStatus` |
+| `properties.hardwareValidationStatus.lastValidationTime` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareValidationStatus.lastValidationTime` |
+| `properties.hardwareValidationStatus.result` | `Microsoft.NetworkCloud/bareMetalMachines/hardwareValidationStatus.result` |
+| `properties.hybridAksClustersAssociatedIds` | `Microsoft.NetworkCloud/bareMetalMachines/hybridAksClustersAssociatedIds` |
+| `properties.hybridAksClustersAssociatedIds[*]` | `Microsoft.NetworkCloud/bareMetalMachines/hybridAksClustersAssociatedIds[*]` |
+| `properties.kubernetesNodeName` | `Microsoft.NetworkCloud/bareMetalMachines/kubernetesNodeName` |
+| `properties.kubernetesVersion` | `Microsoft.NetworkCloud/bareMetalMachines/kubernetesVersion` |
+| `properties.machineDetails` | `Microsoft.NetworkCloud/bareMetalMachines/machineDetails` |
+| `properties.machineName` | `Microsoft.NetworkCloud/bareMetalMachines/machineName` |
+| `properties.machineSkuId` | `Microsoft.NetworkCloud/bareMetalMachines/machineSkuId` |
+| `properties.oamIpv4Address` | `Microsoft.NetworkCloud/bareMetalMachines/oamIpv4Address` |
+| `properties.oamIpv6Address` | `Microsoft.NetworkCloud/bareMetalMachines/oamIpv6Address` |
+| `properties.osImage` | `Microsoft.NetworkCloud/bareMetalMachines/osImage` |
+| `properties.powerState` | `Microsoft.NetworkCloud/bareMetalMachines/powerState` |
+| `properties.provisioningState` | `Microsoft.NetworkCloud/bareMetalMachines/provisioningState` |
+| `properties.rackId` | `Microsoft.NetworkCloud/bareMetalMachines/rackId` |
+| `properties.rackSlot` | `Microsoft.NetworkCloud/bareMetalMachines/rackSlot` |
+| `properties.readyState` | `Microsoft.NetworkCloud/bareMetalMachines/readyState` |
+| `properties.serialNumber` | `Microsoft.NetworkCloud/bareMetalMachines/serialNumber` |
+| `properties.serviceTag` | `Microsoft.NetworkCloud/bareMetalMachines/serviceTag` |
+| `properties.virtualMachinesAssociatedIds` | `Microsoft.NetworkCloud/bareMetalMachines/virtualMachinesAssociatedIds` |
+| `properties.virtualMachinesAssociatedIds[*]` | `Microsoft.NetworkCloud/bareMetalMachines/virtualMachinesAssociatedIds[*]` |
+| `properties.machineRoles` | `Microsoft.NetworkCloud/bareMetalMachines/machineRoles` |
+| `properties.machineRoles[*]` | `Microsoft.NetworkCloud/bareMetalMachines/machineRoles[*]` |
+| `properties.runtimeProtectionStatus` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus` |
+| `properties.runtimeProtectionStatus.definitionsLastUpdated` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.definitionsLastUpdated` |
+| `properties.runtimeProtectionStatus.definitionsVersion` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.definitionsVersion` |
+| `properties.runtimeProtectionStatus.scanCompletedTime` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.scanCompletedTime` |
+| `properties.runtimeProtectionStatus.scanScheduledTime` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.scanScheduledTime` |
+| `properties.runtimeProtectionStatus.scanStartedTime` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.scanStartedTime` |
+
