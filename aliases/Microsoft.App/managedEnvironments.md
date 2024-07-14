@@ -81,7 +81,4 @@
 | `properties.peerTrafficConfiguration` | `Microsoft.App/managedEnvironments/peerTrafficConfiguration` |
 | `properties.peerTrafficConfiguration.encryption` | `Microsoft.App/managedEnvironments/peerTrafficConfiguration.encryption` |
 | `properties.peerTrafficConfiguration.encryption.enabled` | `Microsoft.App/managedEnvironments/peerTrafficConfiguration.encryption.enabled` |
-| `properties.privateEndpointConnections` | `Microsoft.App/managedEnvironments/privateEndpointConnections` |
-| `properties.privateEndpointConnections[*]` | `Microsoft.App/managedEnvironments/privateEndpointConnections[*]` |
-| `properties.publicNetworkAccess` | `Microsoft.App/managedEnvironments/publicNetworkAccess` |
 

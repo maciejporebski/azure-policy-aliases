@@ -122,11 +122,4 @@
 | `properties.template.initContainers[*].volumeMounts[*].subPath` | `Microsoft.App/jobs/template.initContainers[*].volumeMounts[*].subPath` |
 | `properties.template.containers[*].volumeMounts[*].subPath` | `Microsoft.App/jobs/template.containers[*].volumeMounts[*].subPath` |
 | `properties.template.volumes[*].mountOptions` | `Microsoft.App/jobs/template.volumes[*].mountOptions` |
-| `properties.configuration.eventTriggerConfig.scale.rules[*].identity` | `Microsoft.App/jobs/configuration.eventTriggerConfig.scale.rules[*].identity` |
-| `properties.configuration.identitySettings` | `Microsoft.App/jobs/configuration.identitySettings` |
-| `properties.configuration.identitySettings[*]` | `Microsoft.App/jobs/configuration.identitySettings[*]` |
-| `properties.configuration.identitySettings[*].identity` | `Microsoft.App/jobs/configuration.identitySettings[*].identity` |
-| `properties.configuration.identitySettings[*].lifecycle` | `Microsoft.App/jobs/configuration.identitySettings[*].lifecycle` |
-| `properties.template.initContainers[*].imageType` | `Microsoft.App/jobs/template.initContainers[*].imageType` |
-| `properties.template.containers[*].imageType` | `Microsoft.App/jobs/template.containers[*].imageType` |
 
