@@ -12,4 +12,10 @@
 | `properties.serviceBinds[*]` | `Microsoft.App/managedEnvironments/javaComponents/serviceBinds[*]` |
 | `properties.serviceBinds[*].name` | `Microsoft.App/managedEnvironments/javaComponents/serviceBinds[*].name` |
 | `properties.serviceBinds[*].serviceId` | `Microsoft.App/managedEnvironments/javaComponents/serviceBinds[*].serviceId` |
+| `properties.ingress` | `Microsoft.App/managedEnvironments/javaComponents/SpringCloudEureka.ingress` |
+| `properties.ingress` | `Microsoft.App/managedEnvironments/javaComponents/Nacos.ingress` |
+| `properties.ingress` | `Microsoft.App/managedEnvironments/javaComponents/SpringBootAdmin.ingress` |
+| `properties.ingress.fqdn` | `Microsoft.App/managedEnvironments/javaComponents/SpringCloudEureka.ingress.fqdn` |
+| `properties.ingress.fqdn` | `Microsoft.App/managedEnvironments/javaComponents/Nacos.ingress.fqdn` |
+| `properties.ingress.fqdn` | `Microsoft.App/managedEnvironments/javaComponents/SpringBootAdmin.ingress.fqdn` |
 
