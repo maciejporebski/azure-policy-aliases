@@ -35,4 +35,14 @@
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.KeyVault/managedHSMs/privateEndpointConnections[*].provisioningState` |
 | `properties.publicNetworkAccess` | `Microsoft.KeyVault/managedHSMs/publicNetworkAccess` |
 | `properties.scheduledPurgeDate` | `Microsoft.KeyVault/managedHSMs/scheduledPurgeDate` |
+| `properties.privateEndpointConnections[*].id` | `Microsoft.KeyVault/managedHSMs/privateEndpointConnections[*].id` |
+| `properties.privateEndpointConnections[*].etag` | `Microsoft.KeyVault/managedHSMs/privateEndpointConnections[*].etag` |
+| `properties.securityDomainProperties` | `Microsoft.KeyVault/managedHSMs/securityDomainProperties` |
+| `properties.securityDomainProperties.activationStatus` | `Microsoft.KeyVault/managedHSMs/securityDomainProperties.activationStatus` |
+| `properties.securityDomainProperties.activationStatusMessage` | `Microsoft.KeyVault/managedHSMs/securityDomainProperties.activationStatusMessage` |
+| `properties.regions` | `Microsoft.KeyVault/managedHSMs/regions` |
+| `properties.regions[*]` | `Microsoft.KeyVault/managedHSMs/regions[*]` |
+| `properties.regions[*].name` | `Microsoft.KeyVault/managedHSMs/regions[*].name` |
+| `properties.regions[*].provisioningState` | `Microsoft.KeyVault/managedHSMs/regions[*].provisioningState` |
+| `properties.regions[*].isPrimary` | `Microsoft.KeyVault/managedHSMs/regions[*].isPrimary` |
 
