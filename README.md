@@ -305,6 +305,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1751,13 +1752,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-PrincipalAssignments.md)
 - [Microsoft.Synapse/workspaces/azureADOnlyAuthentications](aliases/Microsoft.Synapse/workspaces-azureADOnlyAuthentications.md)
 - [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
-
-
-## Microsoft.TimeSeriesInsights
-
-- [Microsoft.TimeSeriesInsights/environments](aliases/Microsoft.TimeSeriesInsights/environments.md)
-- [Microsoft.TimeSeriesInsights/environments/referenceDataSets](aliases/Microsoft.TimeSeriesInsights/environments-referenceDataSets.md)
-- [Microsoft.TimeSeriesInsights/environments/accessPolicies](aliases/Microsoft.TimeSeriesInsights/environments-accessPolicies.md)
 
 
 ## Microsoft.VirtualMachineImages

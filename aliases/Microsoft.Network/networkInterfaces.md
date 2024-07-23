@@ -190,6 +190,7 @@
 | `properties.ipConfigurations[*].properties.applicationGatewayBackendAddressPools[*].properties.provisioningState` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].applicationGatewayBackendAddressPools[*].provisioningState` |
 | `properties.ipConfigurations[*].properties.applicationGatewayBackendAddressPools[*].name` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].applicationGatewayBackendAddressPools[*].name` |
 | `properties.ipConfigurations[*].properties.applicationGatewayBackendAddressPools[*].etag` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].applicationGatewayBackendAddressPools[*].etag` |
+| `properties.ipConfigurations[*].properties.applicationGatewayBackendAddressPools[*].id` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].applicationGatewayBackendAddressPools[*].id` |
 | `properties.ipConfigurations[*].properties.applicationGatewayBackendAddressPools[*]` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].applicationGatewayBackendAddressPools[*]` |
 | `properties.ipConfigurations[*].properties.applicationGatewayBackendAddressPools` | `Microsoft.Network/networkInterfaces/ipConfigurations[*].applicationGatewayBackendAddressPools` |
 | `properties.networkSecurityGroup.properties.subnets[*].properties.resourceNavigationLinks[*].properties.linkedResourceType` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.subnets[*].resourceNavigationLinks[*].linkedResourceType` |
