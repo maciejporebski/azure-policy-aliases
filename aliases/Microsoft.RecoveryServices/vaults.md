@@ -78,4 +78,10 @@
 | `properties.securitySettings.softDeleteSettings.softDeleteRetentionPeriodInDays` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings.softDeleteRetentionPeriodInDays` |
 | `properties.securitySettings.multiUserAuthorization` | `Microsoft.RecoveryServices/vaults/securitySettings.multiUserAuthorization` |
 | `properties.securitySettings.softDeleteSettings.enhancedSecurityState` | `Microsoft.RecoveryServices/vaults/securitySettings.softDeleteSettings.enhancedSecurityState` |
+| `properties.monitoringSettings.azureMonitorAlertSettings.alertsForAllReplicationIssues` | `Microsoft.RecoveryServices/vaults/monitoringSettings.azureMonitorAlertSettings.alertsForAllReplicationIssues` |
+| `properties.monitoringSettings.azureMonitorAlertSettings.alertsForAllFailoverIssues` | `Microsoft.RecoveryServices/vaults/monitoringSettings.azureMonitorAlertSettings.alertsForAllFailoverIssues` |
+| `properties.monitoringSettings.classicAlertSettings.emailNotificationsForSiteRecovery` | `Microsoft.RecoveryServices/vaults/monitoringSettings.classicAlertSettings.emailNotificationsForSiteRecovery` |
+| `properties.bcdrSecurityLevel` | `Microsoft.RecoveryServices/vaults/bcdrSecurityLevel` |
+| `properties.resourceGuardOperationRequests` | `Microsoft.RecoveryServices/vaults/resourceGuardOperationRequests` |
+| `properties.resourceGuardOperationRequests[*]` | `Microsoft.RecoveryServices/vaults/resourceGuardOperationRequests[*]` |
 

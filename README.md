@@ -1385,6 +1385,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.RecoveryServices/vaults/replicationFabrics/replicationRecoveryServicesProviders](aliases/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationRecoveryServicesProviders.md)
 - [Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies](aliases/Microsoft.RecoveryServices/Vaults-backupResourceGuardProxies.md)
 - [Microsoft.RecoveryServices/Vaults/privateEndpointConnections](aliases/Microsoft.RecoveryServices/Vaults-privateEndpointConnections.md)
+- [Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints](aliases/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems-recoveryPoints.md)
 
 
 ## Microsoft.RedHatOpenShift
