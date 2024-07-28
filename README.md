@@ -305,6 +305,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -485,11 +486,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Databricks/accessConnectors](aliases/Microsoft.Databricks/accessConnectors.md)
 - [Microsoft.Databricks/workspaces/virtualNetworkPeerings](aliases/Microsoft.Databricks/workspaces-virtualNetworkPeerings.md)
 - [Microsoft.Databricks/workspaces/privateEndpointConnections](aliases/Microsoft.Databricks/workspaces-privateEndpointConnections.md)
-
-
-## Microsoft.DataCatalog
-
-- [Microsoft.DataCatalog/catalogs](aliases/Microsoft.DataCatalog/catalogs.md)
 
 
 ## Microsoft.Datadog
