@@ -305,6 +305,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1133,6 +1134,19 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Network
 
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
+- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
+- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
+- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
+- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
+- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
+- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
+- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/virtualNetworkGateways](aliases/Microsoft.Network/virtualNetworkGateways.md)
 - [Microsoft.Network/localNetworkGateways](aliases/Microsoft.Network/localNetworkGateways.md)
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
@@ -1152,19 +1166,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies](aliases/Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies.md)
 - [Microsoft.Network/virtualWans](aliases/Microsoft.Network/virtualWans.md)
 - [Microsoft.Network/bastionHosts](aliases/Microsoft.Network/bastionHosts.md)
-- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
-- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
-- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
-- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
-- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
-- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
-- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/trafficmanagerprofiles](aliases/Microsoft.Network/trafficmanagerprofiles.md)
 - [Microsoft.Network/trafficmanagerprofiles/azureendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-azureendpoints.md)
 - [Microsoft.Network/trafficmanagerprofiles/externalendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-externalendpoints.md)
@@ -1598,6 +1599,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/locations/serverTrustGroups](aliases/Microsoft.Sql/locations-serverTrustGroups.md)
 - [Microsoft.Sql/servers/connectionPolicies](aliases/Microsoft.Sql/servers-connectionPolicies.md)
 - [Microsoft.Sql/managedInstances/databases/ledgerDigestUploads](aliases/Microsoft.Sql/managedInstances-databases-ledgerDigestUploads.md)
+- [Microsoft.Sql/servers/databases/replicationLinks](aliases/Microsoft.Sql/servers-databases-replicationLinks.md)
 - [Microsoft.Sql/servers/firewallRules](aliases/Microsoft.Sql/servers-firewallRules.md)
 - [Microsoft.Sql/servers/databases/connectionPolicies](aliases/Microsoft.Sql/servers-databases-connectionPolicies.md)
 - [Microsoft.Sql/managedInstances/securityAlertPolicies](aliases/Microsoft.Sql/managedInstances-securityAlertPolicies.md)
@@ -1634,7 +1636,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules.md)
 - [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules.md)
 - [Microsoft.Sql/managedInstances/serverConfigurationOptions](aliases/Microsoft.Sql/managedInstances-serverConfigurationOptions.md)
-- [Microsoft.Sql/servers/databases/replicationLinks](aliases/Microsoft.Sql/servers-databases-replicationLinks.md)
 - [Microsoft.Sql/servers/networkSecurityPerimeterConfigurations](aliases/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations.md)
 
 

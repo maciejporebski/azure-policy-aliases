@@ -56,4 +56,12 @@
 | `properties.integrationServiceEnvironment` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/integrationServiceEnvironment` |
 | `properties.provisioningState` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/provisioningState` |
 | `properties.category` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/category` |
+| `properties.deploymentParameters` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters` |
+| `properties.deploymentParameters.contentLinkDefinition` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition` |
+| `properties.deploymentParameters.contentLinkDefinition.uri` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.uri` |
+| `properties.deploymentParameters.contentLinkDefinition.contentVersion` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentVersion` |
+| `properties.deploymentParameters.contentLinkDefinition.contentSize` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentSize` |
+| `properties.deploymentParameters.contentLinkDefinition.contentHash` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentHash` |
+| `properties.deploymentParameters.contentLinkDefinition.contentHash.algorithm` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentHash.algorithm` |
+| `properties.deploymentParameters.contentLinkDefinition.contentHash.value` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentHash.value` |
 
