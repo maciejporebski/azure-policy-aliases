@@ -17,4 +17,19 @@
 | `properties.cors.corsRules[*]` | `Microsoft.Maps/accounts/cors.corsRules[*]` |
 | `properties.cors.corsRules[*].allowedOrigins` | `Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins` |
 | `properties.cors.corsRules[*].allowedOrigins[*]` | `Microsoft.Maps/accounts/cors.corsRules[*].allowedOrigins[*]` |
+| `properties.encryption` | `Microsoft.Maps/accounts/encryption` |
+| `properties.encryption.infrastructureEncryption` | `Microsoft.Maps/accounts/encryption.infrastructureEncryption` |
+| `properties.encryption.customerManagedKeyEncryption` | `Microsoft.Maps/accounts/encryption.customerManagedKeyEncryption` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity` | `Microsoft.Maps/accounts/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` | `Microsoft.Maps/accounts/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` | `Microsoft.Maps/accounts/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.delegatedIdentityClientId` | `Microsoft.Maps/accounts/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.delegatedIdentityClientId` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.Maps/accounts/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
+| `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.federatedClientId` | `Microsoft.Maps/accounts/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.federatedClientId` |
+| `properties.privateEndpointConnections` | `Microsoft.Maps/accounts/privateEndpointConnections` |
+| `properties.privateEndpointConnections[*]` | `Microsoft.Maps/accounts/privateEndpointConnections[*]` |
+| `properties.publicNetworkAccess` | `Microsoft.Maps/accounts/publicNetworkAccess` |
+| `properties.locations` | `Microsoft.Maps/accounts/locations` |
+| `properties.locations[*]` | `Microsoft.Maps/accounts/locations[*]` |
+| `properties.locations[*].locationName` | `Microsoft.Maps/accounts/locations[*].locationName` |
 
