@@ -861,7 +861,7 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.HealthDataAIServices
 
-- [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
+- [Microsoft.HealthDataAIServices/DeidServices](aliases/Microsoft.HealthDataAIServices/DeidServices.md)
 
 
 ## Microsoft.HybridCompute
