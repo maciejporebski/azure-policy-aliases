@@ -433,6 +433,7 @@
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].name` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].name` |
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].etag` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].etag` |
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].type` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].type` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].id` | `Microsoft.Network/routeTables/subnets[*].applicationGatewayIpConfigurations[*].id` |
 | `properties.subnets[*].properties.serviceEndpointPolicies[*].kind` | `Microsoft.Network/routeTables/subnets[*].serviceEndpointPolicies[*].kind` |
 | `properties.subnets[*].properties.defaultOutboundAccess` | `Microsoft.Network/routeTables/subnets[*].defaultOutboundAccess` |
 | `properties.subnets[*].properties.sharingScope` | `Microsoft.Network/routeTables/subnets[*].sharingScope` |

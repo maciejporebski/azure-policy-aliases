@@ -785,4 +785,6 @@
 | `properties.networkSecurityGroup.properties.flushConnection` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.flushConnection` |
 | `properties.defaultOutboundAccess` | `Microsoft.Network/virtualnetworks/subnets/defaultOutboundAccess` |
 | `properties.sharingScope` | `Microsoft.Network/virtualnetworks/subnets/sharingScope` |
+| `properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpoints[*].networkIdentifier` |
+| `properties.serviceEndpoints[*].networkIdentifier.id` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpoints[*].networkIdentifier.id` |
 

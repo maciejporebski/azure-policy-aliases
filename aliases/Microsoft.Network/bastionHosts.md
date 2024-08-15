@@ -33,4 +33,5 @@
 | `properties.networkAcls.ipRules[*].addressPrefix` | `Microsoft.Network/bastionHosts/networkAcls.ipRules[*].addressPrefix` |
 | `zones` | `Microsoft.Network/bastionHosts/zones` |
 | `zones[*]` | `Microsoft.Network/bastionHosts/zones[*]` |
+| `properties.enableSessionRecording` | `Microsoft.Network/bastionHosts/enableSessionRecording` |
 

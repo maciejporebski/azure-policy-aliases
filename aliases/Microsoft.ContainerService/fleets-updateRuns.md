@@ -134,4 +134,12 @@
 | `properties.status.stages[*].afterStageWaitStatus.status.error.additionalInfo[*]` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterStageWaitStatus.status.error.additionalInfo[*]` |
 | `properties.status.stages[*].afterStageWaitStatus.status.error.additionalInfo[*].type` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterStageWaitStatus.status.error.additionalInfo[*].type` |
 | `properties.status.stages[*].afterStageWaitStatus.waitDurationInSeconds` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterStageWaitStatus.waitDurationInSeconds` |
+| `properties.managedClusterUpdate.nodeImageSelection` | `Microsoft.ContainerService/fleets/updateRuns/managedClusterUpdate.nodeImageSelection` |
+| `properties.managedClusterUpdate.nodeImageSelection.type` | `Microsoft.ContainerService/fleets/updateRuns/managedClusterUpdate.nodeImageSelection.type` |
+| `properties.status.stages[*].groups[*].members[*].message` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].groups[*].members[*].message` |
+| `properties.status.nodeImageSelection` | `Microsoft.ContainerService/fleets/updateRuns/status.nodeImageSelection` |
+| `properties.status.nodeImageSelection.selectedNodeImageVersions` | `Microsoft.ContainerService/fleets/updateRuns/status.nodeImageSelection.selectedNodeImageVersions` |
+| `properties.status.nodeImageSelection.selectedNodeImageVersions[*]` | `Microsoft.ContainerService/fleets/updateRuns/status.nodeImageSelection.selectedNodeImageVersions[*]` |
+| `properties.status.nodeImageSelection.selectedNodeImageVersions[*].version` | `Microsoft.ContainerService/fleets/updateRuns/status.nodeImageSelection.selectedNodeImageVersions[*].version` |
+| `properties.updateStrategyId` | `Microsoft.ContainerService/fleets/updateRuns/updateStrategyId` |
 
