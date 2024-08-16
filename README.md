@@ -896,14 +896,14 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/activityLogAlerts](aliases/microsoft.insights/activityLogAlerts.md)
 - [microsoft.insights/workbooks](aliases/microsoft.insights/workbooks.md)
 - [microsoft.insights/workbooktemplates](aliases/microsoft.insights/workbooktemplates.md)
+- [microsoft.insights/guestDiagnosticSettings](aliases/microsoft.insights/guestDiagnosticSettings.md)
+- [microsoft.insights/guestDiagnosticSettingsAssociation](aliases/microsoft.insights/guestDiagnosticSettingsAssociation.md)
 - [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
 - [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
 - [microsoft.insights/dataCollectionEndpoints](aliases/microsoft.insights/dataCollectionEndpoints.md)
 - [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
-- [microsoft.insights/guestDiagnosticSettings](aliases/microsoft.insights/guestDiagnosticSettings.md)
-- [microsoft.insights/guestDiagnosticSettingsAssociation](aliases/microsoft.insights/guestDiagnosticSettingsAssociation.md)
 
 
 ## Microsoft.IoTCentral
@@ -1128,14 +1128,14 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.NetApp/netAppAccounts](aliases/Microsoft.NetApp/netAppAccounts.md)
 - [Microsoft.NetApp/netAppAccounts/snapshotPolicies](aliases/Microsoft.NetApp/netAppAccounts-snapshotPolicies.md)
+- [Microsoft.NetApp/netAppAccounts/backupPolicies](aliases/Microsoft.NetApp/netAppAccounts-backupPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/volumeGroups](aliases/Microsoft.NetApp/netAppAccounts-volumeGroups.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools](aliases/Microsoft.NetApp/netAppAccounts-capacityPools.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
-- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
-- [Microsoft.NetApp/netAppAccounts/backupPolicies](aliases/Microsoft.NetApp/netAppAccounts-backupPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
+- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
 
 
 ## Microsoft.Network
@@ -1167,6 +1167,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
 - [Microsoft.Network/applicationGateways](aliases/Microsoft.Network/applicationGateways.md)
 - [Microsoft.Network/expressRouteCircuits](aliases/Microsoft.Network/expressRouteCircuits.md)
+- [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
 - [Microsoft.Network/routeFilters](aliases/Microsoft.Network/routeFilters.md)
 - [Microsoft.Network/vpnSites](aliases/Microsoft.Network/vpnSites.md)
 - [Microsoft.Network/vpnServerConfigurations](aliases/Microsoft.Network/vpnServerConfigurations.md)
@@ -1182,6 +1183,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/bastionHosts](aliases/Microsoft.Network/bastionHosts.md)
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
+- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
@@ -1213,6 +1215,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/serviceEndpointPolicies](aliases/Microsoft.Network/serviceEndpointPolicies.md)
 - [Microsoft.Network/routeTables](aliases/Microsoft.Network/routeTables.md)
 - [Microsoft.Network/publicIPPrefixes](aliases/Microsoft.Network/publicIPPrefixes.md)
+- [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/networkWatchers](aliases/Microsoft.Network/networkWatchers.md)
 - [Microsoft.Network/networkWatchers/connectionMonitors](aliases/Microsoft.Network/networkWatchers-connectionMonitors.md)
 - [Microsoft.Network/networkWatchers/flowLogs](aliases/Microsoft.Network/networkWatchers-flowLogs.md)
@@ -1221,9 +1224,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
-- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
-- [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1831,11 +1831,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Workloads/sapVirtualInstances/applicationInstances](aliases/Microsoft.Workloads/sapVirtualInstances-applicationInstances.md)
 - [Microsoft.Workloads/sapVirtualInstances/centralInstances](aliases/Microsoft.Workloads/sapVirtualInstances-centralInstances.md)
 - [Microsoft.Workloads/sapVirtualInstances/databaseInstances](aliases/Microsoft.Workloads/sapVirtualInstances-databaseInstances.md)
+- [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
+- [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
 - [Microsoft.Workloads/monitors](aliases/Microsoft.Workloads/monitors.md)
 - [Microsoft.Workloads/monitors/providerInstances](aliases/Microsoft.Workloads/monitors-providerInstances.md)
 - [Microsoft.Workloads/monitors/sapLandscapeMonitor](aliases/Microsoft.Workloads/monitors-sapLandscapeMonitor.md)
-- [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
-- [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
 
 
 
