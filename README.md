@@ -8,7 +8,6 @@ This repository contains all available resource property aliases for easy refere
 
 ## microsoft.aadiam
 
-- [microsoft.aadiam/azureADMetrics](aliases/microsoft.aadiam/azureADMetrics.md)
 - [microsoft.aadiam/diagnosticSettings](aliases/microsoft.aadiam/diagnosticSettings.md)
 - [microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections](aliases/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections.md)
 
