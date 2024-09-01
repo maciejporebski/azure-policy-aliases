@@ -244,11 +244,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AzureArcData/SqlServerInstances/AvailabilityGroups](aliases/Microsoft.AzureArcData/SqlServerInstances-AvailabilityGroups.md)
 
 
-## Microsoft.AzureFleet
-
-- [Microsoft.AzureFleet/fleets](aliases/Microsoft.AzureFleet/fleets.md)
-
-
 ## Microsoft.AzureStackHCI
 
 - [Microsoft.AzureStackHCI/galleryImages](aliases/Microsoft.AzureStackHCI/galleryImages.md)
@@ -309,7 +304,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
