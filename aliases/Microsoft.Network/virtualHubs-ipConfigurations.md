@@ -547,4 +547,26 @@
 | `properties.publicIPAddress.properties.dnsSettings.domainNameLabelScope` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.dnsSettings.domainNameLabelScope` |
 | `properties.subnet.properties.defaultOutboundAccess` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.defaultOutboundAccess` |
 | `properties.subnet.properties.sharingScope` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.sharingScope` |
+| `properties.publicIPAddress.properties.natGateway.id` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.id` |
+| `properties.publicIPAddress.properties.natGateway.name` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.name` |
+| `properties.publicIPAddress.properties.natGateway.type` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.type` |
+| `properties.publicIPAddress.properties.natGateway.location` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.location` |
+| `properties.publicIPAddress.properties.natGateway.tags` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.tags` |
+| `properties.publicIPAddress.properties.natGateway.sku` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.natGateway.sku` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.id` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.id` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.name` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.name` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.type` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.type` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.location` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.location` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.tags` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.tags` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.extendedLocation` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.extendedLocation` |
+| `properties.publicIPAddress.properties.linkedPublicIPAddress.sku` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.linkedPublicIPAddress.sku` |
+| `properties.subnet.properties.applicationGatewayIpConfigurations[*].id` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.applicationGatewayIpConfigurations[*].id` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.id` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.id` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.name` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.name` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.type` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.type` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.location` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.location` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.tags` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.tags` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.extendedLocation` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.extendedLocation` |
+| `properties.publicIPAddress.properties.servicePublicIPAddress.sku` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.sku` |
+| `properties.subnet.properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.serviceEndpoints[*].networkIdentifier` |
 

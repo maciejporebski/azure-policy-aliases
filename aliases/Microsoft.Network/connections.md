@@ -327,4 +327,18 @@
 | `properties.virtualNetworkGateway2.properties.autoScaleConfiguration.bounds` | `Microsoft.Network/connections/virtualNetworkGateway2.autoScaleConfiguration.bounds` |
 | `properties.virtualNetworkGateway2.properties.autoScaleConfiguration.bounds.min` | `Microsoft.Network/connections/virtualNetworkGateway2.autoScaleConfiguration.bounds.min` |
 | `properties.virtualNetworkGateway2.properties.autoScaleConfiguration.bounds.max` | `Microsoft.Network/connections/virtualNetworkGateway2.autoScaleConfiguration.bounds.max` |
+| `properties.virtualNetworkGateway1.properties.natRules[*].id` | `Microsoft.Network/connections/virtualNetworkGateway1.natRules[*].id` |
+| `properties.virtualNetworkGateway2.properties.natRules[*].id` | `Microsoft.Network/connections/virtualNetworkGateway2.natRules[*].id` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkGatewayPolicyGroups[*].id` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkGatewayPolicyGroups[*].id` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkGatewayPolicyGroups[*].id` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkGatewayPolicyGroups[*].id` |
+| `properties.virtualNetworkGateway1.identity` | `Microsoft.Network/connections/virtualNetworkGateway1.identity` |
+| `properties.virtualNetworkGateway1.identity.principalId` | `Microsoft.Network/connections/virtualNetworkGateway1.identity.principalId` |
+| `properties.virtualNetworkGateway1.identity.tenantId` | `Microsoft.Network/connections/virtualNetworkGateway1.identity.tenantId` |
+| `properties.virtualNetworkGateway1.identity.type` | `Microsoft.Network/connections/virtualNetworkGateway1.identity.type` |
+| `properties.virtualNetworkGateway1.identity.userAssignedIdentities` | `Microsoft.Network/connections/virtualNetworkGateway1.identity.userAssignedIdentities` |
+| `properties.virtualNetworkGateway2.identity` | `Microsoft.Network/connections/virtualNetworkGateway2.identity` |
+| `properties.virtualNetworkGateway2.identity.principalId` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.principalId` |
+| `properties.virtualNetworkGateway2.identity.tenantId` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.tenantId` |
+| `properties.virtualNetworkGateway2.identity.type` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.type` |
+| `properties.virtualNetworkGateway2.identity.userAssignedIdentities` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.userAssignedIdentities` |
 

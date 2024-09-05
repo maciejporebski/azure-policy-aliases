@@ -929,4 +929,5 @@
 | `properties.backendAddressPools[*].properties.virtualNetwork` | `Microsoft.Network/loadBalancers/backendAddressPools[*].virtualNetwork` |
 | `properties.backendAddressPools[*].properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].virtualNetwork.id` |
 | `properties.backendAddressPools[*].properties.syncMode` | `Microsoft.Network/loadBalancers/backendAddressPools[*].syncMode` |
+| `properties.probes[*].properties.NoHealthyBackendsBehavior` | `Microsoft.Network/loadBalancers/probes[*].NoHealthyBackendsBehavior` |
 

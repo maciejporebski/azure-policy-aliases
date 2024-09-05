@@ -91,4 +91,25 @@
 | `properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools/virtualNetwork.id` |
 | `properties.syncMode` | `Microsoft.Network/loadBalancers/backendAddressPools/syncMode` |
 | `properties.backendIPConfigurations[*].properties.privateIPAddressPrefixLength` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].privateIPAddressPrefixLength` |
+| `properties.backendIPConfigurations[*].properties.virtualNetworkTaps[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].virtualNetworkTaps[*].id` |
+| `properties.backendIPConfigurations[*].properties.virtualNetworkTaps[*].name` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].virtualNetworkTaps[*].name` |
+| `properties.backendIPConfigurations[*].properties.virtualNetworkTaps[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].virtualNetworkTaps[*].type` |
+| `properties.backendIPConfigurations[*].properties.virtualNetworkTaps[*].location` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].virtualNetworkTaps[*].location` |
+| `properties.backendIPConfigurations[*].properties.virtualNetworkTaps[*].tags` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].virtualNetworkTaps[*].tags` |
+| `properties.backendIPConfigurations[*].properties.applicationGatewayBackendAddressPools[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationGatewayBackendAddressPools[*].id` |
+| `properties.backendIPConfigurations[*].properties.loadBalancerBackendAddressPools[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].loadBalancerBackendAddressPools[*].id` |
+| `properties.backendIPConfigurations[*].properties.loadBalancerInboundNatRules[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].loadBalancerInboundNatRules[*].id` |
+| `properties.backendIPConfigurations[*].properties.subnet.id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].subnet.id` |
+| `properties.backendIPConfigurations[*].properties.publicIPAddress.id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.id` |
+| `properties.backendIPConfigurations[*].properties.publicIPAddress.name` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.name` |
+| `properties.backendIPConfigurations[*].properties.publicIPAddress.type` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.type` |
+| `properties.backendIPConfigurations[*].properties.publicIPAddress.location` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.location` |
+| `properties.backendIPConfigurations[*].properties.publicIPAddress.tags` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.tags` |
+| `properties.backendIPConfigurations[*].properties.publicIPAddress.sku` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.sku` |
+| `properties.backendIPConfigurations[*].properties.applicationSecurityGroups[*].id` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationSecurityGroups[*].id` |
+| `properties.backendIPConfigurations[*].properties.applicationSecurityGroups[*].name` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationSecurityGroups[*].name` |
+| `properties.backendIPConfigurations[*].properties.applicationSecurityGroups[*].type` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationSecurityGroups[*].type` |
+| `properties.backendIPConfigurations[*].properties.applicationSecurityGroups[*].location` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationSecurityGroups[*].location` |
+| `properties.backendIPConfigurations[*].properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationSecurityGroups[*].tags` |
+| `properties.backendIPConfigurations[*].properties.publicIPAddress.extendedLocation` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.extendedLocation` |
 

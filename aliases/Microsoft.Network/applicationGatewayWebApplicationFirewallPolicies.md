@@ -1810,4 +1810,8 @@
 | `properties.applicationGateways[*].properties.defaultPredefinedSslPolicy` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].defaultPredefinedSslPolicy` |
 | `properties.policySettings.jsChallengeCookieExpirationInMins` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.jsChallengeCookieExpirationInMins` |
 | `properties.applicationGateways[*].properties.sku.family` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].sku.family` |
+| `properties.applicationGateways[*].properties.loadDistributionPolicies[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].loadDistributionPolicies[*].id` |
+| `properties.applicationGateways[*].properties.backendSettingsCollection[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].backendSettingsCollection[*].id` |
+| `properties.applicationGateways[*].properties.listeners[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].listeners[*].id` |
+| `properties.applicationGateways[*].properties.routingRules[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].routingRules[*].id` |
 

@@ -120,4 +120,5 @@
 | `properties.ipv6PeeringConfig.routeFilter.properties.peerings[*].etag` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.peerings[*].etag` |
 | `properties.ipv6PeeringConfig.routeFilter.properties.provisioningState` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.provisioningState` |
 | `properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.etag` |
+| `properties.routeFilter.properties.peerings[*].id` | `Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*].id` |
 

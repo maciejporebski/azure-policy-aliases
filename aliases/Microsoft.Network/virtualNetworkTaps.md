@@ -913,4 +913,24 @@
 | `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.gatewayLoadBalancer` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.gatewayLoadBalancer` |
 | `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.gatewayLoadBalancer.id` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.gatewayLoadBalancer.id` |
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.privateIPAddressPrefixLength` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.privateIPAddressPrefixLength` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.virtualNetworkTaps[*].id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.virtualNetworkTaps[*].id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.virtualNetworkTaps[*].name` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.virtualNetworkTaps[*].name` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.virtualNetworkTaps[*].type` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.virtualNetworkTaps[*].type` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.virtualNetworkTaps[*].location` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.virtualNetworkTaps[*].location` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.virtualNetworkTaps[*].tags` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.virtualNetworkTaps[*].tags` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationGatewayBackendAddressPools[*].id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationGatewayBackendAddressPools[*].id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.loadBalancerBackendAddressPools[*].id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.loadBalancerBackendAddressPools[*].id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.loadBalancerInboundNatRules[*].id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.loadBalancerInboundNatRules[*].id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.subnet.id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.subnet.id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.name` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.name` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.type` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.type` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.location` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.location` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.tags` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.tags` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].id` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].id` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].name` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].name` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].type` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].type` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].location` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].tags` |
+| `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.extendedLocation` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.extendedLocation` |
 

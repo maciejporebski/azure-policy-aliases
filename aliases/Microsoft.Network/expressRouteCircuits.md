@@ -141,4 +141,5 @@
 | `properties.authorizationKey` | `Microsoft.Network/expressRouteCircuits/authorizationKey` |
 | `properties.authorizationStatus` | `Microsoft.Network/expressRouteCircuits/authorizationStatus` |
 | `properties.enableDirectPortRateLimit` | `Microsoft.Network/expressRouteCircuits/enableDirectPortRateLimit` |
+| `properties.authorizations[*].properties.connectionResourceUri` | `Microsoft.Network/expressRouteCircuits/authorizations[*].connectionResourceUri` |
 

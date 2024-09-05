@@ -87,4 +87,9 @@
 | `properties.privateEndpoint.properties.ipConfigurations[*].etag` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.ipConfigurations[*].etag` |
 | `properties.privateEndpoint.properties.customNetworkInterfaceName` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.customNetworkInterfaceName` |
 | `properties.privateEndpointLocation` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpointLocation` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].id` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].id` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].name` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].name` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].type` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].type` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].location` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].tags` |
 

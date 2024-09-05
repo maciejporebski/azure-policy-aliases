@@ -501,4 +501,24 @@
 | `properties.backendAddressPool` | `Microsoft.Network/loadBalancers/inboundNatRules/backendAddressPool` |
 | `properties.backendAddressPool.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendAddressPool.id` |
 | `properties.backendIPConfiguration.properties.privateIPAddressPrefixLength` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.privateIPAddressPrefixLength` |
+| `properties.backendIPConfiguration.properties.applicationGatewayBackendAddressPools[*].id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.applicationGatewayBackendAddressPools[*].id` |
+| `properties.backendIPConfiguration.properties.loadBalancerBackendAddressPools[*].id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.loadBalancerBackendAddressPools[*].id` |
+| `properties.backendIPConfiguration.properties.loadBalancerInboundNatRules[*].id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.loadBalancerInboundNatRules[*].id` |
+| `properties.backendIPConfiguration.properties.subnet.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.subnet.id` |
+| `properties.backendIPConfiguration.properties.publicIPAddress.id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.publicIPAddress.id` |
+| `properties.backendIPConfiguration.properties.publicIPAddress.name` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.publicIPAddress.name` |
+| `properties.backendIPConfiguration.properties.publicIPAddress.type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.publicIPAddress.type` |
+| `properties.backendIPConfiguration.properties.publicIPAddress.location` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.publicIPAddress.location` |
+| `properties.backendIPConfiguration.properties.publicIPAddress.tags` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.publicIPAddress.tags` |
+| `properties.backendIPConfiguration.properties.applicationSecurityGroups[*].id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.applicationSecurityGroups[*].id` |
+| `properties.backendIPConfiguration.properties.applicationSecurityGroups[*].name` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.applicationSecurityGroups[*].name` |
+| `properties.backendIPConfiguration.properties.applicationSecurityGroups[*].type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.applicationSecurityGroups[*].type` |
+| `properties.backendIPConfiguration.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.applicationSecurityGroups[*].location` |
+| `properties.backendIPConfiguration.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.applicationSecurityGroups[*].tags` |
+| `properties.backendIPConfiguration.properties.virtualNetworkTaps[*].id` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.virtualNetworkTaps[*].id` |
+| `properties.backendIPConfiguration.properties.virtualNetworkTaps[*].name` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.virtualNetworkTaps[*].name` |
+| `properties.backendIPConfiguration.properties.virtualNetworkTaps[*].type` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.virtualNetworkTaps[*].type` |
+| `properties.backendIPConfiguration.properties.virtualNetworkTaps[*].location` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.virtualNetworkTaps[*].location` |
+| `properties.backendIPConfiguration.properties.virtualNetworkTaps[*].tags` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.virtualNetworkTaps[*].tags` |
+| `properties.backendIPConfiguration.properties.publicIPAddress.extendedLocation` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.publicIPAddress.extendedLocation` |
 

@@ -113,4 +113,5 @@
 | `properties.p2SConnectionConfigurations[*].properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].routingConfiguration.inboundRouteMap.id` |
 | `properties.p2SConnectionConfigurations[*].properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].routingConfiguration.outboundRouteMap` |
 | `properties.p2SConnectionConfigurations[*].properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].routingConfiguration.outboundRouteMap.id` |
+| `properties.p2SConnectionConfigurations[*].properties.previousConfigurationPolicyGroupAssociations[*].id` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].previousConfigurationPolicyGroupAssociations[*].id` |
 

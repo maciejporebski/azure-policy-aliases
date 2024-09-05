@@ -858,4 +858,6 @@
 | `properties.flowLogs[*].identity.tenantId` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity.tenantId` |
 | `properties.flowLogs[*].identity.type` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity.type` |
 | `properties.flowLogs[*].identity.userAssignedIdentities` | `Microsoft.Network/virtualnetworks/flowLogs[*].identity.userAssignedIdentities` |
+| `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].id` | `Microsoft.Network/virtualnetworks/subnets[*].applicationGatewayIpConfigurations[*].id` |
+| `properties.subnets[*].properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/virtualnetworks/subnets[*].serviceEndpoints[*].networkIdentifier` |
 

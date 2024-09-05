@@ -436,4 +436,11 @@
 | `properties.ddosSettings.ddosProtectionPlan` | `Microsoft.Network/publicIPAddresses/ddosSettings.ddosProtectionPlan` |
 | `properties.ddosSettings.ddosProtectionPlan.id` | `Microsoft.Network/publicIPAddresses/ddosSettings.ddosProtectionPlan.id` |
 | `properties.dnsSettings.domainNameLabelScope` | `Microsoft.Network/publicIPAddresses/dnsSettings.domainNameLabelScope` |
+| `properties.ipConfiguration.properties.subnet.id` | `Microsoft.Network/publicIPAddresses/ipConfiguration.subnet.id` |
+| `properties.ipConfiguration.properties.publicIPAddress.id` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.id` |
+| `properties.ipConfiguration.properties.publicIPAddress.name` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.name` |
+| `properties.ipConfiguration.properties.publicIPAddress.type` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.type` |
+| `properties.ipConfiguration.properties.publicIPAddress.location` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.location` |
+| `properties.ipConfiguration.properties.publicIPAddress.tags` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.tags` |
+| `properties.ipConfiguration.properties.publicIPAddress.extendedLocation` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.extendedLocation` |
 

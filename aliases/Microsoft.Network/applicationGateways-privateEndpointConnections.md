@@ -83,4 +83,9 @@
 | `properties.privateEndpoint.properties.ipConfigurations[*].type` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].type` |
 | `properties.privateEndpoint.properties.ipConfigurations[*].etag` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipConfigurations[*].etag` |
 | `properties.privateEndpoint.properties.customNetworkInterfaceName` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.customNetworkInterfaceName` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].id` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].id` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].name` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].name` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].type` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].type` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].location` |
+| `properties.privateEndpoint.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].tags` |
 

@@ -337,4 +337,6 @@
 | `properties.virtualNetworkTap.location` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.location` |
 | `properties.virtualNetworkTap.tags` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.tags` |
 | `properties.virtualNetworkTap.properties.destinationNetworkInterfaceIPConfiguration.type` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.destinationNetworkInterfaceIPConfiguration.type` |
+| `properties.virtualNetworkTap.properties.destinationNetworkInterfaceIPConfiguration.id` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.destinationNetworkInterfaceIPConfiguration.id` |
+| `properties.virtualNetworkTap.properties.destinationLoadBalancerFrontEndIPConfiguration.id` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.destinationLoadBalancerFrontEndIPConfiguration.id` |
 

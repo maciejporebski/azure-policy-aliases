@@ -1369,4 +1369,10 @@
 | `properties.networkInterfaces[*].properties.disableTcpStateTracking` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].disableTcpStateTracking` |
 | `properties.networkInterfaces[*].properties.auxiliarySku` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].auxiliarySku` |
 | `properties.privateEndpointConnections[*].properties.privateEndpointLocation` | `Microsoft.Network/privateLinkServices/privateEndpointConnections[*].privateEndpointLocation` |
+| `properties.networkInterfaces[*].properties.privateLinkService.id` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.id` |
+| `properties.networkInterfaces[*].properties.privateLinkService.name` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.name` |
+| `properties.networkInterfaces[*].properties.privateLinkService.type` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.type` |
+| `properties.networkInterfaces[*].properties.privateLinkService.location` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.location` |
+| `properties.networkInterfaces[*].properties.privateLinkService.tags` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.tags` |
+| `properties.networkInterfaces[*].properties.privateLinkService.extendedLocation` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.extendedLocation` |
 

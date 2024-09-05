@@ -787,4 +787,10 @@
 | `properties.sharingScope` | `Microsoft.Network/virtualnetworks/subnets/sharingScope` |
 | `properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpoints[*].networkIdentifier` |
 | `properties.serviceEndpoints[*].networkIdentifier.id` | `Microsoft.Network/virtualnetworks/subnets/serviceEndpoints[*].networkIdentifier.id` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].id` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].id` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].name` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].name` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].type` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].type` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].location` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].location` |
+| `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].tags` |
+| `properties.networkSecurityGroup.properties.flowLogs[*].identity` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.flowLogs[*].identity` |
 

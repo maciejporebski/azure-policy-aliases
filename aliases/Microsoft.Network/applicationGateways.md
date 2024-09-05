@@ -1893,4 +1893,5 @@
 | `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.pattern` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.pattern` |
 | `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.ignoreCase` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.ignoreCase` |
 | `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.negate` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.negate` |
+| `properties.loadDistributionPolicies[*].properties.loadDistributionTargets[*].id` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionTargets[*].id` |
 
