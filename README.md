@@ -309,7 +309,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -998,6 +997,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Logic/integrationAccounts/sessions](aliases/Microsoft.Logic/integrationAccounts-sessions.md)
 - [Microsoft.Logic/workflows/accessKeys](aliases/Microsoft.Logic/workflows-accessKeys.md)
 - [Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations](aliases/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations.md)
+
+
+## Microsoft.MachineLearning
+
+- [Microsoft.MachineLearning/Workspaces](aliases/Microsoft.MachineLearning/Workspaces.md)
+- [Microsoft.MachineLearning/webServices](aliases/Microsoft.MachineLearning/webServices.md)
+- [Microsoft.MachineLearning/commitmentPlans](aliases/Microsoft.MachineLearning/commitmentPlans.md)
 
 
 ## Microsoft.MachineLearningServices
