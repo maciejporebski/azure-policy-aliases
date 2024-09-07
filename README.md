@@ -999,13 +999,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations](aliases/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations.md)
 
 
-## Microsoft.MachineLearning
-
-- [Microsoft.MachineLearning/Workspaces](aliases/Microsoft.MachineLearning/Workspaces.md)
-- [Microsoft.MachineLearning/webServices](aliases/Microsoft.MachineLearning/webServices.md)
-- [Microsoft.MachineLearning/commitmentPlans](aliases/Microsoft.MachineLearning/commitmentPlans.md)
-
-
 ## Microsoft.MachineLearningServices
 
 - [Microsoft.MachineLearningServices/workspaces/batchEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints.md)
