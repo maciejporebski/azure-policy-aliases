@@ -120,10 +120,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.App/managedEnvironments/dotNetComponents](aliases/Microsoft.App/managedEnvironments-dotNetComponents.md)
 - [Microsoft.App/managedEnvironments/javaComponents](aliases/Microsoft.App/managedEnvironments-javaComponents.md)
 - [Microsoft.App/managedEnvironments/daprComponents](aliases/Microsoft.App/managedEnvironments-daprComponents.md)
+- [Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies](aliases/Microsoft.App/managedEnvironments-daprComponents-resiliencyPolicies.md)
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
 - [Microsoft.App/containerapps/sourcecontrols](aliases/Microsoft.App/containerapps-sourcecontrols.md)
-- [Microsoft.App/managedenvironments/daprcomponents/resiliencypolicies](aliases/Microsoft.App/managedenvironments-daprcomponents-resiliencypolicies.md)
 - [Microsoft.App/managedenvironments/privateendpointconnections](aliases/Microsoft.App/managedenvironments-privateendpointconnections.md)
 
 
