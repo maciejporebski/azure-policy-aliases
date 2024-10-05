@@ -1132,13 +1132,13 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.NetApp/netAppAccounts](aliases/Microsoft.NetApp/netAppAccounts.md)
 - [Microsoft.NetApp/netAppAccounts/snapshotPolicies](aliases/Microsoft.NetApp/netAppAccounts-snapshotPolicies.md)
+- [Microsoft.NetApp/netAppAccounts/backupPolicies](aliases/Microsoft.NetApp/netAppAccounts-backupPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/volumeGroups](aliases/Microsoft.NetApp/netAppAccounts-volumeGroups.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools](aliases/Microsoft.NetApp/netAppAccounts-capacityPools.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
-- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
-- [Microsoft.NetApp/netAppAccounts/backupPolicies](aliases/Microsoft.NetApp/netAppAccounts-backupPolicies.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
+- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
 
 
