@@ -12,4 +12,6 @@
 | `sku.capacity` | `Microsoft.DataMigration/services/sku.capacity` |
 | `sku` | `Microsoft.DataMigration/services/sku` |
 | `properties.virtualNicId` | `Microsoft.DataMigration/services/virtualNicId` |
+| `properties.autoStopDelay` | `Microsoft.DataMigration/services/autoStopDelay` |
+| `properties.deleteResourcesOnStop` | `Microsoft.DataMigration/services/deleteResourcesOnStop` |
 

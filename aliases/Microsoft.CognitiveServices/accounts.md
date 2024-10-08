@@ -136,4 +136,7 @@
 | `properties.amlWorkspace` | `Microsoft.CognitiveServices/accounts/amlWorkspace` |
 | `properties.amlWorkspace.resourceId` | `Microsoft.CognitiveServices/accounts/amlWorkspace.resourceId` |
 | `properties.amlWorkspace.identityClientId` | `Microsoft.CognitiveServices/accounts/amlWorkspace.identityClientId` |
+| `properties.raiMonitorConfig` | `Microsoft.CognitiveServices/accounts/raiMonitorConfig` |
+| `properties.raiMonitorConfig.adxStorageResourceId` | `Microsoft.CognitiveServices/accounts/raiMonitorConfig.adxStorageResourceId` |
+| `properties.raiMonitorConfig.identityClientId` | `Microsoft.CognitiveServices/accounts/raiMonitorConfig.identityClientId` |
 

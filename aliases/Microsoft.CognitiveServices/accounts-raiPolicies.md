@@ -20,4 +20,12 @@
 | `properties.contentFilters[*].allowedContentLevel` | `Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].allowedContentLevel` |
 | `properties.contentFilters[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].blocking` |
 | `properties.contentFilters[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].source` |
+| `properties.contentFilters[*].name` | `Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].name` |
+| `properties.type` | `Microsoft.CognitiveServices/accounts/raiPolicies/type` |
+| `properties.contentFilters[*].severityThreshold` | `Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].severityThreshold` |
+| `properties.customBlocklists` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists` |
+| `properties.customBlocklists[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*]` |
+| `properties.customBlocklists[*].blocklistName` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].blocklistName` |
+| `properties.customBlocklists[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].blocking` |
+| `properties.customBlocklists[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].source` |
 

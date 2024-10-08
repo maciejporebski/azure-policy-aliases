@@ -270,4 +270,14 @@
 | `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/PostgreSqlV2Table.typeProperties` |
 | `properties.typeProperties.additionalHeaders` | `Microsoft.DataFactory/factories/datasets/RestResource.typeProperties.additionalHeaders` |
 | `properties.typeProperties.paginationRules` | `Microsoft.DataFactory/factories/datasets/RestResource.typeProperties.paginationRules` |
+| `properties.typeProperties` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.HttpServerLocation` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.GoogleCloudStorageLocation` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.OracleCloudStorageLocation` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.AmazonS3CompatibleLocation` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.AmazonS3Location` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.AzureBlobFSLocation` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.AzureBlobStorageLocation` |
+| `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location` |
+| `properties.typeProperties.location.type` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.type` |
 

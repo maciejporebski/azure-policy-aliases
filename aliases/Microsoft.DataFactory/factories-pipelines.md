@@ -2145,4 +2145,6 @@
 | `properties.activities[*].typeProperties.sink.storeSettings.metadata[*]` | `Microsoft.DataFactory/factories/pipelines/activities[*].Copy.typeProperties.sink.DelimitedTextSink.storeSettings.metadata[*]` |
 | `properties.activities[*].state` | `Microsoft.DataFactory/factories/pipelines/activities[*].state` |
 | `properties.activities[*].onInactiveMarkAs` | `Microsoft.DataFactory/factories/pipelines/activities[*].onInactiveMarkAs` |
+| `properties.activities[*].typeProperties.continuationSettings` | `Microsoft.DataFactory/factories/pipelines/activities[*].ExecuteWranglingDataflow.typeProperties.continuationSettings` |
+| `properties.activities[*].typeProperties.continuationSettings` | `Microsoft.DataFactory/factories/pipelines/activities[*].ExecuteDataFlow.typeProperties.continuationSettings` |
 

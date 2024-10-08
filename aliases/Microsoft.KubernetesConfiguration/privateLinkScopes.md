@@ -18,4 +18,11 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].provisioningState` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedAt` |
 

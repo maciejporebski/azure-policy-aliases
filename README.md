@@ -344,6 +344,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/deployments](aliases/Microsoft.CognitiveServices/accounts-deployments.md)
 - [Microsoft.CognitiveServices/accounts/raiBlocklists](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists.md)
 - [Microsoft.CognitiveServices/accounts/raiPolicies](aliases/Microsoft.CognitiveServices/accounts-raiPolicies.md)
+- [Microsoft.CognitiveServices/accounts/defenderForAISettings](aliases/Microsoft.CognitiveServices/accounts-defenderForAISettings.md)
+- [Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems.md)
 
 
 ## Microsoft.Communication
@@ -512,6 +514,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataFactory/factories/managedVirtualNetworks](aliases/Microsoft.DataFactory/factories-managedVirtualNetworks.md)
 - [Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints](aliases/Microsoft.DataFactory/factories-managedVirtualNetworks-managedPrivateEndpoints.md)
 - [Microsoft.DataFactory/factories/privateEndpointConnections](aliases/Microsoft.DataFactory/factories-privateEndpointConnections.md)
+- [Microsoft.DataFactory/factories/adfcdcs](aliases/Microsoft.DataFactory/factories-adfcdcs.md)
+- [Microsoft.DataFactory/factories/credentials](aliases/Microsoft.DataFactory/factories-credentials.md)
 
 
 ## Microsoft.DataLakeAnalytics
@@ -535,6 +539,9 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.DataMigration/services](aliases/Microsoft.DataMigration/services.md)
 - [Microsoft.DataMigration/services/projects](aliases/Microsoft.DataMigration/services-projects.md)
+- [Microsoft.DataMigration/migrationServices](aliases/Microsoft.DataMigration/migrationServices.md)
+- [Microsoft.DataMigration/SqlMigrationServices](aliases/Microsoft.DataMigration/SqlMigrationServices.md)
+- [Microsoft.DataMigration/DatabaseMigrations](aliases/Microsoft.DataMigration/DatabaseMigrations.md)
 - [Microsoft.DataMigration/services/projects/files](aliases/Microsoft.DataMigration/services-projects-files.md)
 - [Microsoft.DataMigration/services/projects/tasks](aliases/Microsoft.DataMigration/services-projects-tasks.md)
 - [Microsoft.DataMigration/services/serviceTasks](aliases/Microsoft.DataMigration/services-serviceTasks.md)

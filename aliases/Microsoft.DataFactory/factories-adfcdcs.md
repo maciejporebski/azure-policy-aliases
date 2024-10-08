@@ -1,0 +1,67 @@
+# Microsoft.DataFactory/factories/adfcdcs
+
+| Default Path | Alias |
+|---|---|
+| `properties.folder` | `Microsoft.DataFactory/factories/adfcdcs/folder` |
+| `properties.folder.name` | `Microsoft.DataFactory/factories/adfcdcs/folder.name` |
+| `properties.description` | `Microsoft.DataFactory/factories/adfcdcs/description` |
+| `properties.sourceConnectionsInfo` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo` |
+| `properties.sourceConnectionsInfo[*]` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*]` |
+| `properties.sourceConnectionsInfo[*].sourceEntities` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].sourceEntities` |
+| `properties.sourceConnectionsInfo[*].sourceEntities[*]` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].sourceEntities[*]` |
+| `properties.sourceConnectionsInfo[*].sourceEntities[*].name` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].sourceEntities[*].name` |
+| `properties.sourceConnectionsInfo[*].sourceEntities[*].properties.schema` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].sourceEntities[*].schema` |
+| `properties.sourceConnectionsInfo[*].sourceEntities[*].properties.schema[*]` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].sourceEntities[*].schema[*]` |
+| `properties.sourceConnectionsInfo[*].sourceEntities[*].properties.dslConnectorProperties` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].sourceEntities[*].dslConnectorProperties` |
+| `properties.sourceConnectionsInfo[*].sourceEntities[*].properties.dslConnectorProperties[*]` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].sourceEntities[*].dslConnectorProperties[*]` |
+| `properties.sourceConnectionsInfo[*].connection` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection` |
+| `properties.sourceConnectionsInfo[*].connection.linkedService` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.linkedService` |
+| `properties.sourceConnectionsInfo[*].connection.linkedService.type` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.linkedService.type` |
+| `properties.sourceConnectionsInfo[*].connection.linkedService.referenceName` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.linkedService.referenceName` |
+| `properties.sourceConnectionsInfo[*].connection.linkedService.parameters` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.linkedService.parameters` |
+| `properties.sourceConnectionsInfo[*].connection.linkedServiceType` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.linkedServiceType` |
+| `properties.sourceConnectionsInfo[*].connection.type` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.type` |
+| `properties.sourceConnectionsInfo[*].connection.isInlineDataset` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.isInlineDataset` |
+| `properties.sourceConnectionsInfo[*].connection.commonDslConnectorProperties` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.commonDslConnectorProperties` |
+| `properties.sourceConnectionsInfo[*].connection.commonDslConnectorProperties[*]` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.commonDslConnectorProperties[*]` |
+| `properties.sourceConnectionsInfo[*].connection.commonDslConnectorProperties[*].name` | `Microsoft.DataFactory/factories/adfcdcs/sourceConnectionsInfo[*].connection.commonDslConnectorProperties[*].name` |
+| `properties.targetConnectionsInfo` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo` |
+| `properties.targetConnectionsInfo[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*]` |
+| `properties.targetConnectionsInfo[*].targetEntities` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].targetEntities` |
+| `properties.targetConnectionsInfo[*].targetEntities[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].targetEntities[*]` |
+| `properties.targetConnectionsInfo[*].targetEntities[*].name` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].targetEntities[*].name` |
+| `properties.targetConnectionsInfo[*].targetEntities[*].properties.schema` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].targetEntities[*].schema` |
+| `properties.targetConnectionsInfo[*].targetEntities[*].properties.schema[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].targetEntities[*].schema[*]` |
+| `properties.targetConnectionsInfo[*].targetEntities[*].properties.dslConnectorProperties` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].targetEntities[*].dslConnectorProperties` |
+| `properties.targetConnectionsInfo[*].targetEntities[*].properties.dslConnectorProperties[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].targetEntities[*].dslConnectorProperties[*]` |
+| `properties.targetConnectionsInfo[*].connection` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection` |
+| `properties.targetConnectionsInfo[*].connection.linkedService` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.linkedService` |
+| `properties.targetConnectionsInfo[*].connection.linkedService.type` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.linkedService.type` |
+| `properties.targetConnectionsInfo[*].connection.linkedService.referenceName` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.linkedService.referenceName` |
+| `properties.targetConnectionsInfo[*].connection.linkedService.parameters` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.linkedService.parameters` |
+| `properties.targetConnectionsInfo[*].connection.linkedServiceType` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.linkedServiceType` |
+| `properties.targetConnectionsInfo[*].connection.type` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.type` |
+| `properties.targetConnectionsInfo[*].connection.isInlineDataset` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.isInlineDataset` |
+| `properties.targetConnectionsInfo[*].connection.commonDslConnectorProperties` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.commonDslConnectorProperties` |
+| `properties.targetConnectionsInfo[*].connection.commonDslConnectorProperties[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.commonDslConnectorProperties[*]` |
+| `properties.targetConnectionsInfo[*].connection.commonDslConnectorProperties[*].name` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].connection.commonDslConnectorProperties[*].name` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*]` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].targetEntityName` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].targetEntityName` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].sourceEntityName` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].sourceEntityName` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].sourceConnectionReference` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].sourceConnectionReference` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].sourceConnectionReference.connectionName` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].sourceConnectionReference.connectionName` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].sourceConnectionReference.type` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].sourceConnectionReference.type` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].attributeMappingInfo` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].attributeMappingInfo` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].attributeMappingInfo.attributeMappings` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].attributeMappingInfo.attributeMappings` |
+| `properties.targetConnectionsInfo[*].dataMapperMappings[*].attributeMappingInfo.attributeMappings[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].dataMapperMappings[*].attributeMappingInfo.attributeMappings[*]` |
+| `properties.targetConnectionsInfo[*].relationships` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].relationships` |
+| `properties.targetConnectionsInfo[*].relationships[*]` | `Microsoft.DataFactory/factories/adfcdcs/targetConnectionsInfo[*].relationships[*]` |
+| `properties.policy` | `Microsoft.DataFactory/factories/adfcdcs/policy` |
+| `properties.policy.mode` | `Microsoft.DataFactory/factories/adfcdcs/policy.mode` |
+| `properties.policy.recurrence` | `Microsoft.DataFactory/factories/adfcdcs/policy.recurrence` |
+| `properties.policy.recurrence.frequency` | `Microsoft.DataFactory/factories/adfcdcs/policy.recurrence.frequency` |
+| `properties.policy.recurrence.interval` | `Microsoft.DataFactory/factories/adfcdcs/policy.recurrence.interval` |
+| `properties.allowVNetOverride` | `Microsoft.DataFactory/factories/adfcdcs/allowVNetOverride` |
+| `properties.status` | `Microsoft.DataFactory/factories/adfcdcs/status` |
+

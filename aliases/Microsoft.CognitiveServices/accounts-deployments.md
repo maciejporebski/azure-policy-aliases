@@ -65,4 +65,7 @@
 | `properties.capacitySettings` | `Microsoft.CognitiveServices/accounts/deployments/capacitySettings` |
 | `properties.capacitySettings.designatedCapacity` | `Microsoft.CognitiveServices/accounts/deployments/capacitySettings.designatedCapacity` |
 | `properties.capacitySettings.priority` | `Microsoft.CognitiveServices/accounts/deployments/capacitySettings.priority` |
+| `properties.model.publisher` | `Microsoft.CognitiveServices/accounts/deployments/model.publisher` |
+| `properties.model.sourceAccount` | `Microsoft.CognitiveServices/accounts/deployments/model.sourceAccount` |
+| `properties.parentDeploymentName` | `Microsoft.CognitiveServices/accounts/deployments/parentDeploymentName` |
 

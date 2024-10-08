@@ -54,4 +54,12 @@
 | `properties.alternateName` | `Microsoft.ServiceBus/namespaces/alternateName` |
 | `properties.minimumTlsVersion` | `Microsoft.ServiceBus/namespaces/minimumTlsVersion` |
 | `properties.publicNetworkAccess` | `Microsoft.ServiceBus/namespaces/publicNetworkAccess` |
+| `properties.premiumMessagingPartitions` | `Microsoft.ServiceBus/namespaces/premiumMessagingPartitions` |
+| `properties.geoDataReplication` | `Microsoft.ServiceBus/namespaces/geoDataReplication` |
+| `properties.geoDataReplication.maxReplicationLagDurationInSeconds` | `Microsoft.ServiceBus/namespaces/geoDataReplication.maxReplicationLagDurationInSeconds` |
+| `properties.geoDataReplication.locations` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations` |
+| `properties.geoDataReplication.locations[*]` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations[*]` |
+| `properties.geoDataReplication.locations[*].locationName` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations[*].locationName` |
+| `properties.geoDataReplication.locations[*].roleType` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations[*].roleType` |
+| `properties.geoDataReplication.locations[*].clusterArmId` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations[*].clusterArmId` |
 
