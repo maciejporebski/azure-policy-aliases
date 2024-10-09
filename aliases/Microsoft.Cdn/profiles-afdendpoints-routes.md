@@ -35,4 +35,5 @@
 | `properties.cacheConfiguration.compressionSettings.contentTypesToCompress` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.contentTypesToCompress` |
 | `properties.cacheConfiguration.compressionSettings.contentTypesToCompress[*]` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.contentTypesToCompress[*]` |
 | `properties.cacheConfiguration.compressionSettings.isCompressionEnabled` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.isCompressionEnabled` |
+| `properties.grpcState` | `Microsoft.Cdn/profiles/afdEndpoints/routes/grpcState` |
 

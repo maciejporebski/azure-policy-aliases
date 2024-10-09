@@ -20,4 +20,27 @@
 | `properties.preValidatedCustomDomainResourceId` | `Microsoft.Cdn/profiles/customDomains/preValidatedCustomDomainResourceId` |
 | `properties.preValidatedCustomDomainResourceId.id` | `Microsoft.Cdn/profiles/customDomains/preValidatedCustomDomainResourceId.id` |
 | `properties.extendedProperties` | `Microsoft.Cdn/profiles/customDomains/extendedProperties` |
+| `properties.referencedRoutePaths` | `Microsoft.Cdn/profiles/customDomains/referencedRoutePaths` |
+| `properties.referencedRoutePaths[*]` | `Microsoft.Cdn/profiles/customDomains/referencedRoutePaths[*]` |
+| `properties.referencedRoutePaths[*].routeId` | `Microsoft.Cdn/profiles/customDomains/referencedRoutePaths[*].routeId` |
+| `properties.referencedRoutePaths[*].routeId.id` | `Microsoft.Cdn/profiles/customDomains/referencedRoutePaths[*].routeId.id` |
+| `properties.referencedRoutePaths[*].paths` | `Microsoft.Cdn/profiles/customDomains/referencedRoutePaths[*].paths` |
+| `properties.referencedRoutePaths[*].paths[*]` | `Microsoft.Cdn/profiles/customDomains/referencedRoutePaths[*].paths[*]` |
+| `properties.tlsSettings.cipherSuiteSetType` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.cipherSuiteSetType` |
+| `properties.tlsSettings.customizedCipherSuiteSet` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.customizedCipherSuiteSet` |
+| `properties.tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls10` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls10` |
+| `properties.tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls10[*]` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls10[*]` |
+| `properties.tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls12` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls12` |
+| `properties.tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls12[*]` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls12[*]` |
+| `properties.tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls13` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls13` |
+| `properties.tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls13[*]` | `Microsoft.Cdn/profiles/customDomains/tlsSettings.customizedCipherSuiteSet.cipherSuiteSetForTls13[*]` |
+| `properties.mtlsSettings` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings` |
+| `properties.mtlsSettings.secrets` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.secrets` |
+| `properties.mtlsSettings.secrets[*]` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.secrets[*]` |
+| `properties.mtlsSettings.secrets[*].id` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.secrets[*].id` |
+| `properties.mtlsSettings.otherAllowedFqdn` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.otherAllowedFqdn` |
+| `properties.mtlsSettings.otherAllowedFqdn[*]` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.otherAllowedFqdn[*]` |
+| `properties.mtlsSettings.certificateValidation` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.certificateValidation` |
+| `properties.mtlsSettings.certificatePassthrough` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.certificatePassthrough` |
+| `properties.mtlsSettings.ocsp` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.ocsp` |
 

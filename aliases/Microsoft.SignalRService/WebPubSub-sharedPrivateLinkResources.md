@@ -7,4 +7,6 @@
 | `properties.provisioningState` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/provisioningState` |
 | `properties.requestMessage` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/requestMessage` |
 | `properties.status` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/status` |
+| `properties.fqdns` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/fqdns` |
+| `properties.fqdns[*]` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/fqdns[*]` |
 

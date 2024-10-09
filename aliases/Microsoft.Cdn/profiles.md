@@ -14,4 +14,12 @@
 | `properties.identity.userAssignedIdentities` | `Microsoft.Cdn/profiles/identity.userAssignedIdentities` |
 | `properties.originResponseTimeoutSeconds` | `Microsoft.Cdn/profiles/originResponseTimeoutSeconds` |
 | `properties.extendedProperties` | `Microsoft.Cdn/profiles/extendedProperties` |
+| `properties.logScrubbing` | `Microsoft.Cdn/profiles/logScrubbing` |
+| `properties.logScrubbing.state` | `Microsoft.Cdn/profiles/logScrubbing.state` |
+| `properties.logScrubbing.scrubbingRules` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules` |
+| `properties.logScrubbing.scrubbingRules[*]` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*]` |
+| `properties.logScrubbing.scrubbingRules[*].matchVariable` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*].matchVariable` |
+| `properties.logScrubbing.scrubbingRules[*].selectorMatchOperator` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*].selectorMatchOperator` |
+| `properties.logScrubbing.scrubbingRules[*].selector` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*].selector` |
+| `properties.logScrubbing.scrubbingRules[*].state` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*].state` |
 

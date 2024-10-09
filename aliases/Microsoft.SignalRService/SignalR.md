@@ -103,4 +103,23 @@
 | `properties.liveTraceConfiguration.categories[*].enabled` | `Microsoft.SignalRService/SignalR/liveTraceConfiguration.categories[*].enabled` |
 | `properties.serverless` | `Microsoft.SignalRService/SignalR/serverless` |
 | `properties.serverless.connectionTimeoutInSeconds` | `Microsoft.SignalRService/SignalR/serverless.connectionTimeoutInSeconds` |
+| `properties.networkACLs.ipRules` | `Microsoft.SignalRService/SignalR/networkACLs.ipRules` |
+| `properties.networkACLs.ipRules[*]` | `Microsoft.SignalRService/SignalR/networkACLs.ipRules[*]` |
+| `properties.networkACLs.ipRules[*].value` | `Microsoft.SignalRService/SignalR/networkACLs.ipRules[*].value` |
+| `properties.networkACLs.ipRules[*].action` | `Microsoft.SignalRService/SignalR/networkACLs.ipRules[*].action` |
+| `properties.regionEndpointEnabled` | `Microsoft.SignalRService/SignalR/regionEndpointEnabled` |
+| `properties.resourceStopped` | `Microsoft.SignalRService/SignalR/resourceStopped` |
+| `properties.applicationFirewall` | `Microsoft.SignalRService/SignalR/applicationFirewall` |
+| `properties.applicationFirewall.clientConnectionCountRules` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*]` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].ThrottleByUserIdRule` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtSignatureRule` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtCustomClaimRule` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].maxCount` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].ThrottleByUserIdRule.maxCount` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].maxCount` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtSignatureRule.maxCount` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].maxCount` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtCustomClaimRule.maxCount` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].claimName` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtCustomClaimRule.claimName` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].type` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].type` |
+| `properties.sharedPrivateLinkResources[*].properties.fqdns` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].fqdns` |
+| `properties.sharedPrivateLinkResources[*].properties.fqdns[*]` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].fqdns[*]` |
 

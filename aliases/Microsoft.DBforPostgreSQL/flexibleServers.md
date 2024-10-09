@@ -97,4 +97,11 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].provisioningState` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedAt` |
 

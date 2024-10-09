@@ -26,4 +26,18 @@
 | `properties.parameters.expirationDate` | `Microsoft.Cdn/profiles/secrets/parameters.CustomerCertificate.expirationDate` |
 | `properties.parameters.expirationDate` | `Microsoft.Cdn/profiles/secrets/parameters.ManagedCertificate.expirationDate` |
 | `properties.parameters.thumbprint` | `Microsoft.Cdn/profiles/secrets/parameters.CustomerCertificate.thumbprint` |
+| `properties.parameters` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate` |
+| `properties.parameters` | `Microsoft.Cdn/profiles/secrets/parameters.MtlsCertificateChain` |
+| `properties.parameters.secretSource` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.secretSource` |
+| `properties.parameters.secretSource` | `Microsoft.Cdn/profiles/secrets/parameters.MtlsCertificateChain.secretSource` |
+| `properties.parameters.secretSource.id` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.secretSource.id` |
+| `properties.parameters.secretSource.id` | `Microsoft.Cdn/profiles/secrets/parameters.MtlsCertificateChain.secretSource.id` |
+| `properties.parameters.secretVersion` | `Microsoft.Cdn/profiles/secrets/parameters.MtlsCertificateChain.secretVersion` |
+| `properties.parameters.certificateAuthority` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.certificateAuthority` |
+| `properties.parameters.subjectAlternativeNames` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.subjectAlternativeNames` |
+| `properties.parameters.subjectAlternativeNames[*]` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.subjectAlternativeNames[*]` |
+| `properties.parameters.subject` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.subject` |
+| `properties.parameters.expirationDate` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.expirationDate` |
+| `properties.parameters.expirationDate` | `Microsoft.Cdn/profiles/secrets/parameters.MtlsCertificateChain.expirationDate` |
+| `properties.parameters.thumbprint` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.thumbprint` |
 

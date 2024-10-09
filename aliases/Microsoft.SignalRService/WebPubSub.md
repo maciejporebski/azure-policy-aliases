@@ -93,4 +93,25 @@
 | `properties.resourceLogConfiguration.categories[*]` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration.categories[*]` |
 | `properties.resourceLogConfiguration.categories[*].name` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration.categories[*].name` |
 | `properties.resourceLogConfiguration.categories[*].enabled` | `Microsoft.SignalRService/webPubSub/resourceLogConfiguration.categories[*].enabled` |
+| `properties.networkACLs.ipRules` | `Microsoft.SignalRService/webPubSub/networkACLs.ipRules` |
+| `properties.networkACLs.ipRules[*]` | `Microsoft.SignalRService/webPubSub/networkACLs.ipRules[*]` |
+| `properties.networkACLs.ipRules[*].value` | `Microsoft.SignalRService/webPubSub/networkACLs.ipRules[*].value` |
+| `properties.networkACLs.ipRules[*].action` | `Microsoft.SignalRService/webPubSub/networkACLs.ipRules[*].action` |
+| `properties.regionEndpointEnabled` | `Microsoft.SignalRService/webPubSub/regionEndpointEnabled` |
+| `properties.resourceStopped` | `Microsoft.SignalRService/webPubSub/resourceStopped` |
+| `properties.socketIO` | `Microsoft.SignalRService/webPubSub/socketIO` |
+| `properties.socketIO.serviceMode` | `Microsoft.SignalRService/webPubSub/socketIO.serviceMode` |
+| `properties.applicationFirewall` | `Microsoft.SignalRService/webPubSub/applicationFirewall` |
+| `properties.applicationFirewall.clientConnectionCountRules` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*]` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].ThrottleByUserIdRule` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtSignatureRule` |
+| `properties.applicationFirewall.clientConnectionCountRules[*]` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtCustomClaimRule` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].maxCount` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].ThrottleByUserIdRule.maxCount` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].maxCount` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtSignatureRule.maxCount` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].maxCount` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtCustomClaimRule.maxCount` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].claimName` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].ThrottleByJwtCustomClaimRule.claimName` |
+| `properties.applicationFirewall.clientConnectionCountRules[*].type` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].type` |
+| `properties.sharedPrivateLinkResources[*].properties.fqdns` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].fqdns` |
+| `properties.sharedPrivateLinkResources[*].properties.fqdns[*]` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].fqdns[*]` |
 

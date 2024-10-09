@@ -26,4 +26,5 @@
 | `properties.eventListeners[*].endpoint.fullyQualifiedNamespace` | `Microsoft.SignalRService/webPubSub/hubs/eventListeners[*].endpoint.EventHub.fullyQualifiedNamespace` |
 | `properties.eventListeners[*].endpoint.eventHubName` | `Microsoft.SignalRService/webPubSub/hubs/eventListeners[*].endpoint.EventHub.eventHubName` |
 | `properties.eventListeners[*].endpoint.type` | `Microsoft.SignalRService/webPubSub/hubs/eventListeners[*].endpoint.type` |
+| `properties.webSocketKeepAliveIntervalInSeconds` | `Microsoft.SignalRService/webPubSub/hubs/webSocketKeepAliveIntervalInSeconds` |
 
