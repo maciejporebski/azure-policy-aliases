@@ -704,4 +704,9 @@
 | `properties.taskDetails.testData.pathOnCompute` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.taskDetails.testData.pathOnCompute` |
 | `properties.taskDetails.modelSettings.checkpointModel.pathOnCompute` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.taskDetails.modelSettings.checkpointModel.pathOnCompute` |
 | `properties.taskDetails.trainingData.pathOnCompute` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.taskDetails.trainingData.pathOnCompute` |
+| `properties.resources` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.resources` |
+| `properties.queueSettings` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.queueSettings` |
+| `properties.queueSettings.jobTier` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.queueSettings.jobTier` |
+| `properties.resources.instanceTypes` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.resources.instanceTypes` |
+| `properties.resources.instanceTypes[*]` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.resources.instanceTypes[*]` |
 

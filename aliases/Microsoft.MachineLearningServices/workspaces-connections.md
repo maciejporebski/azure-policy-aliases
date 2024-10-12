@@ -47,4 +47,9 @@
 | `properties.sharedUserList` | `Microsoft.MachineLearningServices/workspaces/connections/sharedUserList` |
 | `properties.sharedUserList[*]` | `Microsoft.MachineLearningServices/workspaces/connections/sharedUserList[*]` |
 | `properties.metadata` | `Microsoft.MachineLearningServices/workspaces/connections/metadata` |
+| `properties.credentials.key` | `Microsoft.MachineLearningServices/workspaces/connections/AccountKey.credentials.key` |
+| `properties.error` | `Microsoft.MachineLearningServices/workspaces/connections/error` |
+| `properties.peRequirement` | `Microsoft.MachineLearningServices/workspaces/connections/peRequirement` |
+| `properties.peStatus` | `Microsoft.MachineLearningServices/workspaces/connections/peStatus` |
+| `properties.useWorkspaceManagedIdentity` | `Microsoft.MachineLearningServices/workspaces/connections/useWorkspaceManagedIdentity` |
 

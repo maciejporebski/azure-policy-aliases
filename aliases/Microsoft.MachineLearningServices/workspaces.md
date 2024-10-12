@@ -136,4 +136,7 @@
 | `properties.enableSoftwareBillOfMaterials` | `Microsoft.MachineLearningServices/workspaces/enableSoftwareBillOfMaterials` |
 | `properties.ipAllowlist` | `Microsoft.MachineLearningServices/workspaces/ipAllowlist` |
 | `properties.ipAllowlist[*]` | `Microsoft.MachineLearningServices/workspaces/ipAllowlist[*]` |
+| `properties.allowRoleAssignmentOnRG` | `Microsoft.MachineLearningServices/workspaces/allowRoleAssignmentOnRG` |
+| `properties.enableServiceSideCMKEncryption` | `Microsoft.MachineLearningServices/workspaces/enableServiceSideCMKEncryption` |
+| `properties.enableSimplifiedCmk` | `Microsoft.MachineLearningServices/workspaces/enableSimplifiedCmk` |
 

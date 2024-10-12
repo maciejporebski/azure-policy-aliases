@@ -1039,6 +1039,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MachineLearningServices/workspaces/connections/deployments](aliases/Microsoft.MachineLearningServices/workspaces-connections-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces/endpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-endpoints-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces/outboundRules](aliases/Microsoft.MachineLearningServices/workspaces-outboundRules.md)
+- [Microsoft.MachineLearningServices/workspaces/connections/raiBlocklists](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiBlocklists.md)
+- [Microsoft.MachineLearningServices/workspaces/connections/raiBlocklists/raiBlocklistItems](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiBlocklists-raiBlocklistItems.md)
+- [Microsoft.MachineLearningServices/workspaces/connections/raiPolicies](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiPolicies.md)
 
 
 ## Microsoft.Maintenance

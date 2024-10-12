@@ -19,4 +19,8 @@
 | `properties.destination.addressPrefixes` | `Microsoft.MachineLearningServices/workspaces/outboundRules/ServiceTag.destination.addressPrefixes` |
 | `properties.destination.addressPrefixes[*]` | `Microsoft.MachineLearningServices/workspaces/outboundRules/ServiceTag.destination.addressPrefixes[*]` |
 | `properties.parentRuleName` | `Microsoft.MachineLearningServices/workspaces/outboundRules/PrivateEndpoint.parentRuleName` |
+| `properties.parentRuleNames` | `Microsoft.MachineLearningServices/workspaces/outboundRules/parentRuleNames` |
+| `properties.parentRuleNames[*]` | `Microsoft.MachineLearningServices/workspaces/outboundRules/parentRuleNames[*]` |
+| `properties.fqdns` | `Microsoft.MachineLearningServices/workspaces/outboundRules/PrivateEndpoint.fqdns` |
+| `properties.fqdns[*]` | `Microsoft.MachineLearningServices/workspaces/outboundRules/PrivateEndpoint.fqdns[*]` |
 

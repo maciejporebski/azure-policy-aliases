@@ -8,14 +8,16 @@
 | `properties.model.source` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/model.source` |
 | `properties.model.version` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/model.version` |
 | `properties.raiPolicyName` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/raiPolicyName` |
-| `properties.sku` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku` |
-| `properties.sku.capacity` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.capacity` |
-| `properties.sku.family` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.family` |
-| `properties.sku.name` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.name` |
-| `properties.sku.size` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.size` |
-| `properties.sku.tier` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.tier` |
+| `sku` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku` |
+| `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.capacity` |
+| `sku.family` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.family` |
+| `sku.name` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.name` |
+| `sku.size` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.size` |
+| `sku.tier` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/sku.tier` |
 | `properties.versionUpgradeOption` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/versionUpgradeOption` |
 | `properties.failureReason` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/failureReason` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/provisioningState` |
 | `properties.type` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/type` |
+| `properties.model` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/managedOnlineEndpoint.model` |
+| `properties.endpointComputeType` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/managedOnlineEndpoint.endpointComputeType` |
 
