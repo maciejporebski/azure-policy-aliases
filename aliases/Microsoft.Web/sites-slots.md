@@ -50,9 +50,9 @@
 | `properties.siteConfig.appSettings[*].name` | `Microsoft.Web/sites/slots/siteConfig.appSettings[*].name` |
 | `properties.siteConfig.appSettings[*]` | `Microsoft.Web/sites/slots/siteConfig.appSettings[*]` |
 | `properties.siteConfig.appSettings` | `Microsoft.Web/sites/slots/siteConfig.appSettings` |
-| `properties.siteConfig.metadata[*].name` | `Microsoft.Web/sites/slots/siteConfig.metadata[*].name` |
-| `properties.siteConfig.metadata[*]` | `Microsoft.Web/sites/slots/siteConfig.metadata[*]` |
-| `properties.siteConfig.metadata` | `Microsoft.Web/sites/slots/siteConfig.metadata` |
+| `properties.siteConfig.properties.metadata[*].name` | `Microsoft.Web/sites/slots/siteConfig.metadata[*].name` |
+| `properties.siteConfig.properties.metadata[*]` | `Microsoft.Web/sites/slots/siteConfig.metadata[*]` |
+| `properties.siteConfig.properties.metadata` | `Microsoft.Web/sites/slots/siteConfig.metadata` |
 | `properties.siteConfig.connectionStrings[*].name` | `Microsoft.Web/sites/slots/siteConfig.connectionStrings[*].name` |
 | `properties.siteConfig.connectionStrings[*].connectionString` | `Microsoft.Web/sites/slots/siteConfig.connectionStrings[*].connectionString` |
 | `properties.siteConfig.connectionStrings[*].type` | `Microsoft.Web/sites/slots/siteConfig.connectionStrings[*].type` |
@@ -262,7 +262,7 @@
 | `properties.siteConfig.reservedInstanceCount` | `Microsoft.Web/sites/slots/siteConfig.reservedInstanceCount` |
 | `properties.cloningInfo.sourceWebAppLocation` | `Microsoft.Web/sites/slots/cloningInfo.sourceWebAppLocation` |
 | `properties.siteConfig.appSettings[*].value` | `Microsoft.Web/sites/slots/siteConfig.appSettings[*].value` |
-| `properties.siteConfig.metadata[*].value` | `Microsoft.Web/sites/slots/siteConfig.metadata[*].value` |
+| `properties.siteConfig.properties.metadata[*].value` | `Microsoft.Web/sites/slots/siteConfig.metadata[*].value` |
 | `properties.id` | `Microsoft.Web/sites/slots/instances.deployments.id` |
 | `properties.status` | `Microsoft.Web/sites/slots/instances.deployments.status` |
 | `properties.message` | `Microsoft.Web/sites/slots/instances.deployments.message` |
