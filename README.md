@@ -309,6 +309,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1325,6 +1326,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.NotificationHubs/namespaces/notificationHubs](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs.md)
 - [Microsoft.NotificationHubs/Namespaces/AuthorizationRules](aliases/Microsoft.NotificationHubs/Namespaces-AuthorizationRules.md)
 - [Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs-authorizationRules.md)
+- [Microsoft.NotificationHubs/namespaces/privateEndpointConnections](aliases/Microsoft.NotificationHubs/namespaces-privateEndpointConnections.md)
 
 
 ## Microsoft.OffAzure

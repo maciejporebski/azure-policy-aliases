@@ -50,4 +50,18 @@
 | `properties.apnsCredential.properties.appName` | `Microsoft.NotificationHubs/namespaces/notificationHubs/apnsCredential.appName` |
 | `properties.apnsCredential.properties.appId` | `Microsoft.NotificationHubs/namespaces/notificationHubs/apnsCredential.appId` |
 | `properties.apnsCredential.properties.token` | `Microsoft.NotificationHubs/namespaces/notificationHubs/apnsCredential.token` |
+| `properties.wnsCredential.properties.certificateKey` | `Microsoft.NotificationHubs/namespaces/notificationHubs/wnsCredential.certificateKey` |
+| `properties.wnsCredential.properties.wnsCertificate` | `Microsoft.NotificationHubs/namespaces/notificationHubs/wnsCredential.wnsCertificate` |
+| `properties.browserCredential` | `Microsoft.NotificationHubs/namespaces/notificationHubs/browserCredential` |
+| `properties.browserCredential.properties.subject` | `Microsoft.NotificationHubs/namespaces/notificationHubs/browserCredential.subject` |
+| `properties.browserCredential.properties.vapidPrivateKey` | `Microsoft.NotificationHubs/namespaces/notificationHubs/browserCredential.vapidPrivateKey` |
+| `properties.browserCredential.properties.vapidPublicKey` | `Microsoft.NotificationHubs/namespaces/notificationHubs/browserCredential.vapidPublicKey` |
+| `properties.xiaomiCredential` | `Microsoft.NotificationHubs/namespaces/notificationHubs/xiaomiCredential` |
+| `properties.xiaomiCredential.properties.appSecret` | `Microsoft.NotificationHubs/namespaces/notificationHubs/xiaomiCredential.appSecret` |
+| `properties.xiaomiCredential.properties.endpoint` | `Microsoft.NotificationHubs/namespaces/notificationHubs/xiaomiCredential.endpoint` |
+| `properties.dailyMaxActiveDevices` | `Microsoft.NotificationHubs/namespaces/notificationHubs/dailyMaxActiveDevices` |
+| `properties.fcmV1Credential` | `Microsoft.NotificationHubs/namespaces/notificationHubs/fcmV1Credential` |
+| `properties.fcmV1Credential.properties.clientEmail` | `Microsoft.NotificationHubs/namespaces/notificationHubs/fcmV1Credential.clientEmail` |
+| `properties.fcmV1Credential.properties.privateKey` | `Microsoft.NotificationHubs/namespaces/notificationHubs/fcmV1Credential.privateKey` |
+| `properties.fcmV1Credential.properties.projectId` | `Microsoft.NotificationHubs/namespaces/notificationHubs/fcmV1Credential.projectId` |
 
