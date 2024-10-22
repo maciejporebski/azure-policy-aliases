@@ -897,6 +897,9 @@ This repository contains all available resource property aliases for easy refere
 
 ## microsoft.insights
 
+- [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
+- [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
+- [microsoft.insights/dataCollectionEndpoints](aliases/microsoft.insights/dataCollectionEndpoints.md)
 - [microsoft.insights/components](aliases/microsoft.insights/components.md)
 - [microsoft.insights/components/analyticsItems](aliases/microsoft.insights/components-analyticsItems.md)
 - [microsoft.insights/components/myAnalyticsItems](aliases/microsoft.insights/components-myAnalyticsItems.md)
@@ -906,7 +909,6 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/components/pricingPlans](aliases/microsoft.insights/components-pricingPlans.md)
 - [microsoft.insights/logprofiles](aliases/microsoft.insights/logprofiles.md)
 - [microsoft.insights/metricalerts](aliases/microsoft.insights/metricalerts.md)
-- [microsoft.insights/alertrules](aliases/microsoft.insights/alertrules.md)
 - [microsoft.insights/autoscalesettings](aliases/microsoft.insights/autoscalesettings.md)
 - [microsoft.insights/diagnosticSettings](aliases/microsoft.insights/diagnosticSettings.md)
 - [microsoft.insights/tenantactiongroups](aliases/microsoft.insights/tenantactiongroups.md)
@@ -914,9 +916,6 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/activityLogAlerts](aliases/microsoft.insights/activityLogAlerts.md)
 - [microsoft.insights/workbooks](aliases/microsoft.insights/workbooks.md)
 - [microsoft.insights/workbooktemplates](aliases/microsoft.insights/workbooktemplates.md)
-- [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
-- [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
-- [microsoft.insights/dataCollectionEndpoints](aliases/microsoft.insights/dataCollectionEndpoints.md)
 - [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
