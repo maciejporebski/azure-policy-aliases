@@ -599,6 +599,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.DBforPostgreSQL/servers](aliases/Microsoft.DBforPostgreSQL/servers.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers](aliases/Microsoft.DBforPostgreSQL/flexibleServers.md)
+- [Microsoft.DBforPostgreSQL/flexibleServers/migrations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-migrations.md)
 - [Microsoft.DBforPostgreSQL/servers/virtualNetworkRules](aliases/Microsoft.DBforPostgreSQL/servers-virtualNetworkRules.md)
 - [Microsoft.DBforPostgreSQL/servers/privateEndpointConnections](aliases/Microsoft.DBforPostgreSQL/servers-privateEndpointConnections.md)
 - [Microsoft.DBforPostgreSQL/servers/keys](aliases/Microsoft.DBforPostgreSQL/servers-keys.md)
@@ -610,7 +611,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforPostgreSQL/flexibleServers/configurations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-configurations.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/databases](aliases/Microsoft.DBforPostgreSQL/flexibleServers-databases.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/firewallRules](aliases/Microsoft.DBforPostgreSQL/flexibleServers-firewallRules.md)
-- [Microsoft.DBforPostgreSQL/flexibleServers/migrations](aliases/Microsoft.DBforPostgreSQL/flexibleServers-migrations.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/administrators](aliases/Microsoft.DBforPostgreSQL/flexibleServers-administrators.md)
 - [Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections](aliases/Microsoft.DBforPostgreSQL/serverGroupsv2-privateEndpointConnections.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings](aliases/Microsoft.DBforPostgreSQL/flexibleServers-advancedThreatProtectionSettings.md)
