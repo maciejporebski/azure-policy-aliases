@@ -309,6 +309,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -881,7 +882,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.HealthDataAIServices
 
 - [Microsoft.HealthDataAIServices/DeidServices](aliases/Microsoft.HealthDataAIServices/DeidServices.md)
-- [Microsoft.HealthDataAIServices/DeidServices/privateEndpointConnections](aliases/Microsoft.HealthDataAIServices/DeidServices-privateEndpointConnections.md)
+- [Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections](aliases/Microsoft.HealthDataAIServices/deidServices-privateEndpointConnections.md)
 
 
 ## Microsoft.HybridCompute
