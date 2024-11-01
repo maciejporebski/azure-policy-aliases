@@ -309,7 +309,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1113,6 +1112,7 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.MixedReality/spatialAnchorsAccounts](aliases/Microsoft.MixedReality/spatialAnchorsAccounts.md)
 - [Microsoft.MixedReality/remoteRenderingAccounts](aliases/Microsoft.MixedReality/remoteRenderingAccounts.md)
+- [Microsoft.MixedReality/objectAnchorsAccounts](aliases/Microsoft.MixedReality/objectAnchorsAccounts.md)
 
 
 ## Microsoft.MobileNetwork
