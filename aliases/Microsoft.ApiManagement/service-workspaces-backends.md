@@ -1,0 +1,60 @@
+# Microsoft.ApiManagement/service/workspaces/backends
+
+| Default Path | Alias |
+|---|---|
+| `properties.title` | `Microsoft.ApiManagement/service/workspaces/backends/title` |
+| `properties.description` | `Microsoft.ApiManagement/service/workspaces/backends/description` |
+| `properties.resourceId` | `Microsoft.ApiManagement/service/workspaces/backends/resourceId` |
+| `properties.properties.serviceFabricCluster` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster` |
+| `properties.properties.serviceFabricCluster.clientCertificateId` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.clientCertificateId` |
+| `properties.properties.serviceFabricCluster.clientCertificatethumbprint` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.clientCertificatethumbprint` |
+| `properties.properties.serviceFabricCluster.maxPartitionResolutionRetries` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.maxPartitionResolutionRetries` |
+| `properties.properties.serviceFabricCluster.managementEndpoints` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.managementEndpoints` |
+| `properties.properties.serviceFabricCluster.managementEndpoints[*]` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.managementEndpoints[*]` |
+| `properties.properties.serviceFabricCluster.serverCertificateThumbprints` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.serverCertificateThumbprints` |
+| `properties.properties.serviceFabricCluster.serverCertificateThumbprints[*]` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.serverCertificateThumbprints[*]` |
+| `properties.properties.serviceFabricCluster.serverX509Names` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.serverX509Names` |
+| `properties.properties.serviceFabricCluster.serverX509Names[*]` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.serverX509Names[*]` |
+| `properties.properties.serviceFabricCluster.serverX509Names[*].name` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.serverX509Names[*].name` |
+| `properties.properties.serviceFabricCluster.serverX509Names[*].issuerCertificateThumbprint` | `Microsoft.ApiManagement/service/workspaces/backends/serviceFabricCluster.serverX509Names[*].issuerCertificateThumbprint` |
+| `properties.credentials` | `Microsoft.ApiManagement/service/workspaces/backends/credentials` |
+| `properties.credentials.certificateIds` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.certificateIds` |
+| `properties.credentials.certificateIds[*]` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.certificateIds[*]` |
+| `properties.credentials.certificate` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.certificate` |
+| `properties.credentials.certificate[*]` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.certificate[*]` |
+| `properties.credentials.query` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.query` |
+| `properties.credentials.header` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.header` |
+| `properties.credentials.authorization` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.authorization` |
+| `properties.credentials.authorization.scheme` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.authorization.scheme` |
+| `properties.credentials.authorization.parameter` | `Microsoft.ApiManagement/service/workspaces/backends/credentials.authorization.parameter` |
+| `properties.proxy` | `Microsoft.ApiManagement/service/workspaces/backends/proxy` |
+| `properties.proxy.url` | `Microsoft.ApiManagement/service/workspaces/backends/proxy.url` |
+| `properties.proxy.username` | `Microsoft.ApiManagement/service/workspaces/backends/proxy.username` |
+| `properties.proxy.password` | `Microsoft.ApiManagement/service/workspaces/backends/proxy.password` |
+| `properties.tls` | `Microsoft.ApiManagement/service/workspaces/backends/tls` |
+| `properties.tls.validateCertificateChain` | `Microsoft.ApiManagement/service/workspaces/backends/tls.validateCertificateChain` |
+| `properties.tls.validateCertificateName` | `Microsoft.ApiManagement/service/workspaces/backends/tls.validateCertificateName` |
+| `properties.circuitBreaker` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker` |
+| `properties.circuitBreaker.rules` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules` |
+| `properties.circuitBreaker.rules[*]` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*]` |
+| `properties.circuitBreaker.rules[*].name` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].name` |
+| `properties.circuitBreaker.rules[*].failureCondition` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition` |
+| `properties.circuitBreaker.rules[*].failureCondition.count` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition.count` |
+| `properties.circuitBreaker.rules[*].failureCondition.percentage` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition.percentage` |
+| `properties.circuitBreaker.rules[*].failureCondition.interval` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition.interval` |
+| `properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges` |
+| `properties.circuitBreaker.rules[*].failureCondition.statusCodeRanges[*]` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition.statusCodeRanges[*]` |
+| `properties.circuitBreaker.rules[*].failureCondition.errorReasons` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition.errorReasons` |
+| `properties.circuitBreaker.rules[*].failureCondition.errorReasons[*]` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureCondition.errorReasons[*]` |
+| `properties.circuitBreaker.rules[*].tripDuration` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].tripDuration` |
+| `properties.circuitBreaker.rules[*].acceptRetryAfter` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].acceptRetryAfter` |
+| `properties.pool` | `Microsoft.ApiManagement/service/workspaces/backends/pool` |
+| `properties.pool.services` | `Microsoft.ApiManagement/service/workspaces/backends/pool.services` |
+| `properties.pool.services[*]` | `Microsoft.ApiManagement/service/workspaces/backends/pool.services[*]` |
+| `properties.pool.services[*].id` | `Microsoft.ApiManagement/service/workspaces/backends/pool.services[*].id` |
+| `properties.pool.services[*].weight` | `Microsoft.ApiManagement/service/workspaces/backends/pool.services[*].weight` |
+| `properties.pool.services[*].priority` | `Microsoft.ApiManagement/service/workspaces/backends/pool.services[*].priority` |
+| `properties.type` | `Microsoft.ApiManagement/service/workspaces/backends/type` |
+| `properties.url` | `Microsoft.ApiManagement/service/workspaces/backends/url` |
+| `properties.protocol` | `Microsoft.ApiManagement/service/workspaces/backends/protocol` |
+

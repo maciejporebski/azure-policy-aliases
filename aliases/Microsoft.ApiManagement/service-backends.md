@@ -60,4 +60,7 @@
 | `properties.pool.services[*]` | `Microsoft.ApiManagement/service/backends/pool.services[*]` |
 | `properties.pool.services[*].id` | `Microsoft.ApiManagement/service/backends/pool.services[*].id` |
 | `properties.type` | `Microsoft.ApiManagement/service/backends/type` |
+| `properties.circuitBreaker.rules[*].acceptRetryAfter` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].acceptRetryAfter` |
+| `properties.pool.services[*].weight` | `Microsoft.ApiManagement/service/backends/pool.services[*].weight` |
+| `properties.pool.services[*].priority` | `Microsoft.ApiManagement/service/backends/pool.services[*].priority` |
 
