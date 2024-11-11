@@ -887,7 +887,7 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.HealthDataAIServices
 
-- [Microsoft.HealthDataAIServices/DeidServices](aliases/Microsoft.HealthDataAIServices/DeidServices.md)
+- [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
 - [Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections](aliases/Microsoft.HealthDataAIServices/deidServices-privateEndpointConnections.md)
 
 
