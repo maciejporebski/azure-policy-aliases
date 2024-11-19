@@ -133,4 +133,7 @@
 | `properties.hubIPAddresses.publicIPs.count` | `Microsoft.Network/azureFirewalls/hubIPAddresses.publicIPs.count` |
 | `properties.hubIPAddresses.publicIPs` | `Microsoft.Network/azureFirewalls/hubIPAddresses.publicIPs` |
 | `properties.additionalProperties` | `Microsoft.Network/azureFirewalls/additionalProperties` |
+| `properties.autoscaleConfiguration` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration` |
+| `properties.autoscaleConfiguration.minCapacity` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration.minCapacity` |
+| `properties.autoscaleConfiguration.maxCapacity` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration.maxCapacity` |
 

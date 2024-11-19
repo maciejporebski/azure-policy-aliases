@@ -37,4 +37,21 @@
 | `properties.direction` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.direction` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Default.provisioningState` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/Custom.provisioningState` |
+| `properties.description` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/description` |
+| `properties.protocol` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/protocol` |
+| `properties.sources` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/sources` |
+| `properties.sources[*]` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/sources[*]` |
+| `properties.sources[*].addressPrefix` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/sources[*].addressPrefix` |
+| `properties.sources[*].addressPrefixType` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/sources[*].addressPrefixType` |
+| `properties.destinations` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/destinations` |
+| `properties.destinations[*]` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/destinations[*]` |
+| `properties.destinations[*].addressPrefix` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/destinations[*].addressPrefix` |
+| `properties.destinations[*].addressPrefixType` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/destinations[*].addressPrefixType` |
+| `properties.sourcePortRanges` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/sourcePortRanges` |
+| `properties.sourcePortRanges[*]` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/sourcePortRanges[*]` |
+| `properties.destinationPortRanges` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/destinationPortRanges` |
+| `properties.destinationPortRanges[*]` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/destinationPortRanges[*]` |
+| `properties.direction` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/direction` |
+| `properties.provisioningState` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/provisioningState` |
+| `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/resourceGuid` |
 

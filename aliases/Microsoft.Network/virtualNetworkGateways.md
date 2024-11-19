@@ -150,4 +150,5 @@
 | `properties.autoScaleConfiguration.bounds` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds` |
 | `properties.autoScaleConfiguration.bounds.min` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds.min` |
 | `properties.autoScaleConfiguration.bounds.max` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds.max` |
+| `properties.resiliencyModel` | `Microsoft.Network/virtualnetworkgateways/resiliencyModel` |
 
