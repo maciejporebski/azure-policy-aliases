@@ -1375,5 +1375,4 @@
 | `properties.networkInterfaces[*].properties.privateLinkService.location` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.location` |
 | `properties.networkInterfaces[*].properties.privateLinkService.tags` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.tags` |
 | `properties.networkInterfaces[*].properties.privateLinkService.extendedLocation` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.extendedLocation` |
-| `properties.destinationIPAddress` | `Microsoft.Network/privateLinkServices/destinationIPAddress` |
 
