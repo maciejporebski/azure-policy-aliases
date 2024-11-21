@@ -9,4 +9,5 @@
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityUserConfigurations/provisioningState` |
 | `properties.applyOnNetworkIntentPolicyBasedServices` | `Microsoft.Network/networkManagers/securityUserConfigurations/applyOnNetworkIntentPolicyBasedServices` |
 | `properties.applyOnNetworkIntentPolicyBasedServices[*]` | `Microsoft.Network/networkManagers/securityUserConfigurations/applyOnNetworkIntentPolicyBasedServices[*]` |
+| `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityUserConfigurations/resourceGuid` |
 

@@ -606,4 +606,5 @@
 | `properties.privateEndpoint.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/networkInterfaces/privateEndpoint.applicationSecurityGroups[*].location` |
 | `properties.privateEndpoint.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/networkInterfaces/privateEndpoint.applicationSecurityGroups[*].tags` |
 | `properties.networkSecurityGroup.properties.flowLogs[*].identity` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flowLogs[*].identity` |
+| `properties.privateLinkService.properties.destinationIPAddress` | `Microsoft.Network/networkInterfaces/privateLinkService.destinationIPAddress` |
 

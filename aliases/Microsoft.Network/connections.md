@@ -341,4 +341,6 @@
 | `properties.virtualNetworkGateway2.identity.tenantId` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.tenantId` |
 | `properties.virtualNetworkGateway2.identity.type` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.type` |
 | `properties.virtualNetworkGateway2.identity.userAssignedIdentities` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.userAssignedIdentities` |
+| `properties.virtualNetworkGateway1.properties.resiliencyModel` | `Microsoft.Network/connections/virtualNetworkGateway1.resiliencyModel` |
+| `properties.virtualNetworkGateway2.properties.resiliencyModel` | `Microsoft.Network/connections/virtualNetworkGateway2.resiliencyModel` |
 

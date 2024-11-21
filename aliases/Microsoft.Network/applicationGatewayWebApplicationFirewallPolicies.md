@@ -1814,4 +1814,21 @@
 | `properties.applicationGateways[*].properties.backendSettingsCollection[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].backendSettingsCollection[*].id` |
 | `properties.applicationGateways[*].properties.listeners[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].listeners[*].id` |
 | `properties.applicationGateways[*].properties.routingRules[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].routingRules[*].id` |
+| `properties.managedRules.exceptions` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions` |
+| `properties.managedRules.exceptions[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*]` |
+| `properties.managedRules.exceptions[*].matchVariable` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].matchVariable` |
+| `properties.managedRules.exceptions[*].values` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].values` |
+| `properties.managedRules.exceptions[*].values[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].values[*]` |
+| `properties.managedRules.exceptions[*].valueMatchOperator` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].valueMatchOperator` |
+| `properties.managedRules.exceptions[*].selectorMatchOperator` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].selectorMatchOperator` |
+| `properties.managedRules.exceptions[*].selector` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].selector` |
+| `properties.managedRules.exceptions[*].exceptionManagedRuleSets` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].exceptionManagedRuleSets` |
+| `properties.managedRules.exceptions[*].exceptionManagedRuleSets[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].exceptionManagedRuleSets[*]` |
+| `properties.managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleSetType` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleSetType` |
+| `properties.managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleSetVersion` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleSetVersion` |
+| `properties.managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleGroups` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleGroups` |
+| `properties.managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleGroups[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.exceptions[*].exceptionManagedRuleSets[*].ruleGroups[*]` |
+| `properties.applicationGatewayForContainers` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGatewayForContainers` |
+| `properties.applicationGatewayForContainers[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGatewayForContainers[*]` |
+| `properties.applicationGatewayForContainers[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGatewayForContainers[*].id` |
 
