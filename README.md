@@ -9,7 +9,6 @@ This repository contains all available resource property aliases for easy refere
 ## microsoft.aadiam
 
 - [microsoft.aadiam/diagnosticSettings](aliases/microsoft.aadiam/diagnosticSettings.md)
-- [microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections](aliases/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections.md)
 
 
 ## Microsoft.AlertsManagement
@@ -316,6 +315,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
