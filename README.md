@@ -1117,7 +1117,6 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.MixedReality
 
-- [Microsoft.MixedReality/spatialAnchorsAccounts](aliases/Microsoft.MixedReality/spatialAnchorsAccounts.md)
 - [Microsoft.MixedReality/remoteRenderingAccounts](aliases/Microsoft.MixedReality/remoteRenderingAccounts.md)
 
 
