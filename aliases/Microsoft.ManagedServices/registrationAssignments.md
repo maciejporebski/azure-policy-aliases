@@ -24,4 +24,20 @@
 | `properties.registrationDefinition.type` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.type` |
 | `properties.registrationDefinition.name` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.name` |
 | `properties.registrationDefinition` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition` |
+| `properties.registrationDefinition.properties.authorizations[*].principalIdDisplayName` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.authorizations[*].principalIdDisplayName` |
+| `properties.registrationDefinition.properties.authorizations[*].delegatedRoleDefinitionIds` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.authorizations[*].delegatedRoleDefinitionIds` |
+| `properties.registrationDefinition.properties.authorizations[*].delegatedRoleDefinitionIds[*]` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.authorizations[*].delegatedRoleDefinitionIds[*]` |
+| `properties.registrationDefinition.properties.eligibleAuthorizations` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.eligibleAuthorizations` |
+| `properties.registrationDefinition.properties.eligibleAuthorizations[*]` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.eligibleAuthorizations[*]` |
+| `properties.registrationDefinition.properties.eligibleAuthorizations[*].principalId` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.eligibleAuthorizations[*].principalId` |
+| `properties.registrationDefinition.properties.eligibleAuthorizations[*].principalIdDisplayName` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.eligibleAuthorizations[*].principalIdDisplayName` |
+| `properties.registrationDefinition.properties.eligibleAuthorizations[*].roleDefinitionId` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.eligibleAuthorizations[*].roleDefinitionId` |
+| `properties.registrationDefinition.properties.eligibleAuthorizations[*].justInTimeAccessPolicy` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.eligibleAuthorizations[*].justInTimeAccessPolicy` |
+| `properties.registrationDefinition.systemData` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData` |
+| `properties.registrationDefinition.systemData.createdBy` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.createdBy` |
+| `properties.registrationDefinition.systemData.createdByType` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.createdByType` |
+| `properties.registrationDefinition.systemData.createdAt` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.createdAt` |
+| `properties.registrationDefinition.systemData.lastModifiedBy` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.lastModifiedBy` |
+| `properties.registrationDefinition.systemData.lastModifiedByType` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.lastModifiedByType` |
+| `properties.registrationDefinition.systemData.lastModifiedAt` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.lastModifiedAt` |
 

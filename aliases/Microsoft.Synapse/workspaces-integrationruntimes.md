@@ -95,4 +95,7 @@
 | `properties.typeProperties.ssisProperties.expressCustomSetupProperties[*].typeProperties.password` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.ssisProperties.expressCustomSetupProperties[*].CmdkeySetup.typeProperties.password` |
 | `properties.provisioningState` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.provisioningState` |
 | `properties.managedVirtualNetwork.id` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.managedVirtualNetwork.id` |
+| `properties.typeProperties.selfContainedInteractiveAuthoringEnabled` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.selfContainedInteractiveAuthoringEnabled` |
+| `properties.typeProperties.computeProperties.copyComputeScaleProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.copyComputeScaleProperties` |
+| `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties` |
 
