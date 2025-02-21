@@ -151,4 +151,17 @@
 | `properties.autoScaleConfiguration.bounds.min` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds.min` |
 | `properties.autoScaleConfiguration.bounds.max` | `Microsoft.Network/virtualnetworkgateways/autoScaleConfiguration.bounds.max` |
 | `properties.resiliencyModel` | `Microsoft.Network/virtualnetworkgateways/resiliencyModel` |
+| `properties.vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations` |
+| `properties.vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*]` |
+| `properties.vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].pool` |
+| `properties.vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworkgateways/vpnClientConfiguration.vpnClientAddressPool.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
+| `properties.customRoutes.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations` |
+| `properties.customRoutes.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*]` |
+| `properties.customRoutes.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].pool` |
+| `properties.customRoutes.ipamPoolPrefixAllocations[*].pool.id` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].pool.id` |
+| `properties.customRoutes.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

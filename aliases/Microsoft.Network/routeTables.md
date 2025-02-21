@@ -468,4 +468,10 @@
 | `properties.subnets[*].properties.privateEndpoints[*].tags` | `Microsoft.Network/routeTables/subnets[*].privateEndpoints[*].tags` |
 | `properties.subnets[*].properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/routeTables/subnets[*].privateEndpoints[*].extendedLocation` |
 | `properties.subnets[*].properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/routeTables/subnets[*].serviceEndpoints[*].networkIdentifier` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*]` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].pool` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

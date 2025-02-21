@@ -55,4 +55,10 @@
 | `properties.deployments[*].properties.failureReason` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].failureReason` |
 | `properties.deployments[*].properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].provisioningState` |
 | `properties.location` | `Microsoft.MachineLearningServices/workspaces/endpoints/location` |
+| `properties.deployments[*].properties.sku` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku` |
+| `properties.deployments[*].properties.sku.capacity` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.capacity` |
+| `properties.deployments[*].properties.sku.family` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.family` |
+| `properties.deployments[*].properties.sku.name` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.name` |
+| `properties.deployments[*].properties.sku.size` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.size` |
+| `properties.deployments[*].properties.sku.tier` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.tier` |
 

@@ -122,6 +122,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.App/containerApps](aliases/Microsoft.App/containerApps.md)
 - [Microsoft.App/sessionPools](aliases/Microsoft.App/sessionPools.md)
 - [Microsoft.App/jobs](aliases/Microsoft.App/jobs.md)
+- [Microsoft.App/connectedEnvironments](aliases/Microsoft.App/connectedEnvironments.md)
+- [Microsoft.App/connectedEnvironments/certificates](aliases/Microsoft.App/connectedEnvironments-certificates.md)
 - [Microsoft.App/builders](aliases/Microsoft.App/builders.md)
 - [Microsoft.App/managedEnvironments/dotNetComponents](aliases/Microsoft.App/managedEnvironments-dotNetComponents.md)
 - [Microsoft.App/managedEnvironments/javaComponents](aliases/Microsoft.App/managedEnvironments-javaComponents.md)
@@ -131,6 +133,10 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
 - [Microsoft.App/containerapps/sourcecontrols](aliases/Microsoft.App/containerapps-sourcecontrols.md)
 - [Microsoft.App/managedenvironments/privateendpointconnections](aliases/Microsoft.App/managedenvironments-privateendpointconnections.md)
+- [Microsoft.App/connectedenvironments/daprcomponents](aliases/Microsoft.App/connectedenvironments-daprcomponents.md)
+- [Microsoft.App/connectedenvironments/storages](aliases/Microsoft.App/connectedenvironments-storages.md)
+- [Microsoft.App/managedenvironments/httprouteconfigs](aliases/Microsoft.App/managedenvironments-httprouteconfigs.md)
+- [Microsoft.App/managedenvironments/maintenanceconfigurations](aliases/Microsoft.App/managedenvironments-maintenanceconfigurations.md)
 
 
 ## Microsoft.AppConfiguration
@@ -451,6 +457,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerService/fleets/members](aliases/Microsoft.ContainerService/fleets-members.md)
 - [Microsoft.ContainerService/fleets/updateRuns](aliases/Microsoft.ContainerService/fleets-updateRuns.md)
 - [Microsoft.ContainerService/fleets/updateStrategies](aliases/Microsoft.ContainerService/fleets-updateStrategies.md)
+- [Microsoft.ContainerService/fleets/autoUpgradeProfiles](aliases/Microsoft.ContainerService/fleets-autoUpgradeProfiles.md)
 - [Microsoft.ContainerService/managedClusters](aliases/Microsoft.ContainerService/managedClusters.md)
 - [Microsoft.ContainerService/managedclustersnapshots](aliases/Microsoft.ContainerService/managedclustersnapshots.md)
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
@@ -899,6 +906,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.HybridCompute/machines/runcommands](aliases/Microsoft.HybridCompute/machines-runcommands.md)
 - [Microsoft.HybridCompute/machines/licenseProfiles](aliases/Microsoft.HybridCompute/machines-licenseProfiles.md)
 - [Microsoft.HybridCompute/licenses](aliases/Microsoft.HybridCompute/licenses.md)
+- [Microsoft.HybridCompute/gateways](aliases/Microsoft.HybridCompute/gateways.md)
 
 
 ## microsoft.insights

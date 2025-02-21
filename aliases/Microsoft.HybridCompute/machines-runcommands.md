@@ -38,4 +38,18 @@
 | `properties.instanceView.status.displayStatus` | `Microsoft.HybridCompute/machines/runCommands/instanceView.status.displayStatus` |
 | `properties.instanceView.status.message` | `Microsoft.HybridCompute/machines/runCommands/instanceView.status.message` |
 | `properties.instanceView.status.time` | `Microsoft.HybridCompute/machines/runCommands/instanceView.status.time` |
+| `properties.instanceView.executionState` | `Microsoft.HybridCompute/machines/runCommands/instanceView.executionState` |
+| `properties.instanceView.executionMessage` | `Microsoft.HybridCompute/machines/runCommands/instanceView.executionMessage` |
+| `properties.instanceView.exitCode` | `Microsoft.HybridCompute/machines/runCommands/instanceView.exitCode` |
+| `properties.instanceView.output` | `Microsoft.HybridCompute/machines/runCommands/instanceView.output` |
+| `properties.instanceView.error` | `Microsoft.HybridCompute/machines/runCommands/instanceView.error` |
+| `properties.instanceView.startTime` | `Microsoft.HybridCompute/machines/runCommands/instanceView.startTime` |
+| `properties.instanceView.endTime` | `Microsoft.HybridCompute/machines/runCommands/instanceView.endTime` |
+| `properties.instanceView.statuses` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses` |
+| `properties.instanceView.statuses[*]` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*]` |
+| `properties.instanceView.statuses[*].code` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].code` |
+| `properties.instanceView.statuses[*].level` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].level` |
+| `properties.instanceView.statuses[*].displayStatus` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].displayStatus` |
+| `properties.instanceView.statuses[*].message` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].message` |
+| `properties.instanceView.statuses[*].time` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].time` |
 

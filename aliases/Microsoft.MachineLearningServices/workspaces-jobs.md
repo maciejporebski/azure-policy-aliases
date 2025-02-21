@@ -709,4 +709,10 @@
 | `properties.queueSettings.jobTier` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.queueSettings.jobTier` |
 | `properties.resources.instanceTypes` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.resources.instanceTypes` |
 | `properties.resources.instanceTypes[*]` | `Microsoft.MachineLearningServices/workspaces/jobs/FineTuning.resources.instanceTypes[*]` |
+| `properties.trial.resources.dockerArgsList` | `Microsoft.MachineLearningServices/workspaces/jobs/Sweep.trial.resources.dockerArgsList` |
+| `properties.trial.resources.dockerArgsList[*]` | `Microsoft.MachineLearningServices/workspaces/jobs/Sweep.trial.resources.dockerArgsList[*]` |
+| `properties.resources.dockerArgsList` | `Microsoft.MachineLearningServices/workspaces/jobs/Command.resources.dockerArgsList` |
+| `properties.resources.dockerArgsList` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.resources.dockerArgsList` |
+| `properties.resources.dockerArgsList[*]` | `Microsoft.MachineLearningServices/workspaces/jobs/Command.resources.dockerArgsList[*]` |
+| `properties.resources.dockerArgsList[*]` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.resources.dockerArgsList[*]` |
 

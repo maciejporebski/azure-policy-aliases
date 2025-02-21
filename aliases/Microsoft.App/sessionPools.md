@@ -43,4 +43,10 @@
 | `properties.sessionNetworkConfiguration.status` | `Microsoft.App/sessionPools/sessionNetworkConfiguration.status` |
 | `properties.poolManagementEndpoint` | `Microsoft.App/sessionPools/poolManagementEndpoint` |
 | `properties.provisioningState` | `Microsoft.App/sessionPools/provisioningState` |
+| `properties.customContainerTemplate.registryCredentials.server` | `Microsoft.App/sessionPools/customContainerTemplate.registryCredentials.server` |
+| `properties.customContainerTemplate.registryCredentials.identity` | `Microsoft.App/sessionPools/customContainerTemplate.registryCredentials.identity` |
+| `properties.managedIdentitySettings` | `Microsoft.App/sessionPools/managedIdentitySettings` |
+| `properties.managedIdentitySettings[*]` | `Microsoft.App/sessionPools/managedIdentitySettings[*]` |
+| `properties.managedIdentitySettings[*].identity` | `Microsoft.App/sessionPools/managedIdentitySettings[*].identity` |
+| `properties.managedIdentitySettings[*].lifecycle` | `Microsoft.App/sessionPools/managedIdentitySettings[*].lifecycle` |
 

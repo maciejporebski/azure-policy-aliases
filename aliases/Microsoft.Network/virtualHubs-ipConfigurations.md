@@ -569,4 +569,10 @@
 | `properties.publicIPAddress.properties.servicePublicIPAddress.extendedLocation` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.extendedLocation` |
 | `properties.publicIPAddress.properties.servicePublicIPAddress.sku` | `Microsoft.Network/virtualHubs/ipConfigurations/publicIPAddress.servicePublicIPAddress.sku` |
 | `properties.subnet.properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.serviceEndpoints[*].networkIdentifier` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*]` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].pool` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

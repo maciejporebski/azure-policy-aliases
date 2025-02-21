@@ -836,4 +836,11 @@
 | `properties.subnets[*].properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/networkSecurityGroups/subnets[*].privateEndpoints[*].extendedLocation` |
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].id` | `Microsoft.Network/networkSecurityGroups/subnets[*].applicationGatewayIpConfigurations[*].id` |
 | `properties.subnets[*].properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/networkSecurityGroups/subnets[*].serviceEndpoints[*].networkIdentifier` |
+| `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/networkSecurityGroups/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*]` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].pool` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

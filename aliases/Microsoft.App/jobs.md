@@ -129,4 +129,7 @@
 | `properties.configuration.identitySettings[*].lifecycle` | `Microsoft.App/jobs/configuration.identitySettings[*].lifecycle` |
 | `properties.template.initContainers[*].imageType` | `Microsoft.App/jobs/template.initContainers[*].imageType` |
 | `properties.template.containers[*].imageType` | `Microsoft.App/jobs/template.containers[*].imageType` |
+| `properties.runningState` | `Microsoft.App/jobs/runningState` |
+| `properties.template.initContainers[*].resources.gpu` | `Microsoft.App/jobs/template.initContainers[*].resources.gpu` |
+| `properties.template.containers[*].resources.gpu` | `Microsoft.App/jobs/template.containers[*].resources.gpu` |
 

@@ -18,4 +18,5 @@
 | `properties.certificateKeyVaultProperties` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties` |
 | `properties.certificateKeyVaultProperties.identity` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties.identity` |
 | `properties.certificateKeyVaultProperties.keyVaultUrl` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties.keyVaultUrl` |
+| `properties.deploymentErrors` | `Microsoft.App/managedEnvironments/certificates/deploymentErrors` |
 

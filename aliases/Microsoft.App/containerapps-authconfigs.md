@@ -115,4 +115,7 @@
 | `properties.encryptionSettings` | `Microsoft.App/containerApps/authConfigs/encryptionSettings` |
 | `properties.encryptionSettings.containerAppAuthEncryptionSecretName` | `Microsoft.App/containerApps/authConfigs/encryptionSettings.containerAppAuthEncryptionSecretName` |
 | `properties.encryptionSettings.containerAppAuthSigningSecretName` | `Microsoft.App/containerApps/authConfigs/encryptionSettings.containerAppAuthSigningSecretName` |
+| `properties.login.tokenStore.azureBlobStorage.blobContainerUri` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage.blobContainerUri` |
+| `properties.login.tokenStore.azureBlobStorage.clientId` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage.clientId` |
+| `properties.login.tokenStore.azureBlobStorage.managedIdentityResourceId` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage.managedIdentityResourceId` |
 

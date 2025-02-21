@@ -13,4 +13,8 @@
 | `properties.licenseDetails.processors` | `Microsoft.HybridCompute/licenses/licenseDetails.processors` |
 | `properties.licenseDetails.assignedLicenses` | `Microsoft.HybridCompute/licenses/licenseDetails.assignedLicenses` |
 | `properties.licenseDetails.immutableId` | `Microsoft.HybridCompute/licenses/licenseDetails.immutableId` |
+| `properties.licenseDetails.volumeLicenseDetails` | `Microsoft.HybridCompute/licenses/licenseDetails.volumeLicenseDetails` |
+| `properties.licenseDetails.volumeLicenseDetails[*]` | `Microsoft.HybridCompute/licenses/licenseDetails.volumeLicenseDetails[*]` |
+| `properties.licenseDetails.volumeLicenseDetails[*].programYear` | `Microsoft.HybridCompute/licenses/licenseDetails.volumeLicenseDetails[*].programYear` |
+| `properties.licenseDetails.volumeLicenseDetails[*].invoiceId` | `Microsoft.HybridCompute/licenses/licenseDetails.volumeLicenseDetails[*].invoiceId` |
 

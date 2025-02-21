@@ -48,4 +48,11 @@
 | `properties.o365Policy.breakOutCategories.allow` | `Microsoft.Network/vpnSites/o365Policy.breakOutCategories.allow` |
 | `properties.o365Policy.breakOutCategories.optimize` | `Microsoft.Network/vpnSites/o365Policy.breakOutCategories.optimize` |
 | `properties.o365Policy.breakOutCategories.default` | `Microsoft.Network/vpnSites/o365Policy.breakOutCategories.default` |
+| `properties.addressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*]` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].pool` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].pool.id` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].pool.id` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

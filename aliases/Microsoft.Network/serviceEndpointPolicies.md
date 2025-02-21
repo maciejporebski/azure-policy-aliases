@@ -385,4 +385,10 @@
 | `properties.subnets[*].properties.privateEndpoints[*].extendedLocation` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].privateEndpoints[*].extendedLocation` |
 | `properties.subnets[*].properties.applicationGatewayIpConfigurations[*].id` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].applicationGatewayIpConfigurations[*].id` |
 | `properties.subnets[*].properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].serviceEndpoints[*].networkIdentifier` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*]` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*].pool` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

@@ -145,4 +145,7 @@
 | `properties.virtualMachinesProfile.scale.autoscale[*].sizes[*]` | `Microsoft.ContainerService/managedClusters/agentPools/virtualMachinesProfile.scale.autoscale[*].sizes[*]` |
 | `properties.virtualMachinesProfile.scale.autoscale[*].minCount` | `Microsoft.ContainerService/managedClusters/agentPools/virtualMachinesProfile.scale.autoscale[*].minCount` |
 | `properties.virtualMachinesProfile.scale.autoscale[*].maxCount` | `Microsoft.ContainerService/managedClusters/agentPools/virtualMachinesProfile.scale.autoscale[*].maxCount` |
+| `properties.gpuProfile.driverType` | `Microsoft.ContainerService/managedClusters/agentPools/gpuProfile.driverType` |
+| `properties.upgradeSettings.maxUnavailable` | `Microsoft.ContainerService/managedClusters/agentPools/upgradeSettings.maxUnavailable` |
+| `properties.kubeletConfig.seccompDefault` | `Microsoft.ContainerService/managedClusters/agentPools/kubeletConfig.seccompDefault` |
 

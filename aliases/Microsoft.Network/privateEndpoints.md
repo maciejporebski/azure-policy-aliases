@@ -490,4 +490,11 @@
 | `properties.networkInterfaces[*].properties.privateEndpoint.extendedLocation` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].privateEndpoint.extendedLocation` |
 | `properties.networkInterfaces[*].properties.privateLinkService.extendedLocation` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].privateLinkService.extendedLocation` |
 | `properties.subnet.properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/privateEndpoints/subnet.serviceEndpoints[*].networkIdentifier` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*]` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].pool` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
+| `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
 

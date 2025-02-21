@@ -22,4 +22,11 @@
 | `properties.bgpSettings.bgpPeeringAddresses[*].tunnelIpAddresses` | `Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddresses[*].tunnelIpAddresses` |
 | `properties.bgpSettings.bgpPeeringAddresses[*]` | `Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddresses[*]` |
 | `properties.bgpSettings.bgpPeeringAddresses` | `Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddresses` |
+| `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations` |
+| `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*]` |
+| `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].pool` |
+| `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].pool.id` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].pool.id` |
+| `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

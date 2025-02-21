@@ -34,4 +34,5 @@
 | `zones` | `Microsoft.Network/bastionHosts/zones` |
 | `zones[*]` | `Microsoft.Network/bastionHosts/zones[*]` |
 | `properties.enableSessionRecording` | `Microsoft.Network/bastionHosts/enableSessionRecording` |
+| `properties.enablePrivateOnlyBastion` | `Microsoft.Network/bastionHosts/enablePrivateOnlyBastion` |
 

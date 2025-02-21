@@ -142,4 +142,7 @@
 | `properties.status.nodeImageSelection.selectedNodeImageVersions[*]` | `Microsoft.ContainerService/fleets/updateRuns/status.nodeImageSelection.selectedNodeImageVersions[*]` |
 | `properties.status.nodeImageSelection.selectedNodeImageVersions[*].version` | `Microsoft.ContainerService/fleets/updateRuns/status.nodeImageSelection.selectedNodeImageVersions[*].version` |
 | `properties.updateStrategyId` | `Microsoft.ContainerService/fleets/updateRuns/updateStrategyId` |
+| `properties.managedClusterUpdate.nodeImageSelection.customNodeImageVersions` | `Microsoft.ContainerService/fleets/updateRuns/managedClusterUpdate.nodeImageSelection.customNodeImageVersions` |
+| `properties.managedClusterUpdate.nodeImageSelection.customNodeImageVersions[*]` | `Microsoft.ContainerService/fleets/updateRuns/managedClusterUpdate.nodeImageSelection.customNodeImageVersions[*]` |
+| `properties.managedClusterUpdate.nodeImageSelection.customNodeImageVersions[*].version` | `Microsoft.ContainerService/fleets/updateRuns/managedClusterUpdate.nodeImageSelection.customNodeImageVersions[*].version` |
 

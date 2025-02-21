@@ -499,4 +499,9 @@
 | `properties.networkProfile.advancedNetworking.security.fqdnPolicy.enabled` | `Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking.security.fqdnPolicy.enabled` |
 | `properties.ingressProfile.webAppRouting.nginx` | `Microsoft.ContainerService/managedClusters/ingressProfile.webAppRouting.nginx` |
 | `properties.ingressProfile.webAppRouting.nginx.defaultIngressControllerType` | `Microsoft.ContainerService/managedClusters/ingressProfile.webAppRouting.nginx.defaultIngressControllerType` |
+| `properties.agentPoolProfiles[*].gpuProfile.driverType` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].gpuProfile.driverType` |
+| `properties.networkProfile.advancedNetworking.enabled` | `Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking.enabled` |
+| `properties.networkProfile.advancedNetworking.security.enabled` | `Microsoft.ContainerService/managedClusters/networkProfile.advancedNetworking.security.enabled` |
+| `properties.agentPoolProfiles[*].upgradeSettings.maxUnavailable` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].upgradeSettings.maxUnavailable` |
+| `properties.agentPoolProfiles[*].kubeletConfig.seccompDefault` | `Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].kubeletConfig.seccompDefault` |
 

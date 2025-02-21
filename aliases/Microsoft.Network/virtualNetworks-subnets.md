@@ -793,4 +793,11 @@
 | `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].location` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].location` |
 | `properties.privateEndpoints[*].properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].applicationSecurityGroups[*].tags` |
 | `properties.networkSecurityGroup.properties.flowLogs[*].identity` | `Microsoft.Network/virtualnetworks/subnets/networkSecurityGroup.flowLogs[*].identity` |
+| `properties.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations` |
+| `properties.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*]` |
+| `properties.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].pool` |
+| `properties.ipamPoolPrefixAllocations[*].pool.id` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].pool.id` |
+| `properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 

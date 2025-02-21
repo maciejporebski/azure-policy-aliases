@@ -226,4 +226,12 @@
 | `properties.template.scale.rules[*].custom.identity` | `Microsoft.App/containerApps/template.scale.rules[*].custom.identity` |
 | `properties.template.scale.rules[*].http.identity` | `Microsoft.App/containerApps/template.scale.rules[*].http.identity` |
 | `properties.template.scale.rules[*].tcp.identity` | `Microsoft.App/containerApps/template.scale.rules[*].tcp.identity` |
+| `properties.deploymentErrors` | `Microsoft.App/containerApps/deploymentErrors` |
+| `properties.template.scale.cooldownPeriod` | `Microsoft.App/containerApps/template.scale.cooldownPeriod` |
+| `properties.template.scale.pollingInterval` | `Microsoft.App/containerApps/template.scale.pollingInterval` |
+| `properties.runningStatus` | `Microsoft.App/containerApps/runningStatus` |
+| `properties.configuration.targetLabel` | `Microsoft.App/containerApps/configuration.targetLabel` |
+| `properties.configuration.revisionTransitionThreshold` | `Microsoft.App/containerApps/configuration.revisionTransitionThreshold` |
+| `properties.template.initContainers[*].resources.gpu` | `Microsoft.App/containerApps/template.initContainers[*].resources.gpu` |
+| `properties.template.containers[*].resources.gpu` | `Microsoft.App/containerApps/template.containers[*].resources.gpu` |
 

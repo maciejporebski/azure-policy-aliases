@@ -343,4 +343,10 @@
 | `properties.virtualNetworkGateway2.identity.userAssignedIdentities` | `Microsoft.Network/connections/virtualNetworkGateway2.identity.userAssignedIdentities` |
 | `properties.virtualNetworkGateway1.properties.resiliencyModel` | `Microsoft.Network/connections/virtualNetworkGateway1.resiliencyModel` |
 | `properties.virtualNetworkGateway2.properties.resiliencyModel` | `Microsoft.Network/connections/virtualNetworkGateway2.resiliencyModel` |
+| `properties.virtualNetworkGateway1.properties.customRoutes.ipamPoolPrefixAllocations` | `Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.ipamPoolPrefixAllocations` |
+| `properties.virtualNetworkGateway1.properties.customRoutes.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.ipamPoolPrefixAllocations[*]` |
+| `properties.virtualNetworkGateway2.properties.customRoutes.ipamPoolPrefixAllocations` | `Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.ipamPoolPrefixAllocations` |
+| `properties.virtualNetworkGateway2.properties.customRoutes.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.ipamPoolPrefixAllocations[*]` |
+| `properties.localNetworkGateway2.properties.localNetworkAddressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.ipamPoolPrefixAllocations` |
+| `properties.localNetworkGateway2.properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.ipamPoolPrefixAllocations[*]` |
 

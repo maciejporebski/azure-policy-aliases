@@ -139,4 +139,12 @@
 | `properties.allowRoleAssignmentOnRG` | `Microsoft.MachineLearningServices/workspaces/allowRoleAssignmentOnRG` |
 | `properties.enableServiceSideCMKEncryption` | `Microsoft.MachineLearningServices/workspaces/enableServiceSideCMKEncryption` |
 | `properties.enableSimplifiedCmk` | `Microsoft.MachineLearningServices/workspaces/enableSimplifiedCmk` |
+| `properties.managedNetwork.firewallSku` | `Microsoft.MachineLearningServices/workspaces/managedNetwork.firewallSku` |
+| `properties.agentsEndpointUri` | `Microsoft.MachineLearningServices/workspaces/agentsEndpointUri` |
+| `properties.networkAcls` | `Microsoft.MachineLearningServices/workspaces/networkAcls` |
+| `properties.networkAcls.defaultAction` | `Microsoft.MachineLearningServices/workspaces/networkAcls.defaultAction` |
+| `properties.networkAcls.ipRules` | `Microsoft.MachineLearningServices/workspaces/networkAcls.ipRules` |
+| `properties.networkAcls.ipRules[*]` | `Microsoft.MachineLearningServices/workspaces/networkAcls.ipRules[*]` |
+| `properties.networkAcls.ipRules[*].value` | `Microsoft.MachineLearningServices/workspaces/networkAcls.ipRules[*].value` |
+| `properties.provisionNetworkNow` | `Microsoft.MachineLearningServices/workspaces/provisionNetworkNow` |
 

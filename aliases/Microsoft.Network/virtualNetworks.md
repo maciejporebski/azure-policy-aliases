@@ -862,4 +862,26 @@
 | `properties.subnets[*].properties.serviceEndpoints[*].networkIdentifier` | `Microsoft.Network/virtualnetworks/subnets[*].serviceEndpoints[*].networkIdentifier` |
 | `properties.flowLogs[*].properties.enabledFilteringCriteria` | `Microsoft.Network/virtualnetworks/flowLogs[*].enabledFilteringCriteria` |
 | `properties.privateEndpointVNetPolicies` | `Microsoft.Network/virtualnetworks/privateEndpointVNetPolicies` |
+| `properties.addressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/addressSpace.ipamPoolPrefixAllocations` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/addressSpace.ipamPoolPrefixAllocations[*]` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/virtualnetworks/addressSpace.ipamPoolPrefixAllocations[*].pool` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].pool.id` | `Microsoft.Network/virtualnetworks/addressSpace.ipamPoolPrefixAllocations[*].pool.id` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworks/addressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworks/addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworks/addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/subnets[*].ipamPoolPrefixAllocations` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/subnets[*].ipamPoolPrefixAllocations[*]` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/virtualnetworks/subnets[*].ipamPoolPrefixAllocations[*].pool` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].pool.id` | `Microsoft.Network/virtualnetworks/subnets[*].ipamPoolPrefixAllocations[*].pool.id` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworks/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworks/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworks/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
+| `properties.virtualNetworkPeerings[*].properties.localAddressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localAddressSpace.ipamPoolPrefixAllocations` |
+| `properties.virtualNetworkPeerings[*].properties.localAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localAddressSpace.ipamPoolPrefixAllocations[*]` |
+| `properties.virtualNetworkPeerings[*].properties.localVirtualNetworkAddressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localVirtualNetworkAddressSpace.ipamPoolPrefixAllocations` |
+| `properties.virtualNetworkPeerings[*].properties.localVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].localVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*]` |
+| `properties.virtualNetworkPeerings[*].properties.remoteAddressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteAddressSpace.ipamPoolPrefixAllocations` |
+| `properties.virtualNetworkPeerings[*].properties.remoteAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteAddressSpace.ipamPoolPrefixAllocations[*]` |
+| `properties.virtualNetworkPeerings[*].properties.remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations` |
+| `properties.virtualNetworkPeerings[*].properties.remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*]` |
 

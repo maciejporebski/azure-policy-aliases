@@ -75,4 +75,9 @@
 | `properties.managedResourceGroupSettings.assignedIdentities` | `Microsoft.MachineLearningServices/registries/managedResourceGroupSettings.assignedIdentities` |
 | `properties.managedResourceGroupSettings.assignedIdentities[*]` | `Microsoft.MachineLearningServices/registries/managedResourceGroupSettings.assignedIdentities[*]` |
 | `properties.managedResourceGroupSettings.assignedIdentities[*].principalId` | `Microsoft.MachineLearningServices/registries/managedResourceGroupSettings.assignedIdentities[*].principalId` |
+| `properties.syndicatedRegistries` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries` |
+| `properties.syndicatedRegistries[*]` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries[*]` |
+| `properties.syndicatedRegistries[*].syndicatedRegistryGuid` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries[*].syndicatedRegistryGuid` |
+| `properties.syndicatedRegistries[*].syndicatedRegistry` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries[*].syndicatedRegistry` |
+| `properties.syndicatedRegistries[*].syndicatedRegistry.registryId` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries[*].syndicatedRegistry.registryId` |
 
