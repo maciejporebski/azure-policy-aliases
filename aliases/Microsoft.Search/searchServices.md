@@ -65,4 +65,8 @@
 | `properties.eTag` | `Microsoft.Search/searchServices/eTag` |
 | `properties.privateEndpointConnections[*].properties.groupId` | `Microsoft.Search/searchServices/privateEndpointConnections[*].groupId` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Search/searchServices/privateEndpointConnections[*].provisioningState` |
+| `properties.endpoint` | `Microsoft.Search/searchServices/endpoint` |
+| `properties.computeType` | `Microsoft.Search/searchServices/computeType` |
+| `properties.upgradeAvailable` | `Microsoft.Search/searchServices/upgradeAvailable` |
+| `properties.serviceUpgradeDate` | `Microsoft.Search/searchServices/serviceUpgradeDate` |
 

@@ -1463,6 +1463,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Search/searchServices](aliases/Microsoft.Search/searchServices.md)
 - [Microsoft.Search/searchServices/sharedPrivateLinkResources](aliases/Microsoft.Search/searchServices-sharedPrivateLinkResources.md)
 - [Microsoft.Search/searchServices/privateEndpointConnections](aliases/Microsoft.Search/searchServices-privateEndpointConnections.md)
+- [Microsoft.Search/searchServices/networkSecurityPerimeterConfigurations](aliases/Microsoft.Search/searchServices-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.Security
