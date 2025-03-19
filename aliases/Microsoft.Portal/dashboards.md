@@ -27,4 +27,11 @@
 | `properties.lenses[*].parts[*].metadata.type` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.type` |
 | `properties.lenses[*].metadata` | `Microsoft.Portal/dashboards/lenses[*].metadata` |
 | `properties.lenses[*].parts[*].metadata.settings.content.settings.markdownSource` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.settings.markdownSource` |
+| `properties.lenses[*].parts[*].metadata` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata` |
+| `properties.provisioningState` | `Microsoft.Portal/dashboards/provisioningState` |
+| `properties.lenses[*].parts[*].metadata.settings.content.content` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.content` |
+| `properties.lenses[*].parts[*].metadata.settings.content.title` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.title` |
+| `properties.lenses[*].parts[*].metadata.settings.content.subtitle` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.subtitle` |
+| `properties.lenses[*].parts[*].metadata.settings.content.markdownSource` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.markdownSource` |
+| `properties.lenses[*].parts[*].metadata.settings.content.markdownUri` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.markdownUri` |
 
