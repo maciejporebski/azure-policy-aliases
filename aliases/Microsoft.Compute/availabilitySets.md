@@ -21,4 +21,19 @@
 | `sku` | `Microsoft.Compute/availabilitySets/sku` |
 | `properties.proximityPlacementGroup.id` | `Microsoft.Compute/availabilitySets/proximityPlacementGroup.id` |
 | `properties.proximityPlacementGroup` | `Microsoft.Compute/availabilitySets/proximityPlacementGroup` |
+| `properties.scheduledEventsPolicy` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy` |
+| `properties.scheduledEventsPolicy.userInitiatedRedeploy` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.userInitiatedRedeploy` |
+| `properties.scheduledEventsPolicy.userInitiatedRedeploy.automaticallyApprove` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.userInitiatedRedeploy.automaticallyApprove` |
+| `properties.scheduledEventsPolicy.userInitiatedReboot` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.userInitiatedReboot` |
+| `properties.scheduledEventsPolicy.userInitiatedReboot.automaticallyApprove` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.userInitiatedReboot.automaticallyApprove` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` |
+| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` |
+| `properties.virtualMachineScaleSetMigrationInfo` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo` |
+| `properties.virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo` |
+| `properties.virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.constrainedMaximumCapacity` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.constrainedMaximumCapacity` |
+| `properties.virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.defaultVirtualMachineScaleSet` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.defaultVirtualMachineScaleSet` |
+| `properties.virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.defaultVirtualMachineScaleSet.id` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.defaultVirtualMachineScaleSet.id` |
+| `properties.virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet` |
+| `properties.virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet.id` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet.id` |
 

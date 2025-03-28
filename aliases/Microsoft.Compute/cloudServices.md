@@ -62,4 +62,5 @@
 | `properties.networkProfile.slotType` | `Microsoft.Compute/cloudServices/networkProfile.slotType` |
 | `zones` | `Microsoft.Compute/cloudServices/zones` |
 | `zones[*]` | `Microsoft.Compute/cloudServices/zones[*]` |
+| `properties.osProfile.secrets[*].vaultCertificates[*].isBootstrapCertificate` | `Microsoft.Compute/cloudServices/osProfile.secrets[*].vaultCertificates[*].isBootstrapCertificate` |
 

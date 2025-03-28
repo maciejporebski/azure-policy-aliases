@@ -108,4 +108,22 @@
 | `properties.securityProfile.uefiSettings.additionalSignatures.dbx[*].value` | `Microsoft.Compute/galleries/images/versions/securityProfile.uefiSettings.additionalSignatures.dbx[*].value` |
 | `properties.securityProfile.uefiSettings.additionalSignatures.dbx[*].value[*]` | `Microsoft.Compute/galleries/images/versions/securityProfile.uefiSettings.additionalSignatures.dbx[*].value[*]` |
 | `properties.storageProfile.source.virtualMachineId` | `Microsoft.Compute/galleries/images/versions/storageProfile.source.virtualMachineId` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*]` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*]` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` | `Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` |
+| `properties.safetyProfile.blockDeletionBeforeEndOfLife` | `Microsoft.Compute/galleries/images/versions/safetyProfile.blockDeletionBeforeEndOfLife` |
+| `properties.restore` | `Microsoft.Compute/galleries/images/versions/restore` |
+| `properties.validationsProfile` | `Microsoft.Compute/galleries/images/versions/validationsProfile` |
+| `properties.validationsProfile.validationEtag` | `Microsoft.Compute/galleries/images/versions/validationsProfile.validationEtag` |
+| `properties.validationsProfile.executedValidations` | `Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations` |
+| `properties.validationsProfile.executedValidations[*]` | `Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*]` |
+| `properties.validationsProfile.executedValidations[*].type` | `Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].type` |
+| `properties.validationsProfile.executedValidations[*].status` | `Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].status` |
+| `properties.validationsProfile.executedValidations[*].version` | `Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].version` |
+| `properties.validationsProfile.executedValidations[*].executionTime` | `Microsoft.Compute/galleries/images/versions/validationsProfile.executedValidations[*].executionTime` |
+| `properties.validationsProfile.platformAttributes` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes` |
+| `properties.validationsProfile.platformAttributes[*]` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*]` |
+| `properties.validationsProfile.platformAttributes[*].name` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].name` |
+| `properties.validationsProfile.platformAttributes[*].value` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].value` |
 

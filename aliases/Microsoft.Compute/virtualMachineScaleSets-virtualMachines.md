@@ -290,4 +290,12 @@
 | `properties.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.keyIncarnationId` |
 | `properties.storageProfile.dataDisks[*].sourceResource` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].sourceResource` |
 | `properties.storageProfile.dataDisks[*].sourceResource.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].sourceResource.id` |
+| `properties.resilientVMDeletionStatus` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/resilientVMDeletionStatus` |
+| `properties.storageProfile.alignRegionalDisksToVMZone` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.alignRegionalDisksToVMZone` |
+| `properties.securityProfile.proxyAgentSettings.wireServer` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.wireServer` |
+| `properties.securityProfile.proxyAgentSettings.wireServer.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.wireServer.mode` |
+| `properties.securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId` |
+| `properties.securityProfile.proxyAgentSettings.imds` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.imds` |
+| `properties.securityProfile.proxyAgentSettings.imds.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.imds.mode` |
+| `properties.securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` |
 

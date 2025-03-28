@@ -366,4 +366,18 @@
 | `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph` |
 | `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` |
 | `properties.virtualMachineProfile.securityPostureReference.isOverridable` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityPostureReference.isOverridable` |
+| `properties.zonalPlatformFaultDomainAlignMode` | `Microsoft.Compute/virtualMachineScaleSets/zonalPlatformFaultDomainAlignMode` |
+| `properties.skuProfile` | `Microsoft.Compute/virtualMachineScaleSets/skuProfile` |
+| `properties.skuProfile.vmSizes` | `Microsoft.Compute/virtualMachineScaleSets/skuProfile.vmSizes` |
+| `properties.skuProfile.vmSizes[*]` | `Microsoft.Compute/virtualMachineScaleSets/skuProfile.vmSizes[*]` |
+| `properties.skuProfile.vmSizes[*].name` | `Microsoft.Compute/virtualMachineScaleSets/skuProfile.vmSizes[*].name` |
+| `properties.skuProfile.allocationStrategy` | `Microsoft.Compute/virtualMachineScaleSets/skuProfile.allocationStrategy` |
+| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.wireServer` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.wireServer` |
+| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.imds` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.imds` |
+| `properties.scaleInPolicy.prioritizeUnhealthyVMs` | `Microsoft.Compute/virtualMachineScaleSets/scaleInPolicy.prioritizeUnhealthyVMs` |
+| `properties.resiliencyPolicy.automaticZoneRebalancingPolicy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.automaticZoneRebalancingPolicy` |
+| `properties.resiliencyPolicy.automaticZoneRebalancingPolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.automaticZoneRebalancingPolicy.enabled` |
+| `properties.resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceStrategy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceStrategy` |
+| `properties.resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceBehavior` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceBehavior` |
+| `properties.skuProfile.vmSizes[*].rank` | `Microsoft.Compute/virtualMachineScaleSets/skuProfile.vmSizes[*].rank` |
 

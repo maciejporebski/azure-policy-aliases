@@ -80,4 +80,9 @@
 | `properties.publishingProfile.customActions[*].parameters[*].description` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.customActions[*].parameters[*].description` |
 | `properties.safetyProfile` | `Microsoft.Compute/galleries/applications/versions/safetyProfile` |
 | `properties.safetyProfile.allowDeletionOfReplicatedLocations` | `Microsoft.Compute/galleries/applications/versions/safetyProfile.allowDeletionOfReplicatedLocations` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].additionalReplicaSets` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*]` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*]` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType` |
+| `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` |
+| `properties.publishingProfile.settings.scriptBehaviorAfterReboot` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings.scriptBehaviorAfterReboot` |
 

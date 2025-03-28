@@ -282,4 +282,11 @@
 | `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` | `Microsoft.Compute/virtualMachines/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.enable` |
 | `properties.storageProfile.dataDisks[*].sourceResource` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].sourceResource` |
 | `properties.storageProfile.dataDisks[*].sourceResource.id` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].sourceResource.id` |
+| `properties.storageProfile.alignRegionalDisksToVMZone` | `Microsoft.Compute/virtualMachines/storageProfile.alignRegionalDisksToVMZone` |
+| `properties.securityProfile.proxyAgentSettings.wireServer` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.wireServer` |
+| `properties.securityProfile.proxyAgentSettings.wireServer.mode` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.wireServer.mode` |
+| `properties.securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId` |
+| `properties.securityProfile.proxyAgentSettings.imds` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.imds` |
+| `properties.securityProfile.proxyAgentSettings.imds.mode` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.imds.mode` |
+| `properties.securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` |
 

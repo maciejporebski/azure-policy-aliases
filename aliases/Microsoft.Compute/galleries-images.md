@@ -34,4 +34,6 @@
 | `properties.features[*].name` | `Microsoft.Compute/galleries/images/features[*].name` |
 | `properties.features[*].value` | `Microsoft.Compute/galleries/images/features[*].value` |
 | `properties.architecture` | `Microsoft.Compute/galleries/images/architecture` |
+| `properties.features[*].startsAtVersion` | `Microsoft.Compute/galleries/images/features[*].startsAtVersion` |
+| `properties.allowUpdateImage` | `Microsoft.Compute/galleries/images/allowUpdateImage` |
 
