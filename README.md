@@ -1799,6 +1799,12 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
 
 
+## Microsoft.VideoIndexer
+
+- [Microsoft.VideoIndexer/accounts](aliases/Microsoft.VideoIndexer/accounts.md)
+- [Microsoft.VideoIndexer/accounts/privateEndpointConnections](aliases/Microsoft.VideoIndexer/accounts-privateEndpointConnections.md)
+
+
 ## Microsoft.VirtualMachineImages
 
 - [Microsoft.VirtualMachineImages/imageTemplates](aliases/Microsoft.VirtualMachineImages/imageTemplates.md)
