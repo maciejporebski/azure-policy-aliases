@@ -142,9 +142,9 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.AppConfiguration
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
-- [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
 - [Microsoft.AppConfiguration/configurationStores/replicas](aliases/Microsoft.AppConfiguration/configurationStores-replicas.md)
 - [Microsoft.AppConfiguration/configurationStores/snapshots](aliases/Microsoft.AppConfiguration/configurationStores-snapshots.md)
+- [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
@@ -321,7 +321,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
