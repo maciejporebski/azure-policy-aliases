@@ -1087,24 +1087,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Maps/accounts/creators](aliases/Microsoft.Maps/accounts-creators.md)
 
 
-## Microsoft.Media
-
-- [Microsoft.Media/mediaservices](aliases/Microsoft.Media/mediaservices.md)
-- [Microsoft.Media/mediaservices/assets](aliases/Microsoft.Media/mediaservices-assets.md)
-- [Microsoft.Media/mediaservices/contentKeyPolicies](aliases/Microsoft.Media/mediaservices-contentKeyPolicies.md)
-- [Microsoft.Media/mediaservices/streamingLocators](aliases/Microsoft.Media/mediaservices-streamingLocators.md)
-- [Microsoft.Media/mediaservices/streamingPolicies](aliases/Microsoft.Media/mediaservices-streamingPolicies.md)
-- [Microsoft.Media/mediaservices/transforms](aliases/Microsoft.Media/mediaservices-transforms.md)
-- [Microsoft.Media/mediaservices/transforms/jobs](aliases/Microsoft.Media/mediaservices-transforms-jobs.md)
-- [Microsoft.Media/mediaservices/streamingEndpoints](aliases/Microsoft.Media/mediaservices-streamingEndpoints.md)
-- [Microsoft.Media/mediaservices/liveEvents](aliases/Microsoft.Media/mediaservices-liveEvents.md)
-- [Microsoft.Media/mediaservices/liveEvents/liveOutputs](aliases/Microsoft.Media/mediaservices-liveEvents-liveOutputs.md)
-- [Microsoft.Media/mediaservices/privateEndpointConnections](aliases/Microsoft.Media/mediaservices-privateEndpointConnections.md)
-- [Microsoft.Media/mediaservices/assets/assetFilters](aliases/Microsoft.Media/mediaservices-assets-assetFilters.md)
-- [Microsoft.Media/mediaservices/accountFilters](aliases/Microsoft.Media/mediaservices-accountFilters.md)
-- [Microsoft.Media/mediaservices/mediaGraphs](aliases/Microsoft.Media/mediaservices-mediaGraphs.md)
-
-
 ## Microsoft.Migrate
 
 - [Microsoft.Migrate/migrateprojects](aliases/Microsoft.Migrate/migrateprojects.md)
