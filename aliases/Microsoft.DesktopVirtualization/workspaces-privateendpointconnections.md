@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/groupIds[*]` |
 

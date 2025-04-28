@@ -61,4 +61,18 @@
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].provisioningState` |
 | `properties.appAttachPackageReferences` | `Microsoft.DesktopVirtualization/hostPools/appAttachPackageReferences` |
 | `properties.appAttachPackageReferences[*]` | `Microsoft.DesktopVirtualization/hostPools/appAttachPackageReferences[*]` |
+| `properties.managementType` | `Microsoft.DesktopVirtualization/hostPools/managementType` |
+| `properties.managedPrivateUDP` | `Microsoft.DesktopVirtualization/hostPools/managedPrivateUDP` |
+| `properties.directUDP` | `Microsoft.DesktopVirtualization/hostPools/directUDP` |
+| `properties.publicUDP` | `Microsoft.DesktopVirtualization/hostPools/publicUDP` |
+| `properties.relayUDP` | `Microsoft.DesktopVirtualization/hostPools/relayUDP` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].groupIds[*]` |
 

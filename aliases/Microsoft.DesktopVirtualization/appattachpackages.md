@@ -43,4 +43,7 @@
 | `properties.hostPoolReferences[*]` | `Microsoft.DesktopVirtualization/appAttachPackages/hostPoolReferences[*]` |
 | `properties.keyVaultURL` | `Microsoft.DesktopVirtualization/appAttachPackages/keyVaultURL` |
 | `properties.failHealthCheckOnStagingFailure` | `Microsoft.DesktopVirtualization/appAttachPackages/failHealthCheckOnStagingFailure` |
+| `properties.packageOwnerName` | `Microsoft.DesktopVirtualization/appAttachPackages/packageOwnerName` |
+| `properties.packageLookbackUrl` | `Microsoft.DesktopVirtualization/appAttachPackages/packageLookbackUrl` |
+| `properties.customData` | `Microsoft.DesktopVirtualization/appAttachPackages/customData` |
 

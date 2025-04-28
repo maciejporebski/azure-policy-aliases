@@ -321,6 +321,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -466,6 +467,15 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
 - [Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings](aliases/Microsoft.ContainerService/managedClusters-trustedAccessRoleBindings.md)
 - [Microsoft.ContainerService/managedClusters/loadBalancers](aliases/Microsoft.ContainerService/managedClusters-loadBalancers.md)
+
+
+## Microsoft.CostManagement
+
+- [Microsoft.CostManagement/CloudConnectors](aliases/Microsoft.CostManagement/CloudConnectors.md)
+- [Microsoft.CostManagement/Alerts](aliases/Microsoft.CostManagement/Alerts.md)
+- [Microsoft.CostManagement/Exports](aliases/Microsoft.CostManagement/Exports.md)
+- [Microsoft.CostManagement/Views](aliases/Microsoft.CostManagement/Views.md)
+- [Microsoft.CostManagement/ScheduledActions](aliases/Microsoft.CostManagement/ScheduledActions.md)
 
 
 ## Microsoft.CustomProviders
@@ -646,6 +656,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DesktopVirtualization/scalingplans/personalSchedules](aliases/Microsoft.DesktopVirtualization/scalingplans-personalSchedules.md)
 - [Microsoft.DesktopVirtualization/scalingplans/pooledSchedules](aliases/Microsoft.DesktopVirtualization/scalingplans-pooledSchedules.md)
 - [Microsoft.DesktopVirtualization/workspaces/privateendpointconnections](aliases/Microsoft.DesktopVirtualization/workspaces-privateendpointconnections.md)
+- [Microsoft.DesktopVirtualization/hostpools/sessionhostconfigurations](aliases/Microsoft.DesktopVirtualization/hostpools-sessionhostconfigurations.md)
+- [Microsoft.DesktopVirtualization/hostpools/sessionhostmanagements](aliases/Microsoft.DesktopVirtualization/hostpools-sessionhostmanagements.md)
 
 
 ## Microsoft.DevCenter

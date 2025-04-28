@@ -49,4 +49,8 @@
 | `properties.managedIdentitySettings[*]` | `Microsoft.App/sessionPools/managedIdentitySettings[*]` |
 | `properties.managedIdentitySettings[*].identity` | `Microsoft.App/sessionPools/managedIdentitySettings[*].identity` |
 | `properties.managedIdentitySettings[*].lifecycle` | `Microsoft.App/sessionPools/managedIdentitySettings[*].lifecycle` |
+| `properties.dynamicPoolConfiguration.lifecycleConfiguration` | `Microsoft.App/sessionPools/dynamicPoolConfiguration.lifecycleConfiguration` |
+| `properties.dynamicPoolConfiguration.lifecycleConfiguration.lifecycleType` | `Microsoft.App/sessionPools/dynamicPoolConfiguration.lifecycleConfiguration.lifecycleType` |
+| `properties.dynamicPoolConfiguration.lifecycleConfiguration.cooldownPeriodInSeconds` | `Microsoft.App/sessionPools/dynamicPoolConfiguration.lifecycleConfiguration.cooldownPeriodInSeconds` |
+| `properties.dynamicPoolConfiguration.lifecycleConfiguration.maxAlivePeriodInSeconds` | `Microsoft.App/sessionPools/dynamicPoolConfiguration.lifecycleConfiguration.maxAlivePeriodInSeconds` |
 

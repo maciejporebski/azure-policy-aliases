@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/groupIds[*]` |
 

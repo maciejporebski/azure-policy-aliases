@@ -28,4 +28,13 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].provisioningState` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].groupIds[*]` |
 

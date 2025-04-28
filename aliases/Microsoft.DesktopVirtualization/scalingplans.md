@@ -49,4 +49,10 @@
 | `properties.schedules[*].rampDownStartTime.minute` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].rampDownStartTime.minute` |
 | `properties.schedules[*].offPeakStartTime.hour` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].offPeakStartTime.hour` |
 | `properties.schedules[*].offPeakStartTime.minute` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].offPeakStartTime.minute` |
+| `properties.schedules[*].scalingMethod` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].scalingMethod` |
+| `properties.schedules[*].createDelete` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].createDelete` |
+| `properties.schedules[*].createDelete.rampUpMaximumHostPoolSize` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].createDelete.rampUpMaximumHostPoolSize` |
+| `properties.schedules[*].createDelete.rampUpMinimumHostPoolSize` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].createDelete.rampUpMinimumHostPoolSize` |
+| `properties.schedules[*].createDelete.rampDownMaximumHostPoolSize` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].createDelete.rampDownMaximumHostPoolSize` |
+| `properties.schedules[*].createDelete.rampDownMinimumHostPoolSize` | `Microsoft.DesktopVirtualization/scalingPlans/schedules[*].createDelete.rampDownMinimumHostPoolSize` |
 
