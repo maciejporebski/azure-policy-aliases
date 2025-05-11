@@ -321,6 +321,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1436,13 +1437,13 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Resources
 
+- [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
+- [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
+- [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)
 - [Microsoft.Resources/deploymentScripts](aliases/Microsoft.Resources/deploymentScripts.md)
 - [Microsoft.Resources/templateSpecs](aliases/Microsoft.Resources/templateSpecs.md)
 - [Microsoft.Resources/templateSpecs/versions](aliases/Microsoft.Resources/templateSpecs-versions.md)
 - [Microsoft.Resources/deploymentStacks](aliases/Microsoft.Resources/deploymentStacks.md)
-- [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
-- [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
-- [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)
 
 
 ## Microsoft.SaaS
