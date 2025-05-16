@@ -139,4 +139,12 @@
 | `properties.raiMonitorConfig` | `Microsoft.CognitiveServices/accounts/raiMonitorConfig` |
 | `properties.raiMonitorConfig.adxStorageResourceId` | `Microsoft.CognitiveServices/accounts/raiMonitorConfig.adxStorageResourceId` |
 | `properties.raiMonitorConfig.identityClientId` | `Microsoft.CognitiveServices/accounts/raiMonitorConfig.identityClientId` |
+| `properties.networkInjections` | `Microsoft.CognitiveServices/accounts/networkInjections` |
+| `properties.networkInjections.scenario` | `Microsoft.CognitiveServices/accounts/networkInjections.scenario` |
+| `properties.networkInjections.subnetArmId` | `Microsoft.CognitiveServices/accounts/networkInjections.subnetArmId` |
+| `properties.networkInjections.useMicrosoftManagedNetwork` | `Microsoft.CognitiveServices/accounts/networkInjections.useMicrosoftManagedNetwork` |
+| `properties.allowProjectManagement` | `Microsoft.CognitiveServices/accounts/allowProjectManagement` |
+| `properties.defaultProject` | `Microsoft.CognitiveServices/accounts/defaultProject` |
+| `properties.associatedProjects` | `Microsoft.CognitiveServices/accounts/associatedProjects` |
+| `properties.associatedProjects[*]` | `Microsoft.CognitiveServices/accounts/associatedProjects[*]` |
 

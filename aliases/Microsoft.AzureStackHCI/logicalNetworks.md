@@ -42,4 +42,6 @@
 | `properties.status.provisioningStatus` | `Microsoft.AzureStackHCI/logicalNetworks/status.provisioningStatus` |
 | `properties.status.provisioningStatus.operationId` | `Microsoft.AzureStackHCI/logicalNetworks/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.status` | `Microsoft.AzureStackHCI/logicalNetworks/status.provisioningStatus.status` |
+| `properties.subnets[*].properties.networkSecurityGroup` | `Microsoft.AzureStackHCI/logicalNetworks/subnets[*].networkSecurityGroup` |
+| `properties.subnets[*].properties.networkSecurityGroup.id` | `Microsoft.AzureStackHCI/logicalNetworks/subnets[*].networkSecurityGroup.id` |
 

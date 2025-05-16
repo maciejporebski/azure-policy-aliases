@@ -30,4 +30,13 @@
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.Cache/redisEnterprise/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.highAvailability` | `Microsoft.Cache/redisEnterprise/highAvailability` |
+| `properties.redundancyMode` | `Microsoft.Cache/redisEnterprise/redundancyMode` |
 

@@ -28,4 +28,8 @@
 | `properties.status.downloadStatus.downloadSizeInMB` | `Microsoft.AzureStackHCI/galleryimages/status.downloadStatus.downloadSizeInMB` |
 | `properties.status.progressPercentage` | `Microsoft.AzureStackHCI/galleryimages/status.progressPercentage` |
 | `properties.containerId` | `Microsoft.AzureStackHCI/galleryimages/containerId` |
+| `properties.sourceVirtualMachineId` | `Microsoft.AzureStackHCI/galleryimages/sourceVirtualMachineId` |
+| `properties.vmImageRepositoryCredentials` | `Microsoft.AzureStackHCI/galleryimages/vmImageRepositoryCredentials` |
+| `properties.vmImageRepositoryCredentials.username` | `Microsoft.AzureStackHCI/galleryimages/vmImageRepositoryCredentials.username` |
+| `properties.vmImageRepositoryCredentials.password` | `Microsoft.AzureStackHCI/galleryimages/vmImageRepositoryCredentials.password` |
 

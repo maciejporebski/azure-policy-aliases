@@ -23,4 +23,7 @@
 | `properties.status.provisioningStatus` | `Microsoft.AzureStackHCI/networkinterfaces/status.provisioningStatus` |
 | `properties.status.provisioningStatus.operationId` | `Microsoft.AzureStackHCI/networkinterfaces/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.status` | `Microsoft.AzureStackHCI/networkinterfaces/status.provisioningStatus.status` |
+| `properties.networkSecurityGroup` | `Microsoft.AzureStackHCI/networkinterfaces/networkSecurityGroup` |
+| `properties.networkSecurityGroup.id` | `Microsoft.AzureStackHCI/networkinterfaces/networkSecurityGroup.id` |
+| `properties.createFromLocal` | `Microsoft.AzureStackHCI/networkinterfaces/createFromLocal` |
 

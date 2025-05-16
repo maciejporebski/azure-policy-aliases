@@ -130,4 +130,17 @@
 | `properties.reportedProperties.deploymentStatus.steps[*].steps[*].exception[*]` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/reportedProperties.deploymentStatus.steps[*].steps[*].exception[*]` |
 | `properties.reportedProperties.deploymentStatus.steps[*].exception` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/reportedProperties.deploymentStatus.steps[*].exception` |
 | `properties.reportedProperties.deploymentStatus.steps[*].exception[*]` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/reportedProperties.deploymentStatus.steps[*].exception[*]` |
+| `properties.deploymentConfiguration.scaleUnits[*].deploymentData.sdnIntegration` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.sdnIntegration` |
+| `properties.deploymentConfiguration.scaleUnits[*].deploymentData.secrets` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.secrets` |
+| `properties.deploymentConfiguration.scaleUnits[*].deploymentData.secrets[*]` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.secrets[*]` |
+| `properties.deploymentConfiguration.scaleUnits[*].sbePartnerInfo` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].sbePartnerInfo` |
+| `properties.deploymentConfiguration.scaleUnits[*].sbePartnerInfo.sbeDeploymentInfo` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].sbePartnerInfo.sbeDeploymentInfo` |
+| `properties.deploymentConfiguration.scaleUnits[*].sbePartnerInfo.partnerProperties` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].sbePartnerInfo.partnerProperties` |
+| `properties.deploymentConfiguration.scaleUnits[*].sbePartnerInfo.partnerProperties[*]` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].sbePartnerInfo.partnerProperties[*]` |
+| `properties.deploymentConfiguration.scaleUnits[*].sbePartnerInfo.credentialList` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].sbePartnerInfo.credentialList` |
+| `properties.deploymentConfiguration.scaleUnits[*].sbePartnerInfo.credentialList[*]` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].sbePartnerInfo.credentialList[*]` |
+| `properties.operationType` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/operationType` |
+| `properties.deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones` |
+| `properties.deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones[*]` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones[*]` |
+| `properties.deploymentConfiguration.scaleUnits[*].deploymentData.assemblyInfo` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.assemblyInfo` |
 

@@ -69,4 +69,21 @@
 | `properties.computeType` | `Microsoft.Search/searchServices/computeType` |
 | `properties.upgradeAvailable` | `Microsoft.Search/searchServices/upgradeAvailable` |
 | `properties.serviceUpgradeDate` | `Microsoft.Search/searchServices/serviceUpgradeDate` |
+| `properties.dataExfiltrationProtections` | `Microsoft.Search/searchServices/dataExfiltrationProtections` |
+| `properties.dataExfiltrationProtections[*]` | `Microsoft.Search/searchServices/dataExfiltrationProtections[*]` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.Search/searchServices/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.Search/searchServices/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.Search/searchServices/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.Search/searchServices/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Search/searchServices/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Search/searchServices/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Search/searchServices/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.sharedPrivateLinkResources[*].systemData` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData` |
+| `properties.sharedPrivateLinkResources[*].systemData.createdBy` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.createdBy` |
+| `properties.sharedPrivateLinkResources[*].systemData.createdByType` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.createdByType` |
+| `properties.sharedPrivateLinkResources[*].systemData.createdAt` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.createdAt` |
+| `properties.sharedPrivateLinkResources[*].systemData.lastModifiedBy` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.lastModifiedBy` |
+| `properties.sharedPrivateLinkResources[*].systemData.lastModifiedByType` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.lastModifiedByType` |
+| `properties.sharedPrivateLinkResources[*].systemData.lastModifiedAt` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.lastModifiedAt` |
+| `properties.serviceUpgradedAt` | `Microsoft.Search/searchServices/serviceUpgradedAt` |
 

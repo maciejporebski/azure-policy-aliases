@@ -273,6 +273,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AzureStackHCI/marketplaceGalleryImages](aliases/Microsoft.AzureStackHCI/marketplaceGalleryImages.md)
 - [Microsoft.AzureStackHCI/logicalNetworks](aliases/Microsoft.AzureStackHCI/logicalNetworks.md)
 - [Microsoft.AzureStackHCI/networkInterfaces](aliases/Microsoft.AzureStackHCI/networkInterfaces.md)
+- [Microsoft.AzureStackHCI/networkSecurityGroups](aliases/Microsoft.AzureStackHCI/networkSecurityGroups.md)
+- [Microsoft.AzureStackHCI/networkSecurityGroups/securityRules](aliases/Microsoft.AzureStackHCI/networkSecurityGroups-securityRules.md)
 - [Microsoft.AzureStackHCI/storageContainers](aliases/Microsoft.AzureStackHCI/storageContainers.md)
 - [Microsoft.AzureStackHCI/virtualHardDisks](aliases/Microsoft.AzureStackHCI/virtualHardDisks.md)
 - [Microsoft.AzureStackHCI/virtualMachineInstances](aliases/Microsoft.AzureStackHCI/virtualMachineInstances.md)
@@ -350,6 +352,9 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.CognitiveServices
 
 - [Microsoft.CognitiveServices/accounts](aliases/Microsoft.CognitiveServices/accounts.md)
+- [Microsoft.CognitiveServices/accounts/projects](aliases/Microsoft.CognitiveServices/accounts-projects.md)
+- [Microsoft.CognitiveServices/accounts/connections](aliases/Microsoft.CognitiveServices/accounts-connections.md)
+- [Microsoft.CognitiveServices/accounts/projects/connections](aliases/Microsoft.CognitiveServices/accounts-projects-connections.md)
 - [Microsoft.CognitiveServices/accounts/privateEndpointConnections](aliases/Microsoft.CognitiveServices/accounts-privateEndpointConnections.md)
 - [Microsoft.CognitiveServices/accounts/encryptionScopes](aliases/Microsoft.CognitiveServices/accounts-encryptionScopes.md)
 - [Microsoft.CognitiveServices/accounts/commitmentplans](aliases/Microsoft.CognitiveServices/accounts-commitmentplans.md)

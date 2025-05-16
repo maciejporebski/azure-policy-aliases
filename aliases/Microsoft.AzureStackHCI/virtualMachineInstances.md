@@ -102,4 +102,17 @@
 | `properties.httpProxyConfig.noProxy[*]` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig.noProxy[*]` |
 | `properties.httpProxyConfig.trustedCa` | `Microsoft.AzureStackHCI/virtualMachineInstances/httpProxyConfig.trustedCa` |
 | `properties.instanceView.vmAgent.vmConfigAgentVersion` | `Microsoft.AzureStackHCI/virtualMachineInstances/instanceView.vmAgent.vmConfigAgentVersion` |
+| `properties.hardwareProfile.virtualMachineGPUs` | `Microsoft.AzureStackHCI/virtualMachineInstances/hardwareProfile.virtualMachineGPUs` |
+| `properties.hardwareProfile.virtualMachineGPUs[*]` | `Microsoft.AzureStackHCI/virtualMachineInstances/hardwareProfile.virtualMachineGPUs[*]` |
+| `properties.hardwareProfile.virtualMachineGPUs[*].assignmentType` | `Microsoft.AzureStackHCI/virtualMachineInstances/hardwareProfile.virtualMachineGPUs[*].assignmentType` |
+| `properties.hardwareProfile.virtualMachineGPUs[*].partitionSizeMB` | `Microsoft.AzureStackHCI/virtualMachineInstances/hardwareProfile.virtualMachineGPUs[*].partitionSizeMB` |
+| `properties.hardwareProfile.virtualMachineGPUs[*].gpuName` | `Microsoft.AzureStackHCI/virtualMachineInstances/hardwareProfile.virtualMachineGPUs[*].gpuName` |
+| `properties.createFromLocal` | `Microsoft.AzureStackHCI/virtualMachineInstances/createFromLocal` |
+| `properties.storageProfile.osDisk.managedDisk` | `Microsoft.AzureStackHCI/virtualMachineInstances/storageProfile.osDisk.managedDisk` |
+| `properties.storageProfile.osDisk.managedDisk.securityProfile` | `Microsoft.AzureStackHCI/virtualMachineInstances/storageProfile.osDisk.managedDisk.securityProfile` |
+| `properties.placementProfile` | `Microsoft.AzureStackHCI/virtualMachineInstances/placementProfile` |
+| `properties.placementProfile.zone` | `Microsoft.AzureStackHCI/virtualMachineInstances/placementProfile.zone` |
+| `properties.placementProfile.strictPlacementPolicy` | `Microsoft.AzureStackHCI/virtualMachineInstances/placementProfile.strictPlacementPolicy` |
+| `properties.hyperVVmId` | `Microsoft.AzureStackHCI/virtualMachineInstances/hyperVVmId` |
+| `properties.hostNodeName` | `Microsoft.AzureStackHCI/virtualMachineInstances/hostNodeName` |
 
