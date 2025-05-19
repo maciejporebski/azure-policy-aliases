@@ -247,13 +247,13 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.AzureArcData
 
 - [Microsoft.AzureArcData/DataControllers](aliases/Microsoft.AzureArcData/DataControllers.md)
-- [Microsoft.AzureArcData/SqlManagedInstances](aliases/Microsoft.AzureArcData/SqlManagedInstances.md)
-- [Microsoft.AzureArcData/PostgresInstances](aliases/Microsoft.AzureArcData/PostgresInstances.md)
-- [Microsoft.AzureArcData/SqlServerInstances](aliases/Microsoft.AzureArcData/SqlServerInstances.md)
 - [Microsoft.AzureArcData/DataControllers/ActiveDirectoryConnectors](aliases/Microsoft.AzureArcData/DataControllers-ActiveDirectoryConnectors.md)
-- [Microsoft.AzureArcData/SqlServerInstances/Databases](aliases/Microsoft.AzureArcData/SqlServerInstances-Databases.md)
+- [Microsoft.AzureArcData/SqlManagedInstances](aliases/Microsoft.AzureArcData/SqlManagedInstances.md)
 - [Microsoft.AzureArcData/SqlManagedInstances/FailoverGroups](aliases/Microsoft.AzureArcData/SqlManagedInstances-FailoverGroups.md)
+- [Microsoft.AzureArcData/SqlServerInstances](aliases/Microsoft.AzureArcData/SqlServerInstances.md)
+- [Microsoft.AzureArcData/SqlServerInstances/Databases](aliases/Microsoft.AzureArcData/SqlServerInstances-Databases.md)
 - [Microsoft.AzureArcData/SqlServerInstances/AvailabilityGroups](aliases/Microsoft.AzureArcData/SqlServerInstances-AvailabilityGroups.md)
+- [Microsoft.AzureArcData/PostgresInstances](aliases/Microsoft.AzureArcData/PostgresInstances.md)
 
 
 ## Microsoft.AzureFleet
