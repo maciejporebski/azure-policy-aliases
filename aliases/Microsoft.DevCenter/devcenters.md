@@ -19,4 +19,6 @@
 | `properties.networkSettings.microsoftHostedNetworkEnableStatus` | `Microsoft.DevCenter/devcenters/networkSettings.microsoftHostedNetworkEnableStatus` |
 | `properties.devBoxProvisioningSettings` | `Microsoft.DevCenter/devcenters/devBoxProvisioningSettings` |
 | `properties.devBoxProvisioningSettings.installAzureMonitorAgentEnableStatus` | `Microsoft.DevCenter/devcenters/devBoxProvisioningSettings.installAzureMonitorAgentEnableStatus` |
+| `properties.restrictedResourceTypes` | `Microsoft.DevCenter/devcenters/restrictedResourceTypes` |
+| `properties.restrictedResourceTypes[*]` | `Microsoft.DevCenter/devcenters/restrictedResourceTypes[*]` |
 

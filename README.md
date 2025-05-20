@@ -323,6 +323,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -672,6 +673,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DevCenter/projects/environmentTypes](aliases/Microsoft.DevCenter/projects-environmentTypes.md)
 - [Microsoft.DevCenter/projects/catalogs](aliases/Microsoft.DevCenter/projects-catalogs.md)
 - [Microsoft.DevCenter/devcenters/catalogs](aliases/Microsoft.DevCenter/devcenters-catalogs.md)
+- [Microsoft.DevCenter/devcenters/projectpolicies](aliases/Microsoft.DevCenter/devcenters-projectpolicies.md)
 - [Microsoft.DevCenter/projects/pools](aliases/Microsoft.DevCenter/projects-pools.md)
 - [Microsoft.DevCenter/devcenters/galleries](aliases/Microsoft.DevCenter/devcenters-galleries.md)
 - [Microsoft.DevCenter/devcenters/attachednetworks](aliases/Microsoft.DevCenter/devcenters-attachednetworks.md)
