@@ -323,7 +323,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1205,11 +1204,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies](aliases/Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies.md)
 - [Microsoft.Network/virtualWans](aliases/Microsoft.Network/virtualWans.md)
 - [Microsoft.Network/bastionHosts](aliases/Microsoft.Network/bastionHosts.md)
-- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
-- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
-- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
-- [Microsoft.Network/networkManagers/ipamPools](aliases/Microsoft.Network/networkManagers-ipamPools.md)
-- [Microsoft.Network/networkManagers/verifierWorkspaces](aliases/Microsoft.Network/networkManagers-verifierWorkspaces.md)
 - [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
@@ -1249,6 +1243,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
+- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
+- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
+- [Microsoft.Network/networkManagers/ipamPools](aliases/Microsoft.Network/networkManagers-ipamPools.md)
+- [Microsoft.Network/networkManagers/verifierWorkspaces](aliases/Microsoft.Network/networkManagers-verifierWorkspaces.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
 - [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
