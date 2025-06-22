@@ -475,7 +475,6 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.CostManagement
 
-- [Microsoft.CostManagement/CloudConnectors](aliases/Microsoft.CostManagement/CloudConnectors.md)
 - [Microsoft.CostManagement/Alerts](aliases/Microsoft.CostManagement/Alerts.md)
 - [Microsoft.CostManagement/Exports](aliases/Microsoft.CostManagement/Exports.md)
 - [Microsoft.CostManagement/Views](aliases/Microsoft.CostManagement/Views.md)
