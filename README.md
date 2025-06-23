@@ -1549,10 +1549,10 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.ServiceLinker
 
-- [Microsoft.ServiceLinker/linkers](aliases/Microsoft.ServiceLinker/linkers.md)
 - [Microsoft.ServiceLinker/dryruns](aliases/Microsoft.ServiceLinker/dryruns.md)
-- [Microsoft.ServiceLinker/locations/connectors](aliases/Microsoft.ServiceLinker/locations-connectors.md)
+- [Microsoft.ServiceLinker/linkers](aliases/Microsoft.ServiceLinker/linkers.md)
 - [Microsoft.ServiceLinker/locations/dryruns](aliases/Microsoft.ServiceLinker/locations-dryruns.md)
+- [Microsoft.ServiceLinker/locations/connectors](aliases/Microsoft.ServiceLinker/locations-connectors.md)
 
 
 ## Microsoft.SignalRService
