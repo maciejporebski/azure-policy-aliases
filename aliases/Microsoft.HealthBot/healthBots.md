@@ -15,4 +15,5 @@
 | `properties.keyVaultProperties.keyVersion` | `Microsoft.HealthBot/healthBots/keyVaultProperties.keyVersion` |
 | `properties.keyVaultProperties.keyVaultUri` | `Microsoft.HealthBot/healthBots/keyVaultProperties.keyVaultUri` |
 | `properties.keyVaultProperties.userIdentity` | `Microsoft.HealthBot/healthBots/keyVaultProperties.userIdentity` |
+| `properties.accessControlMethod` | `Microsoft.HealthBot/healthBots/accessControlMethod` |
 

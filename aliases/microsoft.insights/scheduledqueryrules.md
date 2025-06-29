@@ -131,4 +131,11 @@
 | `properties.ruleResolveConfiguration.autoResolved` | `Microsoft.Insights/scheduledQueryRules/ruleResolveConfiguration.autoResolved` |
 | `properties.ruleResolveConfiguration.timeToResolve` | `Microsoft.Insights/scheduledQueryRules/ruleResolveConfiguration.timeToResolve` |
 | `properties.actions.actionProperties` | `Microsoft.Insights/scheduledQueryRules/actions.actionProperties` |
+| `properties.resolveConfiguration` | `Microsoft.Insights/scheduledQueryRules/resolveConfiguration` |
+| `properties.resolveConfiguration.autoResolved` | `Microsoft.Insights/scheduledQueryRules/resolveConfiguration.autoResolved` |
+| `properties.resolveConfiguration.timeToResolve` | `Microsoft.Insights/scheduledQueryRules/resolveConfiguration.timeToResolve` |
+| `properties.criteria.allOf[*].criterionType` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].criterionType` |
+| `properties.criteria.allOf[*].alertSensitivity` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].alertSensitivity` |
+| `properties.criteria.allOf[*].ignoreDataBefore` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].ignoreDataBefore` |
+| `properties.criteria.allOf[*].minRecurrenceCount` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].minRecurrenceCount` |
 
