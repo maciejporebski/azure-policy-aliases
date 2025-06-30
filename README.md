@@ -323,7 +323,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -493,8 +492,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Dashboard/grafana](aliases/Microsoft.Dashboard/grafana.md)
 - [Microsoft.Dashboard/grafana/managedPrivateEndpoints](aliases/Microsoft.Dashboard/grafana-managedPrivateEndpoints.md)
 - [Microsoft.Dashboard/grafana/privateEndpointConnections](aliases/Microsoft.Dashboard/grafana-privateEndpointConnections.md)
-- [Microsoft.Dashboard/grafana/integrationFabrics](aliases/Microsoft.Dashboard/grafana-integrationFabrics.md)
-- [Microsoft.Dashboard/dashboards](aliases/Microsoft.Dashboard/dashboards.md)
 
 
 ## Microsoft.DataBox
@@ -933,7 +930,6 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
 - [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
 - [microsoft.insights/dataCollectionEndpoints](aliases/microsoft.insights/dataCollectionEndpoints.md)
-- [microsoft.insights/dataCollectionEndpoints/networkSecurityPerimeterConfigurations](aliases/microsoft.insights/dataCollectionEndpoints-networkSecurityPerimeterConfigurations.md)
 - [microsoft.insights/scheduledqueryrules](aliases/microsoft.insights/scheduledqueryrules.md)
 - [microsoft.insights/metricalerts](aliases/microsoft.insights/metricalerts.md)
 - [microsoft.insights/activityLogAlerts](aliases/microsoft.insights/activityLogAlerts.md)
@@ -950,7 +946,6 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/actiongroups](aliases/microsoft.insights/actiongroups.md)
 - [microsoft.insights/workbooks](aliases/microsoft.insights/workbooks.md)
 - [microsoft.insights/workbooktemplates](aliases/microsoft.insights/workbooktemplates.md)
-- [microsoft.insights/actiongroups/networkSecurityPerimeterConfigurations](aliases/microsoft.insights/actiongroups-networkSecurityPerimeterConfigurations.md)
 - [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
@@ -1874,8 +1869,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Web/sites/basicPublishingCredentialsPolicies](aliases/Microsoft.Web/sites-basicPublishingCredentialsPolicies.md)
 - [Microsoft.Web/sites/slots/basicPublishingCredentialsPolicies](aliases/Microsoft.Web/sites-slots-basicPublishingCredentialsPolicies.md)
 - [Microsoft.Web/hostingenvironments/configurations](aliases/Microsoft.Web/hostingenvironments-configurations.md)
-- [Microsoft.Web/sites/sitecontainers](aliases/Microsoft.Web/sites-sitecontainers.md)
-- [Microsoft.Web/sites/slots/sitecontainers](aliases/Microsoft.Web/sites-slots-sitecontainers.md)
 
 
 ## Microsoft.Workloads

@@ -534,5 +534,4 @@
 | `properties.scmIpSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/slots/config/scmIpSecurityRestrictionsDefaultAction` |
 | `properties.elasticWebAppScaleLimit` | `Microsoft.Web/sites/slots/config/elasticWebAppScaleLimit` |
 | `properties.minTlsCipherSuite` | `Microsoft.Web/sites/slots/config/minTlsCipherSuite` |
-| `properties.http20ProxyFlag` | `Microsoft.Web/sites/slots/config/http20ProxyFlag` |
 

@@ -54,5 +54,4 @@
 | `properties.elasticScaleEnabled` | `Microsoft.Web/serverfarms/elasticScaleEnabled` |
 | `properties.zoneRedundant` | `Microsoft.Web/serverfarms/zoneRedundant` |
 | `properties.numberOfWorkers` | `Microsoft.Web/serverfarms/numberOfWorkers` |
-| `properties.asyncScalingEnabled` | `Microsoft.Web/serverfarms/asyncScalingEnabled` |
 
