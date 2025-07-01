@@ -2147,4 +2147,7 @@
 | `properties.activities[*].onInactiveMarkAs` | `Microsoft.DataFactory/factories/pipelines/activities[*].onInactiveMarkAs` |
 | `properties.activities[*].typeProperties.continuationSettings` | `Microsoft.DataFactory/factories/pipelines/activities[*].ExecuteWranglingDataflow.typeProperties.continuationSettings` |
 | `properties.activities[*].typeProperties.continuationSettings` | `Microsoft.DataFactory/factories/pipelines/activities[*].ExecuteDataFlow.typeProperties.continuationSettings` |
+| `properties.activities[*]` | `Microsoft.DataFactory/factories/pipelines/activities[*].DatabricksJob` |
+| `properties.activities[*].typeProperties` | `Microsoft.DataFactory/factories/pipelines/activities[*].DatabricksJob.typeProperties` |
+| `properties.activities[*].typeProperties.jobParameters` | `Microsoft.DataFactory/factories/pipelines/activities[*].DatabricksJob.typeProperties.jobParameters` |
 

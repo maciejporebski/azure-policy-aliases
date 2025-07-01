@@ -570,4 +570,5 @@
 | `properties.scmIpSecurityRestrictionsDefaultAction` | `Microsoft.Web/sites/config/scmIpSecurityRestrictionsDefaultAction` |
 | `properties.elasticWebAppScaleLimit` | `Microsoft.Web/sites/config/elasticWebAppScaleLimit` |
 | `properties.minTlsCipherSuite` | `Microsoft.Web/sites/config/minTlsCipherSuite` |
+| `properties.http20ProxyFlag` | `Microsoft.Web/sites/config/http20ProxyFlag` |
 

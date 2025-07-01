@@ -47,4 +47,20 @@
 | `properties.grafanaConfigurations.smtp.skipVerify` | `Microsoft.Dashboard/grafana/grafanaConfigurations.smtp.skipVerify` |
 | `properties.grafanaPlugins` | `Microsoft.Dashboard/grafana/grafanaPlugins` |
 | `properties.grafanaMajorVersion` | `Microsoft.Dashboard/grafana/grafanaMajorVersion` |
+| `properties.privateEndpointConnections[*].systemData` | `Microsoft.Dashboard/grafana/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.Dashboard/grafana/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.Dashboard/grafana/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.Dashboard/grafana/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Dashboard/grafana/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Dashboard/grafana/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Dashboard/grafana/privateEndpointConnections[*].systemData.lastModifiedAt` |
+| `properties.grafanaConfigurations.snapshots` | `Microsoft.Dashboard/grafana/grafanaConfigurations.snapshots` |
+| `properties.grafanaConfigurations.snapshots.externalEnabled` | `Microsoft.Dashboard/grafana/grafanaConfigurations.snapshots.externalEnabled` |
+| `properties.grafanaConfigurations.users` | `Microsoft.Dashboard/grafana/grafanaConfigurations.users` |
+| `properties.grafanaConfigurations.users.viewersCanEdit` | `Microsoft.Dashboard/grafana/grafanaConfigurations.users.viewersCanEdit` |
+| `properties.grafanaConfigurations.security` | `Microsoft.Dashboard/grafana/grafanaConfigurations.security` |
+| `properties.grafanaConfigurations.security.csrfAlwaysCheck` | `Microsoft.Dashboard/grafana/grafanaConfigurations.security.csrfAlwaysCheck` |
+| `properties.grafanaConfigurations.users.editorsCanAdmin` | `Microsoft.Dashboard/grafana/grafanaConfigurations.users.editorsCanAdmin` |
+| `properties.grafanaConfigurations.unifiedAlertingScreenshots` | `Microsoft.Dashboard/grafana/grafanaConfigurations.unifiedAlertingScreenshots` |
+| `properties.grafanaConfigurations.unifiedAlertingScreenshots.captureEnabled` | `Microsoft.Dashboard/grafana/grafanaConfigurations.unifiedAlertingScreenshots.captureEnabled` |
 

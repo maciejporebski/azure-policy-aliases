@@ -84,4 +84,9 @@
 | `properties.incidentReceivers[*].connection.id` | `Microsoft.Insights/actionGroups/incidentReceivers[*].connection.id` |
 | `properties.incidentReceivers[*].incidentManagementService` | `Microsoft.Insights/actionGroups/incidentReceivers[*].incidentManagementService` |
 | `properties.incidentReceivers[*].mappings` | `Microsoft.Insights/actionGroups/incidentReceivers[*].mappings` |
+| `properties.webhookReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/webhookReceivers[*].managedIdentity` |
+| `properties.automationRunbookReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/automationRunbookReceivers[*].managedIdentity` |
+| `properties.logicAppReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/logicAppReceivers[*].managedIdentity` |
+| `properties.azureFunctionReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/azureFunctionReceivers[*].managedIdentity` |
+| `properties.eventHubReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/eventHubReceivers[*].managedIdentity` |
 
