@@ -29,4 +29,11 @@
 | `properties.capacityReservationProperties.lastSkuUpdate` | `Microsoft.OperationalInsights/clusters/capacityReservationProperties.lastSkuUpdate` |
 | `properties.capacityReservationProperties.minCapacity` | `Microsoft.OperationalInsights/clusters/capacityReservationProperties.minCapacity` |
 | `properties.capacityReservationProperties.maxCapacity` | `Microsoft.OperationalInsights/clusters/capacityReservationProperties.maxCapacity` |
+| `properties.replication` | `Microsoft.OperationalInsights/clusters/replication` |
+| `properties.replication.location` | `Microsoft.OperationalInsights/clusters/replication.location` |
+| `properties.replication.enabled` | `Microsoft.OperationalInsights/clusters/replication.enabled` |
+| `properties.replication.isAvailabilityZonesEnabled` | `Microsoft.OperationalInsights/clusters/replication.isAvailabilityZonesEnabled` |
+| `properties.replication.provisioningState` | `Microsoft.OperationalInsights/clusters/replication.provisioningState` |
+| `properties.replication.createdDate` | `Microsoft.OperationalInsights/clusters/replication.createdDate` |
+| `properties.replication.lastModifiedDate` | `Microsoft.OperationalInsights/clusters/replication.lastModifiedDate` |
 

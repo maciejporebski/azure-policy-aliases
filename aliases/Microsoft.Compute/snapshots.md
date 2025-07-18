@@ -87,4 +87,8 @@
 | `properties.incrementalSnapshotFamilyId` | `Microsoft.Compute/snapshots/incrementalSnapshotFamilyId` |
 | `properties.creationData.elasticSanResourceId` | `Microsoft.Compute/snapshots/creationData.elasticSanResourceId` |
 | `properties.creationData.provisionedBandwidthCopySpeed` | `Microsoft.Compute/snapshots/creationData.provisionedBandwidthCopySpeed` |
+| `properties.supportedCapabilities.supportedSecurityOption` | `Microsoft.Compute/snapshots/supportedCapabilities.supportedSecurityOption` |
+| `properties.creationData.securityMetadataUri` | `Microsoft.Compute/snapshots/creationData.securityMetadataUri` |
+| `properties.creationData.instantAccessDurationMinutes` | `Microsoft.Compute/snapshots/creationData.instantAccessDurationMinutes` |
+| `properties.snapshotAccessState` | `Microsoft.Compute/snapshots/snapshotAccessState` |
 

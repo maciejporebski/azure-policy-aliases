@@ -104,4 +104,9 @@
 | `properties.creationData.elasticSanResourceId` | `Microsoft.Compute/disks/creationData.elasticSanResourceId` |
 | `properties.LastOwnershipUpdateTime` | `Microsoft.Compute/disks/LastOwnershipUpdateTime` |
 | `properties.creationData.provisionedBandwidthCopySpeed` | `Microsoft.Compute/disks/creationData.provisionedBandwidthCopySpeed` |
+| `properties.supportedCapabilities.supportedSecurityOption` | `Microsoft.Compute/disks/supportedCapabilities.supportedSecurityOption` |
+| `properties.creationData.securityMetadataUri` | `Microsoft.Compute/disks/creationData.securityMetadataUri` |
+| `properties.creationData.instantAccessDurationMinutes` | `Microsoft.Compute/disks/creationData.instantAccessDurationMinutes` |
+| `properties.availabilityPolicy` | `Microsoft.Compute/disks/availabilityPolicy` |
+| `properties.availabilityPolicy.actionOnDiskDelay` | `Microsoft.Compute/disks/availabilityPolicy.actionOnDiskDelay` |
 

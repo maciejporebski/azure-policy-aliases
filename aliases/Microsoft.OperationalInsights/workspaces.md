@@ -61,4 +61,14 @@
 | `properties.features.clusterResourceId` | `Microsoft.OperationalInsights/workspaces/features.clusterResourceId` |
 | `properties.features.disableLocalAuth` | `Microsoft.OperationalInsights/workspaces/features.disableLocalAuth` |
 | `properties.defaultDataCollectionRuleResourceId` | `Microsoft.OperationalInsights/workspaces/defaultDataCollectionRuleResourceId` |
+| `properties.features.unifiedSentinelBillingOnly` | `Microsoft.OperationalInsights/workspaces/features.unifiedSentinelBillingOnly` |
+| `properties.replication` | `Microsoft.OperationalInsights/workspaces/replication` |
+| `properties.replication.location` | `Microsoft.OperationalInsights/workspaces/replication.location` |
+| `properties.replication.enabled` | `Microsoft.OperationalInsights/workspaces/replication.enabled` |
+| `properties.replication.provisioningState` | `Microsoft.OperationalInsights/workspaces/replication.provisioningState` |
+| `properties.replication.createdDate` | `Microsoft.OperationalInsights/workspaces/replication.createdDate` |
+| `properties.replication.lastModifiedDate` | `Microsoft.OperationalInsights/workspaces/replication.lastModifiedDate` |
+| `properties.failover` | `Microsoft.OperationalInsights/workspaces/failover` |
+| `properties.failover.state` | `Microsoft.OperationalInsights/workspaces/failover.state` |
+| `properties.failover.lastModifiedDate` | `Microsoft.OperationalInsights/workspaces/failover.lastModifiedDate` |
 
