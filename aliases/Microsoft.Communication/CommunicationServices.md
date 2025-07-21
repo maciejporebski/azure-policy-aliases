@@ -10,6 +10,4 @@
 | `properties.immutableResourceId` | `Microsoft.Communication/communicationServices/immutableResourceId` |
 | `properties.linkedDomains` | `Microsoft.Communication/communicationServices/linkedDomains` |
 | `properties.linkedDomains[*]` | `Microsoft.Communication/communicationServices/linkedDomains[*]` |
-| `properties.publicNetworkAccess` | `Microsoft.Communication/communicationServices/publicNetworkAccess` |
-| `properties.disableLocalAuth` | `Microsoft.Communication/communicationServices/disableLocalAuth` |
 
