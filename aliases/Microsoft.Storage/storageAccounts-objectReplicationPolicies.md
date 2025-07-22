@@ -15,4 +15,6 @@
 | `properties.rules[*].filters` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*].filters` |
 | `properties.rules[*]` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules[*]` |
 | `properties.rules` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/rules` |
+| `properties.metrics` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/metrics` |
+| `properties.metrics.enabled` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/metrics.enabled` |
 

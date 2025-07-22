@@ -47,4 +47,9 @@
 | `properties.protocolSettings.smb.kerberosTicketEncryption` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.kerberosTicketEncryption` |
 | `properties.protocolSettings.smb.channelEncryption` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.channelEncryption` |
 | `properties.shareDeleteRetentionPolicy.allowPermanentDelete` | `Microsoft.Storage/storageAccounts/fileServices/shareDeleteRetentionPolicy.allowPermanentDelete` |
+| `properties.protocolSettings.smb.encryptionInTransit` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.encryptionInTransit` |
+| `properties.protocolSettings.smb.encryptionInTransit.required` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.smb.encryptionInTransit.required` |
+| `properties.protocolSettings.nfs` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.nfs` |
+| `properties.protocolSettings.nfs.encryptionInTransit` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.nfs.encryptionInTransit` |
+| `properties.protocolSettings.nfs.encryptionInTransit.required` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.nfs.encryptionInTransit.required` |
 
