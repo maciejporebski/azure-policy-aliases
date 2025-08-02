@@ -110,5 +110,4 @@
 | `properties.ociRepository.tlsConfig.privateKey` | `Microsoft.KubernetesConfiguration/fluxConfigurations/ociRepository.tlsConfig.privateKey` |
 | `properties.ociRepository.tlsConfig.caCertificate` | `Microsoft.KubernetesConfiguration/fluxConfigurations/ociRepository.tlsConfig.caCertificate` |
 | `properties.ociRepository.localAuthRef` | `Microsoft.KubernetesConfiguration/fluxConfigurations/ociRepository.localAuthRef` |
-| `properties.gitRepository.provider` | `Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.provider` |
 
