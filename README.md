@@ -323,6 +323,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -955,8 +956,6 @@ This repository contains all available resource property aliases for easy refere
 - [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
-- [microsoft.insights/guestDiagnosticSettings](aliases/microsoft.insights/guestDiagnosticSettings.md)
-- [microsoft.insights/guestDiagnosticSettingsAssociation](aliases/microsoft.insights/guestDiagnosticSettingsAssociation.md)
 
 
 ## Microsoft.IoTCentral
