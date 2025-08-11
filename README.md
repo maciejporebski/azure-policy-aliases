@@ -1729,9 +1729,9 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.StorageMover
 
 - [Microsoft.StorageMover/storageMovers](aliases/Microsoft.StorageMover/storageMovers.md)
+- [Microsoft.StorageMover/storageMovers/endpoints](aliases/Microsoft.StorageMover/storageMovers-endpoints.md)
 - [Microsoft.StorageMover/storageMovers/projects](aliases/Microsoft.StorageMover/storageMovers-projects.md)
 - [Microsoft.StorageMover/storageMovers/agents](aliases/Microsoft.StorageMover/storageMovers-agents.md)
-- [Microsoft.StorageMover/storageMovers/endpoints](aliases/Microsoft.StorageMover/storageMovers-endpoints.md)
 - [Microsoft.StorageMover/storageMovers/projects/jobDefinitions](aliases/Microsoft.StorageMover/storageMovers-projects-jobDefinitions.md)
 
 
