@@ -256,4 +256,8 @@
 | `properties.startTask.containerSettings.containerHostBatchBindMounts[*]` | `Microsoft.Batch/batchAccounts/pools/startTask.containerSettings.containerHostBatchBindMounts[*]` |
 | `properties.startTask.containerSettings.containerHostBatchBindMounts[*].source` | `Microsoft.Batch/batchAccounts/pools/startTask.containerSettings.containerHostBatchBindMounts[*].source` |
 | `properties.startTask.containerSettings.containerHostBatchBindMounts[*].isReadOnly` | `Microsoft.Batch/batchAccounts/pools/startTask.containerSettings.containerHostBatchBindMounts[*].isReadOnly` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.osDisk.managedDisk.storageAccountType` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.osDisk.managedDisk.storageAccountType` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.secureBootEnabled` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.vTpmEnabled` |
+| `properties.deploymentConfiguration.virtualMachineConfiguration.osDisk.managedDisk.securityProfile` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.osDisk.managedDisk.securityProfile` |
 

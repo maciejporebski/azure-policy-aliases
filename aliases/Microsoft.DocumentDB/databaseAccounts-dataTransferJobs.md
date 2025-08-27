@@ -48,4 +48,14 @@
 | `properties.destination.remoteAccountName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.BaseCosmosDataTransferDataSourceSink.remoteAccountName` |
 | `properties.duration` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/duration` |
 | `properties.mode` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/mode` |
+| `properties.source` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/source.CosmosDBMongoVCore` |
+| `properties.destination` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.CosmosDBMongoVCore` |
+| `properties.source.databaseName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/source.CosmosDBMongoVCore.databaseName` |
+| `properties.destination.databaseName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.CosmosDBMongoVCore.databaseName` |
+| `properties.source.collectionName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/source.CosmosDBMongoVCore.collectionName` |
+| `properties.destination.collectionName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.CosmosDBMongoVCore.collectionName` |
+| `properties.source.hostName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/source.CosmosDBMongoVCore.hostName` |
+| `properties.source.connectionStringKeyVaultUri` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/source.CosmosDBMongoVCore.connectionStringKeyVaultUri` |
+| `properties.destination.hostName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.CosmosDBMongoVCore.hostName` |
+| `properties.destination.connectionStringKeyVaultUri` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.CosmosDBMongoVCore.connectionStringKeyVaultUri` |
 

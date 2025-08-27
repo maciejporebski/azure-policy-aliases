@@ -53,4 +53,8 @@
 | `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.restoreParameters.restoreTimestampInUtc` |
 | `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.createMode` |
 | `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.restoreParameters.restoreWithTtlDisabled` |
+| `properties.resource.indexingPolicy.vectorIndexes` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes` |
+| `properties.resource.indexingPolicy.vectorIndexes[*]` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*]` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].path` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].path` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].type` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].type` |
 

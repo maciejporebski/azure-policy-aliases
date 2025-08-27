@@ -62,4 +62,7 @@
 | `properties.geoDataReplication.locations[*].locationName` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations[*].locationName` |
 | `properties.geoDataReplication.locations[*].roleType` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations[*].roleType` |
 | `properties.geoDataReplication.locations[*].clusterArmId` | `Microsoft.ServiceBus/namespaces/geoDataReplication.locations[*].clusterArmId` |
+| `properties.platformCapabilities` | `Microsoft.ServiceBus/namespaces/platformCapabilities` |
+| `properties.platformCapabilities.confidentialCompute` | `Microsoft.ServiceBus/namespaces/platformCapabilities.confidentialCompute` |
+| `properties.platformCapabilities.confidentialCompute.mode` | `Microsoft.ServiceBus/namespaces/platformCapabilities.confidentialCompute.mode` |
 

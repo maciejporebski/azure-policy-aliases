@@ -142,4 +142,5 @@
 | `properties.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/restoreParameters.restoreWithTtlDisabled` |
 | `properties.enablePerRegionPerPartitionAutoscale` | `Microsoft.DocumentDB/databaseAccounts/enablePerRegionPerPartitionAutoscale` |
 | `properties.capacityMode` | `Microsoft.DocumentDB/databaseAccounts/capacityMode` |
+| `properties.enableAllVersionsAndDeletesChangeFeed` | `Microsoft.DocumentDB/databaseAccounts/enableAllVersionsAndDeletesChangeFeed` |
 

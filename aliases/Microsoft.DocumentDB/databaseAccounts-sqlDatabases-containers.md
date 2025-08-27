@@ -69,4 +69,24 @@
 | `properties.resource.computedProperties[*].name` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*].name` |
 | `properties.resource.computedProperties[*].query` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.computedProperties[*].query` |
 | `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.restoreParameters.restoreWithTtlDisabled` |
+| `properties.resource.indexingPolicy.vectorIndexes` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes` |
+| `properties.resource.indexingPolicy.vectorIndexes[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes[*]` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes[*].path` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].type` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes[*].type` |
+| `properties.resource.vectorEmbeddingPolicy` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.vectorEmbeddingPolicy` |
+| `properties.resource.vectorEmbeddingPolicy.vectorEmbeddings` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.vectorEmbeddingPolicy.vectorEmbeddings` |
+| `properties.resource.vectorEmbeddingPolicy.vectorEmbeddings[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.vectorEmbeddingPolicy.vectorEmbeddings[*]` |
+| `properties.resource.vectorEmbeddingPolicy.vectorEmbeddings[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.vectorEmbeddingPolicy.vectorEmbeddings[*].path` |
+| `properties.resource.vectorEmbeddingPolicy.vectorEmbeddings[*].dataType` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.vectorEmbeddingPolicy.vectorEmbeddings[*].dataType` |
+| `properties.resource.vectorEmbeddingPolicy.vectorEmbeddings[*].distanceFunction` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.vectorEmbeddingPolicy.vectorEmbeddings[*].distanceFunction` |
+| `properties.resource.vectorEmbeddingPolicy.vectorEmbeddings[*].dimensions` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.vectorEmbeddingPolicy.vectorEmbeddings[*].dimensions` |
+| `properties.resource.fullTextPolicy` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.fullTextPolicy` |
+| `properties.resource.fullTextPolicy.defaultLanguage` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.fullTextPolicy.defaultLanguage` |
+| `properties.resource.fullTextPolicy.fullTextPaths` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.fullTextPolicy.fullTextPaths` |
+| `properties.resource.fullTextPolicy.fullTextPaths[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.fullTextPolicy.fullTextPaths[*]` |
+| `properties.resource.fullTextPolicy.fullTextPaths[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.fullTextPolicy.fullTextPaths[*].path` |
+| `properties.resource.fullTextPolicy.fullTextPaths[*].language` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.fullTextPolicy.fullTextPaths[*].language` |
+| `properties.resource.materializedViews` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViews` |
+| `properties.resource.materializedViews[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViews[*]` |
+| `properties.resource.materializedViews[*].id` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViews[*].id` |
 

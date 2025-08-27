@@ -459,19 +459,24 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.ContainerService
 
+- [Microsoft.ContainerService/deploymentSafeguards](aliases/Microsoft.ContainerService/deploymentSafeguards.md)
 - [Microsoft.ContainerService/fleets](aliases/Microsoft.ContainerService/fleets.md)
 - [Microsoft.ContainerService/fleets/members](aliases/Microsoft.ContainerService/fleets-members.md)
 - [Microsoft.ContainerService/fleets/updateRuns](aliases/Microsoft.ContainerService/fleets-updateRuns.md)
 - [Microsoft.ContainerService/fleets/updateStrategies](aliases/Microsoft.ContainerService/fleets-updateStrategies.md)
 - [Microsoft.ContainerService/fleets/autoUpgradeProfiles](aliases/Microsoft.ContainerService/fleets-autoUpgradeProfiles.md)
+- [Microsoft.ContainerService/fleets/gates](aliases/Microsoft.ContainerService/fleets-gates.md)
 - [Microsoft.ContainerService/managedClusters](aliases/Microsoft.ContainerService/managedClusters.md)
 - [Microsoft.ContainerService/managedclustersnapshots](aliases/Microsoft.ContainerService/managedclustersnapshots.md)
+- [Microsoft.ContainerService/managedClusters/managedNamespaces](aliases/Microsoft.ContainerService/managedClusters-managedNamespaces.md)
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
 - [Microsoft.ContainerService/managedClusters/privateEndpointConnections](aliases/Microsoft.ContainerService/managedClusters-privateEndpointConnections.md)
 - [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
 - [Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings](aliases/Microsoft.ContainerService/managedClusters-trustedAccessRoleBindings.md)
 - [Microsoft.ContainerService/managedClusters/loadBalancers](aliases/Microsoft.ContainerService/managedClusters-loadBalancers.md)
+- [Microsoft.ContainerService/managedClusters/agentPools/machines](aliases/Microsoft.ContainerService/managedClusters-agentPools-machines.md)
+- [Microsoft.ContainerService/managedClusters/namespaces](aliases/Microsoft.ContainerService/managedClusters-namespaces.md)
 
 
 ## Microsoft.CostManagement
@@ -739,6 +744,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/databaseAccounts](aliases/Microsoft.DocumentDB/databaseAccounts.md)
 - [Microsoft.DocumentDB/cassandraClusters](aliases/Microsoft.DocumentDB/cassandraClusters.md)
 - [Microsoft.DocumentDB/mongoClusters](aliases/Microsoft.DocumentDB/mongoClusters.md)
+- [Microsoft.DocumentDB/throughputPools](aliases/Microsoft.DocumentDB/throughputPools.md)
+- [Microsoft.DocumentDB/fleets](aliases/Microsoft.DocumentDB/fleets.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables.md)
 - [Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings](aliases/Microsoft.DocumentDB/databaseAccounts-cassandraKeyspaces-tables-throughputSettings.md)
@@ -790,6 +797,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DocumentDB/mongoClusters/firewallRules](aliases/Microsoft.DocumentDB/mongoClusters-firewallRules.md)
 - [Microsoft.DocumentDB/mongoClusters/privateEndpointConnections](aliases/Microsoft.DocumentDB/mongoClusters-privateEndpointConnections.md)
 - [Microsoft.DocumentDB/databaseAccounts/networkSecurityPerimeterConfigurations](aliases/Microsoft.DocumentDB/databaseAccounts-networkSecurityPerimeterConfigurations.md)
+- [Microsoft.DocumentDB/databaseAccounts/copyJobs](aliases/Microsoft.DocumentDB/databaseAccounts-copyJobs.md)
+- [Microsoft.DocumentDB/fleets/fleetAnalytics](aliases/Microsoft.DocumentDB/fleets-fleetAnalytics.md)
+- [Microsoft.DocumentDB/fleets/fleetspaces](aliases/Microsoft.DocumentDB/fleets-fleetspaces.md)
+- [Microsoft.DocumentDB/fleets/fleetspaces/fleetspaceAccounts](aliases/Microsoft.DocumentDB/fleets-fleetspaces-fleetspaceAccounts.md)
+- [Microsoft.DocumentDB/mongoClusters/users](aliases/Microsoft.DocumentDB/mongoClusters-users.md)
 
 
 ## Microsoft.DomainRegistration
