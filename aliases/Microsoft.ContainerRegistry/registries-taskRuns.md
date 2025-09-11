@@ -147,4 +147,11 @@
 | `properties.runResult.properties.provisioningState` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.provisioningState` |
 | `properties.runResult.properties.isArchiveEnabled` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.isArchiveEnabled` |
 | `properties.forceUpdateTag` | `Microsoft.ContainerRegistry/registries/taskRuns/forceUpdateTag` |
+| `properties.runResult.systemData` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData` |
+| `properties.runResult.systemData.createdBy` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.createdBy` |
+| `properties.runResult.systemData.createdByType` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.createdByType` |
+| `properties.runResult.systemData.createdAt` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.createdAt` |
+| `properties.runResult.systemData.lastModifiedBy` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.lastModifiedBy` |
+| `properties.runResult.systemData.lastModifiedByType` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.lastModifiedByType` |
+| `properties.runResult.systemData.lastModifiedAt` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.lastModifiedAt` |
 

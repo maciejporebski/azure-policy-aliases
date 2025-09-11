@@ -39,4 +39,7 @@
 | `properties.statusDetails[*].correlationId` | `Microsoft.ContainerRegistry/registries/connectedRegistries/statusDetails[*].correlationId` |
 | `properties.notificationsList` | `Microsoft.ContainerRegistry/registries/connectedRegistries/notificationsList` |
 | `properties.notificationsList[*]` | `Microsoft.ContainerRegistry/registries/connectedRegistries/notificationsList[*]` |
+| `properties.garbageCollection` | `Microsoft.ContainerRegistry/registries/connectedRegistries/garbageCollection` |
+| `properties.garbageCollection.enabled` | `Microsoft.ContainerRegistry/registries/connectedRegistries/garbageCollection.enabled` |
+| `properties.garbageCollection.schedule` | `Microsoft.ContainerRegistry/registries/connectedRegistries/garbageCollection.schedule` |
 

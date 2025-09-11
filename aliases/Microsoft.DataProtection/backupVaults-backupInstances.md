@@ -138,4 +138,9 @@
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].backupHookReferences[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].KubernetesClusterBackupDatasourceParameters.backupHookReferences[*]` |
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].backupHookReferences[*].name` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].KubernetesClusterBackupDatasourceParameters.backupHookReferences[*].name` |
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].backupHookReferences[*].namespace` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].KubernetesClusterBackupDatasourceParameters.backupHookReferences[*].namespace` |
+| `properties.policyInfo.policyParameters.backupDatasourceParametersList[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].GenericBackupDatasourceParameters` |
+| `properties.resourceGuardOperationRequests` | `Microsoft.DataProtection/backupVaults/backupInstances/resourceGuardOperationRequests` |
+| `properties.resourceGuardOperationRequests[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/resourceGuardOperationRequests[*]` |
+| `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].containersList` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].containersList` |
+| `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].containersList[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].containersList[*]` |
 
