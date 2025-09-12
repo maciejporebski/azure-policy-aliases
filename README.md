@@ -323,7 +323,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -889,11 +888,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
 
 
-## Microsoft.FileShares
-
-- [Microsoft.FileShares/fileShares](aliases/Microsoft.FileShares/fileShares.md)
-
-
 ## Microsoft.FluidRelay
 
 - [Microsoft.FluidRelay/fluidRelayServers](aliases/Microsoft.FluidRelay/fluidRelayServers.md)
@@ -1036,10 +1030,7 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.LoadTestService
 
-- [Microsoft.LoadTestService/loadTestMappings](aliases/Microsoft.LoadTestService/loadTestMappings.md)
-- [Microsoft.LoadTestService/loadTestProfileMappings](aliases/Microsoft.LoadTestService/loadTestProfileMappings.md)
 - [Microsoft.LoadTestService/loadtests](aliases/Microsoft.LoadTestService/loadtests.md)
-- [Microsoft.LoadTestService/playwrightWorkspaces](aliases/Microsoft.LoadTestService/playwrightWorkspaces.md)
 
 
 ## Microsoft.Logic
