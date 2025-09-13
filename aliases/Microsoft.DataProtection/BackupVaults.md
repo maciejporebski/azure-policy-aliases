@@ -40,4 +40,7 @@
 | `properties.securitySettings.encryptionSettings.infrastructureEncryption` | `Microsoft.DataProtection/backupVaults/securitySettings.encryptionSettings.infrastructureEncryption` |
 | `properties.replicatedRegions` | `Microsoft.DataProtection/backupVaults/replicatedRegions` |
 | `properties.replicatedRegions[*]` | `Microsoft.DataProtection/backupVaults/replicatedRegions[*]` |
+| `properties.bcdrSecurityLevel` | `Microsoft.DataProtection/backupVaults/bcdrSecurityLevel` |
+| `properties.resourceGuardOperationRequests` | `Microsoft.DataProtection/backupVaults/resourceGuardOperationRequests` |
+| `properties.resourceGuardOperationRequests[*]` | `Microsoft.DataProtection/backupVaults/resourceGuardOperationRequests[*]` |
 

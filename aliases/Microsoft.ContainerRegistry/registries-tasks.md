@@ -86,4 +86,5 @@
 | `properties.step.values[*].value` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values[*].value` |
 | `properties.step.values[*].isSecret` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values[*].isSecret` |
 | `properties.step` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask` |
+| `properties.credentials.sourceRegistry.identity` | `Microsoft.ContainerRegistry/registries/tasks/credentials.sourceRegistry.identity` |
 
