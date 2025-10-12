@@ -1,0 +1,61 @@
+# Microsoft.Compute/galleries/inVMAccessControlProfiles/versions
+
+| Default Path | Alias |
+|---|---|
+| `properties.targetLocations` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations` |
+| `properties.targetLocations[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*]` |
+| `properties.targetLocations[*].name` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].name` |
+| `properties.targetLocations[*].regionalReplicaCount` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].regionalReplicaCount` |
+| `properties.targetLocations[*].storageAccountType` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].storageAccountType` |
+| `properties.targetLocations[*].encryption` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption` |
+| `properties.targetLocations[*].encryption.osDiskImage` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.osDiskImage` |
+| `properties.targetLocations[*].encryption.osDiskImage.diskEncryptionSetId` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.osDiskImage.diskEncryptionSetId` |
+| `properties.targetLocations[*].encryption.osDiskImage.securityProfile` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.osDiskImage.securityProfile` |
+| `properties.targetLocations[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.osDiskImage.securityProfile.confidentialVMEncryptionType` |
+| `properties.targetLocations[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.osDiskImage.securityProfile.secureVMDiskEncryptionSetId` |
+| `properties.targetLocations[*].encryption.dataDiskImages` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.dataDiskImages` |
+| `properties.targetLocations[*].encryption.dataDiskImages[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.dataDiskImages[*]` |
+| `properties.targetLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.dataDiskImages[*].diskEncryptionSetId` |
+| `properties.targetLocations[*].encryption.dataDiskImages[*].lun` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].encryption.dataDiskImages[*].lun` |
+| `properties.targetLocations[*].excludeFromLatest` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].excludeFromLatest` |
+| `properties.targetLocations[*].additionalReplicaSets` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].additionalReplicaSets` |
+| `properties.targetLocations[*].additionalReplicaSets[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].additionalReplicaSets[*]` |
+| `properties.targetLocations[*].additionalReplicaSets[*].storageAccountType` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].additionalReplicaSets[*].storageAccountType` |
+| `properties.targetLocations[*].additionalReplicaSets[*].regionalReplicaCount` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/targetLocations[*].additionalReplicaSets[*].regionalReplicaCount` |
+| `properties.excludeFromLatest` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/excludeFromLatest` |
+| `properties.publishedDate` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/publishedDate` |
+| `properties.provisioningState` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/provisioningState` |
+| `properties.replicationStatus` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus` |
+| `properties.replicationStatus.aggregatedState` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus.aggregatedState` |
+| `properties.replicationStatus.summary` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus.summary` |
+| `properties.replicationStatus.summary[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus.summary[*]` |
+| `properties.replicationStatus.summary[*].region` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus.summary[*].region` |
+| `properties.replicationStatus.summary[*].state` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus.summary[*].state` |
+| `properties.replicationStatus.summary[*].details` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus.summary[*].details` |
+| `properties.replicationStatus.summary[*].progress` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/replicationStatus.summary[*].progress` |
+| `properties.mode` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/mode` |
+| `properties.defaultAccess` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/defaultAccess` |
+| `properties.rules` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules` |
+| `properties.rules.privileges` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.privileges` |
+| `properties.rules.privileges[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.privileges[*]` |
+| `properties.rules.privileges[*].name` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.privileges[*].name` |
+| `properties.rules.privileges[*].path` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.privileges[*].path` |
+| `properties.rules.privileges[*].queryParameters` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.privileges[*].queryParameters` |
+| `properties.rules.roles` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roles` |
+| `properties.rules.roles[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roles[*]` |
+| `properties.rules.roles[*].name` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roles[*].name` |
+| `properties.rules.roles[*].privileges` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roles[*].privileges` |
+| `properties.rules.roles[*].privileges[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roles[*].privileges[*]` |
+| `properties.rules.identities` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.identities` |
+| `properties.rules.identities[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.identities[*]` |
+| `properties.rules.identities[*].name` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.identities[*].name` |
+| `properties.rules.identities[*].userName` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.identities[*].userName` |
+| `properties.rules.identities[*].groupName` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.identities[*].groupName` |
+| `properties.rules.identities[*].exePath` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.identities[*].exePath` |
+| `properties.rules.identities[*].processName` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.identities[*].processName` |
+| `properties.rules.roleAssignments` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments` |
+| `properties.rules.roleAssignments[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments[*]` |
+| `properties.rules.roleAssignments[*].role` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments[*].role` |
+| `properties.rules.roleAssignments[*].identities` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments[*].identities` |
+| `properties.rules.roleAssignments[*].identities[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments[*].identities[*]` |
+
