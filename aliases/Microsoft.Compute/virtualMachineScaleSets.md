@@ -127,7 +127,7 @@
 | `properties.virtualMachineProfile.networkProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].name` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].name` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.publisher` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].publisher` |
-| `properties.virtualMachineProfile.extensionProfile.extensions[*].type` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].type` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.type` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].type` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.typeHandlerVersion` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].typeHandlerVersion` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.autoUpgradeMinorVersion` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].autoUpgradeMinorVersion` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.settings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].settings` |
@@ -380,19 +380,4 @@
 | `properties.resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceStrategy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceStrategy` |
 | `properties.resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceBehavior` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.automaticZoneRebalancingPolicy.rebalanceBehavior` |
 | `properties.skuProfile.vmSizes[*].rank` | `Microsoft.Compute/virtualMachineScaleSets/skuProfile.vmSizes[*].rank` |
-| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.scheduledEventsApiVersion` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.scheduledEventsApiVersion` |
-| `properties.scheduledEventsPolicy.allInstancesDown` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.allInstancesDown` |
-| `properties.scheduledEventsPolicy.allInstancesDown.automaticallyApprove` | `Microsoft.Compute/virtualMachineScaleSets/scheduledEventsPolicy.allInstancesDown.automaticallyApprove` |
-| `properties.virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].tags` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile.networkInterfaceConfigurations[*].tags` |
-| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.addProxyAgentExtension` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.addProxyAgentExtension` |
-| `properties.resiliencyPolicy.zoneAllocationPolicy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.zoneAllocationPolicy` |
-| `properties.resiliencyPolicy.zoneAllocationPolicy.maxZoneCount` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.zoneAllocationPolicy.maxZoneCount` |
-| `properties.resiliencyPolicy.zoneAllocationPolicy.maxInstancePercentPerZonePolicy` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.zoneAllocationPolicy.maxInstancePercentPerZonePolicy` |
-| `properties.resiliencyPolicy.zoneAllocationPolicy.maxInstancePercentPerZonePolicy.enabled` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.zoneAllocationPolicy.maxInstancePercentPerZonePolicy.enabled` |
-| `properties.resiliencyPolicy.zoneAllocationPolicy.maxInstancePercentPerZonePolicy.value` | `Microsoft.Compute/virtualMachineScaleSets/resiliencyPolicy.zoneAllocationPolicy.maxInstancePercentPerZonePolicy.value` |
-| `properties.highSpeedInterconnectPlacement` | `Microsoft.Compute/virtualMachineScaleSets/highSpeedInterconnectPlacement` |
-| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.wireServer.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.wireServer.mode` |
-| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.wireServer.inVMAccessControlProfileReferenceId` |
-| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.imds.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.imds.mode` |
-| `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` |
 

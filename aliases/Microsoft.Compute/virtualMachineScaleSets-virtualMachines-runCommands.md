@@ -31,21 +31,4 @@
 | `properties.errorBlobManagedIdentity.clientId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/errorBlobManagedIdentity.clientId` |
 | `properties.errorBlobManagedIdentity.objectId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/errorBlobManagedIdentity.objectId` |
 | `properties.treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/treatFailureAsDeploymentFailure` |
-| `properties.instanceView` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView` |
-| `properties.instanceView.executionState` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.executionState` |
-| `properties.instanceView.executionMessage` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.executionMessage` |
-| `properties.instanceView.exitCode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.exitCode` |
-| `properties.instanceView.output` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.output` |
-| `properties.instanceView.error` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.error` |
-| `properties.instanceView.startTime` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.startTime` |
-| `properties.instanceView.endTime` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.endTime` |
-| `properties.instanceView.statuses` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.statuses` |
-| `properties.instanceView.statuses[*]` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.statuses[*]` |
-| `properties.instanceView.statuses[*].code` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.statuses[*].code` |
-| `properties.instanceView.statuses[*].level` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.statuses[*].level` |
-| `properties.instanceView.statuses[*].displayStatus` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.statuses[*].displayStatus` |
-| `properties.instanceView.statuses[*].message` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.statuses[*].message` |
-| `properties.instanceView.statuses[*].time` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/instanceView.statuses[*].time` |
-| `properties.source.scriptShell` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.scriptShell` |
-| `properties.source.galleryScriptReferenceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/source.galleryScriptReferenceId` |
 

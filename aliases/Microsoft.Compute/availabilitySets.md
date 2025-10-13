@@ -36,7 +36,4 @@
 | `properties.virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.defaultVirtualMachineScaleSet.id` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.defaultVirtualMachineScaleSetInfo.defaultVirtualMachineScaleSet.id` |
 | `properties.virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet` |
 | `properties.virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet.id` | `Microsoft.Compute/availabilitySets/virtualMachineScaleSetMigrationInfo.migrateToVirtualMachineScaleSet.id` |
-| `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.scheduledEventsApiVersion` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.scheduledEventsApiVersion` |
-| `properties.scheduledEventsPolicy.allInstancesDown` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.allInstancesDown` |
-| `properties.scheduledEventsPolicy.allInstancesDown.automaticallyApprove` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.allInstancesDown.automaticallyApprove` |
 
