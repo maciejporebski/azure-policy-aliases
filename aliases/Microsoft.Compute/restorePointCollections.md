@@ -160,4 +160,9 @@
 | `properties.restorePoints[*].properties.sourceMetadata.securityProfile.proxyAgentSettings.enabled` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.securityProfile.proxyAgentSettings.enabled` |
 | `properties.restorePoints[*].properties.sourceMetadata.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.securityProfile.proxyAgentSettings.mode` |
 | `properties.restorePoints[*].properties.sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` |
+| `properties.restorePoints[*].properties.instanceView` | `Microsoft.Compute/restorePointCollections/restorePoints[*].instanceView` |
+| `properties.restorePoints[*].properties.instanceView.diskRestorePoints` | `Microsoft.Compute/restorePointCollections/restorePoints[*].instanceView.diskRestorePoints` |
+| `properties.restorePoints[*].properties.instanceView.diskRestorePoints[*]` | `Microsoft.Compute/restorePointCollections/restorePoints[*].instanceView.diskRestorePoints[*]` |
+| `properties.restorePoints[*].properties.instanceView.statuses` | `Microsoft.Compute/restorePointCollections/restorePoints[*].instanceView.statuses` |
+| `properties.restorePoints[*].properties.instanceView.statuses[*]` | `Microsoft.Compute/restorePointCollections/restorePoints[*].instanceView.statuses[*]` |
 

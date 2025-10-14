@@ -397,6 +397,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/galleries/images/versions](aliases/Microsoft.Compute/galleries-images-versions.md)
 - [Microsoft.Compute/galleries/applications](aliases/Microsoft.Compute/galleries-applications.md)
 - [Microsoft.Compute/galleries/applications/versions](aliases/Microsoft.Compute/galleries-applications-versions.md)
+- [Microsoft.Compute/galleries/inVMAccessControlProfiles](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles.md)
+- [Microsoft.Compute/galleries/inVMAccessControlProfiles/versions](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles-versions.md)
 - [Microsoft.Compute/disks](aliases/Microsoft.Compute/disks.md)
 - [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
 - [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)

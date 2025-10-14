@@ -34,4 +34,22 @@
 | `properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault.id` |
 | `properties.provisionAfterExtensions` | `Microsoft.Compute/virtualMachines/extensions/provisionAfterExtensions` |
 | `properties.provisionAfterExtensions[*]` | `Microsoft.Compute/virtualMachines/extensions/provisionAfterExtensions[*]` |
+| `properties.instanceView` | `Microsoft.Compute/virtualMachines/extensions/instanceView` |
+| `properties.instanceView.name` | `Microsoft.Compute/virtualMachines/extensions/instanceView.name` |
+| `properties.instanceView.type` | `Microsoft.Compute/virtualMachines/extensions/instanceView.type` |
+| `properties.instanceView.typeHandlerVersion` | `Microsoft.Compute/virtualMachines/extensions/instanceView.typeHandlerVersion` |
+| `properties.instanceView.substatuses` | `Microsoft.Compute/virtualMachines/extensions/instanceView.substatuses` |
+| `properties.instanceView.substatuses[*]` | `Microsoft.Compute/virtualMachines/extensions/instanceView.substatuses[*]` |
+| `properties.instanceView.substatuses[*].code` | `Microsoft.Compute/virtualMachines/extensions/instanceView.substatuses[*].code` |
+| `properties.instanceView.substatuses[*].level` | `Microsoft.Compute/virtualMachines/extensions/instanceView.substatuses[*].level` |
+| `properties.instanceView.substatuses[*].displayStatus` | `Microsoft.Compute/virtualMachines/extensions/instanceView.substatuses[*].displayStatus` |
+| `properties.instanceView.substatuses[*].message` | `Microsoft.Compute/virtualMachines/extensions/instanceView.substatuses[*].message` |
+| `properties.instanceView.substatuses[*].time` | `Microsoft.Compute/virtualMachines/extensions/instanceView.substatuses[*].time` |
+| `properties.instanceView.statuses` | `Microsoft.Compute/virtualMachines/extensions/instanceView.statuses` |
+| `properties.instanceView.statuses[*]` | `Microsoft.Compute/virtualMachines/extensions/instanceView.statuses[*]` |
+| `properties.instanceView.statuses[*].code` | `Microsoft.Compute/virtualMachines/extensions/instanceView.statuses[*].code` |
+| `properties.instanceView.statuses[*].level` | `Microsoft.Compute/virtualMachines/extensions/instanceView.statuses[*].level` |
+| `properties.instanceView.statuses[*].displayStatus` | `Microsoft.Compute/virtualMachines/extensions/instanceView.statuses[*].displayStatus` |
+| `properties.instanceView.statuses[*].message` | `Microsoft.Compute/virtualMachines/extensions/instanceView.statuses[*].message` |
+| `properties.instanceView.statuses[*].time` | `Microsoft.Compute/virtualMachines/extensions/instanceView.statuses[*].time` |
 
