@@ -1151,23 +1151,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.MixedReality/remoteRenderingAccounts](aliases/Microsoft.MixedReality/remoteRenderingAccounts.md)
 
 
-## Microsoft.MobileNetwork
-
-- [Microsoft.MobileNetwork/sims](aliases/Microsoft.MobileNetwork/sims.md)
-- [Microsoft.MobileNetwork/mobileNetworks](aliases/Microsoft.MobileNetwork/mobileNetworks.md)
-- [Microsoft.MobileNetwork/mobileNetworks/slices](aliases/Microsoft.MobileNetwork/mobileNetworks-slices.md)
-- [Microsoft.MobileNetwork/mobileNetworks/simPolicies](aliases/Microsoft.MobileNetwork/mobileNetworks-simPolicies.md)
-- [Microsoft.MobileNetwork/mobileNetworks/services](aliases/Microsoft.MobileNetwork/mobileNetworks-services.md)
-- [Microsoft.MobileNetwork/mobileNetworks/dataNetworks](aliases/Microsoft.MobileNetwork/mobileNetworks-dataNetworks.md)
-- [Microsoft.MobileNetwork/packetCoreControlPlanes](aliases/Microsoft.MobileNetwork/packetCoreControlPlanes.md)
-- [Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes](aliases/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCoreDataPlanes.md)
-- [Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/attachedDataNetworks](aliases/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCoreDataPlanes-attachedDataNetworks.md)
-- [Microsoft.MobileNetwork/mobileNetworks/sites](aliases/Microsoft.MobileNetwork/mobileNetworks-sites.md)
-- [Microsoft.MobileNetwork/simGroups](aliases/Microsoft.MobileNetwork/simGroups.md)
-- [Microsoft.MobileNetwork/simGroups/sims](aliases/Microsoft.MobileNetwork/simGroups-sims.md)
-- [Microsoft.MobileNetwork/packetCoreControlPlanes/packetCaptures](aliases/Microsoft.MobileNetwork/packetCoreControlPlanes-packetCaptures.md)
-
-
 ## Microsoft.Monitor
 
 - [Microsoft.Monitor/accounts](aliases/Microsoft.Monitor/accounts.md)
