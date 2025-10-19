@@ -127,7 +127,7 @@
 | `properties.virtualMachineProfile.networkProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.networkProfile` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].name` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].name` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.publisher` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].publisher` |
-| `properties.virtualMachineProfile.extensionProfile.extensions[*].type` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].type` |
+| `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.type` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].type` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.typeHandlerVersion` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].typeHandlerVersion` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.autoUpgradeMinorVersion` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].autoUpgradeMinorVersion` |
 | `properties.virtualMachineProfile.extensionProfile.extensions[*].properties.settings` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.extensionProfile.extensions[*].settings` |
