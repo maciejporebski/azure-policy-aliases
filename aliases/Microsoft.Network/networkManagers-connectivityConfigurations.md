@@ -19,4 +19,8 @@
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/connectivityConfigurations/provisioningState` |
 | `properties.deleteExistingPeering` | `Microsoft.Network/networkManagers/connectivityConfigurations/deleteExistingPeering` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/connectivityConfigurations/resourceGuid` |
+| `properties.connectivityCapabilities` | `Microsoft.Network/networkManagers/connectivityConfigurations/connectivityCapabilities` |
+| `properties.connectivityCapabilities.connectedGroupPrivateEndpointsScale` | `Microsoft.Network/networkManagers/connectivityConfigurations/connectivityCapabilities.connectedGroupPrivateEndpointsScale` |
+| `properties.connectivityCapabilities.connectedGroupAddressOverlap` | `Microsoft.Network/networkManagers/connectivityConfigurations/connectivityCapabilities.connectedGroupAddressOverlap` |
+| `properties.connectivityCapabilities.peeringEnforcement` | `Microsoft.Network/networkManagers/connectivityConfigurations/connectivityCapabilities.peeringEnforcement` |
 

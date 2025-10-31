@@ -152,4 +152,6 @@
 | `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.properties.peerings[*].properties.peeredConnections[*].properties.provisioningState` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].ipv6PeeringConfig.routeFilter.peerings[*].peeredConnections[*].provisioningState` |
 | `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.properties.peerings[*].properties.peeredConnections[*].name` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].ipv6PeeringConfig.routeFilter.peerings[*].peeredConnections[*].name` |
 | `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.properties.peerings[*].properties.peeredConnections[*].etag` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].ipv6PeeringConfig.routeFilter.peerings[*].peeredConnections[*].etag` |
+| `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo` |
+| `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
 

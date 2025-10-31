@@ -349,4 +349,24 @@
 | `properties.virtualNetworkGateway2.properties.customRoutes.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.ipamPoolPrefixAllocations[*]` |
 | `properties.localNetworkGateway2.properties.localNetworkAddressSpace.ipamPoolPrefixAllocations` | `Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.ipamPoolPrefixAllocations` |
 | `properties.localNetworkGateway2.properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.ipamPoolPrefixAllocations[*]` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkGatewayMigrationStatus` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkGatewayMigrationStatus` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkGatewayMigrationStatus.state` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkGatewayMigrationStatus.state` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkGatewayMigrationStatus.phase` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkGatewayMigrationStatus.phase` |
+| `properties.virtualNetworkGateway1.properties.virtualNetworkGatewayMigrationStatus.errorMessage` | `Microsoft.Network/connections/virtualNetworkGateway1.virtualNetworkGatewayMigrationStatus.errorMessage` |
+| `properties.virtualNetworkGateway1.properties.enableHighBandwidthVpnGateway` | `Microsoft.Network/connections/virtualNetworkGateway1.enableHighBandwidthVpnGateway` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkGatewayMigrationStatus` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkGatewayMigrationStatus` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkGatewayMigrationStatus.state` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkGatewayMigrationStatus.state` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkGatewayMigrationStatus.phase` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkGatewayMigrationStatus.phase` |
+| `properties.virtualNetworkGateway2.properties.virtualNetworkGatewayMigrationStatus.errorMessage` | `Microsoft.Network/connections/virtualNetworkGateway2.virtualNetworkGatewayMigrationStatus.errorMessage` |
+| `properties.virtualNetworkGateway2.properties.enableHighBandwidthVpnGateway` | `Microsoft.Network/connections/virtualNetworkGateway2.enableHighBandwidthVpnGateway` |
+| `properties.tunnelProperties` | `Microsoft.Network/connections/tunnelProperties` |
+| `properties.tunnelProperties[*]` | `Microsoft.Network/connections/tunnelProperties[*]` |
+| `properties.tunnelProperties[*].tunnelIpAddress` | `Microsoft.Network/connections/tunnelProperties[*].tunnelIpAddress` |
+| `properties.tunnelProperties[*].bgpPeeringAddress` | `Microsoft.Network/connections/tunnelProperties[*].bgpPeeringAddress` |
+| `properties.authenticationType` | `Microsoft.Network/connections/authenticationType` |
+| `properties.certificateAuthentication` | `Microsoft.Network/connections/certificateAuthentication` |
+| `properties.certificateAuthentication.outboundAuthCertificate` | `Microsoft.Network/connections/certificateAuthentication.outboundAuthCertificate` |
+| `properties.certificateAuthentication.inboundAuthCertificateSubjectName` | `Microsoft.Network/connections/certificateAuthentication.inboundAuthCertificateSubjectName` |
+| `properties.certificateAuthentication.inboundAuthCertificateChain` | `Microsoft.Network/connections/certificateAuthentication.inboundAuthCertificateChain` |
+| `properties.certificateAuthentication.inboundAuthCertificateChain[*]` | `Microsoft.Network/connections/certificateAuthentication.inboundAuthCertificateChain[*]` |
 

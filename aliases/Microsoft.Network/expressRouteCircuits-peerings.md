@@ -121,4 +121,16 @@
 | `properties.ipv6PeeringConfig.routeFilter.properties.provisioningState` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.provisioningState` |
 | `properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.etag` |
 | `properties.routeFilter.properties.peerings[*].id` | `Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*].id` |
+| `properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixInfo` |
+| `properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
+| `properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].prefix` | `Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixInfo[*].prefix` |
+| `properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationId` | `Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationId` |
+| `properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].signature` | `Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixInfo[*].signature` |
+| `properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationState` | `Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationState` |
+| `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo` |
+| `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
+| `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].prefix` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].prefix` |
+| `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationId` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationId` |
+| `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].signature` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].signature` |
+| `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationState` | `Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationState` |
 

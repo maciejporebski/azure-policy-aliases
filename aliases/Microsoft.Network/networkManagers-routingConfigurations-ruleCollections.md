@@ -10,4 +10,7 @@
 | `properties.appliesTo[*].networkGroupId` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/appliesTo[*].networkGroupId` |
 | `properties.disableBgpRoutePropagation` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/disableBgpRoutePropagation` |
 | `properties.localRouteSetting` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/localRouteSetting` |
+| `properties.peeringRoutePropagationRules` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/peeringRoutePropagationRules` |
+| `properties.peeringRoutePropagationRules[*]` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/peeringRoutePropagationRules[*]` |
+| `properties.peeringRoutePropagationRules[*].propagationOption` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/peeringRoutePropagationRules[*].propagationOption` |
 
