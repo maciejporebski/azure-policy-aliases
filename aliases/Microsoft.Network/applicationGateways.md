@@ -1894,10 +1894,4 @@
 | `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.ignoreCase` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.ignoreCase` |
 | `properties.rewriteRuleSets[*].properties.rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.negate` | `Microsoft.Network/applicationGateways/rewriteRuleSets[*].rewriteRules[*].actionSet.responseHeaderConfigurations[*].headerValueMatcher.negate` |
 | `properties.loadDistributionPolicies[*].properties.loadDistributionTargets[*].id` | `Microsoft.Network/applicationGateways/loadDistributionPolicies[*].loadDistributionTargets[*].id` |
-| `properties.backendHttpSettingsCollection[*].properties.dedicatedBackendConnection` | `Microsoft.Network/applicationGateways/backendHttpSettingsCollection[*].dedicatedBackendConnection` |
-| `properties.backendHttpSettingsCollection[*].properties.validateCertChainAndExpiry` | `Microsoft.Network/applicationGateways/backendHttpSettingsCollection[*].validateCertChainAndExpiry` |
-| `properties.backendHttpSettingsCollection[*].properties.validateSNI` | `Microsoft.Network/applicationGateways/backendHttpSettingsCollection[*].validateSNI` |
-| `properties.backendHttpSettingsCollection[*].properties.sniName` | `Microsoft.Network/applicationGateways/backendHttpSettingsCollection[*].sniName` |
-| `properties.probes[*].properties.enableProbeProxyProtocolHeader` | `Microsoft.Network/applicationGateways/probes[*].enableProbeProxyProtocolHeader` |
-| `properties.backendSettingsCollection[*].properties.enableL4ClientIpPreservation` | `Microsoft.Network/applicationGateways/backendSettingsCollection[*].enableL4ClientIpPreservation` |
 

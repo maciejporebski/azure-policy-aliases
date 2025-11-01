@@ -1831,9 +1831,4 @@
 | `properties.applicationGatewayForContainers` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGatewayForContainers` |
 | `properties.applicationGatewayForContainers[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGatewayForContainers[*]` |
 | `properties.applicationGatewayForContainers[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGatewayForContainers[*].id` |
-| `properties.managedRules.managedRuleSets[*].computedDisabledRules` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules` |
-| `properties.managedRules.managedRuleSets[*].computedDisabledRules[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules[*]` |
-| `properties.managedRules.managedRuleSets[*].computedDisabledRules[*].ruleGroupName` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules[*].ruleGroupName` |
-| `properties.managedRules.managedRuleSets[*].computedDisabledRules[*].rules` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules[*].rules` |
-| `properties.managedRules.managedRuleSets[*].computedDisabledRules[*].rules[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules[*].rules[*]` |
 

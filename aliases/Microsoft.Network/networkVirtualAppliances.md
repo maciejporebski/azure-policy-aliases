@@ -64,12 +64,4 @@
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*]` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*]` |
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].name` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].name` |
 | `properties.networkProfile.networkInterfaceConfigurations[*].properties.ipConfigurations[*].properties.primary` | `Microsoft.Network/networkVirtualAppliances/networkProfile.networkInterfaceConfigurations[*].ipConfigurations[*].primary` |
-| `properties.nvaInterfaceConfigurations` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations` |
-| `properties.nvaInterfaceConfigurations[*]` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*]` |
-| `properties.nvaInterfaceConfigurations[*].subnet` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*].subnet` |
-| `properties.nvaInterfaceConfigurations[*].subnet.id` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*].subnet.id` |
-| `properties.nvaInterfaceConfigurations[*].type` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*].type` |
-| `properties.nvaInterfaceConfigurations[*].type[*]` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*].type[*]` |
-| `properties.nvaInterfaceConfigurations[*].name` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*].name` |
-| `properties.privateIpAddress` | `Microsoft.Network/networkVirtualAppliances/privateIpAddress` |
 

@@ -192,8 +192,4 @@
 | `properties.ipv6Peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig.circuitConnectionStatus` | `Microsoft.Network/routeFilters/ipv6Peerings[*].connections[*].ipv6CircuitConnectionConfig.circuitConnectionStatus` |
 | `properties.ipv6Peerings[*].properties.connections[*].properties.ipv6CircuitConnectionConfig` | `Microsoft.Network/routeFilters/ipv6Peerings[*].connections[*].ipv6CircuitConnectionConfig` |
 | `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.etag` | `Microsoft.Network/routeFilters/peerings[*].ipv6PeeringConfig.routeFilter.etag` |
-| `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/routeFilters/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo` |
-| `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/routeFilters/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
-| `properties.ipv6Peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/routeFilters/ipv6Peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo` |
-| `properties.ipv6Peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/routeFilters/ipv6Peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
 

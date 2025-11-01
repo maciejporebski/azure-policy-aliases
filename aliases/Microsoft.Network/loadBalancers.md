@@ -930,6 +930,4 @@
 | `properties.backendAddressPools[*].properties.virtualNetwork.id` | `Microsoft.Network/loadBalancers/backendAddressPools[*].virtualNetwork.id` |
 | `properties.backendAddressPools[*].properties.syncMode` | `Microsoft.Network/loadBalancers/backendAddressPools[*].syncMode` |
 | `properties.probes[*].properties.NoHealthyBackendsBehavior` | `Microsoft.Network/loadBalancers/probes[*].NoHealthyBackendsBehavior` |
-| `properties.loadBalancingRules[*].properties.enableConnectionTracking` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].enableConnectionTracking` |
-| `properties.scope` | `Microsoft.Network/loadBalancers/scope` |
 

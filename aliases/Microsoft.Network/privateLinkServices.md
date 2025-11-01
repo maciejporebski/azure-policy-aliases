@@ -1377,5 +1377,4 @@
 | `properties.networkInterfaces[*].properties.privateLinkService.extendedLocation` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].privateLinkService.extendedLocation` |
 | `properties.destinationIPAddress` | `Microsoft.Network/privateLinkServices/destinationIPAddress` |
 | `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
-| `properties.accessMode` | `Microsoft.Network/privateLinkServices/accessMode` |
 

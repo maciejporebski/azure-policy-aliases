@@ -443,12 +443,4 @@
 | `properties.ipConfiguration.properties.publicIPAddress.location` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.location` |
 | `properties.ipConfiguration.properties.publicIPAddress.tags` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.tags` |
 | `properties.ipConfiguration.properties.publicIPAddress.extendedLocation` | `Microsoft.Network/publicIPAddresses/ipConfiguration.publicIPAddress.extendedLocation` |
-| `properties.natGateway.properties.publicIpAddressesV6` | `Microsoft.Network/publicIPAddresses/natGateway.publicIpAddressesV6` |
-| `properties.natGateway.properties.publicIpAddressesV6[*]` | `Microsoft.Network/publicIPAddresses/natGateway.publicIpAddressesV6[*]` |
-| `properties.natGateway.properties.publicIpAddressesV6[*].id` | `Microsoft.Network/publicIPAddresses/natGateway.publicIpAddressesV6[*].id` |
-| `properties.natGateway.properties.publicIpPrefixesV6` | `Microsoft.Network/publicIPAddresses/natGateway.publicIpPrefixesV6` |
-| `properties.natGateway.properties.publicIpPrefixesV6[*]` | `Microsoft.Network/publicIPAddresses/natGateway.publicIpPrefixesV6[*]` |
-| `properties.natGateway.properties.publicIpPrefixesV6[*].id` | `Microsoft.Network/publicIPAddresses/natGateway.publicIpPrefixesV6[*].id` |
-| `properties.natGateway.properties.sourceVirtualNetwork` | `Microsoft.Network/publicIPAddresses/natGateway.sourceVirtualNetwork` |
-| `properties.natGateway.properties.sourceVirtualNetwork.id` | `Microsoft.Network/publicIPAddresses/natGateway.sourceVirtualNetwork.id` |
 

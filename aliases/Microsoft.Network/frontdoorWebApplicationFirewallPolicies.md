@@ -97,5 +97,4 @@
 | `properties.customRules.rules[*].groupBy` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy` |
 | `properties.customRules.rules[*].groupBy[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy[*]` |
 | `properties.customRules.rules[*].groupBy[*].variableName` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy[*].variableName` |
-| `properties.policySettings.captchaExpirationInMinutes` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.captchaExpirationInMinutes` |
 
