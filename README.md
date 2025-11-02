@@ -1146,11 +1146,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Migrate/migrateprojects/privateEndpointConnections](aliases/Microsoft.Migrate/migrateprojects-privateEndpointConnections.md)
 
 
-## Microsoft.MixedReality
-
-- [Microsoft.MixedReality/remoteRenderingAccounts](aliases/Microsoft.MixedReality/remoteRenderingAccounts.md)
-
-
 ## Microsoft.Monitor
 
 - [Microsoft.Monitor/accounts](aliases/Microsoft.Monitor/accounts.md)
