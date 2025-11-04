@@ -18,4 +18,12 @@
 | `properties.provisioningState` | `Microsoft.Network/natGateways/provisioningState` |
 | `zones[*]` | `Microsoft.Network/natGateways/zones[*]` |
 | `zones` | `Microsoft.Network/natGateways/zones` |
+| `properties.publicIpAddressesV6` | `Microsoft.Network/natGateways/publicIpAddressesV6` |
+| `properties.publicIpAddressesV6[*]` | `Microsoft.Network/natGateways/publicIpAddressesV6[*]` |
+| `properties.publicIpAddressesV6[*].id` | `Microsoft.Network/natGateways/publicIpAddressesV6[*].id` |
+| `properties.publicIpPrefixesV6` | `Microsoft.Network/natGateways/publicIpPrefixesV6` |
+| `properties.publicIpPrefixesV6[*]` | `Microsoft.Network/natGateways/publicIpPrefixesV6[*]` |
+| `properties.publicIpPrefixesV6[*].id` | `Microsoft.Network/natGateways/publicIpPrefixesV6[*].id` |
+| `properties.sourceVirtualNetwork` | `Microsoft.Network/natGateways/sourceVirtualNetwork` |
+| `properties.sourceVirtualNetwork.id` | `Microsoft.Network/natGateways/sourceVirtualNetwork.id` |
 

@@ -142,4 +142,6 @@
 | `properties.authorizationStatus` | `Microsoft.Network/expressRouteCircuits/authorizationStatus` |
 | `properties.enableDirectPortRateLimit` | `Microsoft.Network/expressRouteCircuits/enableDirectPortRateLimit` |
 | `properties.authorizations[*].properties.connectionResourceUri` | `Microsoft.Network/expressRouteCircuits/authorizations[*].connectionResourceUri` |
+| `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/expressRouteCircuits/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo` |
+| `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/expressRouteCircuits/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
 

@@ -608,4 +608,5 @@
 | `properties.networkSecurityGroup.properties.flowLogs[*].identity` | `Microsoft.Network/networkInterfaces/networkSecurityGroup.flowLogs[*].identity` |
 | `properties.privateLinkService.properties.destinationIPAddress` | `Microsoft.Network/networkInterfaces/privateLinkService.destinationIPAddress` |
 | `properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/networkInterfaces/defaultOutboundConnectivityEnabled` |
+| `properties.privateLinkService.properties.accessMode` | `Microsoft.Network/networkInterfaces/privateLinkService.accessMode` |
 

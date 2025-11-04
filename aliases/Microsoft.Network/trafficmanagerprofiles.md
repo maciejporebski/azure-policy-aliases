@@ -73,4 +73,5 @@
 | `properties.allowedEndpointRecordTypes` | `Microsoft.Network/trafficmanagerprofiles/allowedEndpointRecordTypes` |
 | `properties.allowedEndpointRecordTypes[*]` | `Microsoft.Network/trafficmanagerprofiles/allowedEndpointRecordTypes[*]` |
 | `properties.endpoints[*].properties.alwaysServe` | `Microsoft.Network/trafficmanagerprofiles/endpoints[*].alwaysServe` |
+| `properties.recordType` | `Microsoft.Network/trafficmanagerprofiles/recordType` |
 

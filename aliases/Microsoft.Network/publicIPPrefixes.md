@@ -46,4 +46,12 @@
 | `properties.natGateway.zones` | `Microsoft.Network/publicIPPrefixes/natGateway.zones` |
 | `properties.natGateway.zones[*]` | `Microsoft.Network/publicIPPrefixes/natGateway.zones[*]` |
 | `properties.natGateway.etag` | `Microsoft.Network/publicIPPrefixes/natGateway.etag` |
+| `properties.natGateway.properties.publicIpAddressesV6` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpAddressesV6` |
+| `properties.natGateway.properties.publicIpAddressesV6[*]` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpAddressesV6[*]` |
+| `properties.natGateway.properties.publicIpAddressesV6[*].id` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpAddressesV6[*].id` |
+| `properties.natGateway.properties.publicIpPrefixesV6` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpPrefixesV6` |
+| `properties.natGateway.properties.publicIpPrefixesV6[*]` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpPrefixesV6[*]` |
+| `properties.natGateway.properties.publicIpPrefixesV6[*].id` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpPrefixesV6[*].id` |
+| `properties.natGateway.properties.sourceVirtualNetwork` | `Microsoft.Network/publicIPPrefixes/natGateway.sourceVirtualNetwork` |
+| `properties.natGateway.properties.sourceVirtualNetwork.id` | `Microsoft.Network/publicIPPrefixes/natGateway.sourceVirtualNetwork.id` |
 

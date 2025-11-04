@@ -164,4 +164,9 @@
 | `properties.customRoutes.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworkgateways/customRoutes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
+| `properties.virtualNetworkGatewayMigrationStatus` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkGatewayMigrationStatus` |
+| `properties.virtualNetworkGatewayMigrationStatus.state` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkGatewayMigrationStatus.state` |
+| `properties.virtualNetworkGatewayMigrationStatus.phase` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkGatewayMigrationStatus.phase` |
+| `properties.virtualNetworkGatewayMigrationStatus.errorMessage` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkGatewayMigrationStatus.errorMessage` |
+| `properties.enableHighBandwidthVpnGateway` | `Microsoft.Network/virtualnetworkgateways/enableHighBandwidthVpnGateway` |
 
