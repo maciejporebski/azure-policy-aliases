@@ -39,4 +39,5 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].systemData.lastModifiedAt` |
 | `properties.highAvailability` | `Microsoft.Cache/redisEnterprise/highAvailability` |
 | `properties.redundancyMode` | `Microsoft.Cache/redisEnterprise/redundancyMode` |
+| `properties.publicNetworkAccess` | `Microsoft.Cache/redisEnterprise/publicNetworkAccess` |
 

@@ -9,4 +9,6 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Cache/redis/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Cache/redis/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.Cache/redis/privateEndpointConnections/provisioningState` |
+| `properties.groupIds` | `Microsoft.Cache/redis/privateEndpointConnections/groupIds` |
+| `properties.groupIds[*]` | `Microsoft.Cache/redis/privateEndpointConnections/groupIds[*]` |
 
