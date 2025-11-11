@@ -68,4 +68,7 @@
 | `properties.model.publisher` | `Microsoft.CognitiveServices/accounts/deployments/model.publisher` |
 | `properties.model.sourceAccount` | `Microsoft.CognitiveServices/accounts/deployments/model.sourceAccount` |
 | `properties.parentDeploymentName` | `Microsoft.CognitiveServices/accounts/deployments/parentDeploymentName` |
+| `properties.spilloverDeploymentName` | `Microsoft.CognitiveServices/accounts/deployments/spilloverDeploymentName` |
+| `properties.serviceTier` | `Microsoft.CognitiveServices/accounts/deployments/serviceTier` |
+| `properties.deploymentState` | `Microsoft.CognitiveServices/accounts/deployments/deploymentState` |
 
