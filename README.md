@@ -219,8 +219,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Automation/automationAccounts/schedules](aliases/Microsoft.Automation/automationAccounts-schedules.md)
 - [Microsoft.Automation/automationAccounts/watchers](aliases/Microsoft.Automation/automationAccounts-watchers.md)
 - [Microsoft.Automation/automationAccounts/nodes](aliases/Microsoft.Automation/automationAccounts-nodes.md)
-- [Microsoft.Automation/automationAccounts/python3Packages](aliases/Microsoft.Automation/automationAccounts-python3Packages.md)
-- [Microsoft.Automation/automationAccounts/sourceControls](aliases/Microsoft.Automation/automationAccounts-sourceControls.md)
 
 
 ## Microsoft.AVS
@@ -325,7 +323,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -366,8 +363,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/raiPolicies](aliases/Microsoft.CognitiveServices/accounts-raiPolicies.md)
 - [Microsoft.CognitiveServices/accounts/defenderForAISettings](aliases/Microsoft.CognitiveServices/accounts-defenderForAISettings.md)
 - [Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems.md)
-- [Microsoft.CognitiveServices/accounts/raiToolLabels](aliases/Microsoft.CognitiveServices/accounts-raiToolLabels.md)
-- [Microsoft.CognitiveServices/accounts/raiTopics](aliases/Microsoft.CognitiveServices/accounts-raiTopics.md)
 
 
 ## Microsoft.Communication
@@ -440,8 +435,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.ContainerInstance
 
 - [Microsoft.ContainerInstance/containerGroups](aliases/Microsoft.ContainerInstance/containerGroups.md)
-- [Microsoft.ContainerInstance/containerGroupProfiles](aliases/Microsoft.ContainerInstance/containerGroupProfiles.md)
-- [Microsoft.ContainerInstance/nGroups](aliases/Microsoft.ContainerInstance/nGroups.md)
 
 
 ## Microsoft.ContainerRegistry
