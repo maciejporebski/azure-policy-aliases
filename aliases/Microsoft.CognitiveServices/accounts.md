@@ -147,4 +147,9 @@
 | `properties.defaultProject` | `Microsoft.CognitiveServices/accounts/defaultProject` |
 | `properties.associatedProjects` | `Microsoft.CognitiveServices/accounts/associatedProjects` |
 | `properties.associatedProjects[*]` | `Microsoft.CognitiveServices/accounts/associatedProjects[*]` |
+| `properties.networkInjections[*]` | `Microsoft.CognitiveServices/accounts/networkInjections[*]` |
+| `properties.networkInjections[*].scenario` | `Microsoft.CognitiveServices/accounts/networkInjections[*].scenario` |
+| `properties.networkInjections[*].subnetArmId` | `Microsoft.CognitiveServices/accounts/networkInjections[*].subnetArmId` |
+| `properties.networkInjections[*].useMicrosoftManagedNetwork` | `Microsoft.CognitiveServices/accounts/networkInjections[*].useMicrosoftManagedNetwork` |
+| `properties.storedCompletionsDisabled` | `Microsoft.CognitiveServices/accounts/storedCompletionsDisabled` |
 

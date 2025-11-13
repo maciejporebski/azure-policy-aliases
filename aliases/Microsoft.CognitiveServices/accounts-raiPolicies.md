@@ -28,4 +28,15 @@
 | `properties.customBlocklists[*].blocklistName` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].blocklistName` |
 | `properties.customBlocklists[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].blocking` |
 | `properties.customBlocklists[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/customBlocklists[*].source` |
+| `properties.customTopics` | `Microsoft.CognitiveServices/accounts/raiPolicies/customTopics` |
+| `properties.customTopics[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/customTopics[*]` |
+| `properties.customTopics[*].topicName` | `Microsoft.CognitiveServices/accounts/raiPolicies/customTopics[*].topicName` |
+| `properties.customTopics[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/customTopics[*].blocking` |
+| `properties.customTopics[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/customTopics[*].source` |
+| `properties.contentFilters[*].action` | `Microsoft.CognitiveServices/accounts/raiPolicies/contentFilters[*].action` |
+| `properties.safetyProviders` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders` |
+| `properties.safetyProviders[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*]` |
+| `properties.safetyProviders[*].safetyProviderName` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].safetyProviderName` |
+| `properties.safetyProviders[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].blocking` |
+| `properties.safetyProviders[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].source` |
 
