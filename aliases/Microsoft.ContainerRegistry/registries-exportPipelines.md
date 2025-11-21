@@ -9,4 +9,5 @@
 | `properties.options` | `Microsoft.ContainerRegistry/registries/exportPipelines/options` |
 | `properties.options[*]` | `Microsoft.ContainerRegistry/registries/exportPipelines/options[*]` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/exportPipelines/provisioningState` |
+| `properties.target.storageAccessMode` | `Microsoft.ContainerRegistry/registries/exportPipelines/target.storageAccessMode` |
 

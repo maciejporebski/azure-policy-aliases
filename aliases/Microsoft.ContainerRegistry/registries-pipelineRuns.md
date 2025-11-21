@@ -36,4 +36,6 @@
 | `properties.response.trigger.sourceTrigger.timestamp` | `Microsoft.ContainerRegistry/registries/pipelineRuns/response.trigger.sourceTrigger.timestamp` |
 | `properties.response.pipelineRunErrorMessage` | `Microsoft.ContainerRegistry/registries/pipelineRuns/response.pipelineRunErrorMessage` |
 | `properties.forceUpdateTag` | `Microsoft.ContainerRegistry/registries/pipelineRuns/forceUpdateTag` |
+| `properties.response.source.storageAccessMode` | `Microsoft.ContainerRegistry/registries/pipelineRuns/response.source.storageAccessMode` |
+| `properties.response.target.storageAccessMode` | `Microsoft.ContainerRegistry/registries/pipelineRuns/response.target.storageAccessMode` |
 
