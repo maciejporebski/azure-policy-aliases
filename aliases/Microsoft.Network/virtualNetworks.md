@@ -886,4 +886,5 @@
 | `properties.virtualNetworkPeerings[*].properties.remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/virtualNetworkPeerings[*].remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*]` |
 | `properties.defaultPublicNatGateway` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway` |
 | `properties.defaultPublicNatGateway.id` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway.id` |
+| `properties.flowLogs[*].properties.recordTypes` | `Microsoft.Network/virtualnetworks/flowLogs[*].recordTypes` |
 

@@ -38,4 +38,20 @@
 | `properties.error.message` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.message` |
 | `properties.duration` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/duration` |
 | `properties.mode` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/mode` |
+| `properties.error.error` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error` |
+| `properties.error.error.code` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.code` |
+| `properties.error.error.message` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.message` |
+| `properties.error.error.target` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.target` |
+| `properties.error.error.details` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details` |
+| `properties.error.error.details[*]` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*]` |
+| `properties.error.error.details[*].code` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*].code` |
+| `properties.error.error.details[*].message` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*].message` |
+| `properties.error.error.details[*].target` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*].target` |
+| `properties.error.error.details[*].details` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*].details` |
+| `properties.error.error.details[*].details[*]` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*].details[*]` |
+| `properties.error.error.details[*].additionalInfo` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*].additionalInfo` |
+| `properties.error.error.details[*].additionalInfo[*]` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.details[*].additionalInfo[*]` |
+| `properties.error.error.additionalInfo` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.additionalInfo` |
+| `properties.error.error.additionalInfo[*]` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.additionalInfo[*]` |
+| `properties.error.error.additionalInfo[*].type` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.additionalInfo[*].type` |
 

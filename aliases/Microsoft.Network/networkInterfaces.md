@@ -609,4 +609,5 @@
 | `properties.privateLinkService.properties.destinationIPAddress` | `Microsoft.Network/networkInterfaces/privateLinkService.destinationIPAddress` |
 | `properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/networkInterfaces/defaultOutboundConnectivityEnabled` |
 | `properties.privateLinkService.properties.accessMode` | `Microsoft.Network/networkInterfaces/privateLinkService.accessMode` |
+| `properties.privateEndpoint.properties.ipVersionType` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipVersionType` |
 

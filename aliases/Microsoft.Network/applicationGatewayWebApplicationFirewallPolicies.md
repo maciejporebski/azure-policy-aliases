@@ -1836,4 +1836,9 @@
 | `properties.managedRules.managedRuleSets[*].computedDisabledRules[*].ruleGroupName` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules[*].ruleGroupName` |
 | `properties.managedRules.managedRuleSets[*].computedDisabledRules[*].rules` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules[*].rules` |
 | `properties.managedRules.managedRuleSets[*].computedDisabledRules[*].rules[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].computedDisabledRules[*].rules[*]` |
+| `properties.applicationGateways[*].properties.entraJWTValidationConfigs` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs` |
+| `properties.applicationGateways[*].properties.entraJWTValidationConfigs[*]` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs[*]` |
+| `properties.applicationGateways[*].properties.entraJWTValidationConfigs[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs[*].id` |
+| `properties.applicationGateways[*].properties.entraJWTValidationConfigs[*].name` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs[*].name` |
+| `properties.applicationGateways[*].properties.entraJWTValidationConfigs[*].etag` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs[*].etag` |
 

@@ -49,4 +49,24 @@
 | `properties.resourceDetails.id` | `Microsoft.Security/assessments/resourceDetails.Azure.id` |
 | `properties.metadata.categories` | `Microsoft.Security/assessments/metadata.categories` |
 | `properties.metadata.categories[*]` | `Microsoft.Security/assessments/metadata.categories[*]` |
+| `properties.risk` | `Microsoft.Security/assessments/risk` |
+| `properties.risk.riskFactors` | `Microsoft.Security/assessments/risk.riskFactors` |
+| `properties.risk.riskFactors[*]` | `Microsoft.Security/assessments/risk.riskFactors[*]` |
+| `properties.risk.level` | `Microsoft.Security/assessments/risk.level` |
+| `properties.risk.attackPathsReferences` | `Microsoft.Security/assessments/risk.attackPathsReferences` |
+| `properties.risk.attackPathsReferences[*]` | `Microsoft.Security/assessments/risk.attackPathsReferences[*]` |
+| `properties.risk.paths` | `Microsoft.Security/assessments/risk.paths` |
+| `properties.risk.paths[*]` | `Microsoft.Security/assessments/risk.paths[*]` |
+| `properties.risk.paths[*].id` | `Microsoft.Security/assessments/risk.paths[*].id` |
+| `properties.risk.paths[*].nodes` | `Microsoft.Security/assessments/risk.paths[*].nodes` |
+| `properties.risk.paths[*].nodes[*]` | `Microsoft.Security/assessments/risk.paths[*].nodes[*]` |
+| `properties.risk.paths[*].nodes[*].id` | `Microsoft.Security/assessments/risk.paths[*].nodes[*].id` |
+| `properties.risk.paths[*].nodes[*].nodePropertiesLabel` | `Microsoft.Security/assessments/risk.paths[*].nodes[*].nodePropertiesLabel` |
+| `properties.risk.paths[*].nodes[*].nodePropertiesLabel[*]` | `Microsoft.Security/assessments/risk.paths[*].nodes[*].nodePropertiesLabel[*]` |
+| `properties.risk.paths[*].edges` | `Microsoft.Security/assessments/risk.paths[*].edges` |
+| `properties.risk.paths[*].edges[*]` | `Microsoft.Security/assessments/risk.paths[*].edges[*]` |
+| `properties.risk.paths[*].edges[*].id` | `Microsoft.Security/assessments/risk.paths[*].edges[*].id` |
+| `properties.risk.paths[*].edges[*].targetId` | `Microsoft.Security/assessments/risk.paths[*].edges[*].targetId` |
+| `properties.risk.paths[*].edges[*].sourceId` | `Microsoft.Security/assessments/risk.paths[*].edges[*].sourceId` |
+| `properties.risk.isContextualRisk` | `Microsoft.Security/assessments/risk.isContextualRisk` |
 

@@ -57,4 +57,11 @@
 | `properties.resource.indexingPolicy.vectorIndexes[*]` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*]` |
 | `properties.resource.indexingPolicy.vectorIndexes[*].path` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].path` |
 | `properties.resource.indexingPolicy.vectorIndexes[*].type` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].type` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].quantizationByteSize` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].quantizationByteSize` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].indexingSearchListSize` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].indexingSearchListSize` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey[*]` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey[*]` |
+| `properties.resource.indexingPolicy.fullTextIndexes` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.fullTextIndexes` |
+| `properties.resource.indexingPolicy.fullTextIndexes[*]` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.fullTextIndexes[*]` |
+| `properties.resource.indexingPolicy.fullTextIndexes[*].path` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.fullTextIndexes[*].path` |
 

@@ -497,4 +497,5 @@
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 | `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
+| `properties.ipVersionType` | `Microsoft.Network/privateEndpoints/ipVersionType` |
 

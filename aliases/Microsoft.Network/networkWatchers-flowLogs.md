@@ -21,4 +21,5 @@
 | `properties.flowAnalyticsConfiguration` | `Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration` |
 | `properties.provisioningState` | `Microsoft.Network/networkWatchers/flowLogs/provisioningState` |
 | `properties.enabledFilteringCriteria` | `Microsoft.Network/networkWatchers/flowLogs/enabledFilteringCriteria` |
+| `properties.recordTypes` | `Microsoft.Network/networkWatchers/flowLogs/recordTypes` |
 

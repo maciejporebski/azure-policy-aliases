@@ -1900,4 +1900,18 @@
 | `properties.backendHttpSettingsCollection[*].properties.sniName` | `Microsoft.Network/applicationGateways/backendHttpSettingsCollection[*].sniName` |
 | `properties.probes[*].properties.enableProbeProxyProtocolHeader` | `Microsoft.Network/applicationGateways/probes[*].enableProbeProxyProtocolHeader` |
 | `properties.backendSettingsCollection[*].properties.enableL4ClientIpPreservation` | `Microsoft.Network/applicationGateways/backendSettingsCollection[*].enableL4ClientIpPreservation` |
+| `properties.sslProfiles[*].properties.clientAuthConfiguration.verifyClientAuthMode` | `Microsoft.Network/applicationGateways/sslProfiles[*].clientAuthConfiguration.verifyClientAuthMode` |
+| `properties.requestRoutingRules[*].properties.entraJWTValidationConfig` | `Microsoft.Network/applicationGateways/requestRoutingRules[*].entraJWTValidationConfig` |
+| `properties.requestRoutingRules[*].properties.entraJWTValidationConfig.id` | `Microsoft.Network/applicationGateways/requestRoutingRules[*].entraJWTValidationConfig.id` |
+| `properties.entraJWTValidationConfigs` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs` |
+| `properties.entraJWTValidationConfigs[*]` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*]` |
+| `properties.entraJWTValidationConfigs[*].id` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].id` |
+| `properties.entraJWTValidationConfigs[*].properties.unAuthorizedRequestAction` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].unAuthorizedRequestAction` |
+| `properties.entraJWTValidationConfigs[*].properties.tenantId` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].tenantId` |
+| `properties.entraJWTValidationConfigs[*].properties.clientId` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].clientId` |
+| `properties.entraJWTValidationConfigs[*].properties.audiences` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].audiences` |
+| `properties.entraJWTValidationConfigs[*].properties.audiences[*]` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].audiences[*]` |
+| `properties.entraJWTValidationConfigs[*].properties.provisioningState` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].provisioningState` |
+| `properties.entraJWTValidationConfigs[*].name` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].name` |
+| `properties.entraJWTValidationConfigs[*].etag` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].etag` |
 

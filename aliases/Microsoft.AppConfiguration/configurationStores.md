@@ -36,4 +36,11 @@
 | `properties.experimentation` | `Microsoft.AppConfiguration/configurationStores/experimentation` |
 | `properties.experimentation.resourceId` | `Microsoft.AppConfiguration/configurationStores/experimentation.resourceId` |
 | `properties.experimentation.dataPlaneEndpoint` | `Microsoft.AppConfiguration/configurationStores/experimentation.dataPlaneEndpoint` |
+| `properties.defaultKeyValueRevisionRetentionPeriodInSeconds` | `Microsoft.AppConfiguration/configurationStores/defaultKeyValueRevisionRetentionPeriodInSeconds` |
+| `properties.managedOnBehalfOfConfiguration` | `Microsoft.AppConfiguration/configurationStores/managedOnBehalfOfConfiguration` |
+| `properties.managedOnBehalfOfConfiguration.moboBrokerResources` | `Microsoft.AppConfiguration/configurationStores/managedOnBehalfOfConfiguration.moboBrokerResources` |
+| `properties.managedOnBehalfOfConfiguration.moboBrokerResources[*]` | `Microsoft.AppConfiguration/configurationStores/managedOnBehalfOfConfiguration.moboBrokerResources[*]` |
+| `properties.managedOnBehalfOfConfiguration.moboBrokerResources[*].id` | `Microsoft.AppConfiguration/configurationStores/managedOnBehalfOfConfiguration.moboBrokerResources[*].id` |
+| `properties.azureFrontDoor` | `Microsoft.AppConfiguration/configurationStores/azureFrontDoor` |
+| `properties.azureFrontDoor.resourceId` | `Microsoft.AppConfiguration/configurationStores/azureFrontDoor.resourceId` |
 

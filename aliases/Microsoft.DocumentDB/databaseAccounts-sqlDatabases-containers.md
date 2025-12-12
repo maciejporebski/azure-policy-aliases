@@ -89,4 +89,25 @@
 | `properties.resource.materializedViews` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViews` |
 | `properties.resource.materializedViews[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViews[*]` |
 | `properties.resource.materializedViews[*].id` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViews[*].id` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].quantizationByteSize` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes[*].quantizationByteSize` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].indexingSearchListSize` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes[*].indexingSearchListSize` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey` |
+| `properties.resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.vectorIndexes[*].vectorIndexShardKey[*]` |
+| `properties.resource.indexingPolicy.fullTextIndexes` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.fullTextIndexes` |
+| `properties.resource.indexingPolicy.fullTextIndexes[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.fullTextIndexes[*]` |
+| `properties.resource.indexingPolicy.fullTextIndexes[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.indexingPolicy.fullTextIndexes[*].path` |
+| `properties.resource.materializedViewDefinition.throughputBucketForBuild` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViewDefinition.throughputBucketForBuild` |
+| `properties.resource.materializedViewsProperties` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViewsProperties` |
+| `properties.resource.materializedViewsProperties.throughputBucketForBuild` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.materializedViewsProperties.throughputBucketForBuild` |
+| `properties.resource.dataMaskingPolicy` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy` |
+| `properties.resource.dataMaskingPolicy.includedPaths` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.includedPaths` |
+| `properties.resource.dataMaskingPolicy.includedPaths[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.includedPaths[*]` |
+| `properties.resource.dataMaskingPolicy.includedPaths[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.includedPaths[*].path` |
+| `properties.resource.dataMaskingPolicy.includedPaths[*].strategy` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.includedPaths[*].strategy` |
+| `properties.resource.dataMaskingPolicy.includedPaths[*].startPosition` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.includedPaths[*].startPosition` |
+| `properties.resource.dataMaskingPolicy.includedPaths[*].length` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.includedPaths[*].length` |
+| `properties.resource.dataMaskingPolicy.excludedPaths` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.excludedPaths` |
+| `properties.resource.dataMaskingPolicy.excludedPaths[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.excludedPaths[*]` |
+| `properties.resource.dataMaskingPolicy.excludedPaths[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.excludedPaths[*].path` |
+| `properties.resource.dataMaskingPolicy.isPolicyEnabled` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.isPolicyEnabled` |
 

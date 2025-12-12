@@ -248,4 +248,14 @@
 | `properties.offerings[*].kubernetesDataCollection` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.kubernetesDataCollection` |
 | `properties.offerings[*].kubernetesDataCollection.cloudRoleArn` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.kubernetesDataCollection.cloudRoleArn` |
 | `properties.offerings[*].dataCollectionExternalId` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.dataCollectionExternalId` |
+| `properties.offerings[*]` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmJFrog` |
+| `properties.environmentData` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization` |
+| `properties.environmentData` | `Microsoft.Security/securityConnectors/environmentData.JFrogArtifactory` |
+| `properties.offerings[*].mdcContainersImageAssessment` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmJFrog.mdcContainersImageAssessment` |
+| `properties.offerings[*].mdcContainersImageAssessment.enabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmJFrog.mdcContainersImageAssessment.enabled` |
+| `properties.environmentData.scanInterval` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.scanInterval` |
+| `properties.environmentData.scanInterval` | `Microsoft.Security/securityConnectors/environmentData.JFrogArtifactory.scanInterval` |
+| `properties.environmentData.authentication` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication.AccessToken` |
+| `properties.environmentData.authentication` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication` |
+| `properties.environmentData.authentication.authenticationType` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication.authenticationType` |
 
