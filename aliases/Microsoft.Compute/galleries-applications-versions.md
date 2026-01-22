@@ -85,4 +85,5 @@
 | `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].storageAccountType` |
 | `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` |
 | `properties.publishingProfile.settings.scriptBehaviorAfterReboot` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings.scriptBehaviorAfterReboot` |
+| `properties.publishingProfile.storageAccountStrategy` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.storageAccountStrategy` |
 
