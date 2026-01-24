@@ -45,7 +45,4 @@
 | `properties.regions[*].name` | `Microsoft.KeyVault/managedHSMs/regions[*].name` |
 | `properties.regions[*].provisioningState` | `Microsoft.KeyVault/managedHSMs/regions[*].provisioningState` |
 | `properties.regions[*].isPrimary` | `Microsoft.KeyVault/managedHSMs/regions[*].isPrimary` |
-| `properties.networkAcls.serviceTags` | `Microsoft.KeyVault/managedHSMs/networkAcls.serviceTags` |
-| `properties.networkAcls.serviceTags[*]` | `Microsoft.KeyVault/managedHSMs/networkAcls.serviceTags[*]` |
-| `properties.networkAcls.serviceTags[*].tag` | `Microsoft.KeyVault/managedHSMs/networkAcls.serviceTags[*].tag` |
 

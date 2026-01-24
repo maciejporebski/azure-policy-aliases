@@ -126,5 +126,4 @@
 | `properties.validationsProfile.platformAttributes[*]` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*]` |
 | `properties.validationsProfile.platformAttributes[*].name` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].name` |
 | `properties.validationsProfile.platformAttributes[*].value` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].value` |
-| `properties.publishingProfile.storageAccountStrategy` | `Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountStrategy` |
 
