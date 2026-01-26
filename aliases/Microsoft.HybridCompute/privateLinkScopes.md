@@ -19,8 +19,4 @@
 | `properties.privateLinkScopeId` | `Microsoft.HybridCompute/privateLinkScopes/privateLinkScopeId` |
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections[*].groupIds[*]` |
-| `properties.serviceExtensions` | `Microsoft.HybridCompute/privateLinkScopes/serviceExtensions` |
-| `properties.serviceExtensions[*]` | `Microsoft.HybridCompute/privateLinkScopes/serviceExtensions[*]` |
-| `properties.serviceExtensions[*].serviceExtensionType` | `Microsoft.HybridCompute/privateLinkScopes/serviceExtensions[*].serviceExtensionType` |
-| `properties.serviceExtensions[*].serviceExtensionPublicNetworkAccess` | `Microsoft.HybridCompute/privateLinkScopes/serviceExtensions[*].serviceExtensionPublicNetworkAccess` |
 
