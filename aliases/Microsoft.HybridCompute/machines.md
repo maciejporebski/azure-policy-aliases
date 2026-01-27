@@ -198,4 +198,7 @@
 | `properties.networkProfile.networkInterfaces[*].macAddress` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].macAddress` |
 | `properties.networkProfile.networkInterfaces[*].id` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].id` |
 | `properties.networkProfile.networkInterfaces[*].name` | `Microsoft.HybridCompute/machines/networkProfile.networkInterfaces[*].name` |
+| `properties.identityKeyStore` | `Microsoft.HybridCompute/machines/identityKeyStore` |
+| `properties.tpmEkCertificate` | `Microsoft.HybridCompute/machines/tpmEkCertificate` |
+| `properties.hardwareResourceId` | `Microsoft.HybridCompute/machines/hardwareResourceId` |
 
