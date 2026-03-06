@@ -8,4 +8,5 @@
 | `properties.thumbprint` | `Microsoft.Sql/servers/keys/thumbprint` |
 | `properties.creationDate` | `Microsoft.Sql/servers/keys/creationDate` |
 | `properties.autoRotationEnabled` | `Microsoft.Sql/servers/keys/autoRotationEnabled` |
+| `properties.keyVersion` | `Microsoft.Sql/servers/keys/keyVersion` |
 

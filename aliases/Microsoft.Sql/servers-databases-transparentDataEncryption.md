@@ -6,4 +6,5 @@
 | `properties.status` | `Microsoft.Sql/servers/databases/transparentDataEncryption/status` |
 | `properties.status` | `Microsoft.Sql/servers/databases/transparentDataEncryption/current.status` |
 | `properties.state` | `Microsoft.Sql/servers/databases/transparentDataEncryption/state` |
+| `properties.scanState` | `Microsoft.Sql/servers/databases/transparentDataEncryption/scanState` |
 

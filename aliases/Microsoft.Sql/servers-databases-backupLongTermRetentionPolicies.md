@@ -16,4 +16,6 @@
 | `properties.recoveryServicesBackupPolicyResourceId` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/Default.recoveryServicesBackupPolicyResourceId` |
 | `properties.makeBackupsImmutable` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/makeBackupsImmutable` |
 | `properties.backupStorageAccessTier` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/backupStorageAccessTier` |
+| `properties.timeBasedImmutability` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/timeBasedImmutability` |
+| `properties.timeBasedImmutabilityMode` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/timeBasedImmutabilityMode` |
 

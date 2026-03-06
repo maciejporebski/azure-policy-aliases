@@ -381,4 +381,6 @@
 | `properties.clientAffinityPartitioningEnabled` | `Microsoft.Web/sites/clientAffinityPartitioningEnabled` |
 | `properties.clientAffinityProxyEnabled` | `Microsoft.Web/sites/clientAffinityProxyEnabled` |
 | `properties.sshEnabled` | `Microsoft.Web/sites/sshEnabled` |
+| `properties.functionAppConfig.siteUpdateStrategy` | `Microsoft.Web/sites/functionAppConfig.siteUpdateStrategy` |
+| `properties.functionAppConfig.siteUpdateStrategy.type` | `Microsoft.Web/sites/functionAppConfig.siteUpdateStrategy.type` |
 

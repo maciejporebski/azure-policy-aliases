@@ -69,4 +69,6 @@
 | `properties.authenticationMetadata` | `Microsoft.Sql/managedInstances/authenticationMetadata` |
 | `properties.databaseFormat` | `Microsoft.Sql/managedInstances/databaseFormat` |
 | `properties.totalMemoryMB` | `Microsoft.Sql/managedInstances/totalMemoryMB` |
+| `properties.memorySizeInGB` | `Microsoft.Sql/managedInstances/memorySizeInGB` |
+| `properties.requestedLogicalAvailabilityZone` | `Microsoft.Sql/managedInstances/requestedLogicalAvailabilityZone` |
 

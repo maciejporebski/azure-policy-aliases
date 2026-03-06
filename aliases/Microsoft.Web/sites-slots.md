@@ -398,4 +398,6 @@
 | `properties.clientAffinityPartitioningEnabled` | `Microsoft.Web/sites/slots/clientAffinityPartitioningEnabled` |
 | `properties.clientAffinityProxyEnabled` | `Microsoft.Web/sites/slots/clientAffinityProxyEnabled` |
 | `properties.sshEnabled` | `Microsoft.Web/sites/slots/sshEnabled` |
+| `properties.functionAppConfig.siteUpdateStrategy` | `Microsoft.Web/sites/slots/functionAppConfig.siteUpdateStrategy` |
+| `properties.functionAppConfig.siteUpdateStrategy.type` | `Microsoft.Web/sites/slots/functionAppConfig.siteUpdateStrategy.type` |
 

@@ -40,4 +40,12 @@
 | `properties.overrides[*].selectors[*].notIn` | `Microsoft.Authorization/policyassignments/overrides[*].selectors[*].notIn` |
 | `properties.overrides[*].selectors[*].notIn[*]` | `Microsoft.Authorization/policyassignments/overrides[*].selectors[*].notIn[*]` |
 | `properties.assignmentType` | `Microsoft.Authorization/policyassignments/assignmentType` |
+| `properties.definitionVersion` | `Microsoft.Authorization/policyassignments/definitionVersion` |
+| `properties.latestDefinitionVersion` | `Microsoft.Authorization/policyassignments/latestDefinitionVersion` |
+| `properties.effectiveDefinitionVersion` | `Microsoft.Authorization/policyassignments/effectiveDefinitionVersion` |
+| `properties.instanceId` | `Microsoft.Authorization/policyassignments/instanceId` |
+| `properties.selfServeExemptionSettings` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings` |
+| `properties.selfServeExemptionSettings.enabled` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.enabled` |
+| `properties.selfServeExemptionSettings.policyDefinitionReferenceIds` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.policyDefinitionReferenceIds` |
+| `properties.selfServeExemptionSettings.policyDefinitionReferenceIds[*]` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.policyDefinitionReferenceIds[*]` |
 

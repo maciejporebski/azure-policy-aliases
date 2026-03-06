@@ -24,4 +24,9 @@
 | `properties.crossSubscriptionRestorableDroppedDatabaseId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionRestorableDroppedDatabaseId` |
 | `properties.crossSubscriptionTargetManagedInstanceId` | `Microsoft.Sql/managedInstances/databases/crossSubscriptionTargetManagedInstanceId` |
 | `properties.isLedgerOn` | `Microsoft.Sql/managedInstances/databases/isLedgerOn` |
+| `properties.extendedAccessibilityInfo` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo` |
+| `properties.extendedAccessibilityInfo.inaccessibilityReasonErrorCode` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo.inaccessibilityReasonErrorCode` |
+| `properties.extendedAccessibilityInfo.inaccessibilityReasonDescription` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo.inaccessibilityReasonDescription` |
+| `properties.extendedAccessibilityInfo.inaccessibilityReasonKind` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo.inaccessibilityReasonKind` |
+| `properties.extendedAccessibilityInfo.inaccessibilityReasonTdeKeyUri` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo.inaccessibilityReasonTdeKeyUri` |
 

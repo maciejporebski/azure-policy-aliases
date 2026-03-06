@@ -39,4 +39,6 @@
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.Sql/servers/privateEndpointConnections[*].groupIds[*]` |
 | `properties.externalGovernanceStatus` | `Microsoft.Sql/servers/externalGovernanceStatus` |
 | `properties.isIPv6Enabled` | `Microsoft.Sql/servers/isIPv6Enabled` |
+| `properties.retentionDays` | `Microsoft.Sql/servers/retentionDays` |
+| `properties.createMode` | `Microsoft.Sql/servers/createMode` |
 

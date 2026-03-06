@@ -183,7 +183,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Authorization/roleDefinitions](aliases/Microsoft.Authorization/roleDefinitions.md)
 - [Microsoft.Authorization/locks](aliases/Microsoft.Authorization/locks.md)
 - [Microsoft.Authorization/policyDefinitions](aliases/Microsoft.Authorization/policyDefinitions.md)
+- [Microsoft.Authorization/policyDefinitions/versions](aliases/Microsoft.Authorization/policyDefinitions-versions.md)
 - [Microsoft.Authorization/policySetDefinitions](aliases/Microsoft.Authorization/policySetDefinitions.md)
+- [Microsoft.Authorization/policySetDefinitions/versions](aliases/Microsoft.Authorization/policySetDefinitions-versions.md)
 - [Microsoft.Authorization/policyAssignments](aliases/Microsoft.Authorization/policyAssignments.md)
 - [Microsoft.Authorization/policyExemptions](aliases/Microsoft.Authorization/policyExemptions.md)
 
@@ -349,6 +351,12 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.CertificateRegistration/certificateOrders](aliases/Microsoft.CertificateRegistration/certificateOrders.md)
 - [Microsoft.CertificateRegistration/certificateOrders/certificates](aliases/Microsoft.CertificateRegistration/certificateOrders-certificates.md)
+
+
+## Microsoft.ChangeSafety
+
+- [Microsoft.ChangeSafety/changerecords](aliases/Microsoft.ChangeSafety/changerecords.md)
+- [Microsoft.ChangeSafety/changerecords/stageprogressions](aliases/Microsoft.ChangeSafety/changerecords-stageprogressions.md)
 
 
 ## Microsoft.Chaos
@@ -1400,6 +1408,12 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.OperationsManagement
 
 - [Microsoft.OperationsManagement/solutions](aliases/Microsoft.OperationsManagement/solutions.md)
+
+
+## Microsoft.PolicyInsights
+
+- [Microsoft.PolicyInsights/remediations](aliases/Microsoft.PolicyInsights/remediations.md)
+- [Microsoft.PolicyInsights/attestations](aliases/Microsoft.PolicyInsights/attestations.md)
 
 
 ## Microsoft.Portal

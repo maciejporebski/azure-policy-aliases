@@ -24,4 +24,7 @@
 | `properties.version` | `Microsoft.Authorization/policySetDefinitions/version` |
 | `properties.versions` | `Microsoft.Authorization/policySetDefinitions/versions` |
 | `properties.versions[*]` | `Microsoft.Authorization/policySetDefinitions/versions[*]` |
+| `properties.policyDefinitions[*].definitionVersion` | `Microsoft.Authorization/policySetDefinitions/policyDefinitions[*].definitionVersion` |
+| `properties.policyDefinitions[*].latestDefinitionVersion` | `Microsoft.Authorization/policySetDefinitions/policyDefinitions[*].latestDefinitionVersion` |
+| `properties.policyDefinitions[*].effectiveDefinitionVersion` | `Microsoft.Authorization/policySetDefinitions/policyDefinitions[*].effectiveDefinitionVersion` |
 
