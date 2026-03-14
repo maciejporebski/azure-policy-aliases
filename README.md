@@ -1158,7 +1158,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Maps
 
 - [Microsoft.Maps/accounts](aliases/Microsoft.Maps/accounts.md)
-- [Microsoft.Maps/accounts/creators](aliases/Microsoft.Maps/accounts-creators.md)
 
 
 ## Microsoft.Migrate
