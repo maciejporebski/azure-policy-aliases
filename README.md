@@ -327,6 +327,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -977,6 +978,20 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.HybridCompute/machines/licenseProfiles](aliases/Microsoft.HybridCompute/machines-licenseProfiles.md)
 - [Microsoft.HybridCompute/licenses](aliases/Microsoft.HybridCompute/licenses.md)
 - [Microsoft.HybridCompute/gateways](aliases/Microsoft.HybridCompute/gateways.md)
+
+
+## Microsoft.HybridContainerService
+
+- [Microsoft.HybridContainerService/virtualNetworks](aliases/Microsoft.HybridContainerService/virtualNetworks.md)
+- [Microsoft.HybridContainerService/provisionedClusterInstances](aliases/Microsoft.HybridContainerService/provisionedClusterInstances.md)
+- [Microsoft.HybridContainerService/skus](aliases/Microsoft.HybridContainerService/skus.md)
+- [Microsoft.HybridContainerService/kubernetesVersions](aliases/Microsoft.HybridContainerService/kubernetesVersions.md)
+- [Microsoft.HybridContainerService/provisionedClusters](aliases/Microsoft.HybridContainerService/provisionedClusters.md)
+- [Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata](aliases/Microsoft.HybridContainerService/provisionedClusters-hybridIdentityMetadata.md)
+- [Microsoft.HybridContainerService/provisionedClusters/agentPools](aliases/Microsoft.HybridContainerService/provisionedClusters-agentPools.md)
+- [Microsoft.HybridContainerService/storageSpaces](aliases/Microsoft.HybridContainerService/storageSpaces.md)
+- [Microsoft.HybridContainerService/provisionedClusterInstances/agentPools](aliases/Microsoft.HybridContainerService/provisionedClusterInstances-agentPools.md)
+- [Microsoft.HybridContainerService/provisionedClusterInstances/hybridIdentityMetadata](aliases/Microsoft.HybridContainerService/provisionedClusterInstances-hybridIdentityMetadata.md)
 
 
 ## microsoft.insights
