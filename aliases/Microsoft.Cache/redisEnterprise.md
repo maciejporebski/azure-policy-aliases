@@ -40,15 +40,4 @@
 | `properties.highAvailability` | `Microsoft.Cache/redisEnterprise/highAvailability` |
 | `properties.redundancyMode` | `Microsoft.Cache/redisEnterprise/redundancyMode` |
 | `properties.publicNetworkAccess` | `Microsoft.Cache/redisEnterprise/publicNetworkAccess` |
-| `properties.maintenanceConfiguration` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration` |
-| `properties.maintenanceConfiguration.maintenanceWindows` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration.maintenanceWindows` |
-| `properties.maintenanceConfiguration.maintenanceWindows[*]` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration.maintenanceWindows[*]` |
-| `properties.maintenanceConfiguration.maintenanceWindows[*].type` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration.maintenanceWindows[*].type` |
-| `properties.maintenanceConfiguration.maintenanceWindows[*].duration` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration.maintenanceWindows[*].duration` |
-| `properties.maintenanceConfiguration.maintenanceWindows[*].startHourUtc` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration.maintenanceWindows[*].startHourUtc` |
-| `properties.maintenanceConfiguration.maintenanceWindows[*].schedule` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration.maintenanceWindows[*].schedule` |
-| `properties.maintenanceConfiguration.maintenanceWindows[*].schedule.dayOfWeek` | `Microsoft.Cache/redisEnterprise/maintenanceConfiguration.maintenanceWindows[*].schedule.dayOfWeek` |
-| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].groupIds` |
-| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections[*].groupIds[*]` |
-| `properties.migratedEndpoint` | `Microsoft.Cache/redisEnterprise/migratedEndpoint` |
 
