@@ -188,6 +188,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Authorization/policySetDefinitions/versions](aliases/Microsoft.Authorization/policySetDefinitions-versions.md)
 - [Microsoft.Authorization/policyAssignments](aliases/Microsoft.Authorization/policyAssignments.md)
 - [Microsoft.Authorization/policyExemptions](aliases/Microsoft.Authorization/policyExemptions.md)
+- [Microsoft.Authorization/policyEnrollments](aliases/Microsoft.Authorization/policyEnrollments.md)
 
 
 ## Microsoft.Automanage
@@ -317,6 +318,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Cache/redisEnterprise](aliases/Microsoft.Cache/redisEnterprise.md)
 - [Microsoft.Cache/RedisEnterprise/privateEndpointConnections](aliases/Microsoft.Cache/RedisEnterprise-privateEndpointConnections.md)
 - [Microsoft.Cache/redisEnterprise/databases](aliases/Microsoft.Cache/redisEnterprise-databases.md)
+- [Microsoft.Cache/redisEnterprise/migrations](aliases/Microsoft.Cache/redisEnterprise-migrations.md)
 - [Microsoft.Cache/Redis/firewallrules](aliases/Microsoft.Cache/Redis-firewallrules.md)
 - [Microsoft.Cache/redis/linkedservers](aliases/Microsoft.Cache/redis-linkedservers.md)
 - [Microsoft.Cache/redis/patchSchedules](aliases/Microsoft.Cache/redis-patchSchedules.md)
@@ -1639,11 +1641,11 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.SignalRService/SignalR/replicas](aliases/Microsoft.SignalRService/SignalR-replicas.md)
 - [Microsoft.SignalRService/WebPubSub/replicas](aliases/Microsoft.SignalRService/WebPubSub-replicas.md)
 - [Microsoft.SignalRService/SignalR/customDomains](aliases/Microsoft.SignalRService/SignalR-customDomains.md)
-- [Microsoft.SignalRService/SignalR/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources.md)
 - [Microsoft.SignalRService/WebPubSub/customDomains](aliases/Microsoft.SignalRService/WebPubSub-customDomains.md)
-- [Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources.md)
 - [Microsoft.SignalRService/signalR/privateEndpointConnections](aliases/Microsoft.SignalRService/signalR-privateEndpointConnections.md)
+- [Microsoft.SignalRService/SignalR/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources.md)
 - [Microsoft.SignalRService/WebPubSub/privateEndpointConnections](aliases/Microsoft.SignalRService/WebPubSub-privateEndpointConnections.md)
+- [Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources.md)
 - [Microsoft.SignalRService/WebPubSub/hubs](aliases/Microsoft.SignalRService/WebPubSub-hubs.md)
 - [Microsoft.SignalRService/SignalR/customCertificates](aliases/Microsoft.SignalRService/SignalR-customCertificates.md)
 - [Microsoft.SignalRService/SignalR/replicas/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/SignalR-replicas-sharedPrivateLinkResources.md)
