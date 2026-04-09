@@ -16,4 +16,5 @@
 | `properties.provisioningState` | `Microsoft.Sql/managedInstances/dtc/provisioningState` |
 | `properties.securitySettings.xaTransactionsDefaultTimeout` | `Microsoft.Sql/managedInstances/dtc/securitySettings.xaTransactionsDefaultTimeout` |
 | `properties.securitySettings.xaTransactionsMaximumTimeout` | `Microsoft.Sql/managedInstances/dtc/securitySettings.xaTransactionsMaximumTimeout` |
+| `properties.fqdnEnabled` | `Microsoft.Sql/managedInstances/dtc/fqdnEnabled` |
 

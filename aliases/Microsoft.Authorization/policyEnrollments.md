@@ -19,4 +19,5 @@
 | `properties.resourceSelectors[*].selectors[*].in[*]` | `Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].in[*]` |
 | `properties.resourceSelectors[*].selectors[*].notIn` | `Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].notIn` |
 | `properties.resourceSelectors[*].selectors[*].notIn[*]` | `Microsoft.Authorization/policyEnrollments/resourceSelectors[*].selectors[*].notIn[*]` |
+| `properties.metadata` | `Microsoft.Authorization/policyEnrollments/metadata` |
 
