@@ -28,10 +28,4 @@
 | `properties.availabilityZone` | `Microsoft.Sql/servers/elasticPools/availabilityZone` |
 | `properties.perDatabaseSettings.autoPauseDelay` | `Microsoft.Sql/servers/elasticPools/perDatabaseSettings.autoPauseDelay` |
 | `properties.autoPauseDelay` | `Microsoft.Sql/servers/elasticPools/autoPauseDelay` |
-| `properties.currentSku` | `Microsoft.Sql/servers/elasticPools/currentSku` |
-| `properties.currentSku.name` | `Microsoft.Sql/servers/elasticPools/currentSku.name` |
-| `properties.currentSku.tier` | `Microsoft.Sql/servers/elasticPools/currentSku.tier` |
-| `properties.currentSku.size` | `Microsoft.Sql/servers/elasticPools/currentSku.size` |
-| `properties.currentSku.family` | `Microsoft.Sql/servers/elasticPools/currentSku.family` |
-| `properties.currentSku.capacity` | `Microsoft.Sql/servers/elasticPools/currentSku.capacity` |
 

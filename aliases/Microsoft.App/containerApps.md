@@ -234,11 +234,4 @@
 | `properties.configuration.revisionTransitionThreshold` | `Microsoft.App/containerApps/configuration.revisionTransitionThreshold` |
 | `properties.template.initContainers[*].resources.gpu` | `Microsoft.App/containerApps/template.initContainers[*].resources.gpu` |
 | `properties.template.containers[*].resources.gpu` | `Microsoft.App/containerApps/template.containers[*].resources.gpu` |
-| `properties.configuration.dapr.appHealth` | `Microsoft.App/containerApps/configuration.dapr.appHealth` |
-| `properties.configuration.dapr.appHealth.enabled` | `Microsoft.App/containerApps/configuration.dapr.appHealth.enabled` |
-| `properties.configuration.dapr.appHealth.path` | `Microsoft.App/containerApps/configuration.dapr.appHealth.path` |
-| `properties.configuration.dapr.appHealth.probeIntervalSeconds` | `Microsoft.App/containerApps/configuration.dapr.appHealth.probeIntervalSeconds` |
-| `properties.configuration.dapr.appHealth.probeTimeoutMilliseconds` | `Microsoft.App/containerApps/configuration.dapr.appHealth.probeTimeoutMilliseconds` |
-| `properties.configuration.dapr.appHealth.threshold` | `Microsoft.App/containerApps/configuration.dapr.appHealth.threshold` |
-| `properties.configuration.dapr.maxConcurrency` | `Microsoft.App/containerApps/configuration.dapr.maxConcurrency` |
 

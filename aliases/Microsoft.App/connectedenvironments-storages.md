@@ -16,7 +16,4 @@
 | `properties.smb.accessMode` | `Microsoft.App/connectedEnvironments/storages/smb.accessMode` |
 | `properties.provisioningState` | `Microsoft.App/connectedEnvironments/storages/provisioningState` |
 | `properties.deploymentErrors` | `Microsoft.App/connectedEnvironments/storages/deploymentErrors` |
-| `properties.azureFile.accountKeyVaultProperties` | `Microsoft.App/connectedEnvironments/storages/azureFile.accountKeyVaultProperties` |
-| `properties.azureFile.accountKeyVaultProperties.identity` | `Microsoft.App/connectedEnvironments/storages/azureFile.accountKeyVaultProperties.identity` |
-| `properties.azureFile.accountKeyVaultProperties.keyVaultUrl` | `Microsoft.App/connectedEnvironments/storages/azureFile.accountKeyVaultProperties.keyVaultUrl` |
 

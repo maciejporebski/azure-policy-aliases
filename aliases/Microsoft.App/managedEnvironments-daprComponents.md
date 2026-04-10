@@ -27,6 +27,4 @@
 | `properties.serviceComponentBind[*].metadata` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata` |
 | `properties.serviceComponentBind[*].metadata.name` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata.name` |
 | `properties.serviceComponentBind[*].metadata.value` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata.value` |
-| `properties.provisioningState` | `Microsoft.App/managedEnvironments/daprComponents/provisioningState` |
-| `properties.deploymentErrors` | `Microsoft.App/managedEnvironments/daprComponents/deploymentErrors` |
 

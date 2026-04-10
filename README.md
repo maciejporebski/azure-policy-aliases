@@ -129,8 +129,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.App/managedEnvironments/javaComponents](aliases/Microsoft.App/managedEnvironments-javaComponents.md)
 - [Microsoft.App/managedEnvironments/daprComponents](aliases/Microsoft.App/managedEnvironments-daprComponents.md)
 - [Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies](aliases/Microsoft.App/managedEnvironments-daprComponents-resiliencyPolicies.md)
-- [Microsoft.App/agents](aliases/Microsoft.App/agents.md)
-- [Microsoft.App/agentSpaces](aliases/Microsoft.App/agentSpaces.md)
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
 - [Microsoft.App/containerapps/sourcecontrols](aliases/Microsoft.App/containerapps-sourcecontrols.md)
@@ -183,7 +181,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Authorization/roleManagementPolicies](aliases/Microsoft.Authorization/roleManagementPolicies.md)
 - [Microsoft.Authorization/roleAssignments](aliases/Microsoft.Authorization/roleAssignments.md)
 - [Microsoft.Authorization/roleDefinitions](aliases/Microsoft.Authorization/roleDefinitions.md)
-- [Microsoft.Authorization/denyAssignments](aliases/Microsoft.Authorization/denyAssignments.md)
 - [Microsoft.Authorization/locks](aliases/Microsoft.Authorization/locks.md)
 - [Microsoft.Authorization/policyDefinitions](aliases/Microsoft.Authorization/policyDefinitions.md)
 - [Microsoft.Authorization/policyDefinitions/versions](aliases/Microsoft.Authorization/policyDefinitions-versions.md)
@@ -332,7 +329,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1306,7 +1302,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
 - [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
@@ -1366,7 +1361,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
-- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
 
 
 ## Microsoft.NetworkCloud

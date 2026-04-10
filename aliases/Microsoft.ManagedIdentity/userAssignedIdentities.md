@@ -7,7 +7,4 @@
 | `properties.clientId` | `Microsoft.ManagedIdentity/userAssignedIdentities/clientId` |
 | `properties.clientSecretUrl` | `Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl` |
 | `properties.isolationScope` | `Microsoft.ManagedIdentity/userAssignedIdentities/isolationScope` |
-| `properties.assignmentRestrictions` | `Microsoft.ManagedIdentity/userAssignedIdentities/assignmentRestrictions` |
-| `properties.assignmentRestrictions.providers` | `Microsoft.ManagedIdentity/userAssignedIdentities/assignmentRestrictions.providers` |
-| `properties.assignmentRestrictions.providers[*]` | `Microsoft.ManagedIdentity/userAssignedIdentities/assignmentRestrictions.providers[*]` |
 

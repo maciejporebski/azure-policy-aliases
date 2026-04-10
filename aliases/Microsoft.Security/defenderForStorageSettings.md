@@ -17,11 +17,4 @@
 | `properties.sensitiveDataDiscovery.operationStatus.message` | `Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.operationStatus.message` |
 | `properties.overrideSubscriptionLevelSettings` | `Microsoft.Security/defenderForStorageSettings/overrideSubscriptionLevelSettings` |
 | `properties.malwareScanning.scanResultsEventGridTopicResourceId` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.scanResultsEventGridTopicResourceId` |
-| `properties.malwareScanning.onUpload.filters` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.filters` |
-| `properties.malwareScanning.onUpload.filters.excludeBlobsWithPrefix` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.filters.excludeBlobsWithPrefix` |
-| `properties.malwareScanning.onUpload.filters.excludeBlobsWithPrefix[*]` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.filters.excludeBlobsWithPrefix[*]` |
-| `properties.malwareScanning.onUpload.filters.excludeBlobsWithSuffix` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.filters.excludeBlobsWithSuffix` |
-| `properties.malwareScanning.onUpload.filters.excludeBlobsWithSuffix[*]` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.filters.excludeBlobsWithSuffix[*]` |
-| `properties.malwareScanning.blobScanResultsOptions` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.blobScanResultsOptions` |
-| `properties.malwareScanning.automatedResponse` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.automatedResponse` |
 

@@ -109,17 +109,4 @@
 | `properties.privateLinkDefaultDomain` | `Microsoft.App/managedEnvironments/privateLinkDefaultDomain` |
 | `properties.availabilityZones` | `Microsoft.App/managedEnvironments/availabilityZones` |
 | `properties.availabilityZones[*]` | `Microsoft.App/managedEnvironments/availabilityZones[*]` |
-| `properties.ingressConfiguration` | `Microsoft.App/managedEnvironments/ingressConfiguration` |
-| `properties.ingressConfiguration.workloadProfileName` | `Microsoft.App/managedEnvironments/ingressConfiguration.workloadProfileName` |
-| `properties.ingressConfiguration.scale` | `Microsoft.App/managedEnvironments/ingressConfiguration.scale` |
-| `properties.ingressConfiguration.scale.minReplicas` | `Microsoft.App/managedEnvironments/ingressConfiguration.scale.minReplicas` |
-| `properties.ingressConfiguration.scale.maxReplicas` | `Microsoft.App/managedEnvironments/ingressConfiguration.scale.maxReplicas` |
-| `properties.ingressConfiguration.terminationGracePeriodSeconds` | `Microsoft.App/managedEnvironments/ingressConfiguration.terminationGracePeriodSeconds` |
-| `properties.ingressConfiguration.headerCountLimit` | `Microsoft.App/managedEnvironments/ingressConfiguration.headerCountLimit` |
-| `properties.ingressConfiguration.requestIdleTimeout` | `Microsoft.App/managedEnvironments/ingressConfiguration.requestIdleTimeout` |
-| `properties.diskEncryptionConfiguration` | `Microsoft.App/managedEnvironments/diskEncryptionConfiguration` |
-| `properties.diskEncryptionConfiguration.keyVaultConfiguration` | `Microsoft.App/managedEnvironments/diskEncryptionConfiguration.keyVaultConfiguration` |
-| `properties.diskEncryptionConfiguration.keyVaultConfiguration.keyUrl` | `Microsoft.App/managedEnvironments/diskEncryptionConfiguration.keyVaultConfiguration.keyUrl` |
-| `properties.diskEncryptionConfiguration.keyVaultConfiguration.auth` | `Microsoft.App/managedEnvironments/diskEncryptionConfiguration.keyVaultConfiguration.auth` |
-| `properties.diskEncryptionConfiguration.keyVaultConfiguration.auth.identity` | `Microsoft.App/managedEnvironments/diskEncryptionConfiguration.keyVaultConfiguration.auth.identity` |
 

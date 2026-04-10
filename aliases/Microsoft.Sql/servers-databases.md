@@ -137,5 +137,4 @@
 | `properties.useFreeLimit` | `Microsoft.Sql/servers/databases/useFreeLimit` |
 | `properties.freeLimitExhaustionBehavior` | `Microsoft.Sql/servers/databases/freeLimitExhaustionBehavior` |
 | `properties.encryptionProtectorAutoRotation` | `Microsoft.Sql/servers/databases/encryptionProtectorAutoRotation` |
-| `properties.provisioningState` | `Microsoft.Sql/servers/databases/provisioningState` |
 

@@ -21,8 +21,4 @@
 | `properties.inherited` | `Microsoft.Security/pricings/inherited` |
 | `properties.inheritedFrom` | `Microsoft.Security/pricings/inheritedFrom` |
 | `properties.resourcesCoverageStatus` | `Microsoft.Security/pricings/resourcesCoverageStatus` |
-| `properties.extensions[*].securityOperatorResourceId` | `Microsoft.Security/pricings/extensions[*].securityOperatorResourceId` |
-| `properties.securityOperatorResourceId` | `Microsoft.Security/pricings/securityOperatorResourceId` |
-| `properties.originatedFrom` | `Microsoft.Security/pricings/originatedFrom` |
-| `properties.managedBy` | `Microsoft.Security/pricings/managedBy` |
 
