@@ -20,4 +20,5 @@
 | `properties.resourceSelectors[*].selectors[*].notIn` | `Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn` |
 | `properties.resourceSelectors[*].selectors[*].notIn[*]` | `Microsoft.Authorization/policyExemptions/resourceSelectors[*].selectors[*].notIn[*]` |
 | `properties.assignmentScopeValidation` | `Microsoft.Authorization/policyExemptions/assignmentScopeValidation` |
+| `properties.metadata` | `Microsoft.Authorization/policyExemptions/metadata` |
 

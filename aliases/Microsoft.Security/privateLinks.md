@@ -41,4 +41,5 @@
 | `properties.privateLinkResources[*].properties.requiredMembers[*]` | `Microsoft.Security/privateLinks/privateLinkResources[*].requiredMembers[*]` |
 | `properties.privateLinkResources[*].properties.requiredZoneNames` | `Microsoft.Security/privateLinks/privateLinkResources[*].requiredZoneNames` |
 | `properties.privateLinkResources[*].properties.requiredZoneNames[*]` | `Microsoft.Security/privateLinks/privateLinkResources[*].requiredZoneNames[*]` |
+| `properties.publicNetworkAccess` | `Microsoft.Security/privateLinks/publicNetworkAccess` |
 
