@@ -110,4 +110,18 @@
 | `properties.criteria.allOf[*].dimensions[*].values` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-SingleResourceMultipleMetricCriteria.allOf[*].dimensions[*].values` |
 | `properties.criteria.allOf[*].dimensions[*].values[*]` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-SingleResourceMultipleMetricCriteria.allOf[*].dimensions[*].values[*]` |
 | `properties.criteria.allOf[*].skipMetricValidation` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-SingleResourceMultipleMetricCriteria.allOf[*].skipMetricValidation` |
+| `properties.criteria` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria` |
+| `properties.criteria.allOf` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.allOf` |
+| `properties.criteria.allOf[*]` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.allOf[*]` |
+| `properties.criteria.allOf[*]` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.allOf[*].DynamicThresholdCriterion` |
+| `properties.criteria.allOf[*].criterionType` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.allOf[*].criterionType` |
+| `properties.criteria.allOf[*].name` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.allOf[*].name` |
+| `properties.criteria.failingPeriods` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.failingPeriods` |
+| `properties.criteria.failingPeriods.for` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.failingPeriods.for` |
+| `properties.criteria.allOf[*].query` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-PromQLCriteria.allOf[*].query` |
+| `properties.resolveConfiguration` | `Microsoft.Insights/metricAlerts/resolveConfiguration` |
+| `properties.resolveConfiguration.autoResolved` | `Microsoft.Insights/metricAlerts/resolveConfiguration.autoResolved` |
+| `properties.resolveConfiguration.timeToResolve` | `Microsoft.Insights/metricAlerts/resolveConfiguration.timeToResolve` |
+| `properties.customProperties` | `Microsoft.Insights/metricAlerts/customProperties` |
+| `properties.actionProperties` | `Microsoft.Insights/metricAlerts/actionProperties` |
 

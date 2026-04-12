@@ -27,4 +27,10 @@
 | `properties.metadata.provisionedBy` | `Microsoft.Insights/dataCollectionEndpoints/metadata.provisionedBy` |
 | `properties.metadata.provisionedByResourceId` | `Microsoft.Insights/dataCollectionEndpoints/metadata.provisionedByResourceId` |
 | `properties.metadata.provisionedByImmutableId` | `Microsoft.Insights/dataCollectionEndpoints/metadata.provisionedByImmutableId` |
+| `sku` | `Microsoft.Insights/dataCollectionEndpoints/sku` |
+| `sku.name` | `Microsoft.Insights/dataCollectionEndpoints/sku.name` |
+| `sku.tier` | `Microsoft.Insights/dataCollectionEndpoints/sku.tier` |
+| `sku.size` | `Microsoft.Insights/dataCollectionEndpoints/sku.size` |
+| `sku.family` | `Microsoft.Insights/dataCollectionEndpoints/sku.family` |
+| `sku.capacity` | `Microsoft.Insights/dataCollectionEndpoints/sku.capacity` |
 
