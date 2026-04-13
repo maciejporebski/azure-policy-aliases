@@ -332,6 +332,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -406,6 +407,7 @@ This repository contains all available resource property aliases for easy refere
 
 ## Microsoft.Compute
 
+- [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
 - [Microsoft.Compute/availabilitySets](aliases/Microsoft.Compute/availabilitySets.md)
 - [Microsoft.Compute/virtualMachines](aliases/Microsoft.Compute/virtualMachines.md)
 - [Microsoft.Compute/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachines-extensions.md)
@@ -431,7 +433,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
 - [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)
 - [Microsoft.Compute/diskAccesses](aliases/Microsoft.Compute/diskAccesses.md)
-- [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
