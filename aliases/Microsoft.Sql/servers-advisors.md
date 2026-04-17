@@ -64,11 +64,4 @@
 | `properties.recommendedActions[*].properties.linkedObjects` | `Microsoft.Sql/servers/advisors/recommendedActions[*].linkedObjects` |
 | `properties.recommendedActions[*].properties.linkedObjects[*]` | `Microsoft.Sql/servers/advisors/recommendedActions[*].linkedObjects[*]` |
 | `properties.recommendedActions[*].properties.details` | `Microsoft.Sql/servers/advisors/recommendedActions[*].details` |
-| `properties.recommendedActions[*].systemData` | `Microsoft.Sql/servers/advisors/recommendedActions[*].systemData` |
-| `properties.recommendedActions[*].systemData.createdBy` | `Microsoft.Sql/servers/advisors/recommendedActions[*].systemData.createdBy` |
-| `properties.recommendedActions[*].systemData.createdByType` | `Microsoft.Sql/servers/advisors/recommendedActions[*].systemData.createdByType` |
-| `properties.recommendedActions[*].systemData.createdAt` | `Microsoft.Sql/servers/advisors/recommendedActions[*].systemData.createdAt` |
-| `properties.recommendedActions[*].systemData.lastModifiedBy` | `Microsoft.Sql/servers/advisors/recommendedActions[*].systemData.lastModifiedBy` |
-| `properties.recommendedActions[*].systemData.lastModifiedByType` | `Microsoft.Sql/servers/advisors/recommendedActions[*].systemData.lastModifiedByType` |
-| `properties.recommendedActions[*].systemData.lastModifiedAt` | `Microsoft.Sql/servers/advisors/recommendedActions[*].systemData.lastModifiedAt` |
 
