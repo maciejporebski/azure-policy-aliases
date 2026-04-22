@@ -54,4 +54,6 @@
 | `properties.natGateway.properties.publicIpPrefixesV6[*].id` | `Microsoft.Network/publicIPPrefixes/natGateway.publicIpPrefixesV6[*].id` |
 | `properties.natGateway.properties.sourceVirtualNetwork` | `Microsoft.Network/publicIPPrefixes/natGateway.sourceVirtualNetwork` |
 | `properties.natGateway.properties.sourceVirtualNetwork.id` | `Microsoft.Network/publicIPPrefixes/natGateway.sourceVirtualNetwork.id` |
+| `properties.natGateway.properties.serviceGateway` | `Microsoft.Network/publicIPPrefixes/natGateway.serviceGateway` |
+| `properties.natGateway.properties.serviceGateway.id` | `Microsoft.Network/publicIPPrefixes/natGateway.serviceGateway.id` |
 
