@@ -1841,5 +1841,4 @@
 | `properties.applicationGateways[*].properties.entraJWTValidationConfigs[*].id` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs[*].id` |
 | `properties.applicationGateways[*].properties.entraJWTValidationConfigs[*].name` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs[*].name` |
 | `properties.applicationGateways[*].properties.entraJWTValidationConfigs[*].etag` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/applicationGateways[*].entraJWTValidationConfigs[*].etag` |
-| `properties.policySettings.captchaCookieExpirationInMins` | `Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/policySettings.captchaCookieExpirationInMins` |
 
