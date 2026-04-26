@@ -887,6 +887,4 @@
 | `properties.defaultPublicNatGateway` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway` |
 | `properties.defaultPublicNatGateway.id` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway.id` |
 | `properties.flowLogs[*].properties.recordTypes` | `Microsoft.Network/virtualnetworks/flowLogs[*].recordTypes` |
-| `properties.subnets[*].properties.serviceGateway` | `Microsoft.Network/virtualnetworks/subnets[*].serviceGateway` |
-| `properties.subnets[*].properties.serviceGateway.id` | `Microsoft.Network/virtualnetworks/subnets[*].serviceGateway.id` |
 
