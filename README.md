@@ -332,7 +332,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1969,6 +1968,21 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Workloads/monitors/sapLandscapeMonitor](aliases/Microsoft.Workloads/monitors-sapLandscapeMonitor.md)
 - [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
 - [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
+
+
+## Oracle.Database
+
+- [Oracle.Database/exadbVmClusters](aliases/Oracle.Database/exadbVmClusters.md)
+- [Oracle.Database/exascaleDbStorageVaults](aliases/Oracle.Database/exascaleDbStorageVaults.md)
+- [Oracle.Database/cloudExadataInfrastructures](aliases/Oracle.Database/cloudExadataInfrastructures.md)
+- [Oracle.Database/cloudVmClusters](aliases/Oracle.Database/cloudVmClusters.md)
+- [Oracle.Database/oracleSubscriptions](aliases/Oracle.Database/oracleSubscriptions.md)
+- [Oracle.Database/autonomousDatabases](aliases/Oracle.Database/autonomousDatabases.md)
+- [Oracle.Database/autonomousDatabases/autonomousDatabaseBackups](aliases/Oracle.Database/autonomousDatabases-autonomousDatabaseBackups.md)
+- [Oracle.Database/cloudVmClusters/virtualNetworkAddresses](aliases/Oracle.Database/cloudVmClusters-virtualNetworkAddresses.md)
+- [Oracle.Database/resourceAnchors](aliases/Oracle.Database/resourceAnchors.md)
+- [Oracle.Database/networkAnchors](aliases/Oracle.Database/networkAnchors.md)
+- [Oracle.Database/dbSystems](aliases/Oracle.Database/dbSystems.md)
 
 
 
