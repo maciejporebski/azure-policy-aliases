@@ -51,16 +51,4 @@
 | `properties.eventTypeInfo.kind` | `Microsoft.EventGrid/topics/eventTypeInfo.kind` |
 | `properties.eventTypeInfo.inlineEventTypes` | `Microsoft.EventGrid/topics/eventTypeInfo.inlineEventTypes` |
 | `properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/topics/minimumTlsVersionAllowed` |
-| `properties.encryption` | `Microsoft.EventGrid/topics/encryption` |
-| `properties.encryption.customerManagedKeyEncryption` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption` |
-| `properties.encryption.customerManagedKeyEncryption[*]` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption[*]` |
-| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyUrl` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyUrl` |
-| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity` |
-| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.type` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.type` |
-| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.userAssignedIdentityResourceId` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.userAssignedIdentityResourceId` |
-| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatus` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatus` |
-| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatusFriendlyDescription` | `Microsoft.EventGrid/topics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatusFriendlyDescription` |
-| `properties.platformCapabilities` | `Microsoft.EventGrid/topics/platformCapabilities` |
-| `properties.platformCapabilities.confidentialCompute` | `Microsoft.EventGrid/topics/platformCapabilities.confidentialCompute` |
-| `properties.platformCapabilities.confidentialCompute.mode` | `Microsoft.EventGrid/topics/platformCapabilities.confidentialCompute.mode` |
 
