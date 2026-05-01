@@ -41,4 +41,16 @@
 | `properties.topicType` | `Microsoft.EventGrid/systemTopics/topicType` |
 | `properties.metricResourceId` | `Microsoft.EventGrid/systemTopics/metricResourceId` |
 | `properties.provisioningState` | `Microsoft.EventGrid/systemTopics/provisioningState` |
+| `properties.encryption` | `Microsoft.EventGrid/systemTopics/encryption` |
+| `properties.encryption.customerManagedKeyEncryption` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption` |
+| `properties.encryption.customerManagedKeyEncryption[*]` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption[*]` |
+| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyUrl` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyUrl` |
+| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity` |
+| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.type` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.type` |
+| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.userAssignedIdentityResourceId` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyIdentity.userAssignedIdentityResourceId` |
+| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatus` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatus` |
+| `properties.encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatusFriendlyDescription` | `Microsoft.EventGrid/systemTopics/encryption.customerManagedKeyEncryption[*].keyEncryptionKeyStatusFriendlyDescription` |
+| `properties.platformCapabilities` | `Microsoft.EventGrid/systemTopics/platformCapabilities` |
+| `properties.platformCapabilities.confidentialCompute` | `Microsoft.EventGrid/systemTopics/platformCapabilities.confidentialCompute` |
+| `properties.platformCapabilities.confidentialCompute.mode` | `Microsoft.EventGrid/systemTopics/platformCapabilities.confidentialCompute.mode` |
 

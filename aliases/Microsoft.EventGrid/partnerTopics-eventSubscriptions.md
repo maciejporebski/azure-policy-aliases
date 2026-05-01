@@ -264,4 +264,8 @@
 | `properties.deliveryWithResourceIdentity.destination.properties.description` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.description` |
 | `properties.deliveryWithResourceIdentity.destination.properties.actionGroups` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.actionGroups` |
 | `properties.deliveryWithResourceIdentity.destination.properties.actionGroups[*]` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.actionGroups[*]` |
+| `properties.deliveryWithResourceIdentity.identity.federatedIdentityCredentialInfo` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions/deliveryWithResourceIdentity.identity.federatedIdentityCredentialInfo` |
+| `properties.deliveryWithResourceIdentity.identity.federatedIdentityCredentialInfo.federatedClientId` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions/deliveryWithResourceIdentity.identity.federatedIdentityCredentialInfo.federatedClientId` |
+| `properties.deadLetterWithResourceIdentity.identity.federatedIdentityCredentialInfo` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions/deadLetterWithResourceIdentity.identity.federatedIdentityCredentialInfo` |
+| `properties.deadLetterWithResourceIdentity.identity.federatedIdentityCredentialInfo.federatedClientId` | `Microsoft.EventGrid/partnerTopics/eventSubscriptions/deadLetterWithResourceIdentity.identity.federatedIdentityCredentialInfo.federatedClientId` |
 

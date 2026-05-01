@@ -1305,6 +1305,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
 - [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
@@ -1364,6 +1365,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
+- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
 
 
 ## Microsoft.NetworkCloud
@@ -1966,6 +1968,21 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Workloads/monitors/sapLandscapeMonitor](aliases/Microsoft.Workloads/monitors-sapLandscapeMonitor.md)
 - [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
 - [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
+
+
+## Oracle.Database
+
+- [Oracle.Database/exadbVmClusters](aliases/Oracle.Database/exadbVmClusters.md)
+- [Oracle.Database/exascaleDbStorageVaults](aliases/Oracle.Database/exascaleDbStorageVaults.md)
+- [Oracle.Database/cloudExadataInfrastructures](aliases/Oracle.Database/cloudExadataInfrastructures.md)
+- [Oracle.Database/cloudVmClusters](aliases/Oracle.Database/cloudVmClusters.md)
+- [Oracle.Database/oracleSubscriptions](aliases/Oracle.Database/oracleSubscriptions.md)
+- [Oracle.Database/autonomousDatabases](aliases/Oracle.Database/autonomousDatabases.md)
+- [Oracle.Database/autonomousDatabases/autonomousDatabaseBackups](aliases/Oracle.Database/autonomousDatabases-autonomousDatabaseBackups.md)
+- [Oracle.Database/cloudVmClusters/virtualNetworkAddresses](aliases/Oracle.Database/cloudVmClusters-virtualNetworkAddresses.md)
+- [Oracle.Database/resourceAnchors](aliases/Oracle.Database/resourceAnchors.md)
+- [Oracle.Database/networkAnchors](aliases/Oracle.Database/networkAnchors.md)
+- [Oracle.Database/dbSystems](aliases/Oracle.Database/dbSystems.md)
 
 
 
