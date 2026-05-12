@@ -498,6 +498,4 @@
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 | `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
 | `properties.ipVersionType` | `Microsoft.Network/privateEndpoints/ipVersionType` |
-| `properties.subnet.properties.serviceGateway` | `Microsoft.Network/privateEndpoints/subnet.serviceGateway` |
-| `properties.subnet.properties.serviceGateway.id` | `Microsoft.Network/privateEndpoints/subnet.serviceGateway.id` |
 
