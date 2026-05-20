@@ -801,4 +801,6 @@
 | `properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 | `properties.privateEndpoints[*].properties.ipVersionType` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipVersionType` |
+| `properties.serviceGateway` | `Microsoft.Network/virtualnetworks/subnets/serviceGateway` |
+| `properties.serviceGateway.id` | `Microsoft.Network/virtualnetworks/subnets/serviceGateway.id` |
 
