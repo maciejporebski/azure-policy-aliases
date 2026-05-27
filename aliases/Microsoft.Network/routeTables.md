@@ -474,4 +474,6 @@
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
+| `properties.subnets[*].properties.serviceGateway` | `Microsoft.Network/routeTables/subnets[*].serviceGateway` |
+| `properties.subnets[*].properties.serviceGateway.id` | `Microsoft.Network/routeTables/subnets[*].serviceGateway.id` |
 
