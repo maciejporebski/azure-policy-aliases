@@ -26,6 +26,4 @@
 | `properties.publicIpPrefixesV6[*].id` | `Microsoft.Network/natGateways/publicIpPrefixesV6[*].id` |
 | `properties.sourceVirtualNetwork` | `Microsoft.Network/natGateways/sourceVirtualNetwork` |
 | `properties.sourceVirtualNetwork.id` | `Microsoft.Network/natGateways/sourceVirtualNetwork.id` |
-| `properties.serviceGateway` | `Microsoft.Network/natGateways/serviceGateway` |
-| `properties.serviceGateway.id` | `Microsoft.Network/natGateways/serviceGateway.id` |
 
