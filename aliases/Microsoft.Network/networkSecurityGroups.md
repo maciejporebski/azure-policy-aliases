@@ -843,6 +843,4 @@
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-| `properties.subnets[*].properties.serviceGateway` | `Microsoft.Network/networkSecurityGroups/subnets[*].serviceGateway` |
-| `properties.subnets[*].properties.serviceGateway.id` | `Microsoft.Network/networkSecurityGroups/subnets[*].serviceGateway.id` |
 
