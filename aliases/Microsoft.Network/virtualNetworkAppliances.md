@@ -117,4 +117,5 @@
 | `properties.subnet.properties.serviceGateway` | `Microsoft.Network/virtualNetworkAppliances/subnet.serviceGateway` |
 | `properties.subnet.properties.serviceGateway.id` | `Microsoft.Network/virtualNetworkAppliances/subnet.serviceGateway.id` |
 | `properties.subnet.etag` | `Microsoft.Network/virtualNetworkAppliances/subnet.etag` |
+| `properties.privateIPAddressVersion` | `Microsoft.Network/virtualNetworkAppliances/privateIPAddressVersion` |
 
