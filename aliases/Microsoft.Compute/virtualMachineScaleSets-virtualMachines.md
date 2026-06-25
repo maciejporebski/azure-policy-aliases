@@ -302,4 +302,23 @@
 | `properties.networkProfile.networkInterfaceConfigurations[*].tags` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.networkInterfaceConfigurations[*].tags` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].tags` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].tags` |
 | `properties.additionalCapabilities.enableFips1403Encryption` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/additionalCapabilities.enableFips1403Encryption` |
+| `properties.storageProfile.osDisk.diffDiskSettings.enableFullCaching` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.osDisk.diffDiskSettings.enableFullCaching` |
+| `properties.storageProfile.osDisk.storageFaultDomainAlignment` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.osDisk.storageFaultDomainAlignment` |
+| `properties.storageProfile.dataDisks[*].storageFaultDomainAlignment` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/storageProfile.dataDisks[*].storageFaultDomainAlignment` |
+| `properties.virtualMachineResourceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/virtualMachineResourceId` |
+| `properties.networkProfile.interconnectGroupProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.interconnectGroupProfile` |
+| `properties.networkProfile.interconnectGroupProfile.interconnectGroup` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.interconnectGroupProfile.interconnectGroup` |
+| `properties.networkProfile.interconnectGroupProfile.interconnectGroup.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.interconnectGroupProfile.interconnectGroup.id` |
+| `properties.networkProfile.interconnectGroupProfile.subgroups` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.interconnectGroupProfile.subgroups` |
+| `properties.networkProfile.interconnectGroupProfile.subgroups[*]` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.interconnectGroupProfile.subgroups[*]` |
+| `properties.networkProfile.interconnectGroupProfile.subgroups[*].id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.interconnectGroupProfile.subgroups[*].id` |
+| `properties.networkProfileConfiguration.interconnectGroupProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.interconnectGroupProfile` |
+| `properties.networkProfileConfiguration.interconnectGroupProfile.interconnectGroup` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.interconnectGroupProfile.interconnectGroup` |
+| `properties.networkProfileConfiguration.interconnectGroupProfile.interconnectGroup.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.interconnectGroupProfile.interconnectGroup.id` |
+| `properties.networkProfileConfiguration.interconnectGroupProfile.subgroups` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.interconnectGroupProfile.subgroups` |
+| `properties.networkProfileConfiguration.interconnectGroupProfile.subgroups[*]` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.interconnectGroupProfile.subgroups[*]` |
+| `properties.networkProfileConfiguration.interconnectGroupProfile.subgroups[*].id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.interconnectGroupProfile.subgroups[*].id` |
+| `properties.interconnectBlockProfile` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/interconnectBlockProfile` |
+| `properties.interconnectBlockProfile.interconnectBlock` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/interconnectBlockProfile.interconnectBlock` |
+| `properties.interconnectBlockProfile.interconnectBlock.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/interconnectBlockProfile.interconnectBlock.id` |
 

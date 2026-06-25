@@ -12,4 +12,5 @@
 | `properties.permissions[*].dataActions[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].dataActions[*]` |
 | `properties.permissions[*].notDataActions` | `Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].notDataActions` |
 | `properties.permissions[*].notDataActions[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].notDataActions[*]` |
+| `properties.permissions[*].id` | `Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].id` |
 

@@ -383,4 +383,25 @@
 | `properties.sshEnabled` | `Microsoft.Web/sites/sshEnabled` |
 | `properties.functionAppConfig.siteUpdateStrategy` | `Microsoft.Web/sites/functionAppConfig.siteUpdateStrategy` |
 | `properties.functionAppConfig.siteUpdateStrategy.type` | `Microsoft.Web/sites/functionAppConfig.siteUpdateStrategy.type` |
+| `properties.outboundVnetRouting.managedIdentityTraffic` | `Microsoft.Web/sites/outboundVnetRouting.managedIdentityTraffic` |
+| `properties.siteScopedCertificatesEnabled` | `Microsoft.Web/sites/siteScopedCertificatesEnabled` |
+| `properties.aiIntegration` | `Microsoft.Web/sites/aiIntegration` |
+| `properties.aiIntegration.apiSpecPath` | `Microsoft.Web/sites/aiIntegration.apiSpecPath` |
+| `properties.aiIntegration.mcp` | `Microsoft.Web/sites/aiIntegration.mcp` |
+| `properties.aiIntegration.mcp.servers` | `Microsoft.Web/sites/aiIntegration.mcp.servers` |
+| `properties.aiIntegration.mcp.servers[*]` | `Microsoft.Web/sites/aiIntegration.mcp.servers[*]` |
+| `properties.aiIntegration.mcp.servers[*].name` | `Microsoft.Web/sites/aiIntegration.mcp.servers[*].name` |
+| `properties.aiIntegration.mcp.servers[*].description` | `Microsoft.Web/sites/aiIntegration.mcp.servers[*].description` |
+| `properties.aiIntegration.mcp.servers[*].enabled` | `Microsoft.Web/sites/aiIntegration.mcp.servers[*].enabled` |
+| `properties.aiIntegration.mcp.servers[*].endpoint` | `Microsoft.Web/sites/aiIntegration.mcp.servers[*].endpoint` |
+| `properties.aiIntegration.mcp.servers[*].toolList` | `Microsoft.Web/sites/aiIntegration.mcp.servers[*].toolList` |
+| `properties.aiIntegration.mcp.servers[*].toolList[*]` | `Microsoft.Web/sites/aiIntegration.mcp.servers[*].toolList[*]` |
+| `properties.aiIntegration.siteAuth` | `Microsoft.Web/sites/aiIntegration.siteAuth` |
+| `properties.aiIntegration.siteAuth.jwksUri` | `Microsoft.Web/sites/aiIntegration.siteAuth.jwksUri` |
+| `properties.aiIntegration.siteAuth.issuer` | `Microsoft.Web/sites/aiIntegration.siteAuth.issuer` |
+| `properties.aiIntegration.siteAuth.audience` | `Microsoft.Web/sites/aiIntegration.siteAuth.audience` |
+| `properties.aiIntegration.siteAuth.wellKnownOpenIdConfiguration` | `Microsoft.Web/sites/aiIntegration.siteAuth.wellKnownOpenIdConfiguration` |
+| `properties.aiIntegration.siteAuth.scopes` | `Microsoft.Web/sites/aiIntegration.siteAuth.scopes` |
+| `properties.aiIntegration.siteAuth.scopes[*]` | `Microsoft.Web/sites/aiIntegration.siteAuth.scopes[*]` |
+| `properties.platformReleaseChannel` | `Microsoft.Web/sites/platformReleaseChannel` |
 

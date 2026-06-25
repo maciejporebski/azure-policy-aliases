@@ -27,4 +27,5 @@
 | `properties.redisVersion` | `Microsoft.Cache/redisEnterprise/databases/redisVersion` |
 | `properties.deferUpgrade` | `Microsoft.Cache/redisEnterprise/databases/deferUpgrade` |
 | `properties.accessKeysAuthentication` | `Microsoft.Cache/redisEnterprise/databases/accessKeysAuthentication` |
+| `properties.notifyKeyspaceEvents` | `Microsoft.Cache/redisEnterprise/databases/notifyKeyspaceEvents` |
 

@@ -79,4 +79,5 @@
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` | `Microsoft.DocumentDB/mongoClusters/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` | `Microsoft.DocumentDB/mongoClusters/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.DocumentDB/mongoClusters/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
+| `properties.networkBypassMode` | `Microsoft.DocumentDB/mongoClusters/networkBypassMode` |
 

@@ -72,4 +72,9 @@
 | `properties.changeFeed.retentionInDays` | `Microsoft.Storage/storageAccounts/blobServices/changeFeed.retentionInDays` |
 | `properties.deleteRetentionPolicy.allowPermanentDelete` | `Microsoft.Storage/storageAccounts/blobServices/deleteRetentionPolicy.allowPermanentDelete` |
 | `properties.containerDeleteRetentionPolicy.allowPermanentDelete` | `Microsoft.Storage/storageAccounts/blobServices/containerDeleteRetentionPolicy.allowPermanentDelete` |
+| `properties.staticWebsite` | `Microsoft.Storage/storageAccounts/blobServices/staticWebsite` |
+| `properties.staticWebsite.enabled` | `Microsoft.Storage/storageAccounts/blobServices/staticWebsite.enabled` |
+| `properties.staticWebsite.indexDocument` | `Microsoft.Storage/storageAccounts/blobServices/staticWebsite.indexDocument` |
+| `properties.staticWebsite.defaultIndexDocumentPath` | `Microsoft.Storage/storageAccounts/blobServices/staticWebsite.defaultIndexDocumentPath` |
+| `properties.staticWebsite.errorDocument404Path` | `Microsoft.Storage/storageAccounts/blobServices/staticWebsite.errorDocument404Path` |
 
