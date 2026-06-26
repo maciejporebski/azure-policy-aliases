@@ -104,9 +104,4 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedAt` |
-| `properties.cluster` | `Microsoft.DBForPostgreSql/flexibleServers/cluster` |
-| `properties.cluster.clusterSize` | `Microsoft.DBForPostgreSql/flexibleServers/cluster.clusterSize` |
-| `properties.cluster.defaultDatabaseName` | `Microsoft.DBForPostgreSql/flexibleServers/cluster.defaultDatabaseName` |
-| `properties.dataEncryption.primaryFederatedIdentityClientId` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.primaryFederatedIdentityClientId` |
-| `properties.dataEncryption.geoBackupFederatedIdentityClientId` | `Microsoft.DBForPostgreSql/flexibleServers/dataEncryption.geoBackupFederatedIdentityClientId` |
 

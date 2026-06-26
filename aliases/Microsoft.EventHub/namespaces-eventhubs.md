@@ -30,9 +30,4 @@
 | `properties.captureDescription.destination.identity` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity` |
 | `properties.captureDescription.destination.identity.type` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity.type` |
 | `properties.captureDescription.destination.identity.userAssignedIdentity` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity.userAssignedIdentity` |
-| `properties.userMetadata` | `Microsoft.EventHub/namespaces/eventhubs/userMetadata` |
-| `properties.retentionDescription.minCompactionLagTimeInMinutes` | `Microsoft.EventHub/namespaces/eventhubs/retentionDescription.minCompactionLagTimeInMinutes` |
-| `properties.messageTimestampDescription` | `Microsoft.EventHub/namespaces/eventhubs/messageTimestampDescription` |
-| `properties.messageTimestampDescription.timestampType` | `Microsoft.EventHub/namespaces/eventhubs/messageTimestampDescription.timestampType` |
-| `properties.identifier` | `Microsoft.EventHub/namespaces/eventhubs/identifier` |
 

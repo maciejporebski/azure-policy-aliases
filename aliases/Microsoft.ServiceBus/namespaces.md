@@ -65,5 +65,4 @@
 | `properties.platformCapabilities` | `Microsoft.ServiceBus/namespaces/platformCapabilities` |
 | `properties.platformCapabilities.confidentialCompute` | `Microsoft.ServiceBus/namespaces/platformCapabilities.confidentialCompute` |
 | `properties.platformCapabilities.confidentialCompute.mode` | `Microsoft.ServiceBus/namespaces/platformCapabilities.confidentialCompute.mode` |
-| `properties.ipAddressType` | `Microsoft.ServiceBus/namespaces/ipAddressType` |
 

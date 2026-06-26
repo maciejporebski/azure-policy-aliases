@@ -143,13 +143,4 @@
 | `properties.enablePerRegionPerPartitionAutoscale` | `Microsoft.DocumentDB/databaseAccounts/enablePerRegionPerPartitionAutoscale` |
 | `properties.capacityMode` | `Microsoft.DocumentDB/databaseAccounts/capacityMode` |
 | `properties.enableAllVersionsAndDeletesChangeFeed` | `Microsoft.DocumentDB/databaseAccounts/enableAllVersionsAndDeletesChangeFeed` |
-| `properties.enforceHierarchicalPartitionKeyIdLastLevel` | `Microsoft.DocumentDB/databaseAccounts/enforceHierarchicalPartitionKeyIdLastLevel` |
-| `properties.keysMetadata.primaryMasterKey.approximateLastUsageTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.primaryMasterKey.approximateLastUsageTime` |
-| `properties.keysMetadata.secondaryMasterKey.approximateLastUsageTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryMasterKey.approximateLastUsageTime` |
-| `properties.keysMetadata.primaryReadonlyMasterKey.approximateLastUsageTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.primaryReadonlyMasterKey.approximateLastUsageTime` |
-| `properties.keysMetadata.secondaryReadonlyMasterKey.approximateLastUsageTime` | `Microsoft.DocumentDB/databaseAccounts/keysMetadata.secondaryReadonlyMasterKey.approximateLastUsageTime` |
-| `properties.softDeleteConfiguration` | `Microsoft.DocumentDB/databaseAccounts/softDeleteConfiguration` |
-| `properties.softDeleteConfiguration.softDeletionEnabled` | `Microsoft.DocumentDB/databaseAccounts/softDeleteConfiguration.softDeletionEnabled` |
-| `properties.softDeleteConfiguration.minMinutesBeforePermanentDeletionAllowed` | `Microsoft.DocumentDB/databaseAccounts/softDeleteConfiguration.minMinutesBeforePermanentDeletionAllowed` |
-| `properties.softDeleteConfiguration.softDeleteRetentionPeriodInMinutes` | `Microsoft.DocumentDB/databaseAccounts/softDeleteConfiguration.softDeleteRetentionPeriodInMinutes` |
 

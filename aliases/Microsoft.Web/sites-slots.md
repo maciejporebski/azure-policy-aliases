@@ -400,25 +400,4 @@
 | `properties.sshEnabled` | `Microsoft.Web/sites/slots/sshEnabled` |
 | `properties.functionAppConfig.siteUpdateStrategy` | `Microsoft.Web/sites/slots/functionAppConfig.siteUpdateStrategy` |
 | `properties.functionAppConfig.siteUpdateStrategy.type` | `Microsoft.Web/sites/slots/functionAppConfig.siteUpdateStrategy.type` |
-| `properties.outboundVnetRouting.managedIdentityTraffic` | `Microsoft.Web/sites/slots/outboundVnetRouting.managedIdentityTraffic` |
-| `properties.siteScopedCertificatesEnabled` | `Microsoft.Web/sites/slots/siteScopedCertificatesEnabled` |
-| `properties.aiIntegration` | `Microsoft.Web/sites/slots/aiIntegration` |
-| `properties.aiIntegration.apiSpecPath` | `Microsoft.Web/sites/slots/aiIntegration.apiSpecPath` |
-| `properties.aiIntegration.mcp` | `Microsoft.Web/sites/slots/aiIntegration.mcp` |
-| `properties.aiIntegration.mcp.servers` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers` |
-| `properties.aiIntegration.mcp.servers[*]` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers[*]` |
-| `properties.aiIntegration.mcp.servers[*].name` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers[*].name` |
-| `properties.aiIntegration.mcp.servers[*].description` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers[*].description` |
-| `properties.aiIntegration.mcp.servers[*].enabled` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers[*].enabled` |
-| `properties.aiIntegration.mcp.servers[*].endpoint` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers[*].endpoint` |
-| `properties.aiIntegration.mcp.servers[*].toolList` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers[*].toolList` |
-| `properties.aiIntegration.mcp.servers[*].toolList[*]` | `Microsoft.Web/sites/slots/aiIntegration.mcp.servers[*].toolList[*]` |
-| `properties.aiIntegration.siteAuth` | `Microsoft.Web/sites/slots/aiIntegration.siteAuth` |
-| `properties.aiIntegration.siteAuth.jwksUri` | `Microsoft.Web/sites/slots/aiIntegration.siteAuth.jwksUri` |
-| `properties.aiIntegration.siteAuth.issuer` | `Microsoft.Web/sites/slots/aiIntegration.siteAuth.issuer` |
-| `properties.aiIntegration.siteAuth.audience` | `Microsoft.Web/sites/slots/aiIntegration.siteAuth.audience` |
-| `properties.aiIntegration.siteAuth.wellKnownOpenIdConfiguration` | `Microsoft.Web/sites/slots/aiIntegration.siteAuth.wellKnownOpenIdConfiguration` |
-| `properties.aiIntegration.siteAuth.scopes` | `Microsoft.Web/sites/slots/aiIntegration.siteAuth.scopes` |
-| `properties.aiIntegration.siteAuth.scopes[*]` | `Microsoft.Web/sites/slots/aiIntegration.siteAuth.scopes[*]` |
-| `properties.platformReleaseChannel` | `Microsoft.Web/sites/slots/platformReleaseChannel` |
 

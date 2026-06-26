@@ -34,6 +34,4 @@
 | `properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.inboundRouteMap.id` |
 | `properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.outboundRouteMap` |
 | `properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/routingConfiguration.outboundRouteMap.id` |
-| `properties.connectionPolicy` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/connectionPolicy` |
-| `properties.connectionPolicy.id` | `Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/connectionPolicy.id` |
 

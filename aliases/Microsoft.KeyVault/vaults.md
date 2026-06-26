@@ -54,7 +54,4 @@
 | `properties.privateEndpointConnections[*].id` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].id` |
 | `properties.privateEndpointConnections[*].etag` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].etag` |
 | `properties.publicNetworkAccess` | `Microsoft.KeyVault/vaults/publicNetworkAccess` |
-| `properties.tokenBindingParameters` | `Microsoft.KeyVault/vaults/tokenBindingParameters` |
-| `properties.tokenBindingParameters.mode` | `Microsoft.KeyVault/vaults/tokenBindingParameters.mode` |
-| `properties.tokenBindingParameters.minimumTokenBindingStrength` | `Microsoft.KeyVault/vaults/tokenBindingParameters.minimumTokenBindingStrength` |
 

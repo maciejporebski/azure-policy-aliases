@@ -183,24 +183,4 @@
 | `properties.primaryEndpoints.ipv6Endpoints.internetEndpoints.dfs` | `Microsoft.Storage/storageAccounts/primaryEndpoints.ipv6Endpoints.internetEndpoints.dfs` |
 | `properties.geoPriorityReplicationStatus` | `Microsoft.Storage/storageAccounts/geoPriorityReplicationStatus` |
 | `properties.geoPriorityReplicationStatus.isBlobEnabled` | `Microsoft.Storage/storageAccounts/geoPriorityReplicationStatus.isBlobEnabled` |
-| `properties.privateEndpointConnections[*].systemData` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].systemData` |
-| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].systemData.createdBy` |
-| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].systemData.createdByType` |
-| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].systemData.createdAt` |
-| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].systemData.lastModifiedBy` |
-| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].systemData.lastModifiedByType` |
-| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Storage/storageAccounts/privateEndpointConnections[*].systemData.lastModifiedAt` |
-| `properties.allowSharedKeyAccessForServices` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices` |
-| `properties.allowSharedKeyAccessForServices.blob` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.blob` |
-| `properties.allowSharedKeyAccessForServices.blob.enabled` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.blob.enabled` |
-| `properties.allowSharedKeyAccessForServices.file` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.file` |
-| `properties.allowSharedKeyAccessForServices.file.enabled` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.file.enabled` |
-| `properties.allowSharedKeyAccessForServices.table` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.table` |
-| `properties.allowSharedKeyAccessForServices.table.enabled` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.table.enabled` |
-| `properties.allowSharedKeyAccessForServices.queue` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.queue` |
-| `properties.allowSharedKeyAccessForServices.queue.enabled` | `Microsoft.Storage/storageAccounts/allowSharedKeyAccessForServices.queue.enabled` |
-| `properties.dataCollaborationPolicyProperties` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties` |
-| `properties.dataCollaborationPolicyProperties.allowStorageConnectors` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties.allowStorageConnectors` |
-| `properties.dataCollaborationPolicyProperties.allowStorageDataShares` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties.allowStorageDataShares` |
-| `properties.dataCollaborationPolicyProperties.allowCrossTenantDataSharing` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties.allowCrossTenantDataSharing` |
 

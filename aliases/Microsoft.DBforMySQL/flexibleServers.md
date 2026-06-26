@@ -85,20 +85,4 @@
 | `properties.importSourceProperties.storageUrl` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageUrl` |
 | `properties.importSourceProperties.sasToken` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.sasToken` |
 | `properties.importSourceProperties.dataDirPath` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.dataDirPath` |
-| `properties.privateEndpointConnections[*].systemData` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].systemData` |
-| `properties.privateEndpointConnections[*].systemData.createdBy` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].systemData.createdBy` |
-| `properties.privateEndpointConnections[*].systemData.createdByType` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].systemData.createdByType` |
-| `properties.privateEndpointConnections[*].systemData.createdAt` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].systemData.createdAt` |
-| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedBy` |
-| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedByType` |
-| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedAt` |
-| `properties.backup.backupIntervalHours` | `Microsoft.DBforMySQL/flexibleServers/backup.backupIntervalHours` |
-| `properties.storage.storageRedundancy` | `Microsoft.DBforMySQL/flexibleServers/storage.storageRedundancy` |
-| `properties.databasePort` | `Microsoft.DBforMySQL/flexibleServers/databasePort` |
-| `properties.maintenancePolicy` | `Microsoft.DBforMySQL/flexibleServers/maintenancePolicy` |
-| `properties.maintenancePolicy.patchStrategy` | `Microsoft.DBforMySQL/flexibleServers/maintenancePolicy.patchStrategy` |
-| `properties.fullVersion` | `Microsoft.DBforMySQL/flexibleServers/fullVersion` |
-| `properties.maintenanceWindow.batchOfMaintenance` | `Microsoft.DBForMySql/flexibleServers/maintenanceWindow.batchOfMaintenance` |
-| `properties.highAvailability.replicationMode` | `Microsoft.DBForMySql/flexibleServers/highAvailability.replicationMode` |
-| `properties.lowerCaseTableNames` | `Microsoft.DBForMySql/flexibleServers/lowerCaseTableNames` |
 

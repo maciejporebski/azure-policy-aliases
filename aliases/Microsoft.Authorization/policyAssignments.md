@@ -48,6 +48,4 @@
 | `properties.selfServeExemptionSettings.enabled` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.enabled` |
 | `properties.selfServeExemptionSettings.policyDefinitionReferenceIds` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.policyDefinitionReferenceIds` |
 | `properties.selfServeExemptionSettings.policyDefinitionReferenceIds[*]` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.policyDefinitionReferenceIds[*]` |
-| `properties.resourceSelectors[*].selectors[*].progress` | `Microsoft.Authorization/policyassignments/resourceSelectors[*].selectors[*].progress` |
-| `properties.overrides[*].selectors[*].progress` | `Microsoft.Authorization/policyassignments/overrides[*].selectors[*].progress` |
 

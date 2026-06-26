@@ -16,8 +16,4 @@
 | `properties.upgradePreferences` | `Microsoft.EventHub/clusters/upgradePreferences` |
 | `properties.upgradePreferences.startDayOfWeek` | `Microsoft.EventHub/clusters/upgradePreferences.startDayOfWeek` |
 | `properties.upgradePreferences.startHourOfDay` | `Microsoft.EventHub/clusters/upgradePreferences.startHourOfDay` |
-| `properties.platformCapabilities` | `Microsoft.EventHub/clusters/platformCapabilities` |
-| `properties.platformCapabilities.confidentialCompute` | `Microsoft.EventHub/clusters/platformCapabilities.confidentialCompute` |
-| `properties.platformCapabilities.confidentialCompute.mode` | `Microsoft.EventHub/clusters/platformCapabilities.confidentialCompute.mode` |
-| `properties.zoneRedundant` | `Microsoft.EventHub/clusters/zoneRedundant` |
 
