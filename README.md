@@ -147,6 +147,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.AppConfiguration/configurationStores/replicas](aliases/Microsoft.AppConfiguration/configurationStores-replicas.md)
 - [Microsoft.AppConfiguration/configurationStores/snapshots](aliases/Microsoft.AppConfiguration/configurationStores-snapshots.md)
 - [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
+- [Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterConfigurations](aliases/Microsoft.AppConfiguration/configurationStores-networkSecurityPerimeterConfigurations.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
@@ -659,6 +660,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DBforMySQL/flexibleServers/administrators](aliases/Microsoft.DBforMySQL/flexibleServers-administrators.md)
 - [Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections](aliases/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections.md)
 - [Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings](aliases/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings.md)
+- [Microsoft.DBforMySQL/flexibleServers/backupsv2](aliases/Microsoft.DBforMySQL/flexibleServers-backupsv2.md)
+- [Microsoft.DBforMySQL/flexibleServers/maintenances](aliases/Microsoft.DBforMySQL/flexibleServers-maintenances.md)
 
 
 ## Microsoft.DBforPostgreSQL
@@ -1779,11 +1782,14 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.Storage/storageAccounts/storageTaskAssignments](aliases/Microsoft.Storage/storageAccounts-storageTaskAssignments.md)
 - [Microsoft.Storage/storageAccounts/encryptionScopes](aliases/Microsoft.Storage/storageAccounts-encryptionScopes.md)
+- [Microsoft.Storage/storageAccounts/advancedPlatformMetrics](aliases/Microsoft.Storage/storageAccounts-advancedPlatformMetrics.md)
 - [Microsoft.Storage/storageAccounts](aliases/Microsoft.Storage/storageAccounts.md)
 - [Microsoft.Storage/storageAccounts/blobServices](aliases/Microsoft.Storage/storageAccounts-blobServices.md)
 - [Microsoft.Storage/storageAccounts/tableServices](aliases/Microsoft.Storage/storageAccounts-tableServices.md)
 - [Microsoft.Storage/storageAccounts/queueServices](aliases/Microsoft.Storage/storageAccounts-queueServices.md)
 - [Microsoft.Storage/storageAccounts/fileServices](aliases/Microsoft.Storage/storageAccounts-fileServices.md)
+- [Microsoft.Storage/storageAccounts/connectors](aliases/Microsoft.Storage/storageAccounts-connectors.md)
+- [Microsoft.Storage/storageAccounts/dataShares](aliases/Microsoft.Storage/storageAccounts-dataShares.md)
 - [Microsoft.Storage/storageAccounts/managementPolicies](aliases/Microsoft.Storage/storageAccounts-managementPolicies.md)
 - [Microsoft.Storage/storageAccounts/fileServices/shares](aliases/Microsoft.Storage/storageAccounts-fileServices-shares.md)
 - [Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies](aliases/Microsoft.Storage/storageAccounts-blobServices-containers-immutabilityPolicies.md)

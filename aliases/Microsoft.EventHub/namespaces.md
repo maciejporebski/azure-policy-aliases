@@ -99,4 +99,9 @@
 | `properties.geoDataReplication.locations[*].locationName` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].locationName` |
 | `properties.geoDataReplication.locations[*].roleType` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].roleType` |
 | `properties.geoDataReplication.locations[*].clusterArmId` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].clusterArmId` |
+| `properties.geoDataReplication.locations[*].replicaState` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].replicaState` |
+| `properties.platformCapabilities` | `Microsoft.EventHub/namespaces/platformCapabilities` |
+| `properties.platformCapabilities.confidentialCompute` | `Microsoft.EventHub/namespaces/platformCapabilities.confidentialCompute` |
+| `properties.platformCapabilities.confidentialCompute.mode` | `Microsoft.EventHub/namespaces/platformCapabilities.confidentialCompute.mode` |
+| `properties.ipAddressType` | `Microsoft.EventHub/namespaces/ipAddressType` |
 

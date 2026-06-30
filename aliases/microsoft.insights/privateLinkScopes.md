@@ -23,4 +23,11 @@
 | `properties.accessModeSettings.exclusions[*].privateEndpointConnectionName` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].privateEndpointConnectionName` |
 | `properties.accessModeSettings.exclusions[*].queryAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].queryAccessMode` |
 | `properties.accessModeSettings.exclusions[*].ingestionAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].ingestionAccessMode` |
+| `properties.privateEndpointConnections[*].systemData` | `microsoft.insights/privateLinkScopes/privateEndpointConnections[*].systemData` |
+| `properties.privateEndpointConnections[*].systemData.createdBy` | `microsoft.insights/privateLinkScopes/privateEndpointConnections[*].systemData.createdBy` |
+| `properties.privateEndpointConnections[*].systemData.createdByType` | `microsoft.insights/privateLinkScopes/privateEndpointConnections[*].systemData.createdByType` |
+| `properties.privateEndpointConnections[*].systemData.createdAt` | `microsoft.insights/privateLinkScopes/privateEndpointConnections[*].systemData.createdAt` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `microsoft.insights/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedBy` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `microsoft.insights/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedByType` |
+| `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `microsoft.insights/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedAt` |
 

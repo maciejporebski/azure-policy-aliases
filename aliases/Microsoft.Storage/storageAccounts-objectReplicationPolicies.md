@@ -19,4 +19,6 @@
 | `properties.metrics.enabled` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/metrics.enabled` |
 | `properties.priorityReplication` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/priorityReplication` |
 | `properties.priorityReplication.enabled` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/priorityReplication.enabled` |
+| `properties.tagsReplication` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/tagsReplication` |
+| `properties.tagsReplication.enabled` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/tagsReplication.enabled` |
 
