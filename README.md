@@ -436,6 +436,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
+- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands.md)
 - [Microsoft.Compute/diskAccesses/privateEndpointConnections](aliases/Microsoft.Compute/diskAccesses-privateEndpointConnections.md)
 
@@ -498,11 +499,17 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerService/fleets/updateRuns](aliases/Microsoft.ContainerService/fleets-updateRuns.md)
 - [Microsoft.ContainerService/fleets/updateStrategies](aliases/Microsoft.ContainerService/fleets-updateStrategies.md)
 - [Microsoft.ContainerService/fleets/autoUpgradeProfiles](aliases/Microsoft.ContainerService/fleets-autoUpgradeProfiles.md)
+- [Microsoft.ContainerService/fleets/clusterMeshProfiles](aliases/Microsoft.ContainerService/fleets-clusterMeshProfiles.md)
 - [Microsoft.ContainerService/fleets/gates](aliases/Microsoft.ContainerService/fleets-gates.md)
+- [Microsoft.ContainerService/fleets/managedNamespaces](aliases/Microsoft.ContainerService/fleets-managedNamespaces.md)
 - [Microsoft.ContainerService/managedClusters](aliases/Microsoft.ContainerService/managedClusters.md)
 - [Microsoft.ContainerService/managedclustersnapshots](aliases/Microsoft.ContainerService/managedclustersnapshots.md)
 - [Microsoft.ContainerService/managedClusters/managedNamespaces](aliases/Microsoft.ContainerService/managedClusters-managedNamespaces.md)
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
+- [Microsoft.ContainerService/managedClusters/meshMemberships](aliases/Microsoft.ContainerService/managedClusters-meshMemberships.md)
+- [Microsoft.ContainerService/aiManagers](aliases/Microsoft.ContainerService/aiManagers.md)
+- [Microsoft.ContainerService/nodeCustomizations](aliases/Microsoft.ContainerService/nodeCustomizations.md)
+- [Microsoft.ContainerService/preparedImageSpecifications](aliases/Microsoft.ContainerService/preparedImageSpecifications.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
 - [Microsoft.ContainerService/managedClusters/privateEndpointConnections](aliases/Microsoft.ContainerService/managedClusters-privateEndpointConnections.md)
 - [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
@@ -510,6 +517,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerService/managedClusters/loadBalancers](aliases/Microsoft.ContainerService/managedClusters-loadBalancers.md)
 - [Microsoft.ContainerService/managedClusters/agentPools/machines](aliases/Microsoft.ContainerService/managedClusters-agentPools-machines.md)
 - [Microsoft.ContainerService/managedClusters/namespaces](aliases/Microsoft.ContainerService/managedClusters-namespaces.md)
+- [Microsoft.ContainerService/aiManagers/namespaces](aliases/Microsoft.ContainerService/aiManagers-namespaces.md)
+- [Microsoft.ContainerService/managedClusters/jwtAuthenticators](aliases/Microsoft.ContainerService/managedClusters-jwtAuthenticators.md)
 
 
 ## Microsoft.CostManagement
@@ -1309,7 +1318,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
+- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1367,6 +1378,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
+- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
+- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 
 ## Microsoft.NetworkCloud

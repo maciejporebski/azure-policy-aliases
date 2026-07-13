@@ -23,4 +23,6 @@
 | `properties.strategy.stages[*].afterGates[*]` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].afterGates[*]` |
 | `properties.strategy.stages[*].afterGates[*].displayName` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].afterGates[*].displayName` |
 | `properties.strategy.stages[*].afterGates[*].type` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].afterGates[*].type` |
+| `properties.strategy.stages[*].groups[*].maxConcurrency` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].groups[*].maxConcurrency` |
+| `properties.strategy.stages[*].maxConcurrency` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].maxConcurrency` |
 

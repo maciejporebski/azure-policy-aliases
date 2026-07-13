@@ -172,4 +172,8 @@
 | `properties.status.stages[*].afterGates[*].displayName` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterGates[*].displayName` |
 | `properties.status.stages[*].afterGates[*].gateId` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterGates[*].gateId` |
 | `properties.status.stages[*].afterGates[*].status` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterGates[*].status` |
+| `properties.strategy.stages[*].groups[*].maxConcurrency` | `Microsoft.ContainerService/fleets/updateRuns/strategy.stages[*].groups[*].maxConcurrency` |
+| `properties.strategy.stages[*].maxConcurrency` | `Microsoft.ContainerService/fleets/updateRuns/strategy.stages[*].maxConcurrency` |
+| `properties.status.stages[*].maxConcurrency` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].maxConcurrency` |
+| `properties.status.stages[*].groups[*].maxConcurrency` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].groups[*].maxConcurrency` |
 
