@@ -72,4 +72,12 @@
 | `properties.backend.response.dataMasking.headers[*].mode` | `Microsoft.ApiManagement/service/diagnostics/backend.response.dataMasking.headers[*].mode` |
 | `properties.operationNameFormat` | `Microsoft.ApiManagement/service/diagnostics/operationNameFormat` |
 | `properties.metrics` | `Microsoft.ApiManagement/service/diagnostics/metrics` |
+| `properties.largeLanguageModel` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel` |
+| `properties.largeLanguageModel.logs` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel.logs` |
+| `properties.largeLanguageModel.requests` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel.requests` |
+| `properties.largeLanguageModel.requests.messages` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel.requests.messages` |
+| `properties.largeLanguageModel.requests.maxSizeInBytes` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel.requests.maxSizeInBytes` |
+| `properties.largeLanguageModel.responses` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel.responses` |
+| `properties.largeLanguageModel.responses.messages` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel.responses.messages` |
+| `properties.largeLanguageModel.responses.maxSizeInBytes` | `Microsoft.ApiManagement/service/diagnostics/largeLanguageModel.responses.maxSizeInBytes` |
 

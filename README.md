@@ -112,6 +112,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ApiManagement/service/workspaces/certificates](aliases/Microsoft.ApiManagement/service-workspaces-certificates.md)
 - [Microsoft.ApiManagement/service/workspaces/diagnostics](aliases/Microsoft.ApiManagement/service-workspaces-diagnostics.md)
 - [Microsoft.ApiManagement/service/workspaces/loggers](aliases/Microsoft.ApiManagement/service-workspaces-loggers.md)
+- [Microsoft.ApiManagement/service/apis/tools](aliases/Microsoft.ApiManagement/service-apis-tools.md)
+- [Microsoft.ApiManagement/service/clientApplications](aliases/Microsoft.ApiManagement/service-clientApplications.md)
 
 
 ## Microsoft.App

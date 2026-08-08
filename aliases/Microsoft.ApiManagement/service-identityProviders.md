@@ -25,4 +25,5 @@
 | `properties.signinTenant` | `Microsoft.ApiManagement/service/identityProviders/facebook.signinTenant` |
 | `properties.signinTenant` | `Microsoft.ApiManagement/service/identityProviders/signinTenant` |
 | `properties.clientLibrary` | `Microsoft.ApiManagement/service/identityProviders/clientLibrary` |
+| `properties.certificateId` | `Microsoft.ApiManagement/service/identityProviders/certificateId` |
 

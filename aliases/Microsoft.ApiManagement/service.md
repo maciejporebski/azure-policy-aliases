@@ -135,4 +135,6 @@
 | `properties.configurationApi.legacyApi` | `Microsoft.ApiManagement/service/configurationApi.legacyApi` |
 | `properties.legacyPortalStatus` | `Microsoft.ApiManagement/service/legacyPortalStatus` |
 | `properties.developerPortalStatus` | `Microsoft.ApiManagement/service/developerPortalStatus` |
+| `properties.releaseChannel` | `Microsoft.ApiManagement/service/releaseChannel` |
+| `properties.zoneRedundant` | `Microsoft.ApiManagement/service/zoneRedundant` |
 
