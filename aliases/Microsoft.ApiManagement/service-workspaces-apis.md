@@ -54,10 +54,4 @@
 | `properties.apiVersionSet.versionQueryName` | `Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.versionQueryName` |
 | `properties.apiVersionSet.versionHeaderName` | `Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.versionHeaderName` |
 | `properties.provisioningState` | `Microsoft.ApiManagement/service/workspaces/apis/provisioningState` |
-| `properties.mcpProperties` | `Microsoft.ApiManagement/service/workspaces/apis/mcpProperties` |
-| `properties.mcpProperties.transportType` | `Microsoft.ApiManagement/service/workspaces/apis/mcpProperties.transportType` |
-| `properties.mcpProperties.endpoints` | `Microsoft.ApiManagement/service/workspaces/apis/mcpProperties.endpoints` |
-| `properties.mcpProperties.endpoints[*]` | `Microsoft.ApiManagement/service/workspaces/apis/mcpProperties.endpoints[*]` |
-| `properties.mcpProperties.endpoints[*].name` | `Microsoft.ApiManagement/service/workspaces/apis/mcpProperties.endpoints[*].name` |
-| `properties.mcpProperties.endpoints[*].uriTemplate` | `Microsoft.ApiManagement/service/workspaces/apis/mcpProperties.endpoints[*].uriTemplate` |
 

@@ -57,20 +57,4 @@
 | `properties.type` | `Microsoft.ApiManagement/service/workspaces/backends/type` |
 | `properties.url` | `Microsoft.ApiManagement/service/workspaces/backends/url` |
 | `properties.protocol` | `Microsoft.ApiManagement/service/workspaces/backends/protocol` |
-| `properties.circuitBreaker.rules[*].failureResponse` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureResponse` |
-| `properties.circuitBreaker.rules[*].failureResponse.statusCode` | `Microsoft.ApiManagement/service/workspaces/backends/circuitBreaker.rules[*].failureResponse.statusCode` |
-| `properties.pool.failureResponse` | `Microsoft.ApiManagement/service/workspaces/backends/pool.failureResponse` |
-| `properties.pool.failureResponse.statusCode` | `Microsoft.ApiManagement/service/workspaces/backends/pool.failureResponse.statusCode` |
-| `properties.pool.sessionAffinity` | `Microsoft.ApiManagement/service/workspaces/backends/pool.sessionAffinity` |
-| `properties.pool.sessionAffinity.sessionId` | `Microsoft.ApiManagement/service/workspaces/backends/pool.sessionAffinity.sessionId` |
-| `properties.pool.sessionAffinity.sessionId.source` | `Microsoft.ApiManagement/service/workspaces/backends/pool.sessionAffinity.sessionId.source` |
-| `properties.pool.sessionAffinity.sessionId.name` | `Microsoft.ApiManagement/service/workspaces/backends/pool.sessionAffinity.sessionId.name` |
-| `properties.tls.serverCertificateThumbprints` | `Microsoft.ApiManagement/service/workspaces/backends/tls.serverCertificateThumbprints` |
-| `properties.tls.serverCertificateThumbprints[*]` | `Microsoft.ApiManagement/service/workspaces/backends/tls.serverCertificateThumbprints[*]` |
-| `properties.tls.serverX509Names` | `Microsoft.ApiManagement/service/workspaces/backends/tls.serverX509Names` |
-| `properties.tls.serverX509Names[*]` | `Microsoft.ApiManagement/service/workspaces/backends/tls.serverX509Names[*]` |
-| `properties.tls.serverX509Names[*].name` | `Microsoft.ApiManagement/service/workspaces/backends/tls.serverX509Names[*].name` |
-| `properties.tls.serverX509Names[*].issuerCertificateThumbprint` | `Microsoft.ApiManagement/service/workspaces/backends/tls.serverX509Names[*].issuerCertificateThumbprint` |
-| `properties.azureRegion` | `Microsoft.ApiManagement/service/workspaces/backends/azureRegion` |
-| `properties.pool.services[*].preferredCarbonEmission` | `Microsoft.ApiManagement/service/workspaces/backends/pool.services[*].preferredCarbonEmission` |
 
