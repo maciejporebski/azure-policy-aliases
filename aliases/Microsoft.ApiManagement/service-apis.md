@@ -58,4 +58,10 @@
 | `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` |
 | `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` |
 | `properties.provisioningState` | `Microsoft.ApiManagement/service/apis/provisioningState` |
+| `properties.mcpProperties` | `Microsoft.ApiManagement/service/apis/mcpProperties` |
+| `properties.mcpProperties.transportType` | `Microsoft.ApiManagement/service/apis/mcpProperties.transportType` |
+| `properties.mcpProperties.endpoints` | `Microsoft.ApiManagement/service/apis/mcpProperties.endpoints` |
+| `properties.mcpProperties.endpoints[*]` | `Microsoft.ApiManagement/service/apis/mcpProperties.endpoints[*]` |
+| `properties.mcpProperties.endpoints[*].name` | `Microsoft.ApiManagement/service/apis/mcpProperties.endpoints[*].name` |
+| `properties.mcpProperties.endpoints[*].uriTemplate` | `Microsoft.ApiManagement/service/apis/mcpProperties.endpoints[*].uriTemplate` |
 

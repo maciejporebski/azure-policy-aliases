@@ -54,4 +54,12 @@
 | `properties.verbosity` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/verbosity` |
 | `properties.operationNameFormat` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/operationNameFormat` |
 | `properties.metrics` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/metrics` |
+| `properties.largeLanguageModel` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel` |
+| `properties.largeLanguageModel.logs` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel.logs` |
+| `properties.largeLanguageModel.requests` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel.requests` |
+| `properties.largeLanguageModel.requests.messages` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel.requests.messages` |
+| `properties.largeLanguageModel.requests.maxSizeInBytes` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel.requests.maxSizeInBytes` |
+| `properties.largeLanguageModel.responses` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel.responses` |
+| `properties.largeLanguageModel.responses.messages` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel.responses.messages` |
+| `properties.largeLanguageModel.responses.maxSizeInBytes` | `Microsoft.ApiManagement/service/workspaces/apis/diagnostics/largeLanguageModel.responses.maxSizeInBytes` |
 
