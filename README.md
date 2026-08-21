@@ -335,6 +335,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -438,6 +439,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
+- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands.md)
 - [Microsoft.Compute/diskAccesses/privateEndpointConnections](aliases/Microsoft.Compute/diskAccesses-privateEndpointConnections.md)
 
@@ -478,15 +480,15 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ContainerRegistry/registries/connectedRegistries](aliases/Microsoft.ContainerRegistry/registries-connectedRegistries.md)
 - [Microsoft.ContainerRegistry/registries/scopeMaps](aliases/Microsoft.ContainerRegistry/registries-scopeMaps.md)
 - [Microsoft.ContainerRegistry/registries/tokens](aliases/Microsoft.ContainerRegistry/registries-tokens.md)
-- [Microsoft.ContainerRegistry/registries/privateEndpointConnections](aliases/Microsoft.ContainerRegistry/registries-privateEndpointConnections.md)
 - [Microsoft.ContainerRegistry/registries/exportPipelines](aliases/Microsoft.ContainerRegistry/registries-exportPipelines.md)
 - [Microsoft.ContainerRegistry/registries/importPipelines](aliases/Microsoft.ContainerRegistry/registries-importPipelines.md)
 - [Microsoft.ContainerRegistry/registries/pipelineRuns](aliases/Microsoft.ContainerRegistry/registries-pipelineRuns.md)
-- [Microsoft.ContainerRegistry/registries/taskRuns](aliases/Microsoft.ContainerRegistry/registries-taskRuns.md)
-- [Microsoft.ContainerRegistry/registries/agentPools](aliases/Microsoft.ContainerRegistry/registries-agentPools.md)
-- [Microsoft.ContainerRegistry/registries/tasks](aliases/Microsoft.ContainerRegistry/registries-tasks.md)
 - [Microsoft.ContainerRegistry/registries/replications](aliases/Microsoft.ContainerRegistry/registries-replications.md)
 - [Microsoft.ContainerRegistry/registries/webhooks](aliases/Microsoft.ContainerRegistry/registries-webhooks.md)
+- [Microsoft.ContainerRegistry/registries/privateEndpointConnections](aliases/Microsoft.ContainerRegistry/registries-privateEndpointConnections.md)
+- [Microsoft.ContainerRegistry/registries/taskRuns](aliases/Microsoft.ContainerRegistry/registries-taskRuns.md)
+- [Microsoft.ContainerRegistry/registries/tasks](aliases/Microsoft.ContainerRegistry/registries-tasks.md)
+- [Microsoft.ContainerRegistry/registries/agentPools](aliases/Microsoft.ContainerRegistry/registries-agentPools.md)
 - [Microsoft.ContainerRegistry/registries/packages/archives](aliases/Microsoft.ContainerRegistry/registries-packages-archives.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks](aliases/Microsoft.ContainerRegistry/registries-buildTasks.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks/steps](aliases/Microsoft.ContainerRegistry/registries-buildTasks-steps.md)
@@ -1319,7 +1321,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
+- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1377,6 +1381,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
+- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
+- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 
 ## Microsoft.NetworkCloud
