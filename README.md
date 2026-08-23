@@ -451,7 +451,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.ConnectedVMwarevSphere/hosts](aliases/Microsoft.ConnectedVMwarevSphere/hosts.md)
 - [Microsoft.ConnectedVMwarevSphere/clusters](aliases/Microsoft.ConnectedVMwarevSphere/clusters.md)
 - [Microsoft.ConnectedVMwarevSphere/datastores](aliases/Microsoft.ConnectedVMwarevSphere/datastores.md)
-- [Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems](aliases/Microsoft.ConnectedVMwarevSphere/vcenters-inventoryitems.md)
+- [Microsoft.ConnectedVMwarevSphere/VCenters/inventoryitems](aliases/Microsoft.ConnectedVMwarevSphere/VCenters-inventoryitems.md)
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines.md)
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines/hybrididentitymetadata](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-hybrididentitymetadata.md)
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-extensions.md)
