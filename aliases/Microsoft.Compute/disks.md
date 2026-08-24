@@ -109,4 +109,5 @@
 | `properties.creationData.instantAccessDurationMinutes` | `Microsoft.Compute/disks/creationData.instantAccessDurationMinutes` |
 | `properties.availabilityPolicy` | `Microsoft.Compute/disks/availabilityPolicy` |
 | `properties.availabilityPolicy.actionOnDiskDelay` | `Microsoft.Compute/disks/availabilityPolicy.actionOnDiskDelay` |
+| `properties.securityProfile.confidentialVMVersion` | `Microsoft.Compute/disks/securityProfile.confidentialVMVersion` |
 
