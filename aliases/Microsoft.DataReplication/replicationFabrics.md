@@ -1,0 +1,63 @@
+# Microsoft.DataReplication/replicationFabrics
+
+| Default Path | Alias |
+|---|---|
+| `properties.provisioningState` | `Microsoft.DataReplication/replicationFabrics/provisioningState` |
+| `properties.serviceEndpoint` | `Microsoft.DataReplication/replicationFabrics/serviceEndpoint` |
+| `properties.serviceResourceId` | `Microsoft.DataReplication/replicationFabrics/serviceResourceId` |
+| `properties.health` | `Microsoft.DataReplication/replicationFabrics/health` |
+| `properties.healthErrors` | `Microsoft.DataReplication/replicationFabrics/healthErrors` |
+| `properties.healthErrors[*]` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*]` |
+| `properties.healthErrors[*].affectedResourceType` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].affectedResourceType` |
+| `properties.healthErrors[*].affectedResourceCorrelationIds` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].affectedResourceCorrelationIds` |
+| `properties.healthErrors[*].affectedResourceCorrelationIds[*]` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].affectedResourceCorrelationIds[*]` |
+| `properties.healthErrors[*].childErrors` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors` |
+| `properties.healthErrors[*].childErrors[*]` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*]` |
+| `properties.healthErrors[*].childErrors[*].code` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].code` |
+| `properties.healthErrors[*].childErrors[*].healthCategory` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].healthCategory` |
+| `properties.healthErrors[*].childErrors[*].category` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].category` |
+| `properties.healthErrors[*].childErrors[*].severity` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].severity` |
+| `properties.healthErrors[*].childErrors[*].source` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].source` |
+| `properties.healthErrors[*].childErrors[*].creationTime` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].creationTime` |
+| `properties.healthErrors[*].childErrors[*].isCustomerResolvable` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].isCustomerResolvable` |
+| `properties.healthErrors[*].childErrors[*].summary` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].summary` |
+| `properties.healthErrors[*].childErrors[*].message` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].message` |
+| `properties.healthErrors[*].childErrors[*].causes` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].causes` |
+| `properties.healthErrors[*].childErrors[*].recommendation` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].childErrors[*].recommendation` |
+| `properties.healthErrors[*].code` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].code` |
+| `properties.healthErrors[*].healthCategory` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].healthCategory` |
+| `properties.healthErrors[*].category` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].category` |
+| `properties.healthErrors[*].severity` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].severity` |
+| `properties.healthErrors[*].source` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].source` |
+| `properties.healthErrors[*].creationTime` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].creationTime` |
+| `properties.healthErrors[*].isCustomerResolvable` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].isCustomerResolvable` |
+| `properties.healthErrors[*].summary` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].summary` |
+| `properties.healthErrors[*].message` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].message` |
+| `properties.healthErrors[*].causes` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].causes` |
+| `properties.healthErrors[*].recommendation` | `Microsoft.DataReplication/replicationFabrics/healthErrors[*].recommendation` |
+| `properties.customProperties` | `Microsoft.DataReplication/replicationFabrics/customProperties.VMwareMigrate` |
+| `properties.customProperties` | `Microsoft.DataReplication/replicationFabrics/customProperties.HyperVMigrate` |
+| `properties.customProperties` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI` |
+| `properties.customProperties` | `Microsoft.DataReplication/replicationFabrics/customProperties` |
+| `properties.customProperties.vmwareSiteId` | `Microsoft.DataReplication/replicationFabrics/customProperties.VMwareMigrate.vmwareSiteId` |
+| `properties.customProperties.migrationSolutionId` | `Microsoft.DataReplication/replicationFabrics/customProperties.VMwareMigrate.migrationSolutionId` |
+| `properties.customProperties.migrationSolutionId` | `Microsoft.DataReplication/replicationFabrics/customProperties.HyperVMigrate.migrationSolutionId` |
+| `properties.customProperties.migrationSolutionId` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.migrationSolutionId` |
+| `properties.customProperties.hyperVSiteId` | `Microsoft.DataReplication/replicationFabrics/customProperties.HyperVMigrate.hyperVSiteId` |
+| `properties.customProperties.fabricResourceId` | `Microsoft.DataReplication/replicationFabrics/customProperties.HyperVMigrate.fabricResourceId` |
+| `properties.customProperties.fabricResourceId` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.fabricResourceId` |
+| `properties.customProperties.fabricContainerId` | `Microsoft.DataReplication/replicationFabrics/customProperties.HyperVMigrate.fabricContainerId` |
+| `properties.customProperties.fabricContainerId` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.fabricContainerId` |
+| `properties.customProperties.migrationHubUri` | `Microsoft.DataReplication/replicationFabrics/customProperties.HyperVMigrate.migrationHubUri` |
+| `properties.customProperties.migrationHubUri` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.migrationHubUri` |
+| `properties.customProperties.azStackHciSiteId` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.azStackHciSiteId` |
+| `properties.customProperties.applianceName` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.applianceName` |
+| `properties.customProperties.applianceName[*]` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.applianceName[*]` |
+| `properties.customProperties.cluster` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.cluster` |
+| `properties.customProperties.cluster.clusterName` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.cluster.clusterName` |
+| `properties.customProperties.cluster.resourceName` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.cluster.resourceName` |
+| `properties.customProperties.cluster.storageAccountName` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.cluster.storageAccountName` |
+| `properties.customProperties.cluster.storageContainers` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.cluster.storageContainers` |
+| `properties.customProperties.cluster.storageContainers[*]` | `Microsoft.DataReplication/replicationFabrics/customProperties.AzStackHCI.cluster.storageContainers[*]` |
+| `properties.customProperties.instanceType` | `Microsoft.DataReplication/replicationFabrics/customProperties.instanceType` |
+

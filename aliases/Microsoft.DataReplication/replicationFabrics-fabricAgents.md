@@ -1,0 +1,63 @@
+# Microsoft.DataReplication/replicationFabrics/fabricAgents
+
+| Default Path | Alias |
+|---|---|
+| `properties.correlationId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/correlationId` |
+| `properties.machineId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/machineId` |
+| `properties.machineName` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/machineName` |
+| `properties.authenticationIdentity` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/authenticationIdentity` |
+| `properties.authenticationIdentity.tenantId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/authenticationIdentity.tenantId` |
+| `properties.authenticationIdentity.applicationId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/authenticationIdentity.applicationId` |
+| `properties.authenticationIdentity.objectId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/authenticationIdentity.objectId` |
+| `properties.authenticationIdentity.audience` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/authenticationIdentity.audience` |
+| `properties.authenticationIdentity.aadAuthority` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/authenticationIdentity.aadAuthority` |
+| `properties.resourceAccessIdentity` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/resourceAccessIdentity` |
+| `properties.resourceAccessIdentity.tenantId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/resourceAccessIdentity.tenantId` |
+| `properties.resourceAccessIdentity.applicationId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/resourceAccessIdentity.applicationId` |
+| `properties.resourceAccessIdentity.objectId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/resourceAccessIdentity.objectId` |
+| `properties.resourceAccessIdentity.audience` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/resourceAccessIdentity.audience` |
+| `properties.resourceAccessIdentity.aadAuthority` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/resourceAccessIdentity.aadAuthority` |
+| `properties.isResponsive` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/isResponsive` |
+| `properties.lastHeartbeat` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/lastHeartbeat` |
+| `properties.versionNumber` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/versionNumber` |
+| `properties.provisioningState` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/provisioningState` |
+| `properties.healthErrors` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors` |
+| `properties.healthErrors[*]` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*]` |
+| `properties.healthErrors[*].affectedResourceType` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].affectedResourceType` |
+| `properties.healthErrors[*].affectedResourceCorrelationIds` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].affectedResourceCorrelationIds` |
+| `properties.healthErrors[*].affectedResourceCorrelationIds[*]` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].affectedResourceCorrelationIds[*]` |
+| `properties.healthErrors[*].childErrors` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors` |
+| `properties.healthErrors[*].childErrors[*]` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*]` |
+| `properties.healthErrors[*].childErrors[*].code` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].code` |
+| `properties.healthErrors[*].childErrors[*].healthCategory` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].healthCategory` |
+| `properties.healthErrors[*].childErrors[*].category` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].category` |
+| `properties.healthErrors[*].childErrors[*].severity` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].severity` |
+| `properties.healthErrors[*].childErrors[*].source` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].source` |
+| `properties.healthErrors[*].childErrors[*].creationTime` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].creationTime` |
+| `properties.healthErrors[*].childErrors[*].isCustomerResolvable` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].isCustomerResolvable` |
+| `properties.healthErrors[*].childErrors[*].summary` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].summary` |
+| `properties.healthErrors[*].childErrors[*].message` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].message` |
+| `properties.healthErrors[*].childErrors[*].causes` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].causes` |
+| `properties.healthErrors[*].childErrors[*].recommendation` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].childErrors[*].recommendation` |
+| `properties.healthErrors[*].code` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].code` |
+| `properties.healthErrors[*].healthCategory` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].healthCategory` |
+| `properties.healthErrors[*].category` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].category` |
+| `properties.healthErrors[*].severity` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].severity` |
+| `properties.healthErrors[*].source` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].source` |
+| `properties.healthErrors[*].creationTime` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].creationTime` |
+| `properties.healthErrors[*].isCustomerResolvable` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].isCustomerResolvable` |
+| `properties.healthErrors[*].summary` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].summary` |
+| `properties.healthErrors[*].message` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].message` |
+| `properties.healthErrors[*].causes` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].causes` |
+| `properties.healthErrors[*].recommendation` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/healthErrors[*].recommendation` |
+| `properties.customProperties` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware` |
+| `properties.customProperties` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties` |
+| `properties.customProperties.biosId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware.biosId` |
+| `properties.customProperties.marsAuthenticationIdentity` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware.marsAuthenticationIdentity` |
+| `properties.customProperties.marsAuthenticationIdentity.tenantId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware.marsAuthenticationIdentity.tenantId` |
+| `properties.customProperties.marsAuthenticationIdentity.applicationId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware.marsAuthenticationIdentity.applicationId` |
+| `properties.customProperties.marsAuthenticationIdentity.objectId` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware.marsAuthenticationIdentity.objectId` |
+| `properties.customProperties.marsAuthenticationIdentity.audience` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware.marsAuthenticationIdentity.audience` |
+| `properties.customProperties.marsAuthenticationIdentity.aadAuthority` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.VMware.marsAuthenticationIdentity.aadAuthority` |
+| `properties.customProperties.instanceType` | `Microsoft.DataReplication/replicationFabrics/fabricAgents/customProperties.instanceType` |
+

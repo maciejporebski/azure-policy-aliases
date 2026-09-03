@@ -632,6 +632,18 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DataProtection/backupVaults/backupResourceGuardProxies](aliases/Microsoft.DataProtection/backupVaults-backupResourceGuardProxies.md)
 
 
+## Microsoft.DataReplication
+
+- [Microsoft.DataReplication/replicationVaults](aliases/Microsoft.DataReplication/replicationVaults.md)
+- [Microsoft.DataReplication/replicationFabrics](aliases/Microsoft.DataReplication/replicationFabrics.md)
+- [Microsoft.DataReplication/replicationFabrics/fabricAgents](aliases/Microsoft.DataReplication/replicationFabrics-fabricAgents.md)
+- [Microsoft.DataReplication/replicationVaults/alertSettings](aliases/Microsoft.DataReplication/replicationVaults-alertSettings.md)
+- [Microsoft.DataReplication/replicationVaults/privateEndpointConnections](aliases/Microsoft.DataReplication/replicationVaults-privateEndpointConnections.md)
+- [Microsoft.DataReplication/replicationVaults/protectedItems](aliases/Microsoft.DataReplication/replicationVaults-protectedItems.md)
+- [Microsoft.DataReplication/replicationVaults/replicationExtensions](aliases/Microsoft.DataReplication/replicationVaults-replicationExtensions.md)
+- [Microsoft.DataReplication/replicationVaults/replicationPolicies](aliases/Microsoft.DataReplication/replicationVaults-replicationPolicies.md)
+
+
 ## Microsoft.DataShare
 
 - [Microsoft.DataShare/accounts](aliases/Microsoft.DataShare/accounts.md)
