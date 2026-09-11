@@ -152,4 +152,23 @@
 | `properties.networkInjections[*].subnetArmId` | `Microsoft.CognitiveServices/accounts/networkInjections[*].subnetArmId` |
 | `properties.networkInjections[*].useMicrosoftManagedNetwork` | `Microsoft.CognitiveServices/accounts/networkInjections[*].useMicrosoftManagedNetwork` |
 | `properties.storedCompletionsDisabled` | `Microsoft.CognitiveServices/accounts/storedCompletionsDisabled` |
+| `properties.foundryAutoUpgrade` | `Microsoft.CognitiveServices/accounts/foundryAutoUpgrade` |
+| `properties.foundryAutoUpgrade.mode` | `Microsoft.CognitiveServices/accounts/foundryAutoUpgrade.mode` |
+| `properties.foundryAutoUpgrade.plannedByMicrosoft` | `Microsoft.CognitiveServices/accounts/foundryAutoUpgrade.plannedByMicrosoft` |
+| `properties.foundryAutoUpgrade.statusReason` | `Microsoft.CognitiveServices/accounts/foundryAutoUpgrade.statusReason` |
+| `properties.foundryAutoUpgrade.scheduledAt` | `Microsoft.CognitiveServices/accounts/foundryAutoUpgrade.scheduledAt` |
+| `properties.a365LoggingEnabled` | `Microsoft.CognitiveServices/accounts/a365LoggingEnabled` |
+| `properties.capabilitySettings` | `Microsoft.CognitiveServices/accounts/capabilitySettings` |
+| `properties.capabilitySettings.documentStore` | `Microsoft.CognitiveServices/accounts/capabilitySettings.documentStore` |
+| `properties.capabilitySettings.vectorStore` | `Microsoft.CognitiveServices/accounts/capabilitySettings.vectorStore` |
+| `properties.capabilitySettings.blobStore` | `Microsoft.CognitiveServices/accounts/capabilitySettings.blobStore` |
+| `properties.agentHostingConfigurations` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations` |
+| `properties.agentHostingConfigurations[*]` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*]` |
+| `properties.agentHostingConfigurations[*]` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].ManagedCluster` |
+| `properties.agentHostingConfigurations[*].hostingManagementIdentityResourceId` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].ManagedCluster.hostingManagementIdentityResourceId` |
+| `properties.agentHostingConfigurations[*].workloadIdentityResourceId` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].ManagedCluster.workloadIdentityResourceId` |
+| `properties.agentHostingConfigurations[*].clusterResourceId` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].ManagedCluster.clusterResourceId` |
+| `properties.agentHostingConfigurations[*].storageAccountResourceId` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].ManagedCluster.storageAccountResourceId` |
+| `properties.agentHostingConfigurations[*].name` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].name` |
+| `properties.agentHostingConfigurations[*].hostingType` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].hostingType` |
 
