@@ -39,21 +39,4 @@
 | `properties.safetyProviders[*].safetyProviderName` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].safetyProviderName` |
 | `properties.safetyProviders[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].blocking` |
 | `properties.safetyProviders[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].source` |
-| `properties.egressPolicy` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy` |
-| `properties.egressPolicy.mode` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.mode` |
-| `properties.egressPolicy.defaultAction` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.defaultAction` |
-| `properties.egressPolicy.description` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.description` |
-| `properties.egressPolicy.rules` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules` |
-| `properties.egressPolicy.rules[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*]` |
-| `properties.egressPolicy.rules[*].name` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].name` |
-| `properties.egressPolicy.rules[*].description` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].description` |
-| `properties.egressPolicy.rules[*].ruleType` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].ruleType` |
-| `properties.egressPolicy.rules[*].match` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].match` |
-| `properties.egressPolicy.rules[*].match.host` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].match.host` |
-| `properties.egressPolicy.rules[*].match.path` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].match.path` |
-| `properties.egressPolicy.rules[*].action` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action` |
-| `properties.egressPolicy.rules[*].action.actionType` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.actionType` |
-| `properties.egressPolicy.rules[*].action.headers` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers` |
-| `properties.egressPolicy.rules[*].action.headers[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers[*]` |
-| `properties.egressPolicy.rules[*].action.rewrite` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite` |
 

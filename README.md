@@ -1,11 +1,6 @@
 # Azure Policy Aliases
 This repository contains all available resource property aliases for easy reference when creating Policy definitions. The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
 
-## GitHub.Network
-
-- [GitHub.Network/networkSettings](aliases/GitHub.Network/networkSettings.md)
-
-
 ## Microsoft.AAD
 
 - [Microsoft.AAD/DomainServices](aliases/Microsoft.AAD/DomainServices.md)
@@ -387,7 +382,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/connections](aliases/Microsoft.CognitiveServices/accounts-connections.md)
 - [Microsoft.CognitiveServices/accounts/projects/connections](aliases/Microsoft.CognitiveServices/accounts-projects-connections.md)
 - [Microsoft.CognitiveServices/accounts/projects/applications](aliases/Microsoft.CognitiveServices/accounts-projects-applications.md)
-- [Microsoft.CognitiveServices/accounts/managedNetworks](aliases/Microsoft.CognitiveServices/accounts-managedNetworks.md)
 - [Microsoft.CognitiveServices/accounts/privateEndpointConnections](aliases/Microsoft.CognitiveServices/accounts-privateEndpointConnections.md)
 - [Microsoft.CognitiveServices/accounts/encryptionScopes](aliases/Microsoft.CognitiveServices/accounts-encryptionScopes.md)
 - [Microsoft.CognitiveServices/raiExternalSafetyProviders](aliases/Microsoft.CognitiveServices/raiExternalSafetyProviders.md)
@@ -400,9 +394,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/raiToolLabels](aliases/Microsoft.CognitiveServices/accounts-raiToolLabels.md)
 - [Microsoft.CognitiveServices/accounts/raiTopics](aliases/Microsoft.CognitiveServices/accounts-raiTopics.md)
 - [Microsoft.CognitiveServices/accounts/projects/applications/agentdeployments](aliases/Microsoft.CognitiveServices/accounts-projects-applications-agentdeployments.md)
-- [Microsoft.CognitiveServices/accounts/arcDeployments](aliases/Microsoft.CognitiveServices/accounts-arcDeployments.md)
-- [Microsoft.CognitiveServices/accounts/managedComputeDeployments](aliases/Microsoft.CognitiveServices/accounts-managedComputeDeployments.md)
-- [Microsoft.CognitiveServices/accounts/managedNetworks/outboundRules](aliases/Microsoft.CognitiveServices/accounts-managedNetworks-outboundRules.md)
 
 
 ## Microsoft.Communication
@@ -444,7 +435,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
 - [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
-- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -1207,7 +1197,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Management
 
 - [Microsoft.Management/managementGroups](aliases/Microsoft.Management/managementGroups.md)
-- [Microsoft.Management/serviceGroups](aliases/Microsoft.Management/serviceGroups.md)
 
 
 ## Microsoft.Maps
@@ -1356,8 +1345,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
-- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1415,8 +1402,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
-- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
-- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 
 ## Microsoft.NetworkCloud
