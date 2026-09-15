@@ -7,4 +7,8 @@
 | `properties.description` | `Microsoft.CognitiveServices/accounts/projects/description` |
 | `properties.endpoints` | `Microsoft.CognitiveServices/accounts/projects/endpoints` |
 | `properties.isDefault` | `Microsoft.CognitiveServices/accounts/projects/isDefault` |
+| `properties.capabilitySettings` | `Microsoft.CognitiveServices/accounts/projects/capabilitySettings` |
+| `properties.capabilitySettings.documentStore` | `Microsoft.CognitiveServices/accounts/projects/capabilitySettings.documentStore` |
+| `properties.capabilitySettings.vectorStore` | `Microsoft.CognitiveServices/accounts/projects/capabilitySettings.vectorStore` |
+| `properties.capabilitySettings.blobStore` | `Microsoft.CognitiveServices/accounts/projects/capabilitySettings.blobStore` |
 

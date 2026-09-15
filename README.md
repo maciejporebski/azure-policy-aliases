@@ -1,6 +1,11 @@
 # Azure Policy Aliases
 This repository contains all available resource property aliases for easy reference when creating Policy definitions. The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
 
+## GitHub.Network
+
+- [GitHub.Network/networkSettings](aliases/GitHub.Network/networkSettings.md)
+
+
 ## Microsoft.AAD
 
 - [Microsoft.AAD/DomainServices](aliases/Microsoft.AAD/DomainServices.md)
@@ -382,6 +387,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/connections](aliases/Microsoft.CognitiveServices/accounts-connections.md)
 - [Microsoft.CognitiveServices/accounts/projects/connections](aliases/Microsoft.CognitiveServices/accounts-projects-connections.md)
 - [Microsoft.CognitiveServices/accounts/projects/applications](aliases/Microsoft.CognitiveServices/accounts-projects-applications.md)
+- [Microsoft.CognitiveServices/accounts/managedNetworks](aliases/Microsoft.CognitiveServices/accounts-managedNetworks.md)
 - [Microsoft.CognitiveServices/accounts/privateEndpointConnections](aliases/Microsoft.CognitiveServices/accounts-privateEndpointConnections.md)
 - [Microsoft.CognitiveServices/accounts/encryptionScopes](aliases/Microsoft.CognitiveServices/accounts-encryptionScopes.md)
 - [Microsoft.CognitiveServices/raiExternalSafetyProviders](aliases/Microsoft.CognitiveServices/raiExternalSafetyProviders.md)
@@ -394,6 +400,9 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.CognitiveServices/accounts/raiToolLabels](aliases/Microsoft.CognitiveServices/accounts-raiToolLabels.md)
 - [Microsoft.CognitiveServices/accounts/raiTopics](aliases/Microsoft.CognitiveServices/accounts-raiTopics.md)
 - [Microsoft.CognitiveServices/accounts/projects/applications/agentdeployments](aliases/Microsoft.CognitiveServices/accounts-projects-applications-agentdeployments.md)
+- [Microsoft.CognitiveServices/accounts/arcDeployments](aliases/Microsoft.CognitiveServices/accounts-arcDeployments.md)
+- [Microsoft.CognitiveServices/accounts/managedComputeDeployments](aliases/Microsoft.CognitiveServices/accounts-managedComputeDeployments.md)
+- [Microsoft.CognitiveServices/accounts/managedNetworks/outboundRules](aliases/Microsoft.CognitiveServices/accounts-managedNetworks-outboundRules.md)
 
 
 ## Microsoft.Communication
@@ -1197,6 +1206,7 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Management
 
 - [Microsoft.Management/managementGroups](aliases/Microsoft.Management/managementGroups.md)
+- [Microsoft.Management/serviceGroups](aliases/Microsoft.Management/serviceGroups.md)
 
 
 ## Microsoft.Maps
