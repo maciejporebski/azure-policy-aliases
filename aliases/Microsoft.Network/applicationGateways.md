@@ -1914,4 +1914,7 @@
 | `properties.entraJWTValidationConfigs[*].properties.provisioningState` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].provisioningState` |
 | `properties.entraJWTValidationConfigs[*].name` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].name` |
 | `properties.entraJWTValidationConfigs[*].etag` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].etag` |
+| `properties.sslCertificates[*].properties.hsm` | `Microsoft.Network/applicationGateways/sslCertificates[*].hsm` |
+| `properties.sslCertificates[*].properties.hsm.keyId` | `Microsoft.Network/applicationGateways/sslCertificates[*].hsm.keyId` |
+| `properties.sslCertificates[*].properties.hsm.publicCertData` | `Microsoft.Network/applicationGateways/sslCertificates[*].hsm.publicCertData` |
 
