@@ -1,0 +1,61 @@
+# Microsoft.StorageCache/amlFilesystems
+
+| Default Path | Alias |
+|---|---|
+| `sku` | `Microsoft.StorageCache/amlFilesystems/sku` |
+| `sku.name` | `Microsoft.StorageCache/amlFilesystems/sku.name` |
+| `zones` | `Microsoft.StorageCache/amlFilesystems/zones` |
+| `zones[*]` | `Microsoft.StorageCache/amlFilesystems/zones[*]` |
+| `properties.storageCapacityTiB` | `Microsoft.StorageCache/amlFilesystems/storageCapacityTiB` |
+| `properties.health` | `Microsoft.StorageCache/amlFilesystems/health` |
+| `properties.health.state` | `Microsoft.StorageCache/amlFilesystems/health.state` |
+| `properties.health.statusCode` | `Microsoft.StorageCache/amlFilesystems/health.statusCode` |
+| `properties.health.statusDescription` | `Microsoft.StorageCache/amlFilesystems/health.statusDescription` |
+| `properties.provisioningState` | `Microsoft.StorageCache/amlFilesystems/provisioningState` |
+| `properties.filesystemSubnet` | `Microsoft.StorageCache/amlFilesystems/filesystemSubnet` |
+| `properties.mgsAddress` | `Microsoft.StorageCache/amlFilesystems/mgsAddress` |
+| `properties.mountCommand` | `Microsoft.StorageCache/amlFilesystems/mountCommand` |
+| `properties.lustreVersion` | `Microsoft.StorageCache/amlFilesystems/lustreVersion` |
+| `properties.throughputProvisionedMBps` | `Microsoft.StorageCache/amlFilesystems/throughputProvisionedMBps` |
+| `properties.encryptionSettings` | `Microsoft.StorageCache/amlFilesystems/encryptionSettings` |
+| `properties.encryptionSettings.keyEncryptionKey` | `Microsoft.StorageCache/amlFilesystems/encryptionSettings.keyEncryptionKey` |
+| `properties.encryptionSettings.keyEncryptionKey.keyUrl` | `Microsoft.StorageCache/amlFilesystems/encryptionSettings.keyEncryptionKey.keyUrl` |
+| `properties.encryptionSettings.keyEncryptionKey.sourceVault` | `Microsoft.StorageCache/amlFilesystems/encryptionSettings.keyEncryptionKey.sourceVault` |
+| `properties.encryptionSettings.keyEncryptionKey.sourceVault.id` | `Microsoft.StorageCache/amlFilesystems/encryptionSettings.keyEncryptionKey.sourceVault.id` |
+| `properties.maintenanceWindow` | `Microsoft.StorageCache/amlFilesystems/maintenanceWindow` |
+| `properties.maintenanceWindow.dayOfWeek` | `Microsoft.StorageCache/amlFilesystems/maintenanceWindow.dayOfWeek` |
+| `properties.maintenanceWindow.timeOfDayUTC` | `Microsoft.StorageCache/amlFilesystems/maintenanceWindow.timeOfDayUTC` |
+| `properties.hsm` | `Microsoft.StorageCache/amlFilesystems/hsm` |
+| `properties.hsm.settings` | `Microsoft.StorageCache/amlFilesystems/hsm.settings` |
+| `properties.hsm.settings.container` | `Microsoft.StorageCache/amlFilesystems/hsm.settings.container` |
+| `properties.hsm.settings.loggingContainer` | `Microsoft.StorageCache/amlFilesystems/hsm.settings.loggingContainer` |
+| `properties.hsm.settings.importPrefix` | `Microsoft.StorageCache/amlFilesystems/hsm.settings.importPrefix` |
+| `properties.hsm.archiveStatus` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus` |
+| `properties.hsm.archiveStatus[*]` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*]` |
+| `properties.hsm.archiveStatus[*].filesystemPath` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].filesystemPath` |
+| `properties.hsm.archiveStatus[*].status` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].status` |
+| `properties.hsm.archiveStatus[*].status.state` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].status.state` |
+| `properties.hsm.archiveStatus[*].status.lastCompletionTime` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].status.lastCompletionTime` |
+| `properties.hsm.archiveStatus[*].status.lastStartedTime` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].status.lastStartedTime` |
+| `properties.hsm.archiveStatus[*].status.percentComplete` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].status.percentComplete` |
+| `properties.hsm.archiveStatus[*].status.errorCode` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].status.errorCode` |
+| `properties.hsm.archiveStatus[*].status.errorMessage` | `Microsoft.StorageCache/amlFilesystems/hsm.archiveStatus[*].status.errorMessage` |
+| `properties.clientInfo` | `Microsoft.StorageCache/amlFilesystems/clientInfo` |
+| `properties.clientInfo.mgsAddress` | `Microsoft.StorageCache/amlFilesystems/clientInfo.mgsAddress` |
+| `properties.clientInfo.mountCommand` | `Microsoft.StorageCache/amlFilesystems/clientInfo.mountCommand` |
+| `properties.clientInfo.lustreVersion` | `Microsoft.StorageCache/amlFilesystems/clientInfo.lustreVersion` |
+| `properties.clientInfo.containerStorageInterface` | `Microsoft.StorageCache/amlFilesystems/clientInfo.containerStorageInterface` |
+| `properties.clientInfo.containerStorageInterface.persistentVolumeClaim` | `Microsoft.StorageCache/amlFilesystems/clientInfo.containerStorageInterface.persistentVolumeClaim` |
+| `properties.clientInfo.containerStorageInterface.persistentVolume` | `Microsoft.StorageCache/amlFilesystems/clientInfo.containerStorageInterface.persistentVolume` |
+| `properties.clientInfo.containerStorageInterface.storageClass` | `Microsoft.StorageCache/amlFilesystems/clientInfo.containerStorageInterface.storageClass` |
+| `properties.rootSquashSettings` | `Microsoft.StorageCache/amlFilesystems/rootSquashSettings` |
+| `properties.rootSquashSettings.mode` | `Microsoft.StorageCache/amlFilesystems/rootSquashSettings.mode` |
+| `properties.rootSquashSettings.noSquashNidLists` | `Microsoft.StorageCache/amlFilesystems/rootSquashSettings.noSquashNidLists` |
+| `properties.rootSquashSettings.squashUID` | `Microsoft.StorageCache/amlFilesystems/rootSquashSettings.squashUID` |
+| `properties.rootSquashSettings.squashGID` | `Microsoft.StorageCache/amlFilesystems/rootSquashSettings.squashGID` |
+| `properties.rootSquashSettings.status` | `Microsoft.StorageCache/amlFilesystems/rootSquashSettings.status` |
+| `properties.hsm.settings.importPrefixesInitial` | `Microsoft.StorageCache/amlFilesystems/hsm.settings.importPrefixesInitial` |
+| `properties.hsm.settings.importPrefixesInitial[*]` | `Microsoft.StorageCache/amlFilesystems/hsm.settings.importPrefixesInitial[*]` |
+| `properties.currentStorageCapacityTiB` | `Microsoft.StorageCache/amlFilesystems/currentStorageCapacityTiB` |
+| `properties.clusterUuid` | `Microsoft.StorageCache/amlFilesystems/clusterUuid` |
+
