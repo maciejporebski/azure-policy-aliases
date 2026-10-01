@@ -23,8 +23,4 @@
 | `properties.blobNfs.usageModel` | `Microsoft.StorageCache/caches/storageTargets/blobNfs.usageModel` |
 | `properties.state` | `Microsoft.StorageCache/caches/storageTargets/state` |
 | `properties.allocationPercentage` | `Microsoft.StorageCache/caches/storageTargets/allocationPercentage` |
-| `properties.nfs3.verificationTimer` | `Microsoft.StorageCache/caches/storageTargets/nfs3.verificationTimer` |
-| `properties.nfs3.writeBackTimer` | `Microsoft.StorageCache/caches/storageTargets/nfs3.writeBackTimer` |
-| `properties.blobNfs.verificationTimer` | `Microsoft.StorageCache/caches/storageTargets/blobNfs.verificationTimer` |
-| `properties.blobNfs.writeBackTimer` | `Microsoft.StorageCache/caches/storageTargets/blobNfs.writeBackTimer` |
 

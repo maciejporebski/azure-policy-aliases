@@ -56,11 +56,4 @@
 | `properties.egressPolicy.rules[*].action.headers` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers` |
 | `properties.egressPolicy.rules[*].action.headers[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers[*]` |
 | `properties.egressPolicy.rules[*].action.rewrite` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite` |
-| `properties.egressPolicy.rules[*].action.headers[*].operation` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers[*].operation` |
-| `properties.egressPolicy.rules[*].action.headers[*].name` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers[*].name` |
-| `properties.egressPolicy.rules[*].action.headers[*].value` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers[*].value` |
-| `properties.egressPolicy.rules[*].action.headers[*].valueRef` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.headers[*].valueRef` |
-| `properties.egressPolicy.rules[*].action.rewrite.scheme` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite.scheme` |
-| `properties.egressPolicy.rules[*].action.rewrite.host` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite.host` |
-| `properties.egressPolicy.rules[*].action.rewrite.path` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite.path` |
 
