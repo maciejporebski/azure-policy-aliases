@@ -101,4 +101,18 @@
 | `properties.speculativeDecoding.draftModel.callRateLimit.rules[*]` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*]` |
 | `properties.speculativeDecoding.draftTokenCount` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftTokenCount` |
 | `properties.contextCacheContainerId` | `Microsoft.CognitiveServices/accounts/deployments/contextCacheContainerId` |
+| `properties.routing.models[*].callRateLimit.rules[*].key` | `Microsoft.CognitiveServices/accounts/deployments/routing.models[*].callRateLimit.rules[*].key` |
+| `properties.routing.models[*].callRateLimit.rules[*].renewalPeriod` | `Microsoft.CognitiveServices/accounts/deployments/routing.models[*].callRateLimit.rules[*].renewalPeriod` |
+| `properties.routing.models[*].callRateLimit.rules[*].count` | `Microsoft.CognitiveServices/accounts/deployments/routing.models[*].callRateLimit.rules[*].count` |
+| `properties.routing.models[*].callRateLimit.rules[*].minCount` | `Microsoft.CognitiveServices/accounts/deployments/routing.models[*].callRateLimit.rules[*].minCount` |
+| `properties.routing.models[*].callRateLimit.rules[*].dynamicThrottlingEnabled` | `Microsoft.CognitiveServices/accounts/deployments/routing.models[*].callRateLimit.rules[*].dynamicThrottlingEnabled` |
+| `properties.routing.models[*].callRateLimit.rules[*].matchPatterns` | `Microsoft.CognitiveServices/accounts/deployments/routing.models[*].callRateLimit.rules[*].matchPatterns` |
+| `properties.routing.models[*].callRateLimit.rules[*].matchPatterns[*]` | `Microsoft.CognitiveServices/accounts/deployments/routing.models[*].callRateLimit.rules[*].matchPatterns[*]` |
+| `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].key` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].key` |
+| `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].renewalPeriod` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].renewalPeriod` |
+| `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].count` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].count` |
+| `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].minCount` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].minCount` |
+| `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].dynamicThrottlingEnabled` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].dynamicThrottlingEnabled` |
+| `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns` |
+| `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns[*]` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns[*]` |
 

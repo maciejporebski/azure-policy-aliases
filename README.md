@@ -1851,6 +1851,12 @@ This repository contains all available resource property aliases for easy refere
 
 - [Microsoft.StorageCache/caches](aliases/Microsoft.StorageCache/caches.md)
 - [Microsoft.StorageCache/caches/storageTargets](aliases/Microsoft.StorageCache/caches-storageTargets.md)
+- [Microsoft.StorageCache/amlFilesystems](aliases/Microsoft.StorageCache/amlFilesystems.md)
+- [Microsoft.StorageCache/amlFilesystems/importJobs](aliases/Microsoft.StorageCache/amlFilesystems-importJobs.md)
+- [Microsoft.StorageCache/amlFilesystems/autoExportJobs](aliases/Microsoft.StorageCache/amlFilesystems-autoExportJobs.md)
+- [Microsoft.StorageCache/amlFilesystems/autoImportJobs](aliases/Microsoft.StorageCache/amlFilesystems-autoImportJobs.md)
+- [Microsoft.StorageCache/amlFilesystems/expansionJobs](aliases/Microsoft.StorageCache/amlFilesystems-expansionJobs.md)
+- [Microsoft.StorageCache/amlFilesystems/rebalanceJobs](aliases/Microsoft.StorageCache/amlFilesystems-rebalanceJobs.md)
 
 
 ## Microsoft.StorageMover
