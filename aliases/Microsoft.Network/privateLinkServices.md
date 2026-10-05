@@ -1378,4 +1378,6 @@
 | `properties.destinationIPAddress` | `Microsoft.Network/privateLinkServices/destinationIPAddress` |
 | `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
 | `properties.accessMode` | `Microsoft.Network/privateLinkServices/accessMode` |
+| `properties.loadBalancerFrontendIpConfigurations[*].properties.ddosSettings` | `Microsoft.Network/privateLinkServices/loadBalancerFrontendIpConfigurations[*].ddosSettings` |
+| `properties.loadBalancerFrontendIpConfigurations[*].properties.ddosSettings.ddosCustomPolicy` | `Microsoft.Network/privateLinkServices/loadBalancerFrontendIpConfigurations[*].ddosSettings.ddosCustomPolicy` |
 
