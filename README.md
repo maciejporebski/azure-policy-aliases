@@ -340,7 +340,6 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -445,7 +444,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
 - [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
-- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -769,9 +767,9 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.DeviceUpdate
 
 - [Microsoft.DeviceUpdate/accounts](aliases/Microsoft.DeviceUpdate/accounts.md)
+- [Microsoft.DeviceUpdate/accounts/instances](aliases/Microsoft.DeviceUpdate/accounts-instances.md)
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnections](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnections.md)
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies.md)
-- [Microsoft.DeviceUpdate/accounts/instances](aliases/Microsoft.DeviceUpdate/accounts-instances.md)
 
 
 ## Microsoft.DevOpsInfrastructure
@@ -1357,8 +1355,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
-- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1416,8 +1412,6 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
-- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
-- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 
 ## Microsoft.NetworkCloud
@@ -1589,6 +1583,8 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Security/alerts](aliases/Microsoft.Security/alerts.md)
 - [Microsoft.Security/alertsSuppressionRules](aliases/Microsoft.Security/alertsSuppressionRules.md)
 - [Microsoft.Security/pricings](aliases/Microsoft.Security/pricings.md)
+- [Microsoft.Security/batchPricings](aliases/Microsoft.Security/batchPricings.md)
+- [Microsoft.Security/serviceEntitlements](aliases/Microsoft.Security/serviceEntitlements.md)
 - [Microsoft.Security/AutoProvisioningSettings](aliases/Microsoft.Security/AutoProvisioningSettings.md)
 - [Microsoft.Security/securityContacts](aliases/Microsoft.Security/securityContacts.md)
 - [Microsoft.Security/workspaceSettings](aliases/Microsoft.Security/workspaceSettings.md)

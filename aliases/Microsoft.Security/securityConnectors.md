@@ -258,4 +258,26 @@
 | `properties.environmentData.authentication` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication.AccessToken` |
 | `properties.environmentData.authentication` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication` |
 | `properties.environmentData.authentication.authenticationType` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication.authenticationType` |
+| `properties.offerings[*].ciem` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmGcp.ciem` |
+| `properties.offerings[*].ciem.ciemOidc` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmGcp.ciem.ciemOidc` |
+| `properties.offerings[*].installationMethod` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.installationMethod` |
+| `properties.offerings[*].installationMethod` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.installationMethod` |
+| `properties.offerings[*].securityGatingEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.securityGatingEnabled` |
+| `properties.offerings[*].securityGatingEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.securityGatingEnabled` |
+| `properties.offerings[*].containerAntiMalwareEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.containerAntiMalwareEnabled` |
+| `properties.offerings[*].containerAntiMalwareEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.containerAntiMalwareEnabled` |
+| `properties.offerings[*].mdcContainersImageAssessment.securityFindingsEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersGcp.mdcContainersImageAssessment.securityFindingsEnabled` |
+| `properties.offerings[*].mdcContainersImageAssessment.securityFindingsEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderForContainersAws.mdcContainersImageAssessment.securityFindingsEnabled` |
+| `properties.offerings[*].mdcContainersImageAssessment.securityFindingsEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmGcp.mdcContainersImageAssessment.securityFindingsEnabled` |
+| `properties.offerings[*].mdcContainersImageAssessment.securityFindingsEnabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.mdcContainersImageAssessment.securityFindingsEnabled` |
+| `properties.offerings[*].ciemDiscovery.enableAuditLogIngestion` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmGcp.ciemDiscovery.enableAuditLogIngestion` |
+| `properties.offerings[*].ciem.logCollectionOidc` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmGcp.ciem.logCollectionOidc` |
+| `properties.offerings[*].ciem.logCollectionOidc` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.ciem.logCollectionOidc` |
+| `properties.offerings[*].ciem.gcpAuditLogIngestion` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmGcp.ciem.gcpAuditLogIngestion` |
+| `properties.offerings[*].ciem.cloudTrailAuditLogIngestion` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.ciem.cloudTrailAuditLogIngestion` |
+| `properties.offerings[*].serverlessContainers` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.serverlessContainers` |
+| `properties.offerings[*].serverlessContainers.enabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.serverlessContainers.enabled` |
+| `properties.offerings[*].agentlessServerlessPosture` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.agentlessServerlessPosture` |
+| `properties.offerings[*].agentlessServerlessPosture.enabled` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.agentlessServerlessPosture.enabled` |
+| `properties.offerings[*].agentlessServerlessPosture.cloudRoleArn` | `Microsoft.Security/securityConnectors/offerings[*].DefenderCspmAws.agentlessServerlessPosture.cloudRoleArn` |
 

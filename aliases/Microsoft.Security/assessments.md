@@ -69,4 +69,9 @@
 | `properties.risk.paths[*].edges[*].targetId` | `Microsoft.Security/assessments/risk.paths[*].edges[*].targetId` |
 | `properties.risk.paths[*].edges[*].sourceId` | `Microsoft.Security/assessments/risk.paths[*].edges[*].sourceId` |
 | `properties.risk.isContextualRisk` | `Microsoft.Security/assessments/risk.isContextualRisk` |
+| `properties.resourceDetails` | `Microsoft.Security/assessments/resourceDetails.OnPremiseResourceDetails` |
+| `properties.resourceDetails.workspaceId` | `Microsoft.Security/assessments/resourceDetails.OnPremiseResourceDetails.workspaceId` |
+| `properties.resourceDetails.vmuuid` | `Microsoft.Security/assessments/resourceDetails.OnPremiseResourceDetails.vmuuid` |
+| `properties.resourceDetails.sourceComputerId` | `Microsoft.Security/assessments/resourceDetails.OnPremiseResourceDetails.sourceComputerId` |
+| `properties.resourceDetails.machineName` | `Microsoft.Security/assessments/resourceDetails.OnPremiseResourceDetails.machineName` |
 
