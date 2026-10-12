@@ -575,4 +575,6 @@
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
+| `properties.subnet.properties.serviceGateway` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.serviceGateway` |
+| `properties.subnet.properties.serviceGateway.id` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.serviceGateway.id` |
 
