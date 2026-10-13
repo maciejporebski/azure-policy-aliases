@@ -1135,6 +1135,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.Logic/integrationAccounts](aliases/Microsoft.Logic/integrationAccounts.md)
 - [Microsoft.Logic/integrationServiceEnvironments](aliases/Microsoft.Logic/integrationServiceEnvironments.md)
 - [Microsoft.Logic/integrationServiceEnvironments/managedApis](aliases/Microsoft.Logic/integrationServiceEnvironments-managedApis.md)
+- [Microsoft.Logic/automationProjects](aliases/Microsoft.Logic/automationProjects.md)
 - [Microsoft.Logic/integrationAccounts/agreements](aliases/Microsoft.Logic/integrationAccounts-agreements.md)
 - [Microsoft.Logic/integrationAccounts/assemblies](aliases/Microsoft.Logic/integrationAccounts-assemblies.md)
 - [Microsoft.Logic/integrationAccounts/batchConfigurations](aliases/Microsoft.Logic/integrationAccounts-batchConfigurations.md)
