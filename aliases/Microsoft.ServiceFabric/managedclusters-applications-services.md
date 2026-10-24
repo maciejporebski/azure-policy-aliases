@@ -74,4 +74,5 @@
 | `properties.partitionDescription.names[*]` | `Microsoft.ServiceFabric/managedclusters/applications/services/partitionDescription.Named.names[*]` |
 | `properties.partitionDescription.partitionScheme` | `Microsoft.ServiceFabric/managedclusters/applications/services/partitionDescription.partitionScheme` |
 | `properties.servicePackageActivationMode` | `Microsoft.ServiceFabric/managedclusters/applications/services/servicePackageActivationMode` |
+| `properties.serviceDnsName` | `Microsoft.ServiceFabric/managedclusters/applications/services/serviceDnsName` |
 

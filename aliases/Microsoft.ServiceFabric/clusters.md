@@ -122,4 +122,6 @@
 | `properties.notifications[*].notificationTargets[*].notificationChannel` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].notificationChannel` |
 | `properties.notifications[*].notificationTargets[*].receivers` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].receivers` |
 | `properties.notifications[*].notificationTargets[*].receivers[*]` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].receivers[*]` |
+| `properties.nodeTypes[*].httpGatewayTokenAuthEndpointPort` | `Microsoft.ServiceFabric/clusters/nodeTypes[*].httpGatewayTokenAuthEndpointPort` |
+| `properties.enableHttpGatewayExclusiveAuthMode` | `Microsoft.ServiceFabric/clusters/enableHttpGatewayExclusiveAuthMode` |
 

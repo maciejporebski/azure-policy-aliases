@@ -754,6 +754,24 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
 
 
+## Microsoft.DeviceRegistry
+
+- [Microsoft.DeviceRegistry/namespaces](aliases/Microsoft.DeviceRegistry/namespaces.md)
+- [Microsoft.DeviceRegistry/discoveredAssetEndpointProfiles](aliases/Microsoft.DeviceRegistry/discoveredAssetEndpointProfiles.md)
+- [Microsoft.DeviceRegistry/assetEndpointProfiles](aliases/Microsoft.DeviceRegistry/assetEndpointProfiles.md)
+- [Microsoft.DeviceRegistry/assets](aliases/Microsoft.DeviceRegistry/assets.md)
+- [Microsoft.DeviceRegistry/discoveredAssets](aliases/Microsoft.DeviceRegistry/discoveredAssets.md)
+- [Microsoft.DeviceRegistry/schemaRegistries](aliases/Microsoft.DeviceRegistry/schemaRegistries.md)
+- [Microsoft.DeviceRegistry/namespaces/discoveredDevices](aliases/Microsoft.DeviceRegistry/namespaces-discoveredDevices.md)
+- [Microsoft.DeviceRegistry/namespaces/devices](aliases/Microsoft.DeviceRegistry/namespaces-devices.md)
+- [Microsoft.DeviceRegistry/namespaces/discoveredAssets](aliases/Microsoft.DeviceRegistry/namespaces-discoveredAssets.md)
+- [Microsoft.DeviceRegistry/namespaces/assets](aliases/Microsoft.DeviceRegistry/namespaces-assets.md)
+- [Microsoft.DeviceRegistry/schemaRegistries/schemas](aliases/Microsoft.DeviceRegistry/schemaRegistries-schemas.md)
+- [Microsoft.DeviceRegistry/schemaRegistries/schemas/schemaVersions](aliases/Microsoft.DeviceRegistry/schemaRegistries-schemas-schemaVersions.md)
+- [Microsoft.DeviceRegistry/namespaces/credentials](aliases/Microsoft.DeviceRegistry/namespaces-credentials.md)
+- [Microsoft.DeviceRegistry/namespaces/credentials/policies](aliases/Microsoft.DeviceRegistry/namespaces-credentials-policies.md)
+
+
 ## Microsoft.Devices
 
 - [Microsoft.Devices/IotHubs](aliases/Microsoft.Devices/IotHubs.md)
@@ -1871,6 +1889,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.StorageMover/storageMovers/projects](aliases/Microsoft.StorageMover/storageMovers-projects.md)
 - [Microsoft.StorageMover/storageMovers/agents](aliases/Microsoft.StorageMover/storageMovers-agents.md)
 - [Microsoft.StorageMover/storageMovers/projects/jobDefinitions](aliases/Microsoft.StorageMover/storageMovers-projects-jobDefinitions.md)
+- [Microsoft.StorageMover/storageMovers/connections](aliases/Microsoft.StorageMover/storageMovers-connections.md)
 
 
 ## Microsoft.StorageSync

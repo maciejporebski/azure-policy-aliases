@@ -49,4 +49,6 @@
 | `properties.partitionDescription.Names[*]` | `Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.Named.Names[*]` |
 | `properties.instanceCloseDelayDuration` | `Microsoft.ServiceFabric/clusters/applications/services/Stateless.instanceCloseDelayDuration` |
 | `properties.serviceDnsName` | `Microsoft.ServiceFabric/clusters/applications/services/serviceDnsName` |
+| `properties.minInstanceCount` | `Microsoft.ServiceFabric/clusters/applications/services/Stateless.minInstanceCount` |
+| `properties.minInstancePercentage` | `Microsoft.ServiceFabric/clusters/applications/services/Stateless.minInstancePercentage` |
 

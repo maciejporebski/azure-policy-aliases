@@ -11,4 +11,6 @@
 | `properties.yearlyRetention` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/yearlyRetention` |
 | `properties.weekOfYear` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/weekOfYear` |
 | `properties.backupStorageAccessTier` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/backupStorageAccessTier` |
+| `properties.timeBasedImmutability` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/timeBasedImmutability` |
+| `properties.timeBasedImmutabilityMode` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/timeBasedImmutabilityMode` |
 

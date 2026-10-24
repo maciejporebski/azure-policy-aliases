@@ -46,4 +46,8 @@
 | `properties.databases[*].instanceSendReplicationLagSeconds` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].instanceSendReplicationLagSeconds` |
 | `properties.databases[*].instanceRedoReplicationLagSeconds` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].instanceRedoReplicationLagSeconds` |
 | `properties.databases[*].seedingProgress` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].seedingProgress` |
+| `properties.linkMode` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/linkMode` |
+| `properties.mostRecentError` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/mostRecentError` |
+| `properties.mostRecentErrorTime` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/mostRecentErrorTime` |
+| `properties.mostRecentErrorMessage` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/mostRecentErrorMessage` |
 

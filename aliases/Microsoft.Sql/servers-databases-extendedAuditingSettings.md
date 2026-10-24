@@ -25,4 +25,6 @@
 | `properties.isStorageSecondaryKeyInUse` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/isStorageSecondaryKeyInUse` |
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/queueDelayMs` |
 | `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/isManagedIdentityInUse` |
+| `properties.requiredFields` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/requiredFields` |
+| `properties.requiredFields[*]` | `Microsoft.Sql/servers/databases/extendedAuditingSettings/requiredFields[*]` |
 
