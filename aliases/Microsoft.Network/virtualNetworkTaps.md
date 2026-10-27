@@ -933,4 +933,6 @@
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].location` |
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].tags` |
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.extendedLocation` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.extendedLocation` |
+| `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.ddosSettings` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.ddosSettings` |
+| `properties.destinationLoadBalancerFrontEndIPConfiguration.properties.ddosSettings.ddosCustomPolicy` | `Microsoft.Network/virtualNetworkTaps/destinationLoadBalancerFrontEndIPConfiguration.ddosSettings.ddosCustomPolicy` |
 
