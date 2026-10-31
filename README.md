@@ -770,6 +770,13 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.DeviceRegistry/schemaRegistries/schemas/schemaVersions](aliases/Microsoft.DeviceRegistry/schemaRegistries-schemas-schemaVersions.md)
 - [Microsoft.DeviceRegistry/namespaces/credentials](aliases/Microsoft.DeviceRegistry/namespaces-credentials.md)
 - [Microsoft.DeviceRegistry/namespaces/credentials/policies](aliases/Microsoft.DeviceRegistry/namespaces-credentials-policies.md)
+- [Microsoft.DeviceRegistry/namespaces/registryDevices](aliases/Microsoft.DeviceRegistry/namespaces-registryDevices.md)
+- [Microsoft.DeviceRegistry/namespaces/jobs](aliases/Microsoft.DeviceRegistry/namespaces-jobs.md)
+- [Microsoft.DeviceRegistry/namespaces/registryDevices/attributes](aliases/Microsoft.DeviceRegistry/namespaces-registryDevices-attributes.md)
+- [Microsoft.DeviceRegistry/namespaces/groups](aliases/Microsoft.DeviceRegistry/namespaces-groups.md)
+- [Microsoft.DeviceRegistry/namespaces/jobs/runs](aliases/Microsoft.DeviceRegistry/namespaces-jobs-runs.md)
+- [Microsoft.DeviceRegistry/namespaces/certificateAuthorities](aliases/Microsoft.DeviceRegistry/namespaces-certificateAuthorities.md)
+- [Microsoft.DeviceRegistry/namespaces/certificateAuthorities/certificatePolicies](aliases/Microsoft.DeviceRegistry/namespaces-certificateAuthorities-certificatePolicies.md)
 
 
 ## Microsoft.Devices
@@ -1560,6 +1567,9 @@ This repository contains all available resource property aliases for easy refere
 ## Microsoft.RedHatOpenShift
 
 - [Microsoft.RedHatOpenShift/OpenShiftClusters](aliases/Microsoft.RedHatOpenShift/OpenShiftClusters.md)
+- [Microsoft.RedHatOpenShift/HCPOpenShiftClusters](aliases/Microsoft.RedHatOpenShift/HCPOpenShiftClusters.md)
+- [Microsoft.RedHatOpenShift/HCPOpenShiftClusters/NodePools](aliases/Microsoft.RedHatOpenShift/HCPOpenShiftClusters-NodePools.md)
+- [Microsoft.RedHatOpenShift/HCPOpenShiftClusters/ExternalAuths](aliases/Microsoft.RedHatOpenShift/HCPOpenShiftClusters-ExternalAuths.md)
 
 
 ## Microsoft.Relay
