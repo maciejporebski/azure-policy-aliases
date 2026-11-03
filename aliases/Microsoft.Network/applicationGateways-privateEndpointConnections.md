@@ -89,4 +89,5 @@
 | `properties.privateEndpoint.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].location` |
 | `properties.privateEndpoint.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].tags` |
 | `properties.privateEndpoint.properties.ipVersionType` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.ipVersionType` |
+| `properties.privateEndpoint.properties.billingSku` | `Microsoft.Network/applicationGateways/privateEndpointConnections/privateEndpoint.billingSku` |
 
