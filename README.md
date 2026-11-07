@@ -1031,6 +1031,19 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
 
 
+## Microsoft.HorizonDB
+
+- [Microsoft.HorizonDB/clusters](aliases/Microsoft.HorizonDB/clusters.md)
+- [Microsoft.HorizonDB/clusters/privateEndpointConnections](aliases/Microsoft.HorizonDB/clusters-privateEndpointConnections.md)
+- [Microsoft.HorizonDB/clusters/administrators](aliases/Microsoft.HorizonDB/clusters-administrators.md)
+- [Microsoft.HorizonDB/clusters/microsoftEntraAdministrators](aliases/Microsoft.HorizonDB/clusters-microsoftEntraAdministrators.md)
+- [Microsoft.HorizonDB/parameterGroups](aliases/Microsoft.HorizonDB/parameterGroups.md)
+- [Microsoft.HorizonDB/clusters/authentications](aliases/Microsoft.HorizonDB/clusters-authentications.md)
+- [Microsoft.HorizonDB/clusters/pools](aliases/Microsoft.HorizonDB/clusters-pools.md)
+- [Microsoft.HorizonDB/clusters/pools/firewallRules](aliases/Microsoft.HorizonDB/clusters-pools-firewallRules.md)
+- [Microsoft.HorizonDB/clusters/pools/replicas](aliases/Microsoft.HorizonDB/clusters-pools-replicas.md)
+
+
 ## Microsoft.HybridCompute
 
 - [Microsoft.HybridCompute/machines](aliases/Microsoft.HybridCompute/machines.md)
@@ -1041,6 +1054,7 @@ This repository contains all available resource property aliases for easy refere
 - [Microsoft.HybridCompute/machines/licenseProfiles](aliases/Microsoft.HybridCompute/machines-licenseProfiles.md)
 - [Microsoft.HybridCompute/licenses](aliases/Microsoft.HybridCompute/licenses.md)
 - [Microsoft.HybridCompute/gateways](aliases/Microsoft.HybridCompute/gateways.md)
+- [Microsoft.HybridCompute/machines/applications](aliases/Microsoft.HybridCompute/machines-applications.md)
 
 
 ## Microsoft.HybridContainerService
