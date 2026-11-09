@@ -610,5 +610,4 @@
 | `properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/networkInterfaces/defaultOutboundConnectivityEnabled` |
 | `properties.privateLinkService.properties.accessMode` | `Microsoft.Network/networkInterfaces/privateLinkService.accessMode` |
 | `properties.privateEndpoint.properties.ipVersionType` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipVersionType` |
-| `properties.privateEndpoint.properties.billingSku` | `Microsoft.Network/networkInterfaces/privateEndpoint.billingSku` |
 

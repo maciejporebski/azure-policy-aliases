@@ -91,11 +91,4 @@
 | `properties.creationData.securityMetadataUri` | `Microsoft.Compute/snapshots/creationData.securityMetadataUri` |
 | `properties.creationData.instantAccessDurationMinutes` | `Microsoft.Compute/snapshots/creationData.instantAccessDurationMinutes` |
 | `properties.snapshotAccessState` | `Microsoft.Compute/snapshots/snapshotAccessState` |
-| `properties.securityProfile.confidentialVMVersion` | `Microsoft.Compute/snapshots/securityProfile.confidentialVMVersion` |
-| `properties.immutabilityPolicy` | `Microsoft.Compute/snapshots/immutabilityPolicy` |
-| `properties.immutabilityPolicy.immutabilityDurationDays` | `Microsoft.Compute/snapshots/immutabilityPolicy.immutabilityDurationDays` |
-| `properties.immutabilityPolicy.type` | `Microsoft.Compute/snapshots/immutabilityPolicy.type` |
-| `properties.immutabilityPolicy.policyStartTime` | `Microsoft.Compute/snapshots/immutabilityPolicy.policyStartTime` |
-| `properties.immutabilityPolicy.policyExpirationTime` | `Microsoft.Compute/snapshots/immutabilityPolicy.policyExpirationTime` |
-| `properties.immutabilityPolicy.isPolicyExpired` | `Microsoft.Compute/snapshots/immutabilityPolicy.isPolicyExpired` |
 

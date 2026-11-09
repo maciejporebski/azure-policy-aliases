@@ -295,19 +295,4 @@
 | `properties.networkProfile.networkInterfaceConfigurations[*].tags` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].tags` |
 | `properties.securityProfile.proxyAgentSettings.addProxyAgentExtension` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.addProxyAgentExtension` |
 | `properties.additionalCapabilities.enableFips1403Encryption` | `Microsoft.Compute/virtualMachines/additionalCapabilities.enableFips1403Encryption` |
-| `properties.storageProfile.osDisk.diffDiskSettings.enableFullCaching` | `Microsoft.Compute/virtualMachines/storageProfile.osDisk.diffDiskSettings.enableFullCaching` |
-| `properties.storageProfile.osDisk.storageFaultDomainAlignment` | `Microsoft.Compute/virtualMachines/storageProfile.osDisk.storageFaultDomainAlignment` |
-| `properties.storageProfile.dataDisks[*].storageFaultDomainAlignment` | `Microsoft.Compute/virtualMachines/storageProfile.dataDisks[*].storageFaultDomainAlignment` |
-| `properties.resiliencyProfile` | `Microsoft.Compute/virtualMachines/resiliencyProfile` |
-| `properties.resiliencyProfile.zoneMovement` | `Microsoft.Compute/virtualMachines/resiliencyProfile.zoneMovement` |
-| `properties.resiliencyProfile.zoneMovement.isEnabled` | `Microsoft.Compute/virtualMachines/resiliencyProfile.zoneMovement.isEnabled` |
-| `properties.networkProfile.interconnectGroupProfile` | `Microsoft.Compute/virtualMachines/networkProfile.interconnectGroupProfile` |
-| `properties.networkProfile.interconnectGroupProfile.interconnectGroup` | `Microsoft.Compute/virtualMachines/networkProfile.interconnectGroupProfile.interconnectGroup` |
-| `properties.networkProfile.interconnectGroupProfile.interconnectGroup.id` | `Microsoft.Compute/virtualMachines/networkProfile.interconnectGroupProfile.interconnectGroup.id` |
-| `properties.networkProfile.interconnectGroupProfile.subgroups` | `Microsoft.Compute/virtualMachines/networkProfile.interconnectGroupProfile.subgroups` |
-| `properties.networkProfile.interconnectGroupProfile.subgroups[*]` | `Microsoft.Compute/virtualMachines/networkProfile.interconnectGroupProfile.subgroups[*]` |
-| `properties.networkProfile.interconnectGroupProfile.subgroups[*].id` | `Microsoft.Compute/virtualMachines/networkProfile.interconnectGroupProfile.subgroups[*].id` |
-| `properties.interconnectBlockProfile` | `Microsoft.Compute/virtualMachines/interconnectBlockProfile` |
-| `properties.interconnectBlockProfile.interconnectBlock` | `Microsoft.Compute/virtualMachines/interconnectBlockProfile.interconnectBlock` |
-| `properties.interconnectBlockProfile.interconnectBlock.id` | `Microsoft.Compute/virtualMachines/interconnectBlockProfile.interconnectBlock.id` |
 
