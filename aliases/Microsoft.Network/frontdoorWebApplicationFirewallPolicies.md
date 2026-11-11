@@ -98,15 +98,4 @@
 | `properties.customRules.rules[*].groupBy[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy[*]` |
 | `properties.customRules.rules[*].groupBy[*].variableName` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/customRules.rules[*].groupBy[*].variableName` |
 | `properties.policySettings.captchaExpirationInMinutes` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/policySettings.captchaExpirationInMinutes` |
-| `properties.managedRules.exceptionsList` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList` |
-| `properties.managedRules.exceptionsList.exceptions` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions` |
-| `properties.managedRules.exceptionsList.exceptions[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*]` |
-| `properties.managedRules.exceptionsList.exceptions[*].matchVariable` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].matchVariable` |
-| `properties.managedRules.exceptionsList.exceptions[*].selectorMatchOperator` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].selectorMatchOperator` |
-| `properties.managedRules.exceptionsList.exceptions[*].selector` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].selector` |
-| `properties.managedRules.exceptionsList.exceptions[*].valueMatchOperator` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].valueMatchOperator` |
-| `properties.managedRules.exceptionsList.exceptions[*].matchValues` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].matchValues` |
-| `properties.managedRules.exceptionsList.exceptions[*].matchValues[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].matchValues[*]` |
-| `properties.managedRules.exceptionsList.exceptions[*].scopes` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].scopes` |
-| `properties.managedRules.exceptionsList.exceptions[*].scopes[*]` | `Microsoft.Network/FrontDoorWebApplicationFirewallPolicies/managedRules.exceptionsList.exceptions[*].scopes[*]` |
 
