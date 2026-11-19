@@ -162,4 +162,5 @@
 | `properties.registeredRevisions` | `Microsoft.ContainerInstance/containerGroupProfiles/registeredRevisions` |
 | `properties.registeredRevisions[*]` | `Microsoft.ContainerInstance/containerGroupProfiles/registeredRevisions[*]` |
 | `properties.useKrypton` | `Microsoft.ContainerInstance/containerGroupProfiles/useKrypton` |
+| `properties.volumes[*].azureFile.userManagedIdentityClientId` | `Microsoft.ContainerInstance/containerGroupProfiles/volumes[*].azureFile.userManagedIdentityClientId` |
 

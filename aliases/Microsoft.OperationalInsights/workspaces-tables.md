@@ -72,4 +72,5 @@
 | `properties.resultStatistics.scannedGb` | `Microsoft.OperationalInsights/workspaces/tables/resultStatistics.scannedGb` |
 | `properties.retentionInDaysAsDefault` | `Microsoft.OperationalInsights/workspaces/tables/retentionInDaysAsDefault` |
 | `properties.totalRetentionInDaysAsDefault` | `Microsoft.OperationalInsights/workspaces/tables/totalRetentionInDaysAsDefault` |
+| `properties.protectionLevel` | `Microsoft.OperationalInsights/workspaces/tables/protectionLevel` |
 

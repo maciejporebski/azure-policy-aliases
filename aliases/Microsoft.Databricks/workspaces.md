@@ -135,4 +135,8 @@
 | `properties.accessConnector.identityType` | `Microsoft.Databricks/workspaces/accessConnector.identityType` |
 | `properties.accessConnector.userAssignedIdentityId` | `Microsoft.Databricks/workspaces/accessConnector.userAssignedIdentityId` |
 | `properties.defaultStorageFirewall` | `Microsoft.Databricks/workspaces/defaultStorageFirewall` |
+| `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.Databricks/workspaces/privateEndpointConnections[*].groupIds` |
+| `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.Databricks/workspaces/privateEndpointConnections[*].groupIds[*]` |
+| `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Databricks/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
+| `properties.computeMode` | `Microsoft.Databricks/workspaces/computeMode` |
 

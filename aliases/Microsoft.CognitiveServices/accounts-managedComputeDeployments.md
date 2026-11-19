@@ -25,4 +25,6 @@
 | `sku.family` | `Microsoft.CognitiveServices/accounts/managedComputeDeployments/sku.family` |
 | `sku.capacity` | `Microsoft.CognitiveServices/accounts/managedComputeDeployments/sku.capacity` |
 | `properties.capabilities` | `Microsoft.CognitiveServices/accounts/managedComputeDeployments/capabilities` |
+| `properties.gatedModelAccess` | `Microsoft.CognitiveServices/accounts/managedComputeDeployments/gatedModelAccess` |
+| `properties.gatedModelAccess.connectionId` | `Microsoft.CognitiveServices/accounts/managedComputeDeployments/gatedModelAccess.connectionId` |
 

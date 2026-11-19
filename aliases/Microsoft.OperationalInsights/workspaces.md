@@ -71,4 +71,7 @@
 | `properties.failover` | `Microsoft.OperationalInsights/workspaces/failover` |
 | `properties.failover.state` | `Microsoft.OperationalInsights/workspaces/failover.state` |
 | `properties.failover.lastModifiedDate` | `Microsoft.OperationalInsights/workspaces/failover.lastModifiedDate` |
+| `properties.features.associations` | `Microsoft.OperationalInsights/workspaces/features.associations` |
+| `properties.features.associations[*]` | `Microsoft.OperationalInsights/workspaces/features.associations[*]` |
+| `properties.features.dataAuthorizationMode` | `Microsoft.OperationalInsights/workspaces/features.dataAuthorizationMode` |
 

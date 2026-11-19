@@ -63,4 +63,18 @@
 | `properties.egressPolicy.rules[*].action.rewrite.scheme` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite.scheme` |
 | `properties.egressPolicy.rules[*].action.rewrite.host` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite.host` |
 | `properties.egressPolicy.rules[*].action.rewrite.path` | `Microsoft.CognitiveServices/accounts/raiPolicies/egressPolicy.rules[*].action.rewrite.path` |
+| `properties.format` | `Microsoft.CognitiveServices/accounts/raiPolicies/format` |
+| `properties.acs` | `Microsoft.CognitiveServices/accounts/raiPolicies/acs` |
+| `properties.acs.metadata` | `Microsoft.CognitiveServices/accounts/raiPolicies/acs.metadata` |
+| `properties.acs.policies` | `Microsoft.CognitiveServices/accounts/raiPolicies/acs.policies` |
+| `properties.acs.tools` | `Microsoft.CognitiveServices/accounts/raiPolicies/acs.tools` |
+| `properties.acsRegos` | `Microsoft.CognitiveServices/accounts/raiPolicies/acsRegos` |
+| `properties.acsRegos[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/acsRegos[*]` |
+| `properties.acsRegos[*].regoName` | `Microsoft.CognitiveServices/accounts/raiPolicies/acsRegos[*].regoName` |
+| `properties.customExternalSafetyProviders` | `Microsoft.CognitiveServices/accounts/raiPolicies/customExternalSafetyProviders` |
+| `properties.customExternalSafetyProviders[*]` | `Microsoft.CognitiveServices/accounts/raiPolicies/customExternalSafetyProviders[*]` |
+| `properties.customExternalSafetyProviders[*].externalSafetyProviderName` | `Microsoft.CognitiveServices/accounts/raiPolicies/customExternalSafetyProviders[*].externalSafetyProviderName` |
+| `properties.customExternalSafetyProviders[*].managedIdentityResourceId` | `Microsoft.CognitiveServices/accounts/raiPolicies/customExternalSafetyProviders[*].managedIdentityResourceId` |
+| `properties.customExternalSafetyProviders[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/customExternalSafetyProviders[*].source` |
+| `properties.customExternalSafetyProviders[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/customExternalSafetyProviders[*].blocking` |
 

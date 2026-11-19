@@ -136,4 +136,6 @@
 | `properties.autoscaleConfiguration` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration` |
 | `properties.autoscaleConfiguration.minCapacity` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration.minCapacity` |
 | `properties.autoscaleConfiguration.maxCapacity` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration.maxCapacity` |
+| `properties.afcConfiguration` | `Microsoft.Network/azureFirewalls/afcConfiguration` |
+| `properties.afcConfiguration.serviceEndpoint` | `Microsoft.Network/azureFirewalls/afcConfiguration.serviceEndpoint` |
 

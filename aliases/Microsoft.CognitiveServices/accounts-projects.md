@@ -11,4 +11,11 @@
 | `properties.capabilitySettings.documentStore` | `Microsoft.CognitiveServices/accounts/projects/capabilitySettings.documentStore` |
 | `properties.capabilitySettings.vectorStore` | `Microsoft.CognitiveServices/accounts/projects/capabilitySettings.vectorStore` |
 | `properties.capabilitySettings.blobStore` | `Microsoft.CognitiveServices/accounts/projects/capabilitySettings.blobStore` |
+| `properties.toolControls` | `Microsoft.CognitiveServices/accounts/projects/toolControls` |
+| `properties.toolControls.defaultAction` | `Microsoft.CognitiveServices/accounts/projects/toolControls.defaultAction` |
+| `properties.toolControls.allowedTools` | `Microsoft.CognitiveServices/accounts/projects/toolControls.allowedTools` |
+| `properties.toolControls.allowedTools[*]` | `Microsoft.CognitiveServices/accounts/projects/toolControls.allowedTools[*]` |
+| `properties.toolControls.allowedTools[*].type` | `Microsoft.CognitiveServices/accounts/projects/toolControls.allowedTools[*].type` |
+| `properties.toolControls.allowedTools[*].serverUrl` | `Microsoft.CognitiveServices/accounts/projects/toolControls.allowedTools[*].serverUrl` |
+| `properties.toolControls.allowedTools[*].connectorId` | `Microsoft.CognitiveServices/accounts/projects/toolControls.allowedTools[*].connectorId` |
 

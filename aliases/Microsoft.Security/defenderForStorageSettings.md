@@ -24,4 +24,8 @@
 | `properties.malwareScanning.onUpload.filters.excludeBlobsWithSuffix[*]` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.filters.excludeBlobsWithSuffix[*]` |
 | `properties.malwareScanning.blobScanResultsOptions` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.blobScanResultsOptions` |
 | `properties.malwareScanning.automatedResponse` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.automatedResponse` |
+| `properties.malwareScanning.onUpload.filters.excludeBlobsLargerThan` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.onUpload.filters.excludeBlobsLargerThan` |
+| `properties.malwareScanning.scannerResourceId` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.scannerResourceId` |
+| `properties.sensitiveDataDiscovery.scannerResourceId` | `Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.scannerResourceId` |
+| `properties.managedBy` | `Microsoft.Security/defenderForStorageSettings/managedBy` |
 

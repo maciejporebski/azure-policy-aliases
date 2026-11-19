@@ -34,4 +34,6 @@
 | `properties.profile.diagnosticSettingsVersion` | `Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations/profile.diagnosticSettingsVersion` |
 | `properties.profile.enabledLogCategories` | `Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations/profile.enabledLogCategories` |
 | `properties.profile.enabledLogCategories[*]` | `Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations/profile.enabledLogCategories[*]` |
+| `properties.profile.accessRules[*].properties.serviceTags` | `Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations/profile.accessRules[*].serviceTags` |
+| `properties.profile.accessRules[*].properties.serviceTags[*]` | `Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations/profile.accessRules[*].serviceTags[*]` |
 

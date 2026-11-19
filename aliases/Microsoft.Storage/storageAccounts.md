@@ -203,4 +203,11 @@
 | `properties.dataCollaborationPolicyProperties.allowStorageConnectors` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties.allowStorageConnectors` |
 | `properties.dataCollaborationPolicyProperties.allowStorageDataShares` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties.allowStorageDataShares` |
 | `properties.dataCollaborationPolicyProperties.allowCrossTenantDataSharing` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties.allowCrossTenantDataSharing` |
+| `properties.sasPolicy.requireUserBoundUserDelegationSas` | `Microsoft.Storage/storageAccounts/sasPolicy.requireUserBoundUserDelegationSas` |
+| `properties.sasPolicy.requireUserBoundUserDelegationSasAction` | `Microsoft.Storage/storageAccounts/sasPolicy.requireUserBoundUserDelegationSasAction` |
+| `properties.allowCrossTenantDelegationSas` | `Microsoft.Storage/storageAccounts/allowCrossTenantDelegationSas` |
+| `properties.turboTier` | `Microsoft.Storage/storageAccounts/turboTier` |
+| `properties.turboTier.status` | `Microsoft.Storage/storageAccounts/turboTier.status` |
+| `properties.turboTier.targetPercent` | `Microsoft.Storage/storageAccounts/turboTier.targetPercent` |
+| `properties.dataCollaborationPolicyProperties.allowBlobAccessPoints` | `Microsoft.Storage/storageAccounts/dataCollaborationPolicyProperties.allowBlobAccessPoints` |
 

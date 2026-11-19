@@ -171,4 +171,17 @@
 | `properties.agentHostingConfigurations[*].storageAccountResourceId` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].ManagedCluster.storageAccountResourceId` |
 | `properties.agentHostingConfigurations[*].name` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].name` |
 | `properties.agentHostingConfigurations[*].hostingType` | `Microsoft.CognitiveServices/accounts/agentHostingConfigurations[*].hostingType` |
+| `properties.trustedCertificateSources` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources` |
+| `properties.trustedCertificateSources[*]` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources[*]` |
+| `properties.trustedCertificateSources[*].type` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources[*].type` |
+| `properties.trustedCertificateSources[*].resourceId` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources[*].resourceId` |
+| `properties.trustedCertificateSources[*].certificateBundleReferences` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources[*].certificateBundleReferences` |
+| `properties.trustedCertificateSources[*].certificateBundleReferences[*]` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources[*].certificateBundleReferences[*]` |
+| `properties.trustedCertificateSources[*].certificateBundleReferences[*].secretName` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources[*].certificateBundleReferences[*].secretName` |
+| `properties.trustedCertificateSources[*].certificateBundleReferences[*].secretVersion` | `Microsoft.CognitiveServices/accounts/trustedCertificateSources[*].certificateBundleReferences[*].secretVersion` |
+| `properties.costControlIds` | `Microsoft.CognitiveServices/accounts/costControlIds` |
+| `properties.costControlIds[*]` | `Microsoft.CognitiveServices/accounts/costControlIds[*]` |
+| `properties.costControlConnections` | `Microsoft.CognitiveServices/accounts/costControlConnections` |
+| `properties.costControlConnections.appInsightsConnectionId` | `Microsoft.CognitiveServices/accounts/costControlConnections.appInsightsConnectionId` |
+| `properties.costControlConnections.eventGridConnectionId` | `Microsoft.CognitiveServices/accounts/costControlConnections.eventGridConnectionId` |
 
