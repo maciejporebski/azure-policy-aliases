@@ -887,4 +887,16 @@
 | `properties.defaultPublicNatGateway` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway` |
 | `properties.defaultPublicNatGateway.id` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway.id` |
 | `properties.flowLogs[*].properties.recordTypes` | `Microsoft.Network/virtualnetworks/flowLogs[*].recordTypes` |
+| `properties.subnets[*].properties.serviceGateway` | `Microsoft.Network/virtualnetworks/subnets[*].serviceGateway` |
+| `properties.subnets[*].properties.serviceGateway.id` | `Microsoft.Network/virtualnetworks/subnets[*].serviceGateway.id` |
+| `properties.summarizedGatewayPrefixes` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes` |
+| `properties.summarizedGatewayPrefixes.addressPrefixes` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.addressPrefixes` |
+| `properties.summarizedGatewayPrefixes.addressPrefixes[*]` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.addressPrefixes[*]` |
+| `properties.summarizedGatewayPrefixes.ipamPoolPrefixAllocations` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.ipamPoolPrefixAllocations` |
+| `properties.summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*]` |
+| `properties.summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].pool` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].pool` |
+| `properties.summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].pool.id` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].pool.id` |
+| `properties.summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
+| `properties.summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
+| `properties.summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworks/summarizedGatewayPrefixes.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 
